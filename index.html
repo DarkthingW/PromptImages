@@ -213,15 +213,6 @@ button:hover, select:hover { border-color: var(--accent); color: var(--accent); 
   width: 100%;
 }
 
-.card-actions {
-  display: flex;
-  gap: 8px;
-  padding: 0 16px 16px;
-  margin-top: auto;
-}
-.card-actions button {
-  flex: 1;
-}
 .empty {
   display: none;
   background: var(--card);
@@ -273,15 +264,15 @@ button:hover, select:hover { border-color: var(--accent); color: var(--accent); 
   .toolbar { border-radius: 0 0 18px 18px; margin-left: -14px; margin-right: -14px; }
 }
 </style>
-<script type="text/javascript" nonce="938811049557443c83709fb94c9" src="//local.adguard.org?ts=1777561829301&amp;type=content-script&amp;dmn=chatgpt.com&amp;url=https%3A%2F%2Fchatgpt.com%2Fbackend-api%2Festuary%2Fcontent%3Fid%3Dfile_00000000726071f586ac88e73a28599c%26ts%3D493767%26p%3Dfs%26cid%3D1%26sig%3D843a947fa6a137d91934eb121f12bf3dfdcff844143e631036ff65beeb7c2099%26v%3D0&amp;app=firefox.exe&amp;css=2&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1&amp;stealth=1&amp;st-dnt"></script><script type="text/javascript" nonce="938811049557443c83709fb94c9" src="//local.adguard.org?ts=1777561829301&amp;name=AdGuard%20Assistant&amp;name=AdGuard%20Extra&amp;name=AdGuard%20Popup%20Blocker&amp;type=user-script"></script><script type="text/javascript" nonce="938811049557443c83709fb94c9" src="//local.adguard.org?ts=1777561829301&amp;type=content-script&amp;dmn=chatgpt.com&amp;url=https%3A%2F%2Fchatgpt.com%2Fbackend-api%2Festuary%2Fcontent%3Fid%3Dfile_00000000f2b4720ca2f037b344d881d6%26ts%3D493767%26p%3Dfs%26cid%3D1%26sig%3Dc19d49cea3e84d809f559c924cdeb1614f22bdfb18e0347b67a129dede52e655%26v%3D0&amp;app=firefox.exe&amp;css=2&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1&amp;stealth=1&amp;st-dnt"></script><script type="text/javascript" nonce="938811049557443c83709fb94c9" src="//local.adguard.org?ts=1777561829301&amp;name=AdGuard%20Assistant&amp;name=AdGuard%20Extra&amp;name=AdGuard%20Popup%20Blocker&amp;type=user-script"></script></head>
+</head>
 <body>
 <div class="page">
   <header class="hero">
     <h1>Galerie de prompts visuels</h1>
-    <p>Une galerie centralisée de prompts visuels : cartes, recherche, filtres, images en grille, bouton copier et aperçu pleine grandeur.</p>
+    <p>Une galerie centralisée de prompts visuels</p>
     <div class="stats">
-      <div class="stat"><strong>87</strong><span>styles / entrées</span></div>
-      <div class="stat"><strong>144</strong><span>images</span></div>
+      <div class="stat"><strong>85</strong><span>styles / entrées</span></div>
+      <div class="stat"><strong>176</strong><span>images</span></div>
       
     </div>
   </header>
@@ -328,11 +319,6 @@ const ITEMS = [
     "prompt": "Keep the exact composition, subject placement, and aspect ratio. Only change the visual style. Do not alter layout, proportions, or content. Do not default to square, using the original images aspect ratio is critical and must not be changed.",
     "category": "Autre",
     "images": [
-      {
-        "src": "images/base.jpg",
-        "alt": "Image base",
-        "label": "ChatGPT 2025"
-      }
     ]
   },
   {
@@ -928,6 +914,11 @@ const ITEMS = [
         "src": "images/32.png",
         "alt": "Image 32",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/32-2.png",
+        "alt": "Image 32-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1181,7 +1172,7 @@ const ITEMS = [
         "alt": "Image 46-2",
         "label": "Nano Banana Pro 2026"
       },
-	  {
+      {
         "src": "images/46-3.png",
         "alt": "Image 46-3",
         "label": "ChatGPT 2026"
@@ -1216,6 +1207,11 @@ const ITEMS = [
         "src": "images/48.png",
         "alt": "Image 48",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/48-2.png",
+        "alt": "Image 48-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1229,6 +1225,11 @@ const ITEMS = [
         "src": "images/49.png",
         "alt": "Image 49",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/49-2.png",
+        "alt": "Image 49-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1242,6 +1243,11 @@ const ITEMS = [
         "src": "images/50.png",
         "alt": "Image 50",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/50-2.png",
+        "alt": "Image 50-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1309,6 +1315,11 @@ const ITEMS = [
         "src": "images/54.png",
         "alt": "Image 54",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/54-2.png",
+        "alt": "Image 54-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1322,6 +1333,11 @@ const ITEMS = [
         "src": "images/55.png",
         "alt": "Image 55",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/55-2.png",
+        "alt": "Image 55-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1335,6 +1351,11 @@ const ITEMS = [
         "src": "images/56.png",
         "alt": "Image 56",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/56-2.png",
+        "alt": "Image 56-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1366,6 +1387,11 @@ const ITEMS = [
         "src": "images/58.png",
         "alt": "Image 58",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/58-2.png",
+        "alt": "Image 58-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1397,6 +1423,11 @@ const ITEMS = [
         "src": "images/60.png",
         "alt": "Image 60",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/60-2.png",
+        "alt": "Image 60-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1410,6 +1441,11 @@ const ITEMS = [
         "src": "images/61.png",
         "alt": "Image 61",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/61-2.png",
+        "alt": "Image 61-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1423,6 +1459,11 @@ const ITEMS = [
         "src": "images/62.png",
         "alt": "Image 62",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/62-2.png",
+        "alt": "Image 62-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1436,6 +1477,11 @@ const ITEMS = [
         "src": "images/63.png",
         "alt": "Image 63",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/63-2.png",
+        "alt": "Image 63-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1449,6 +1495,11 @@ const ITEMS = [
         "src": "images/64.png",
         "alt": "Image 64",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/64-2.png",
+        "alt": "Image 64-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1462,6 +1513,11 @@ const ITEMS = [
         "src": "images/65.png",
         "alt": "Image 65",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/65-2.png",
+        "alt": "Image 65-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1475,6 +1531,11 @@ const ITEMS = [
         "src": "images/66.png",
         "alt": "Image 66",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/66-2.png",
+        "alt": "Image 66-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1488,6 +1549,11 @@ const ITEMS = [
         "src": "images/67.png",
         "alt": "Image 67",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/67-2.png",
+        "alt": "Image 67-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1501,6 +1567,11 @@ const ITEMS = [
         "src": "images/68.png",
         "alt": "Image 68",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/68-2.png",
+        "alt": "Image 68-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1514,6 +1585,11 @@ const ITEMS = [
         "src": "images/69.png",
         "alt": "Image 69",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/69-2.png",
+        "alt": "Image 69-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1527,6 +1603,11 @@ const ITEMS = [
         "src": "images/70.png",
         "alt": "Image 70",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/70-2.png",
+        "alt": "Image 70-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1558,6 +1639,11 @@ const ITEMS = [
         "src": "images/B2.png",
         "alt": "Image B2",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B2-2.png",
+        "alt": "Image B2-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1571,6 +1657,11 @@ const ITEMS = [
         "src": "images/B3.png",
         "alt": "Image B3",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B3-2.png",
+        "alt": "Image B3-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1584,6 +1675,11 @@ const ITEMS = [
         "src": "images/B4.png",
         "alt": "Image B4",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B4-2.png",
+        "alt": "Image B4-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1597,6 +1693,11 @@ const ITEMS = [
         "src": "images/B6.png",
         "alt": "Image B6",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B6-2.png",
+        "alt": "Image B6-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1610,6 +1711,11 @@ const ITEMS = [
         "src": "images/B7.png",
         "alt": "Image B7",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B7-2.png",
+        "alt": "Image B7-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1623,6 +1729,11 @@ const ITEMS = [
         "src": "images/B9.png",
         "alt": "Image B9",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B9-2.png",
+        "alt": "Image B9-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1636,6 +1747,11 @@ const ITEMS = [
         "src": "images/B10.png",
         "alt": "Image B10",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B10-2.png",
+        "alt": "Image B10-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1649,6 +1765,11 @@ const ITEMS = [
         "src": "images/B11.png",
         "alt": "Image B11",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B11-2.png",
+        "alt": "Image B11-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1662,6 +1783,11 @@ const ITEMS = [
         "src": "images/B12.png",
         "alt": "Image B12",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B12-2.png",
+        "alt": "Image B12-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1675,6 +1801,11 @@ const ITEMS = [
         "src": "images/B13.png",
         "alt": "Image B13",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B13-2.png",
+        "alt": "Image B13-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1688,6 +1819,11 @@ const ITEMS = [
         "src": "images/B14.png",
         "alt": "Image B14",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B14-2.png",
+        "alt": "Image B14-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1701,6 +1837,11 @@ const ITEMS = [
         "src": "images/B15.png",
         "alt": "Image B15",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B15-2.png",
+        "alt": "Image B15-2",
+        "label": "ChatGPT 2026"
       }
     ]
   },
@@ -1714,6 +1855,11 @@ const ITEMS = [
         "src": "images/B16.png",
         "alt": "Image B16",
         "label": "ChatGPT 2025"
+      },
+      {
+        "src": "images/B16-2.png",
+        "alt": "Image B16-2",
+        "label": "ChatGPT 2026"
       }
     ]
   }
@@ -1786,7 +1932,6 @@ function render() {
         <h2>${escapeHtml(item.title)}</h2>
         <div class="meta">
           <span class="badge">${escapeHtml(item.category)}</span>
-          <span class="badge">${item.images.length} image${item.images.length > 1 ? "s" : ""}</span>
         </div>
       </div>
       ${item.prompt ? `
@@ -1803,9 +1948,7 @@ function render() {
           </button>
         `).join("")}
       </div>
-      <div class="card-actions">
-        <button type="button" onclick="document.getElementById('${escapeHtml(item.id)}').scrollIntoView({behavior:'smooth', block:'start'})">Voir</button>
-      </div>
+
     </article>
   `).join("");
 
