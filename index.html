@@ -98,6 +98,9 @@ button:hover, select:hover { border-color: var(--accent); color: var(--accent); 
   gap: 8px;
   flex-wrap: wrap;
   margin-top: 12px;
+  max-height: 180px;
+  overflow-y: auto;
+  padding-bottom: 2px;
 }
 .chip {
   border-radius: 999px;
@@ -346,7 +349,7 @@ const ITEMS = [
     "id": "page-1-2-muppet-realistic-style",
     "title": "Muppet Realistic Style",
     "prompt": "Redo this image in the Muppet realistic style, 3D photo-realistic puppet look, visible stitching and felt fuzz, soft fabric textures, googly eyes, yarn hair, handmade materials under cinematic lighting, playful and exaggerated puppet expressions.",
-    "category": "Cartoon / BD",
+    "category": "3D / Objet",
     "images": [
       {
         "src": "images/2.png",
@@ -705,7 +708,7 @@ const ITEMS = [
     "id": "page-1-20-surrealism-dalí-inspired",
     "title": "Surrealism (Dalí-Inspired)",
     "prompt": "Redo this image in the Surrealism style, dreamlike distortion, melting shapes, floating objects, unexpected combinations, Dalí-inspired forms, symbolic and irrational visuals.",
-    "category": "Autre",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/20.png",
@@ -723,7 +726,7 @@ const ITEMS = [
     "id": "page-1-21-steampunk",
     "title": "Steampunk",
     "prompt": "Redo this image in the Steampunk style, Victorian sci-fi aesthetic, brass gears, steam-powered machinery, leather and rivets, mechanical enhancements, sepia tones.",
-    "category": "Autre",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/21.png",
@@ -764,7 +767,7 @@ const ITEMS = [
     "id": "page-1-23-doodle-art",
     "title": "Doodle Art",
     "prompt": "Redo this image in the Doodle art style, playful random sketches, cartoonish exaggeration, hand-drawn aesthetic, overlapping line work, spontaneous composition.",
-    "category": "Cartoon / BD",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/23.png",
@@ -818,7 +821,7 @@ const ITEMS = [
     "id": "page-1-26-glitch-art",
     "title": "Glitch Art",
     "prompt": "Redo this image in the Glitch art style, digital corruption effects, RGB splits, pixelation, compression artifacts, broken visuals, surreal electronic interference.",
-    "category": "Jeu vidéo",
+    "category": "Dreamcore / Weirdcore",
     "images": [
       {
         "src": "images/26.png",
@@ -854,7 +857,7 @@ const ITEMS = [
     "id": "page-1-28-wes-anderson",
     "title": "Wes Anderson",
     "prompt": "Redo this image with perfectly symmetrical composition, a soft pastel color palette, vintage-inspired costumes, whimsical and curated props, and a centered subject, all evoking a storybook-like, offbeat charm.",
-    "category": "Autre",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/28.png",
@@ -872,7 +875,7 @@ const ITEMS = [
     "id": "page-1-29-hyperpop-y2k-aesthetic",
     "title": "Hyperpop / Y2K Aesthetic",
     "prompt": "Redo this image in the Hyperpop Y2K style, glossy textures, digital plastic sheen, overexposed lighting, chrome and neon accessories, chaotic and flashy visual overload.",
-    "category": "Tech / UI",
+    "category": "Dreamcore / Weirdcore",
     "images": [
       {
         "src": "images/29.png",
@@ -926,7 +929,7 @@ const ITEMS = [
     "id": "page-2-32-ai-glitchcore",
     "title": "AI Glitchcore",
     "prompt": "Redo this image in a fractured, layered visual style, surreal machine-generated patterns, chaotic color blending, digital distortions, and procedural textures that evoke a dreamlike, algorithmic intensity.",
-    "category": "Tech / UI",
+    "category": "Dreamcore / Weirdcore",
     "images": [
       {
         "src": "images/32.png",
@@ -1016,7 +1019,7 @@ const ITEMS = [
     "id": "page-2-37-surreal-dream-filter",
     "title": "Surreal Dream Filter",
     "prompt": "Remix this into a surreal dreamscape — soft haze, levitating objects, bending background, and unnatural light sources. Keep a pastel-toned atmosphere.",
-    "category": "Autre",
+    "category": "Dreamcore / Weirdcore",
     "images": [
       {
         "src": "images/37.png",
@@ -1106,7 +1109,7 @@ const ITEMS = [
     "id": "page-2-42-golden-hour-filter",
     "title": "Golden Hour Filter",
     "prompt": "Apply golden hour tones to this image — warm sunlight, soft highlights, long shadows, and dreamy golden hues.",
-    "category": "Autre",
+    "category": "Cinématique",
     "images": [
       {
         "src": "images/42.png",
@@ -1201,7 +1204,7 @@ const ITEMS = [
     "id": "page-2-47-paper-cut-collage",
     "title": "Paper-cut Collage",
     "prompt": "Create a layered paper-cut collage version of the attached photo with crisp colored-paper edges, subtle drop shadows, and handcrafted vibe.",
-    "category": "Autre",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/47.png",
@@ -1627,7 +1630,7 @@ const ITEMS = [
     "id": "page-3-69-flat-corporate-style",
     "title": "Flat Corporate Style",
     "prompt": "Turn this photo into a modern corporate vector illustration where it uses simplified forms, soft colors, and no outlines",
-    "category": "Autre",
+    "category": "Peinture / Art",
     "images": [
       {
         "src": "images/69.png",
@@ -1717,7 +1720,7 @@ const ITEMS = [
     "id": "page-b-b4-realistic-action-figure",
     "title": "Realistic Action Figure",
     "prompt": "Hyperrealistic image of a collectible action figure of the woman in uploaded photo, fully packaged and hanging on a retail display hook, as seen in a toy store. The packaging consists of a clear plastic blister and a colorful cardboard backing, shown from a centered, straight-on front view. ➤ The full-body figure is fully enclosed inside the blister, with feet visible near the bottom but in the blister with no display stand or base of any kind. The figure must appear suspended inside the blister without any support platform. ➤ A realistic hanging hook notch is clearly looped onto a metal peg or slatwall hook, to simulate authentic in-store display. ➤ On the top right of the cardboard, include a realistic portrait of the same character (same face and style) looking slightly to the side, as if it's the official illustration. Visual details: – No visible stand, no base, no plastic support platform inside the blister. – Add realistic plastic shine, sealed blister edges, and slight downward tension on the packaging due to gravity. – Apply light wear: subtle edge fading on the cardboard and micro-scratches on the plastic. – Use warm lighting, soft shadows, and a neutral toy store background (pegboard or slatwall). – The name \"Madame qui veut pas se faire runner\" appears at the top in bold retro-style letters",
-    "category": "3D / Objet",
+    "category": "Emballage jouet",
     "images": [
       {
         "src": "images/B4.png",
@@ -1758,7 +1761,7 @@ const ITEMS = [
     "id": "page-b-b7-comic-page-summary",
     "title": "Comic Page Summary",
     "prompt": "Create a comic page summarizing all games from Squid Game Season 1",
-    "category": "Jeu vidéo",
+    "category": "Cartoon / BD",
     "images": [
       {
         "src": "images/B7.png",
@@ -1830,7 +1833,7 @@ const ITEMS = [
     "id": "page-b-b12-found-footage",
     "title": "Found Footage",
     "prompt": "Turn this photo into a found footage horror scene. The subject is lit only by flashlight in a dark forest, grainy camcorder texture, timestamp on the corner. Raw, urgent, panicked tone.",
-    "category": "Cinématique",
+    "category": "Dreamcore / Weirdcore",
     "images": [
       {
         "src": "images/B12.png",
@@ -1866,7 +1869,7 @@ const ITEMS = [
     "id": "page-b-b14-stylized-action-figure",
     "title": "Stylized action figure",
     "prompt": "Use this photo of me to create a stylized action figure of myself in a plastic blister pack, designed like a premium collectible toy. The figure should have a friendly, relaxed smile and clearly recognizable facial features. Make the figure stand upright inside the packaging. The blister pack should include a header with the name ‘Alan Smithee’ in large text, and a subheading below that says ‘Starter Pack’. Add three accessories in compartments next to the figure: Warning Sign / Xbox / Coffee. Match the overall packaging color scheme to the outfit I’m wearing in the photo. Finally, make the entire image look like a professionally lit product on a retail store shelf.",
-    "category": "3D / Objet",
+    "category": "Emballage jouet",
     "images": [
       {
         "src": "images/B14.png",
@@ -1879,7 +1882,7 @@ const ITEMS = [
     "id": "page-b-b15-chibi-style-stickers",
     "title": "Chibi-style stickers",
     "prompt": "Create a 3D kawaii illustration on a 10:16 canvas featuring nine chibi-style stickers of me, each in different [poses] and [expressions]. Each sticker should have a white border Set the scene against a transparent background for a fun, positive vibe.",
-    "category": "3D / Objet",
+    "category": "Autre",
     "images": [
       {
         "src": "images/B15.png",
@@ -1963,17 +1966,324 @@ const ITEMS = [
       },
     ]
   }
-];
+  ,
+  {
+    "id": "page-c-c1-vhs-horror-80s",
+    "title": "VHS Horror 80s",
+    "prompt": "Transform this image into a 1980s VHS horror movie frame, analog tape degradation, chromatic aberration, scan lines, practical lighting, eerie fog, cinematic grain, retro slasher atmosphere, dim neon lighting, worn videotape artifacts.",
+    "category": "Dreamcore / Weirdcore",
+    "images": [
+      {
+        "src": "images/71.png",
+        "alt": "Image 71",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c2-dark-fantasy-rpg",
+    "title": "Dark Fantasy RPG",
+    "prompt": "Turn this photo into a dark fantasy RPG cinematic scene. Medieval armor, cursed atmosphere, burning embers in the air, dramatic volumetric lighting, ancient ruins, ultra-detailed gritty realism, epic dark fantasy mood.",
+    "category": "Cinématique",
+    "images": [
+      {
+        "src": "images/72.png",
+        "alt": "Image 72",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c3-detective-crime-thriller",
+    "title": "Detective Crime Thriller",
+    "prompt": "Transform this into a gritty detective thriller frame. Rain-soaked streets, neon reflections, cigarette smoke, moody low-key lighting, cinematic depth of field, realistic urban noir atmosphere.",
+    "category": "Cinématique",
+    "images": [
+      {
+        "src": "images/73.png",
+        "alt": "Image 73",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c4-found-footage",
+    "title": "Found Footage",
+    "prompt": "Redo this image as found footage from a handheld camcorder. Motion blur, digital compression artifacts, timestamp overlay, flashlight illumination, chaotic framing, realistic amateur documentary aesthetic.",
+    "category": "Dreamcore / Weirdcore",
+    "images": [
+      {
+        "src": "images/74.png",
+        "alt": "Image 74",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c5-ps2-cutscene",
+    "title": "PS2 Cutscene",
+    "prompt": "Turn this image into a PlayStation 2-era cutscene. Early 2000s low-poly models, blurry textures, dramatic pre-rendered lighting, nostalgic console graphics, cinematic action-game atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/75.png",
+        "alt": "Image 75",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c6-nintendo-ds-portrait",
+    "title": "Nintendo DS Portrait",
+    "prompt": "Transform this image into Nintendo DS-era character art. Soft cel shading, compressed handheld-console textures, colorful anime-inspired design, dual-screen game aesthetic.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/76.png",
+        "alt": "Image 76",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c7-gta-loading-screen",
+    "title": "GTA Loading Screen",
+    "prompt": "Redo this image as a GTA-style loading screen illustration. Bold outlines, semi-realistic comic rendering, dramatic pose, saturated colors, iconic urban action aesthetic.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/77.png",
+        "alt": "Image 77",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c8-mmo-character-selection-screen",
+    "title": "MMO Character Selection Screen",
+    "prompt": "Transform this photo into an MMORPG character selection screen. Fantasy UI elements, glowing stats panels, dramatic idle pose, stylized environment background, game-ready presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/78.png",
+        "alt": "Image 78",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c9-renaissance-oil-portrait",
+    "title": "Renaissance Oil Portrait",
+    "prompt": "Turn this image into a Renaissance oil painting. Rich textured brushwork, dramatic chiaroscuro lighting, museum-quality realism, aged varnish tones, classical composition.",
+    "category": "Peinture / Art",
+    "images": [
+      {
+        "src": "images/79.png",
+        "alt": "Image 79",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c10-black-metal-cover",
+    "title": "Black Metal Cover",
+    "prompt": "Transform this image into a raw black metal album cover. Harsh monochrome contrast, corpse paint aesthetic, forest fog, grainy texture, occult atmosphere, underground extreme music style.",
+    "category": "Pochettes d’album",
+    "images": [
+      {
+        "src": "images/80.png",
+        "alt": "Image 80",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c11-dreamcore-weirdcore",
+    "title": "Dreamcore / Weirdcore",
+    "prompt": "Redo this image in a dreamcore weirdcore aesthetic. Empty liminal atmosphere, unsettling nostalgia, surreal lighting, distorted perspective, blurry textures, emotionally uncanny mood.",
+    "category": "Dreamcore / Weirdcore",
+    "images": [
+      {
+        "src": "images/81.png",
+        "alt": "Image 81",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c12-dark-academic-painting",
+    "title": "Dark Academic Painting",
+    "prompt": "Transform this image into a dark academic artwork. Candlelit library atmosphere, muted brown tones, classical textures, scholarly melancholy, painterly realism.",
+    "category": "Peinture / Art",
+    "images": [
+      {
+        "src": "images/82.png",
+        "alt": "Image 82",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c13-wax-museum-figure",
+    "title": "Wax Museum Figure",
+    "prompt": "Transform this image into a hyperrealistic wax museum statue. Smooth wax texture, glass eyes, subtle skin shine, museum lighting, lifelike sculptural realism.",
+    "category": "3D / Objet",
+    "images": [
+      {
+        "src": "images/83.png",
+        "alt": "Image 83",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c14-funko-pop",
+    "title": "Funko Pop Collector Box",
+    "prompt": "Turn the subject into a collectible Funko Pop figure inside authentic retail packaging. Oversized head, simplified vinyl toy proportions, transparent plastic window box, collector edition branding.",
+    "category": "Emballage jouet",
+    "images": [
+      {
+        "src": "images/84.png",
+        "alt": "Image 84",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c15-hot-wheels",
+    "title": "Hot Wheels Packaging",
+    "prompt": "Transform the vehicle in this image into a Hot Wheels collectible package, glossy toy-car finish, dynamic racing artwork, blister packaging, retro toy-store aesthetic.",
+    "category": "Emballage jouet",
+    "images": [
+      {
+        "src": "images/85.png",
+        "alt": "Image 85",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c16-snow-globe",
+    "title": "Snow Globe Miniature",
+    "prompt": "Create a miniature snow globe version of this scene, tiny detailed environment enclosed inside glass, floating snow particles, warm cozy lighting, handcrafted collectible look.",
+    "category": "3D / Objet",
+    "images": [
+      {
+        "src": "images/86.png",
+        "alt": "Image 86",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c17-celebrity-paparazzi",
+    "title": "Celebrity Paparazzi Shot",
+    "prompt": "Transform this into a candid celebrity paparazzi photo. Harsh flash photography, realistic tabloid framing, overexposed highlights, chaotic nightlife atmosphere, authentic paparazzi energy.",
+    "category": "Photographie",
+    "images": [
+      {
+        "src": "images/87.png",
+        "alt": "Image 87",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c18-luxury-perfume-ad",
+    "title": "Luxury Perfume Advertisement",
+    "prompt": "Turn this image into a luxury perfume advertisement. Premium cinematic lighting, glossy magazine aesthetic, dramatic shadows, luxury fashion styling, ultra-clean commercial photography.",
+    "category": "Fausse publicité",
+    "images": [
+      {
+        "src": "images/88.png",
+        "alt": "Image 88",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c19-documentary-photography",
+    "title": "Documentary Photography",
+    "prompt": "Redo this image as award-winning documentary photography. Natural imperfect lighting, emotional realism, cinematic authenticity, subtle grain, journalistic composition.",
+    "category": "Photographie",
+    "images": [
+      {
+        "src": "images/89.png",
+        "alt": "Image 89",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c20-analog-film-portrait",
+    "title": "Analog Film Portrait",
+    "prompt": "Transform this image into authentic analog film photography shot on Kodak Portra 400. Soft grain, natural skin tones, subtle bloom, imperfect focus, vintage film realism.",
+    "category": "Photographie",
+    "images": [
+      {
+        "src": "images/90.png",
+        "alt": "Image 90",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c21-alternate-universe",
+    "title": "Alternate Universe Version",
+    "prompt": "Create an alternate universe version of this person while preserving facial identity and composition. Reimagine them as a futuristic rebel leader in a dystopian megacity.",
+    "category": "Scène conceptuelle",
+    "images": [
+      {
+        "src": "images/91.png",
+        "alt": "Image 91",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c22-before-after-timeline",
+    "title": "Before / After Timeline",
+    "prompt": "Create a cinematic split-scene showing two timelines of the same person: one hopeful and vibrant, the other dark and battle-worn. Maintain identical facial identity.",
+    "category": "Scène conceptuelle",
+    "images": [
+      {
+        "src": "images/92.png",
+        "alt": "Image 92",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c23-parallel-dimension-corruption",
+    "title": "Parallel Dimension Corruption",
+    "prompt": "Transform only half of the image into a corrupted alternate dimension. Glitch effects, fractured reality, dark energy, surreal transformation overtaking the original scene.",
+    "category": "Scène conceptuelle",
+    "images": [
+      {
+        "src": "images/93.png",
+        "alt": "Image 93",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c24-aging-transformation",
+    "title": "Aging Transformation",
+    "prompt": "Create a realistic age progression of the subject 30 years older, maintaining recognizable facial structure, realistic wrinkles, gray hair, and cinematic realism.",
+    "category": "Photographie",
+    "images": [
+      {
+        "src": "images/94.png",
+        "alt": "Image 94",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  }
 
+];
 const CATEGORIES = [
   "Tous",
-  "3D / Objet",
-  "Autre",
-  "Cartoon / BD",
-  "Cinématique",
-  "Jeu vidéo",
-  "Peinture / Art",
-  "Tech / UI"
+  ...Array.from(new Set(ITEMS.map(item => item.category))).sort((a, b) => a.localeCompare(b, "fr"))
 ];
 const PAGES = ["Toutes"];
 let activeCategory = "Tous";
