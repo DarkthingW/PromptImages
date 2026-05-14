@@ -220,7 +220,7 @@
     "id": "page-1-11-keith-haring",
     "title": "Keith Haring",
     "prompt": "Redo this image in a bold, graphic artwork in a vibrant street art style. Use thick black outlines and solid, bright colors. Include simplified human figures with literally no facial features at all, no eyes, nose, or mouth, just minimal body shapes. Emphasize energetic motion with squiggles, radiating lines, and repetitive symbols. The composition should feel playful, dynamic, and rhythmic. Avoid shading or gradients, keep it flat and punchy.",
-    "category": "Science-fiction / Tech",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/11.png",
@@ -238,7 +238,7 @@
     "id": "page-1-12-picasso",
     "title": "Picasso",
     "prompt": "Redo this image into a bold, abstract modernist painting characterized by vivid, contrasting colors, wildly expressive facial distortions, fractured anatomy, and a playful, surreal interpretation of form. Use exaggerated geometric shapes and overlapping perspectives to depict figures and objects from multiple viewpoints at once. Faces should be broken into sharp planes, with asymmetrical eyes, twisted features, and emotionally charged expressions. Flatten depth, simplify volumes, and let imagination override realism, embracing the radical spontaneity and avant-garde experimentation of early 20th-century European modernism.",
-    "category": "3D / Objets / Jouets",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/12.png",
@@ -392,7 +392,7 @@
     "id": "page-1-20-surrealism-dalí-inspired",
     "title": "Surrealism (Dalí-Inspired)",
     "prompt": "Redo this image in the Surrealism style, dreamlike distortion, melting shapes, floating objects, unexpected combinations, Dalí-inspired forms, symbolic and irrational visuals.",
-    "category": "3D / Objets / Jouets",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/20.png",
@@ -577,7 +577,7 @@
     "id": "page-1-30-architectural-blueprint-style",
     "title": "Architectural Blueprint Style",
     "prompt": "Redo this image in the Architectural blueprint style, white line drawings on blue background, technical drafting lines, labeled sections, isometric views, precise measurements.",
-    "category": "3D / Objets / Jouets",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/30.png",
@@ -595,7 +595,7 @@
     "id": "page-2-31-botanical-illustration",
     "title": "Botanical Illustration",
     "prompt": "Redo this image in the Botanical illustration style, scientifically accurate plant detail, labeled parts, vintage engraving or watercolor wash, clean white background.",
-    "category": "Art / Illustration",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/31.png",
@@ -829,7 +829,7 @@
     "id": "page-2-44-watercolor-portrait",
     "title": "Watercolor portrait",
     "prompt": "Paint the photo as a loose watercolor portrait with light washes, visible paper texture, and tiny paint splatters.",
-    "category": "Cinéma / Photographie",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/44.png",
@@ -952,7 +952,7 @@
     "id": "page-2-50-90s-inspired-troll",
     "title": "90s-inspired Troll",
     "prompt": "Transform a clear user-provided photo into 90s-inspired Troll figurines with retro-modern style: convert every person (or subject) into a character with neon hair (pink, green, blue, yellow), playful expression (smile, wink, grimace), optional belly jewel (star diamond, sapphire, heart ruby), and glitter background (silver, gold, holographic). Deliver in high-resolution, print- and web-ready, keeping original proportions.",
-    "category": "Science-fiction / Tech",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/50.png",
@@ -1137,7 +1137,7 @@
     "id": "page-2-60-snoopy",
     "title": "Snoopy",
     "prompt": "Create a cartoon portrait of the first image of the conversation in the style of classic American newspaper comics from the 1950s-60s. Use minimal line work, a round head, small features, and a gentle watercolor aesthetic with simple expressions typical of beloved children's comics.",
-    "category": "Médias / Publicité / Documents",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/60.png",
@@ -1173,7 +1173,7 @@
     "id": "page-3-62-post-apocalyptic-drama",
     "title": "Post-Apocalyptic Drama",
     "prompt": "Turn this photo into a post-apocalyptic film shot. The subjects are walking through a deserted, dusty highway, ruins in the background, wearing a worn jacket and backpack. Washed-out tones, dry sunlight, wide cinematic frame.",
-    "category": "Science-fiction / Tech",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/62.png",
@@ -1255,7 +1255,7 @@
     "id": "page-3-66-space-adventure",
     "title": "Space Adventure",
     "prompt": "Turn this photo into a space adventure shot. The subject is in a spaceship cockpit, stars reflecting in the visor. Clean futuristic UI displays, soft glow lighting, epic and quiet.",
-    "category": "Science-fiction / Tech",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/66.png",
@@ -1350,7 +1350,7 @@
     "id": "page-b-b1-panel-comic",
     "title": "Panel comic",
     "prompt": "Make a 3 panel comic based on the style and characters of the image attached. Start with a close up of their face, surprised, then a big panel where a giant bat appears in front of them, and end with a final cinematic panel where they charge ahead wielding their equipment.",
-    "category": "Science-fiction / Tech",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/B1.png",
@@ -1404,7 +1404,7 @@
     "id": "page-b-b4-realistic-action-figure",
     "title": "Realistic Action Figure",
     "prompt": "Hyperrealistic image of a collectible action figure of the woman in uploaded photo, fully packaged and hanging on a retail display hook, as seen in a toy store. The packaging consists of a clear plastic blister and a colorful cardboard backing, shown from a centered, straight-on front view. ➤ The full-body figure is fully enclosed inside the blister, with feet visible near the bottom but in the blister with no display stand or base of any kind. The figure must appear suspended inside the blister without any support platform. ➤ A realistic hanging hook notch is clearly looped onto a metal peg or slatwall hook, to simulate authentic in-store display. ➤ On the top right of the cardboard, include a realistic portrait of the same character (same face and style) looking slightly to the side, as if it's the official illustration. Visual details: – No visible stand, no base, no plastic support platform inside the blister. – Add realistic plastic shine, sealed blister edges, and slight downward tension on the packaging due to gravity. – Apply light wear: subtle edge fading on the cardboard and micro-scratches on the plastic. – Use warm lighting, soft shadows, and a neutral toy store background (pegboard or slatwall). – The name \"Madame qui veut pas se faire runner\" appears at the top in bold retro-style letters",
-    "category": "Médias / Publicité / Documents",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B4.png",
@@ -1445,7 +1445,7 @@
     "id": "page-b-b7-comic-page-summary",
     "title": "Comic Page Summary",
     "prompt": "Create a comic page summarizing all games from Squid Game Season 1",
-    "category": "Jeu vidéo",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/B7.png",
@@ -1463,7 +1463,7 @@
     "id": "page-b-b9-miniature-world-encapsulated-in-a-common-object",
     "title": "Miniature World Encapsulated in a Common Object",
     "prompt": "Illustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a [Common Object, e.g., clear glass lightbulb, old teacup, hollowed-out book]. Inside, depict a [Miniature Scene, e.g., tiny bustling city, a serene forest with a flowing river, a spaceship landing on a moon]. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. llustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a open book. Inside, depict a school with students in a class. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. It should be very realistic as if looking at a micro-world.",
-    "category": "Jeu vidéo",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/B9.png",
@@ -1553,7 +1553,7 @@
     "id": "page-b-b14-stylized-action-figure",
     "title": "Stylized action figure",
     "prompt": "Use this photo of me to create a stylized action figure of myself in a plastic blister pack, designed like a premium collectible toy. The figure should have a friendly, relaxed smile and clearly recognizable facial features. Make the figure stand upright inside the packaging. The blister pack should include a header with the name ‘Alan Smithee’ in large text, and a subheading below that says ‘Starter Pack’. Add three accessories in compartments next to the figure: Warning Sign / Xbox / Coffee. Match the overall packaging color scheme to the outfit I’m wearing in the photo. Finally, make the entire image look like a professionally lit product on a retail store shelf.",
-    "category": "Médias / Publicité / Documents",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B14.png",
@@ -1628,7 +1628,7 @@
     "id": "n3-comic1980",
     "title": "1980s Comic Book Illustration",
     "prompt": "Create a comic strip based on the subject of the uploaded image. Give it a bold comic-book style with thick outlines, halftone shading, and vibrant 1980s-inspired colors. Choose one clear and exaggerated visual element from the photo and build the story around it, leading to a funny or unexpected punchline. Keep the dialogue short, natural, and easy to read, and make sure the joke is understandable at first glance, without randomness or confusion.",
-    "category": "Science-fiction / Tech",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/N3.png",
@@ -1667,7 +1667,7 @@
     "id": "page-c-c2-dark-fantasy-rpg",
     "title": "Dark Fantasy RPG",
     "prompt": "Turn this photo into a dark fantasy RPG cinematic scene. Medieval armor, cursed atmosphere, burning embers in the air, dramatic volumetric lighting, ancient ruins, ultra-detailed gritty realism, epic dark fantasy mood.",
-    "category": "Horreur / Étrange",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/72.png",
@@ -1680,7 +1680,7 @@
     "id": "page-c-c3-detective-crime-thriller",
     "title": "Detective Crime Thriller",
     "prompt": "Transform this into a gritty detective thriller frame. Rain-soaked streets, neon reflections, cigarette smoke, moody low-key lighting, cinematic depth of field, realistic urban noir atmosphere.",
-    "category": "Horreur / Étrange",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/73.png",
@@ -1758,7 +1758,7 @@
     "id": "page-c-c9-renaissance-oil-portrait",
     "title": "Renaissance Oil Portrait",
     "prompt": "Turn this image into a Renaissance oil painting. Rich textured brushwork, dramatic chiaroscuro lighting, museum-quality realism, aged varnish tones, classical composition.",
-    "category": "Cinéma / Photographie",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/79.png",
@@ -1823,7 +1823,7 @@
     "id": "page-c-c14-funko-pop",
     "title": "Funko Pop Collector Box",
     "prompt": "Turn the subject into a collectible Funko Pop figure inside authentic retail packaging. Oversized head, simplified vinyl toy proportions, transparent plastic window box, collector edition branding.",
-    "category": "Médias / Publicité / Documents",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/84.png",
@@ -1836,7 +1836,7 @@
     "id": "page-c-c15-hot-wheels",
     "title": "Hot Wheels Packaging",
     "prompt": "Transform the vehicle in this image into a Hot Wheels collectible package, glossy toy-car finish, dynamic racing artwork, blister packaging, retro toy-store aesthetic.",
-    "category": "Médias / Publicité / Documents",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/85.png",
@@ -1888,7 +1888,7 @@
     "id": "page-c-c19-documentary-photography",
     "title": "Documentary Photography",
     "prompt": "Redo this image as award-winning documentary photography. Natural imperfect lighting, emotional realism, cinematic authenticity, subtle grain, journalistic composition.",
-    "category": "Médias / Publicité / Documents",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/89.png",
@@ -2031,7 +2031,7 @@
     "id": "page-d-d6-analog-horror",
     "title": "Analog Horror Broadcast",
     "prompt": "Transform this image into an analog horror emergency broadcast. CRT distortion, warning graphics, VHS artifacts, eerie government message aesthetic, unsettling realism.",
-    "category": "Médias / Publicité / Documents",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/100.png",
@@ -2174,7 +2174,7 @@
     "id": "page-d-d17-roman-empire",
     "title": "Roman Empire",
     "prompt": "Transform this image into a Roman Empire epic scene. Ancient marble architecture, imperial clothing, cinematic historical realism, warm Mediterranean lighting.",
-    "category": "3D / Objets / Jouets",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/111.png",
@@ -2187,7 +2187,7 @@
     "id": "page-d-d18-action-figure-shelf",
     "title": "AI Action Figure Shelf",
     "prompt": "Transform the person into a boxed collectible action figure displayed on a toy store shelf, complete with accessories, branding, plastic reflections, and realistic retail packaging.",
-    "category": "Médias / Publicité / Documents",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/112.png",
