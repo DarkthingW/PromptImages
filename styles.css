@@ -259,3 +259,143 @@ button:hover, select:hover { border-color: var(--accent); color: var(--accent); 
   .grid { grid-template-columns: 1fr; }
   .toolbar { border-radius: 0 0 18px 18px; margin-left: -14px; margin-right: -14px; }
 }
+
+/* =============================
+   VERSION MOBILE / RESPONSIVE
+   ============================= */
+@media (max-width: 700px) {
+  .page {
+    width: calc(100% - 20px);
+    padding: 12px 0 40px;
+  }
+
+  .hero {
+    padding: 18px;
+    border-radius: 18px;
+  }
+
+  .hero h1 {
+    font-size: 1.6rem;
+    letter-spacing: -0.03em;
+  }
+
+  .hero p {
+    font-size: 0.95rem;
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    border-radius: 0 0 16px 16px;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+
+  .toolbar-row {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .search,
+  select,
+  button {
+    width: 100%;
+    font-size: 0.95rem;
+  }
+
+  .filter-row,
+  .page-row {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    max-height: none;
+    padding-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .chip {
+    white-space: nowrap;
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+  .counter {
+    font-size: 0.9rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .card {
+    border-radius: 16px;
+  }
+
+  .card-header {
+    padding: 14px 14px 8px;
+  }
+
+  .card h2 {
+    font-size: 1.05rem;
+  }
+
+  .prompt {
+    height: 130px;
+    margin: 0 12px 12px;
+    font-size: 0.92rem;
+  }
+
+  .prompt-actions {
+    padding: 0 12px 12px;
+  }
+
+  .thumb-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    padding: 0 12px 12px;
+  }
+
+  .thumb {
+    min-height: 120px;
+  }
+
+  .thumb img {
+    height: 160px;
+  }
+
+  .thumb span {
+    font-size: 0.68rem;
+    padding: 4px 8px;
+  }
+
+  #lightbox {
+    padding: 10px;
+  }
+
+  #lightbox img {
+    max-width: 96vw;
+    max-height: 82vh;
+  }
+
+  #lightbox .close {
+    top: 10px;
+    right: 10px;
+    width: auto;
+  }
+}
+
+@media (max-width: 420px) {
+  .thumb-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .thumb img {
+    height: 210px;
+  }
+
+  .prompt {
+    height: 145px;
+  }
+}
