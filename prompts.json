@@ -3,14 +3,14 @@
     "id": "page-1-base",
     "title": "Base",
     "prompt": "Keep the exact composition, subject placement, and aspect ratio. Only change the visual style. Do not alter layout, proportions, or content. Do not default to square, using the original images aspect ratio is critical and must not be changed.",
-    "category": "Autre",
+    "category": "Base / Utilitaire",
     "images": []
   },
   {
     "id": "page-1-1-ghibli",
     "title": "Ghibli",
     "prompt": "Redo this image in the Ghibli style, painterly anime look, soft watercolor textures, lush natural environments, emotionally expressive characters with large eyes, subtle magical realism, nostalgic atmosphere, warm lighting, gentle brushwork.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/1.png",
@@ -33,7 +33,7 @@
     "id": "page-1-2-muppet-realistic-style",
     "title": "Muppet Realistic Style",
     "prompt": "Redo this image in the Muppet realistic style, 3D photo-realistic puppet look, visible stitching and felt fuzz, soft fabric textures, googly eyes, yarn hair, handmade materials under cinematic lighting, playful and exaggerated puppet expressions.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/2.png",
@@ -51,7 +51,7 @@
     "id": "page-1-3-plushy-toy",
     "title": "Plushy Toy",
     "prompt": "Redo this image in the Plushy toy style, soft velvety fabric, sewn features, button eyes, stuffed animal proportions, visible stitch lines, cuddly and rounded forms, pastel colors, softly lit, cozy bedtime ambiance.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/3.png",
@@ -69,7 +69,7 @@
     "id": "page-1-4-pixar-3d",
     "title": "Pixar 3D",
     "prompt": "Redo this image in a charming 3D animated style, clean, stylized character designs with expressive yet subtle facial animation, cinematic warm lighting, beautifully composed shots, high-quality polished textures, and a heartwarming tone. Emphasize storytelling through posture, expression, and framing.",
-    "category": "3D / Objet",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/4.png",
@@ -92,7 +92,7 @@
     "id": "page-1-5-fleischer-studios",
     "title": "Fleischer Studios",
     "prompt": "Redo this image in a 1930s cartoon style, surreal, bouncy physics, jazz-age character design, pie-cut eyes, looping animation feel, hand-inked outlines, vintage backgrounds with film grain texture, and a black-and-white or early Technicolor palette.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/5.png",
@@ -115,7 +115,7 @@
     "id": "page-1-6-rick-and-morty",
     "title": "Rick and Morty",
     "prompt": "Redo this image in a surreal sci-fi cartoon style. flat 2D with wobbly outlines, exaggerated facial expressions, grotesque humor, absurd proportions, chaotic alien worlds, dimensional portals, and a muted palette lit with electric pops of color.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/6.png",
@@ -138,7 +138,7 @@
     "id": "page-1-7-classic-comic-book",
     "title": "Classic Comic Book",
     "prompt": "Redo this image in the Classic Comic Book style, halftone printing texture, bold black ink outlines, dynamic poses, action lines, speech balloons, ‘BAM!’ and ‘ZAP!’ effects, vintage superhero look, strong primary color palette.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/7.png",
@@ -156,7 +156,7 @@
     "id": "page-1-8-knitted-toy",
     "title": "Knitted Toy",
     "prompt": "Redo this image in the Knitted Toy style, yarn loop textures, fabric stitch detail, soft and droopy limbs, handmade look, safety eyes, thread seams, cozy and cute, home-crafted visual style, warm lighting and fuzzy edges.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/8.png",
@@ -174,7 +174,7 @@
     "id": "page-1-9-disney-classic",
     "title": "Disney Classic",
     "prompt": "Redo this image in a mid-century fairytale animation style, 2D cel animation with big expressive eyes, soft hand-painted backgrounds, gentle color gradients, magical lighting, graceful character poses, and a nostalgic storybook tone inspired by the golden age of animated films.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/9.png",
@@ -220,7 +220,7 @@
     "id": "page-1-11-keith-haring",
     "title": "Keith Haring",
     "prompt": "Redo this image in a bold, graphic artwork in a vibrant street art style. Use thick black outlines and solid, bright colors. Include simplified human figures with literally no facial features at all, no eyes, nose, or mouth, just minimal body shapes. Emphasize energetic motion with squiggles, radiating lines, and repetitive symbols. The composition should feel playful, dynamic, and rhythmic. Avoid shading or gradients, keep it flat and punchy.",
-    "category": "Peinture / Art",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/11.png",
@@ -238,7 +238,7 @@
     "id": "page-1-12-picasso",
     "title": "Picasso",
     "prompt": "Redo this image into a bold, abstract modernist painting characterized by vivid, contrasting colors, wildly expressive facial distortions, fractured anatomy, and a playful, surreal interpretation of form. Use exaggerated geometric shapes and overlapping perspectives to depict figures and objects from multiple viewpoints at once. Faces should be broken into sharp planes, with asymmetrical eyes, twisted features, and emotionally charged expressions. Flatten depth, simplify volumes, and let imagination override realism, embracing the radical spontaneity and avant-garde experimentation of early 20th-century European modernism.",
-    "category": "Peinture / Art",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/12.png",
@@ -256,7 +256,7 @@
     "id": "page-1-13-marble",
     "title": "Marble",
     "prompt": "Redo this image into a hyper-realistic marble sculpture. All-white polished marble with a glossy finish, reflecting soft ambient light. Emphasize deep shadows and highlights to bring out sculptural depth and realism. Texture should be smooth and finely detailed, resembling polished Carrara marble. Maintain as much original detail as possible, reinterpreted as high-relief marble carving. Fresco-like surface, classical Greco-Roman aesthetic. Dramatic lighting to define contours. Must clearly look like carved stone, not a sketch or drawing. High-resolution, 3D-rendered realism.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/13.png",
@@ -274,7 +274,7 @@
     "id": "page-1-14-lego",
     "title": "Lego",
     "prompt": "Redo this image in the Lego style, made entirely of plastic bricks, blocky shapes, visible stud textures, modular construction, bright primary colors, characters with iconic Lego faces and claw hands, 3D toy-like rendering.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/14.png",
@@ -297,7 +297,7 @@
     "id": "page-1-15-dollar-bill",
     "title": "Dollar Bill",
     "prompt": "Redo this image in the style of a vintage dollar bill, intricate engraved linework, monochrome green tones, ornate borders, classical portrait framing, fine hatch shading, and a formal, currency-like composition with official emblems or seals.",
-    "category": "Autre",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/15.png",
@@ -315,7 +315,7 @@
     "id": "page-1-16-claymation-stop-motion",
     "title": "Claymation / Stop-Motion",
     "prompt": "Redo this image in the Claymation style, handmade clay textures, visible fingerprints and smudges, slightly uneven proportions, stop-motion aesthetic, soft lighting, expressive sculpted faces.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/16.png",
@@ -333,7 +333,7 @@
     "id": "page-1-17-low-poly-3d",
     "title": "Low Poly 3D",
     "prompt": "Redo this image in the Low poly 3D style, simplified geometry, hard angular edges, flat color shading, minimalist lighting, retro 3D look.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/17.png",
@@ -351,7 +351,7 @@
     "id": "page-1-18-vaporwave",
     "title": "Vaporwave",
     "prompt": "Redo this image in the Vaporwave style, neon pinks and purples, chrome textures, digital sunset gradients, 1980s retrofuturistic aesthetic, grid backgrounds, nostalgic surrealism.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/18.png",
@@ -374,7 +374,7 @@
     "id": "page-1-19-ukiyo-e",
     "title": "Ukiyo-e",
     "prompt": "Redo this image in the Ukiyo-e style, traditional Japanese woodblock print aesthetic, fine ink lines, flat colors, wave or cloud motifs, historical composition, stylized pattern backgrounds.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/19.png",
@@ -392,7 +392,7 @@
     "id": "page-1-20-surrealism-dalí-inspired",
     "title": "Surrealism (Dalí-Inspired)",
     "prompt": "Redo this image in the Surrealism style, dreamlike distortion, melting shapes, floating objects, unexpected combinations, Dalí-inspired forms, symbolic and irrational visuals.",
-    "category": "Peinture / Art",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/20.png",
@@ -410,7 +410,7 @@
     "id": "page-1-21-steampunk",
     "title": "Steampunk",
     "prompt": "Redo this image in the Steampunk style, Victorian sci-fi aesthetic, brass gears, steam-powered machinery, leather and rivets, mechanical enhancements, sepia tones.",
-    "category": "Peinture / Art",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/21.png",
@@ -433,7 +433,7 @@
     "id": "page-1-22-line-art-ink-drawing",
     "title": "Line Art / Ink Drawing",
     "prompt": "Redo this image in the Line art style, clean black ink outlines, minimal or no color, cross-hatching for shading, sketchbook or pen-and-ink aesthetic.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/22.png",
@@ -451,7 +451,7 @@
     "id": "page-1-23-doodle-art",
     "title": "Doodle Art",
     "prompt": "Redo this image in the Doodle art style, playful random sketches, cartoonish exaggeration, hand-drawn aesthetic, overlapping line work, spontaneous composition.",
-    "category": "Peinture / Art",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/23.png",
@@ -469,7 +469,7 @@
     "id": "page-1-24-graffiti-street-art",
     "title": "Graffiti Street Art",
     "prompt": "Redo this image in the Graffiti style, spray paint textures, bold outlines, neon and high-contrast colors, urban wall setting, tags and splatters, rebellious energy.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/24.png",
@@ -487,7 +487,7 @@
     "id": "page-1-25-brutalist-3d",
     "title": "Brutalist 3D",
     "prompt": "Redo this image in the Brutalist 3D style, raw concrete materials, sharp geometric forms, harsh lighting, minimalist color palette, monolithic architecture.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/25.png",
@@ -505,7 +505,7 @@
     "id": "page-1-26-glitch-art",
     "title": "Glitch Art",
     "prompt": "Redo this image in the Glitch art style, digital corruption effects, RGB splits, pixelation, compression artifacts, broken visuals, surreal electronic interference.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Jeu vidéo",
     "images": [
       {
         "src": "images/26.png",
@@ -523,7 +523,7 @@
     "id": "page-1-27-gothic-illuminated-manuscript",
     "title": "Gothic Illuminated Manuscript",
     "prompt": "Redo this image in the Illuminated manuscript style, medieval religious art, intricate gold leaf borders, stylized gothic script, flat medieval iconography.",
-    "category": "Peinture / Art",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/27.png",
@@ -541,7 +541,7 @@
     "id": "page-1-28-wes-anderson",
     "title": "Wes Anderson",
     "prompt": "Redo this image with perfectly symmetrical composition, a soft pastel color palette, vintage-inspired costumes, whimsical and curated props, and a centered subject, all evoking a storybook-like, offbeat charm.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/28.png",
@@ -559,7 +559,7 @@
     "id": "page-1-29-hyperpop-y2k-aesthetic",
     "title": "Hyperpop / Y2K Aesthetic",
     "prompt": "Redo this image in the Hyperpop Y2K style, glossy textures, digital plastic sheen, overexposed lighting, chrome and neon accessories, chaotic and flashy visual overload.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/29.png",
@@ -577,7 +577,7 @@
     "id": "page-1-30-architectural-blueprint-style",
     "title": "Architectural Blueprint Style",
     "prompt": "Redo this image in the Architectural blueprint style, white line drawings on blue background, technical drafting lines, labeled sections, isometric views, precise measurements.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/30.png",
@@ -595,7 +595,7 @@
     "id": "page-2-31-botanical-illustration",
     "title": "Botanical Illustration",
     "prompt": "Redo this image in the Botanical illustration style, scientifically accurate plant detail, labeled parts, vintage engraving or watercolor wash, clean white background.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/31.png",
@@ -613,7 +613,7 @@
     "id": "page-2-32-ai-glitchcore",
     "title": "AI Glitchcore",
     "prompt": "Redo this image in a fractured, layered visual style, surreal machine-generated patterns, chaotic color blending, digital distortions, and procedural textures that evoke a dreamlike, algorithmic intensity.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/32.png",
@@ -631,7 +631,7 @@
     "id": "page-2-33-thermal-imaging",
     "title": "Thermal Imaging",
     "prompt": "Redo this image in the Thermal imaging style, infrared heat signature rendering, color gradient from blue to red, contour outlines, temperature-based visualization.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/33.png",
@@ -649,7 +649,7 @@
     "id": "page-2-34-holographic-ui-style",
     "title": "Holographic UI Style",
     "prompt": "Redo this image in the Holographic UI style, glowing transparent overlays, sci-fi blue and purple interface elements, floating data panels, high-tech augmented reality look.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/34.png",
@@ -667,7 +667,7 @@
     "id": "page-2-35-cyberpunk-glow-up",
     "title": "Cyberpunk Glow-Up",
     "prompt": "Transform this image into a cyberpunk aesthetic — neon lights, dark city backdrop, glowing signs, misty rain, and futuristic accessories. Add moody shadows and light reflections on metal surfaces.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/35.png",
@@ -685,7 +685,7 @@
     "id": "page-2-36-oil-painting-filter",
     "title": "Oil Painting Filter",
     "prompt": "Apply an oil painting effect to this image — visible brush strokes, textured canvas feel, rich color layers, and Rembrandt-inspired lighting.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/36.png",
@@ -703,7 +703,7 @@
     "id": "page-2-37-surreal-dream-filter",
     "title": "Surreal Dream Filter",
     "prompt": "Remix this into a surreal dreamscape — soft haze, levitating objects, bending background, and unnatural light sources. Keep a pastel-toned atmosphere.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/37.png",
@@ -721,7 +721,7 @@
     "id": "page-2-38-anime-scene-overlay",
     "title": "Anime Scene Overlay",
     "prompt": "Stylize this image like an anime still — bold linework, cel shading, speed lines in the background, and optional Japanese text or subtitle at the bottom.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/38.png",
@@ -739,7 +739,7 @@
     "id": "page-2-39-noir-lighting-treatment",
     "title": "Noir Lighting Treatment",
     "prompt": "Transform this into a classic noir scene — high-contrast black and white, sharp shadows, foggy ambiance, and vintage film grain.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/39.png",
@@ -757,7 +757,7 @@
     "id": "page-2-40-3d-sculpted-look",
     "title": "3D Sculpted Look",
     "prompt": "Make this image look like a marble sculpture — grayscale tone, chiseled features, and museum-style spotlighting. Optional: pedestal base.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/40.png",
@@ -775,7 +775,7 @@
     "id": "page-2-41-high-fashion-editorial",
     "title": "High-Fashion Editorial",
     "prompt": "Elevate this image to a high-fashion editorial spread — glossy texture, cinematic color grading, luxury setting, and softbox-style lighting.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/41.png",
@@ -793,7 +793,7 @@
     "id": "page-2-42-golden-hour-filter",
     "title": "Golden Hour Filter",
     "prompt": "Apply golden hour tones to this image — warm sunlight, soft highlights, long shadows, and dreamy golden hues.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/42.png",
@@ -811,7 +811,7 @@
     "id": "page-2-43-simpsons",
     "title": "Simpsons",
     "prompt": "Transform this into a 2D animated illustration in the style of The Simpsons. Each character should be portrayed with distinct, recognizable features while following The Simpsons style: yellow skin tones, simple facial details, expressive gestures, and playful cartoon proportions. Stick closely to The Simpsons signature visual style.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/43.png",
@@ -829,7 +829,7 @@
     "id": "page-2-44-watercolor-portrait",
     "title": "Watercolor portrait",
     "prompt": "Paint the photo as a loose watercolor portrait with light washes, visible paper texture, and tiny paint splatters.",
-    "category": "Peinture / Art",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/44.png",
@@ -847,7 +847,7 @@
     "id": "page-2-45-bold-pop-art-comic-art",
     "title": "Bold Pop-art Comic Art",
     "prompt": "Reimagine the image as bold pop-art comic art with thick black outlines, Ben-Day dots, and bright primary colors.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/45.png",
@@ -865,7 +865,7 @@
     "id": "page-2-46-precise-ink-sketch",
     "title": "Precise Ink Sketch",
     "prompt": "Draw the picture as a precise ink sketch with clean cross-hatching on a plain white page.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/46.png",
@@ -888,7 +888,7 @@
     "id": "page-2-47-paper-cut-collage",
     "title": "Paper-cut Collage",
     "prompt": "Create a layered paper-cut collage version of the attached photo with crisp colored-paper edges, subtle drop shadows, and handcrafted vibe.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/47.png",
@@ -911,7 +911,7 @@
     "id": "page-2-48-modern-comic-book",
     "title": "Modern Comic-book",
     "prompt": "Draw the picture as a modern comic-book cover: dynamic pose, sharp cel shading, speed lines, etc. Only change the visual style.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/48.png",
@@ -934,7 +934,7 @@
     "id": "page-2-49-paper-mario-style",
     "title": "Paper Mario-style",
     "prompt": "Convert all subjects into a flat Paper Mario-style character: 2.5-D cut-out look, crisp outlines, and soft drop shadows on a simple stage set.",
-    "category": "Jeu vidéo",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/49.png",
@@ -952,7 +952,7 @@
     "id": "page-2-50-90s-inspired-troll",
     "title": "90s-inspired Troll",
     "prompt": "Transform a clear user-provided photo into 90s-inspired Troll figurines with retro-modern style: convert every person (or subject) into a character with neon hair (pink, green, blue, yellow), playful expression (smile, wink, grimace), optional belly jewel (star diamond, sapphire, heart ruby), and glitter background (silver, gold, holographic). Deliver in high-resolution, print- and web-ready, keeping original proportions.",
-    "category": "Peinture / Art",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/50.png",
@@ -1011,7 +1011,7 @@
     "id": "page-2-53-south-park",
     "title": "South Park",
     "prompt": "Create a South Park style cartoon but adapt their facial features to fit while keeping them recognizable as the original person.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/53.png",
@@ -1029,7 +1029,7 @@
     "id": "page-2-54-funny-cartoon-caricature",
     "title": "Funny Cartoon Caricature",
     "prompt": "Turn my attached photo into a funny cartoon caricature, clearly recognizable as me, with my current facial expression comically exaggerated.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/54.png",
@@ -1047,7 +1047,7 @@
     "id": "page-2-55-manga",
     "title": "Manga",
     "prompt": "Convert to manga style with screen tones and detailed linework, maintaining the person’s exact facial characteristics.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/55.png",
@@ -1137,7 +1137,7 @@
     "id": "page-2-60-snoopy",
     "title": "Snoopy",
     "prompt": "Create a cartoon portrait of the first image of the conversation in the style of classic American newspaper comics from the 1950s-60s. Use minimal line work, a round head, small features, and a gentle watercolor aesthetic with simple expressions typical of beloved children's comics.",
-    "category": "Cartoon / BD",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/60.png",
@@ -1155,7 +1155,7 @@
     "id": "page-3-61-family-guy",
     "title": "Family Guy",
     "prompt": "Create a cartoon portrait in a contemporary adult animated sitcom style. Use a round face, prominent chin, oval eyes, and clean, simple color blocks with bold outlines typical of 2000s American animated comedy.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/61.png",
@@ -1173,7 +1173,7 @@
     "id": "page-3-62-post-apocalyptic-drama",
     "title": "Post-Apocalyptic Drama",
     "prompt": "Turn this photo into a post-apocalyptic film shot. The subjects are walking through a deserted, dusty highway, ruins in the background, wearing a worn jacket and backpack. Washed-out tones, dry sunlight, wide cinematic frame.",
-    "category": "Cinématique",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/62.png",
@@ -1196,7 +1196,7 @@
     "id": "page-3-63-fantasy-movie-magic",
     "title": "Fantasy Movie Magic",
     "prompt": "Turn this photo into a fantasy movie moment. The subjects stand before an ancient stone gate in a mystical forest, glowing runes etched into the walls. Fog, magical ambient light, wide lens fantasy cinematography.",
-    "category": "Cinématique",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/63.png",
@@ -1214,7 +1214,7 @@
     "id": "page-3-64-spaghetti-western-classic",
     "title": "Spaghetti Western Classic",
     "prompt": "Turn this photo into a spaghetti western still. The subjects stand in a dusty old town under a scorching sun, hat casting a shadow on their face. High contrast, gritty textures, warm tones, wide landscape shot.",
-    "category": "Cinématique",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/64.png",
@@ -1232,7 +1232,7 @@
     "id": "page-3-65-fantasy-war-film",
     "title": "Fantasy War Film",
     "prompt": "Turn this photo into a fantasy war film shot. The subjects stand on a battlefield with swords and fire around, wearing battle-worn armor. Dark skies, epic scale, dramatic lighting.",
-    "category": "Cinématique",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/65.png",
@@ -1255,7 +1255,7 @@
     "id": "page-3-66-space-adventure",
     "title": "Space Adventure",
     "prompt": "Turn this photo into a space adventure shot. The subject is in a spaceship cockpit, stars reflecting in the visor. Clean futuristic UI displays, soft glow lighting, epic and quiet.",
-    "category": "Cinématique",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/66.png",
@@ -1278,7 +1278,7 @@
     "id": "page-3-67-plushy",
     "title": "Plushy",
     "prompt": "Turn this image into a cute plushy. Use only the people in the photo. Ignore the background. Place the stuffed toys on a well-lit stage.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/67.png",
@@ -1314,7 +1314,7 @@
     "id": "page-3-69-flat-corporate-style",
     "title": "Flat Corporate Style",
     "prompt": "Turn this photo into a modern corporate vector illustration where it uses simplified forms, soft colors, and no outlines",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/69.png",
@@ -1332,7 +1332,7 @@
     "id": "page-3-70-street-art-style",
     "title": "Street Art Style",
     "prompt": "Reimagine this photo as urban street art with gritty surfaces, stenciled patterns, and expressive composition",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/70.png",
@@ -1350,7 +1350,7 @@
     "id": "page-b-b1-panel-comic",
     "title": "Panel comic",
     "prompt": "Make a 3 panel comic based on the style and characters of the image attached. Start with a close up of their face, surprised, then a big panel where a giant bat appears in front of them, and end with a final cinematic panel where they charge ahead wielding their equipment.",
-    "category": "Cartoon / BD",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/B1.png",
@@ -1386,7 +1386,7 @@
     "id": "page-b-b3-stickers",
     "title": "Stickers",
     "prompt": "Create a sticker set of the person from the reference photo in a polished cartoon avatar sticker style. Use clean vector-like digital illustration with bold black outlines, soft cel shading, smooth gradients, slightly caricatured but recognizable facial proportions, expressive eyebrows, and exaggerated facial expressions. Maintain accurate identity and likeness while simplifying details into a friendly avatar style. High readability emoji/sticker pack aesthetic similar to premium messaging app stickers / Bitmoji quality. Crisp edges, polished digital rendering, subtle facial shading, expressive hands when needed. Transparent background. Arrange multiple head-and-shoulder stickers in a neat grid. Include varied expressions and gestures such as happy, sad, wink, surprised, laughing, thumbs up, skeptical, shrugging, facepalm.",
-    "category": "Autre",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B3.png",
@@ -1404,7 +1404,7 @@
     "id": "page-b-b4-realistic-action-figure",
     "title": "Realistic Action Figure",
     "prompt": "Hyperrealistic image of a collectible action figure of the woman in uploaded photo, fully packaged and hanging on a retail display hook, as seen in a toy store. The packaging consists of a clear plastic blister and a colorful cardboard backing, shown from a centered, straight-on front view. ➤ The full-body figure is fully enclosed inside the blister, with feet visible near the bottom but in the blister with no display stand or base of any kind. The figure must appear suspended inside the blister without any support platform. ➤ A realistic hanging hook notch is clearly looped onto a metal peg or slatwall hook, to simulate authentic in-store display. ➤ On the top right of the cardboard, include a realistic portrait of the same character (same face and style) looking slightly to the side, as if it's the official illustration. Visual details: – No visible stand, no base, no plastic support platform inside the blister. – Add realistic plastic shine, sealed blister edges, and slight downward tension on the packaging due to gravity. – Apply light wear: subtle edge fading on the cardboard and micro-scratches on the plastic. – Use warm lighting, soft shadows, and a neutral toy store background (pegboard or slatwall). – The name \"Madame qui veut pas se faire runner\" appears at the top in bold retro-style letters",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B4.png",
@@ -1422,7 +1422,7 @@
     "id": "page-b-b6-isometric",
     "title": "Isometric",
     "prompt": "Design an isometric miniature scene depicting what you see on the pictures, with detailed elements rendered in a stylized, colorful manner.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B6.png",
@@ -1445,7 +1445,7 @@
     "id": "page-b-b7-comic-page-summary",
     "title": "Comic Page Summary",
     "prompt": "Create a comic page summarizing all games from Squid Game Season 1",
-    "category": "Cartoon / BD",
+    "category": "Jeu vidéo",
     "images": [
       {
         "src": "images/B7.png",
@@ -1463,7 +1463,7 @@
     "id": "page-b-b9-miniature-world-encapsulated-in-a-common-object",
     "title": "Miniature World Encapsulated in a Common Object",
     "prompt": "Illustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a [Common Object, e.g., clear glass lightbulb, old teacup, hollowed-out book]. Inside, depict a [Miniature Scene, e.g., tiny bustling city, a serene forest with a flowing river, a spaceship landing on a moon]. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. llustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a open book. Inside, depict a school with students in a class. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. It should be very realistic as if looking at a micro-world.",
-    "category": "3D / Objet",
+    "category": "Jeu vidéo",
     "images": [
       {
         "src": "images/B9.png",
@@ -1481,7 +1481,7 @@
     "id": "page-b-b10-retro-image",
     "title": "Retro-Image",
     "prompt": "Create an image of a vintage 1980s computer (beige CRT monitor, bulky keyboard) displaying ASCII art of the picture. Screen: Green monochrome glow with visible scan lines. ASCII Art: Use only keyboard characters (e.g., @, #, %) to recreate the image. For complex images, apply dithering for shading.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/B10.png",
@@ -1499,7 +1499,7 @@
     "id": "page-b-b11-3d-fluffy-object",
     "title": "3D fluffy object",
     "prompt": "Transform this image into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a transparent background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B11.png",
@@ -1517,7 +1517,7 @@
     "id": "page-b-b12-found-footage",
     "title": "Found Footage in Forest",
     "prompt": "Turn this photo into a found footage horror scene. The subject is lit only by flashlight in a dark forest, grainy camcorder texture, timestamp on the corner. Raw, urgent, panicked tone.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/B12.png",
@@ -1535,7 +1535,7 @@
     "id": "page-b-b13-psychological-thriller-scene",
     "title": "Psychological Thriller Scene",
     "prompt": "Turn this photo into a psychological thriller scene. The subjects are sitting in a sterile white room, expression unreadable, lit by a harsh single overhead bulb. Tense atmosphere, symmetrical framing.",
-    "category": "Cinématique",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/B13.png",
@@ -1553,7 +1553,7 @@
     "id": "page-b-b14-stylized-action-figure",
     "title": "Stylized action figure",
     "prompt": "Use this photo of me to create a stylized action figure of myself in a plastic blister pack, designed like a premium collectible toy. The figure should have a friendly, relaxed smile and clearly recognizable facial features. Make the figure stand upright inside the packaging. The blister pack should include a header with the name ‘Alan Smithee’ in large text, and a subheading below that says ‘Starter Pack’. Add three accessories in compartments next to the figure: Warning Sign / Xbox / Coffee. Match the overall packaging color scheme to the outfit I’m wearing in the photo. Finally, make the entire image look like a professionally lit product on a retail store shelf.",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B14.png",
@@ -1566,7 +1566,7 @@
     "id": "page-b-b15-chibi-style-stickers",
     "title": "Chibi-style stickers",
     "prompt": "Create a 3D kawaii illustration on a 10:16 canvas featuring nine chibi-style stickers of me, each in different [poses] and [expressions]. Each sticker should have a white border Set the scene against a transparent background for a fun, positive vibe.",
-    "category": "Autre",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B15.png",
@@ -1584,7 +1584,7 @@
     "id": "page-b-b16-porte-clés",
     "title": "Porte-Clés",
     "prompt": "Transform the subject or image into a small 3D keychain figurine. If a person is present, preserve their likeness as a collectible miniature figure with rounded, slightly stylized toy-like proportions. If no person is present, convert the object or animal into a collectible keychain figurine with realistic materials and proper scale. Add a glossy resin finish, subtle painted details, and a metal loop on top attached to a keyring. Use soft natural lighting, shallow depth of field, and ensure a photorealistic render.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B16.png",
@@ -1602,7 +1602,7 @@
     "id": "n1-anime",
     "title": "Dynamic Stylized Anime Comic Art",
     "prompt": "Create an image in a trending anime style based on the uploaded subject. Use confident linework with slight variation and minimal cel shading using flat shadow shapes. Apply vibrant, saturated colors with crisp graphic lighting. The style should feature exaggerated, cartoonish character proportions with simple yet highly expressive facial features, capable of conveying a wide range of emotions, and highly variable stretched anatomy. Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. The composition and tone should be energetic, dynamic, and comedic, set in a fully stylized, non-realistic universe.",
-    "category": "Cartoon / BD",
+    "category": "Animation / BD",
     "images": [
       {
         "src": "images/N1.png",
@@ -1628,7 +1628,7 @@
     "id": "n3-comic1980",
     "title": "1980s Comic Book Illustration",
     "prompt": "Create a comic strip based on the subject of the uploaded image. Give it a bold comic-book style with thick outlines, halftone shading, and vibrant 1980s-inspired colors. Choose one clear and exaggerated visual element from the photo and build the story around it, leading to a funny or unexpected punchline. Keep the dialogue short, natural, and easy to read, and make sure the joke is understandable at first glance, without randomness or confusion.",
-    "category": "Cartoon / BD",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/N3.png",
@@ -1641,7 +1641,7 @@
     "id": "n4-newspaper",
     "title": "Vintage Newspaper Illustration",
     "prompt": "Transform the person in the uploaded photo into a vintage black-and-white newspaper front page. Place them as the main central portrait in the style of an old engraved photograph. Surround them with bold, exaggerated headlines, narrow newspaper columns, and playful subheadings. Use high-contrast black ink on a pure white background, subtle paper texture, and classic serif fonts. Add quirky, magical, or humorous headlines to create a charming and slightly surreal tone. Keep the layout dense and editorial, reminiscent of an old newspaper. Ensure the subject’s face remains recognizable while being stylized to match the aesthetic of printed vintage newsprint.",
-    "category": "Cartoon / BD",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/N4.png",
@@ -1654,7 +1654,7 @@
     "id": "page-c-c1-vhs-horror-80s",
     "title": "VHS Horror 80s",
     "prompt": "Transform this image into a 1980s VHS horror movie frame, analog tape degradation, chromatic aberration, scan lines, practical lighting, eerie fog, cinematic grain, retro slasher atmosphere, dim neon lighting, worn videotape artifacts.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/71.png",
@@ -1667,7 +1667,7 @@
     "id": "page-c-c2-dark-fantasy-rpg",
     "title": "Dark Fantasy RPG",
     "prompt": "Turn this photo into a dark fantasy RPG cinematic scene. Medieval armor, cursed atmosphere, burning embers in the air, dramatic volumetric lighting, ancient ruins, ultra-detailed gritty realism, epic dark fantasy mood.",
-    "category": "Cinématique",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/72.png",
@@ -1680,7 +1680,7 @@
     "id": "page-c-c3-detective-crime-thriller",
     "title": "Detective Crime Thriller",
     "prompt": "Transform this into a gritty detective thriller frame. Rain-soaked streets, neon reflections, cigarette smoke, moody low-key lighting, cinematic depth of field, realistic urban noir atmosphere.",
-    "category": "Cinématique",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/73.png",
@@ -1693,7 +1693,7 @@
     "id": "page-c-c4-found-footage",
     "title": "Found Footage",
     "prompt": "Redo this image as found footage from a handheld camcorder. Motion blur, digital compression artifacts, timestamp overlay, flashlight illumination, chaotic framing, realistic amateur documentary aesthetic.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/74.png",
@@ -1758,7 +1758,7 @@
     "id": "page-c-c9-renaissance-oil-portrait",
     "title": "Renaissance Oil Portrait",
     "prompt": "Turn this image into a Renaissance oil painting. Rich textured brushwork, dramatic chiaroscuro lighting, museum-quality realism, aged varnish tones, classical composition.",
-    "category": "Peinture / Art",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/79.png",
@@ -1771,7 +1771,7 @@
     "id": "page-c-c10-black-metal-cover",
     "title": "Black Metal Cover",
     "prompt": "Transform this image into a raw black metal album cover. Harsh monochrome contrast, corpse paint aesthetic, forest fog, grainy texture, occult atmosphere, underground extreme music style.",
-    "category": "Pochettes d’album",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/80.png",
@@ -1784,7 +1784,7 @@
     "id": "page-c-c11-dreamcore-weirdcore",
     "title": "Dreamcore / Weirdcore",
     "prompt": "Redo this image in a dreamcore weirdcore aesthetic. Empty liminal atmosphere, unsettling nostalgia, surreal lighting, distorted perspective, blurry textures, emotionally uncanny mood.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/81.png",
@@ -1797,7 +1797,7 @@
     "id": "page-c-c12-dark-academic-painting",
     "title": "Dark Academic Painting",
     "prompt": "Transform this image into a dark academic artwork. Candlelit library atmosphere, muted brown tones, classical textures, scholarly melancholy, painterly realism.",
-    "category": "Peinture / Art",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/82.png",
@@ -1810,7 +1810,7 @@
     "id": "page-c-c13-wax-museum-figure",
     "title": "Wax Museum Figure",
     "prompt": "Transform this image into a hyperrealistic wax museum statue. Smooth wax texture, glass eyes, subtle skin shine, museum lighting, lifelike sculptural realism.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/83.png",
@@ -1823,7 +1823,7 @@
     "id": "page-c-c14-funko-pop",
     "title": "Funko Pop Collector Box",
     "prompt": "Turn the subject into a collectible Funko Pop figure inside authentic retail packaging. Oversized head, simplified vinyl toy proportions, transparent plastic window box, collector edition branding.",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/84.png",
@@ -1836,7 +1836,7 @@
     "id": "page-c-c15-hot-wheels",
     "title": "Hot Wheels Packaging",
     "prompt": "Transform the vehicle in this image into a Hot Wheels collectible package, glossy toy-car finish, dynamic racing artwork, blister packaging, retro toy-store aesthetic.",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/85.png",
@@ -1849,7 +1849,7 @@
     "id": "page-c-c16-snow-globe",
     "title": "Snow Globe Miniature",
     "prompt": "Create a miniature snow globe version of this scene, tiny detailed environment enclosed inside glass, floating snow particles, warm cozy lighting, handcrafted collectible look.",
-    "category": "3D / Objet",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/86.png",
@@ -1862,7 +1862,7 @@
     "id": "page-c-c17-celebrity-paparazzi",
     "title": "Celebrity Paparazzi Shot",
     "prompt": "Transform this into a candid celebrity paparazzi photo. Harsh flash photography, realistic tabloid framing, overexposed highlights, chaotic nightlife atmosphere, authentic paparazzi energy.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/87.png",
@@ -1875,7 +1875,7 @@
     "id": "page-c-c18-luxury-perfume-ad",
     "title": "Luxury Perfume Advertisement",
     "prompt": "Turn this image into a luxury perfume advertisement. Premium cinematic lighting, glossy magazine aesthetic, dramatic shadows, luxury fashion styling, ultra-clean commercial photography.",
-    "category": "Fausse publicité",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/88.png",
@@ -1888,7 +1888,7 @@
     "id": "page-c-c19-documentary-photography",
     "title": "Documentary Photography",
     "prompt": "Redo this image as award-winning documentary photography. Natural imperfect lighting, emotional realism, cinematic authenticity, subtle grain, journalistic composition.",
-    "category": "Photographie",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/89.png",
@@ -1901,7 +1901,7 @@
     "id": "page-c-c20-analog-film-portrait",
     "title": "Analog Film Portrait",
     "prompt": "Transform this image into authentic analog film photography shot on Kodak Portra 400. Soft grain, natural skin tones, subtle bloom, imperfect focus, vintage film realism.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/90.png",
@@ -1914,7 +1914,7 @@
     "id": "page-c-c21-alternate-universe",
     "title": "Alternate Universe Version",
     "prompt": "Create an alternate universe version of this person while preserving facial identity and composition. Reimagine them as a futuristic rebel leader in a dystopian megacity.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/91.png",
@@ -1927,7 +1927,7 @@
     "id": "page-c-c22-before-after-timeline",
     "title": "Before / After Timeline",
     "prompt": "Create a cinematic split-scene showing two timelines of the same person: one hopeful and vibrant, the other dark and battle-worn. Maintain identical facial identity.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/92.png",
@@ -1940,7 +1940,7 @@
     "id": "page-c-c23-parallel-dimension-corruption",
     "title": "Parallel Dimension Corruption",
     "prompt": "Transform only half of the image into a corrupted alternate dimension. Glitch effects, fractured reality, dark energy, surreal transformation overtaking the original scene.",
-    "category": "Scène conceptuelle",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/93.png",
@@ -1953,7 +1953,7 @@
     "id": "page-c-c24-aging-transformation",
     "title": "Aging Transformation",
     "prompt": "Create a realistic age progression of the subject 30 years older, maintaining recognizable facial structure, realistic wrinkles, gray hair, and cinematic realism.",
-    "category": "Photographie",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/94.png",
@@ -1966,7 +1966,7 @@
     "id": "page-d-d1-true-crime-netflix",
     "title": "True Crime Netflix",
     "prompt": "Transform this image into a Netflix true crime documentary poster. Dark cinematic grading, moody typography, cold blue tones, dramatic shadows, investigative atmosphere, realistic streaming-platform promotional design.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/95.png",
@@ -1979,7 +1979,7 @@
     "id": "page-d-d2-vhs-family-tape",
     "title": "VHS Family Tape",
     "prompt": "Redo this image as a damaged 1997 family VHS tape still. Analog noise, timestamp overlay, soft flash bloom, nostalgic home-video aesthetic, imperfect framing, authentic tape degradation.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/96.png",
@@ -1992,7 +1992,7 @@
     "id": "page-d-d3-national-geographic",
     "title": "National Geographic Explorer",
     "prompt": "Transform this image into an award-winning nature documentary frame. Cinematic wildlife photography, environmental storytelling, natural lighting, subtle atmospheric haze, ultra-realistic documentary realism.",
-    "category": "Photographie",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/97.png",
@@ -2005,7 +2005,7 @@
     "id": "page-d-d4-old-newspaper",
     "title": "Old Newspaper Front Page",
     "prompt": "Transform the subject into a vintage black-and-white newspaper front page. Dense editorial layout, engraved portrait style, dramatic historical headlines, aged paper texture, authentic typography.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/98.png",
@@ -2018,7 +2018,7 @@
     "id": "page-d-d5-backrooms",
     "title": "Backrooms",
     "prompt": "Turn this image into a Backrooms scene. Empty liminal corridors, yellow fluorescent lighting, unsettling silence, low-resolution analog horror aesthetic, uncanny atmosphere.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/99.png",
@@ -2031,7 +2031,7 @@
     "id": "page-d-d6-analog-horror",
     "title": "Analog Horror Broadcast",
     "prompt": "Transform this image into an analog horror emergency broadcast. CRT distortion, warning graphics, VHS artifacts, eerie government message aesthetic, unsettling realism.",
-    "category": "Horreur",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/100.png",
@@ -2044,7 +2044,7 @@
     "id": "page-d-d7-sleep-paralysis",
     "title": "Sleep Paralysis Scene",
     "prompt": "Redo this image as a sleep paralysis nightmare. Dark bedroom atmosphere, distorted shadow figure, moonlight glow, psychological horror realism, unsettling cinematic composition.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/101.png",
@@ -2057,7 +2057,7 @@
     "id": "page-d-d8-energy-drink",
     "title": "Energy Drink Commercial",
     "prompt": "Turn this image into an aggressive energy drink advertisement. Extreme sports aesthetic, explosive lighting, metallic typography, dynamic motion blur, edgy commercial design.",
-    "category": "Fausse publicité",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/102.png",
@@ -2070,7 +2070,7 @@
     "id": "page-d-d9-fast-food",
     "title": "Fast Food Advertisement",
     "prompt": "Transform this image into a colorful fast-food commercial poster. Saturated colors, glossy textures, cheerful lighting, playful branding, commercial photography style.",
-    "category": "Fausse publicité",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/103.png",
@@ -2083,7 +2083,7 @@
     "id": "page-d-d10-luxury-watch",
     "title": "Luxury Watch Campaign",
     "prompt": "Redo this image as a luxury watch advertisement. Ultra-premium cinematic lighting, macro-detail realism, deep black shadows, elegant typography, high-end fashion campaign aesthetic.",
-    "category": "Fausse publicité",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/104.png",
@@ -2096,7 +2096,7 @@
     "id": "page-d-d11-youtube-thumbnail",
     "title": "YouTube Thumbnail",
     "prompt": "Transform this image into an exaggerated YouTube thumbnail. Extreme facial expressions, vibrant colors, clickbait composition, bold text areas, high-energy internet aesthetic.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/105.png",
@@ -2109,7 +2109,7 @@
     "id": "page-d-d12-tiktok",
     "title": "TikTok Screenshot",
     "prompt": "Redo this image as a TikTok video screenshot. Vertical framing, UI overlays, social media comments, ring light lighting, viral influencer aesthetic.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/106.png",
@@ -2122,7 +2122,7 @@
     "id": "page-d-d13-twitch",
     "title": "Twitch Stream Setup",
     "prompt": "Transform this image into a live Twitch stream scene. RGB gaming lights, webcam framing, streaming overlays, neon room ambiance, gamer setup realism.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/107.png",
@@ -2135,7 +2135,7 @@
     "id": "page-d-d14-zombie",
     "title": "Zombie Outbreak",
     "prompt": "Turn this image into a zombie apocalypse movie frame. Destroyed urban environment, emergency smoke, cinematic chaos, survival horror atmosphere, gritty realism.",
-    "category": "Cinématique",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/108.png",
@@ -2148,7 +2148,7 @@
     "id": "page-d-d15-samurai",
     "title": "Samurai Epic",
     "prompt": "Transform this image into an epic samurai film shot. Traditional Japanese clothing, dramatic fog, katana reflections, Kurosawa-inspired cinematography, feudal Japan atmosphere.",
-    "category": "Univers historiques",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/109.png",
@@ -2161,7 +2161,7 @@
     "id": "page-d-d16-pirate",
     "title": "Pirate Adventure",
     "prompt": "Redo this image as a pirate adventure movie still. Stormy ocean, worn leather outfits, cinematic treasure-hunting atmosphere, dramatic clouds, golden sunset lighting.",
-    "category": "Cinématique",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/110.png",
@@ -2174,7 +2174,7 @@
     "id": "page-d-d17-roman-empire",
     "title": "Roman Empire",
     "prompt": "Transform this image into a Roman Empire epic scene. Ancient marble architecture, imperial clothing, cinematic historical realism, warm Mediterranean lighting.",
-    "category": "Univers historiques",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/111.png",
@@ -2187,7 +2187,7 @@
     "id": "page-d-d18-action-figure-shelf",
     "title": "AI Action Figure Shelf",
     "prompt": "Transform the person into a boxed collectible action figure displayed on a toy store shelf, complete with accessories, branding, plastic reflections, and realistic retail packaging.",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/112.png",
@@ -2200,7 +2200,7 @@
     "id": "page-d-d19-tiny-planet",
     "title": "Tiny Planet",
     "prompt": "Transform this image into a tiny planet panorama. Curved miniature world effect, surreal perspective distortion, cinematic sky, immersive environmental detail.",
-    "category": "Autre",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/113.png",
@@ -2213,7 +2213,7 @@
     "id": "page-d-d20-miniature-construction",
     "title": "Miniature Construction Crew",
     "prompt": "Create a miniature construction crew working on the subject as if they were giant-sized. Tiny workers, scaffolding, cranes, realistic macro photography illusion.",
-    "category": "Macro miniature",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/114.png",
@@ -2226,7 +2226,7 @@
     "id": "page-d-d21-kaiju",
     "title": "Giant Monster Attack",
     "prompt": "Transform the subject into a gigantic kaiju attacking a modern city. Cinematic destruction, smoke, explosions, dramatic scale, blockbuster movie realism.",
-    "category": "Kaiju / Monstres",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/115.png",
@@ -2239,7 +2239,7 @@
     "id": "page-d-d22-xray",
     "title": "X-Ray Vision",
     "prompt": "Redo this image as an artistic X-ray scan. Transparent layered anatomy effect, glowing bones, medical-imaging aesthetic, dark background, sci-fi realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/116.png",
@@ -2252,7 +2252,7 @@
     "id": "page-d-d23-liquid-metal",
     "title": "Liquid Metal Morph",
     "prompt": "Transform this image into liquid chrome metal. Reflective mercury texture, fluid surfaces, surreal futuristic aesthetic, ultra-realistic reflections.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/117.png",
@@ -2265,7 +2265,7 @@
     "id": "page-d-d24-crystal-statue",
     "title": "Crystal Statue",
     "prompt": "Turn this image into a translucent crystal sculpture. Refracted light, gemstone transparency, elegant reflections, museum-quality 3D realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/118.png",
@@ -2278,7 +2278,7 @@
     "id": "page-d-d25-cosmic-entity",
     "title": "Cosmic Entity",
     "prompt": "Transform the subject into a cosmic celestial entity made of stars, nebulae, galaxies, and glowing energy. Vast universe aesthetic, godlike presence, cinematic space fantasy.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/119.png",
@@ -2291,7 +2291,7 @@
     "id": "page-z-1-security-camera-feed",
     "title": "Security Camera Feed",
     "prompt": "Transform this image into a realistic security camera feed. CCTV timestamp overlay, fisheye distortion, low-light grain, monochrome surveillance aesthetic, realistic compression artifacts.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/120.png",
@@ -2304,7 +2304,7 @@
     "id": "page-z-2-police-bodycam",
     "title": "Police Bodycam",
     "prompt": "Redo this image as police bodycam footage. Motion blur, tactical flashlight lighting, timestamp overlay, realistic emergency atmosphere, documentary realism.",
-    "category": "Photographie",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/121.png",
@@ -2317,7 +2317,7 @@
     "id": "page-z-3-facetime-screenshot",
     "title": "FaceTime Screenshot",
     "prompt": "Transform this image into a FaceTime call screenshot. Smartphone UI overlays, casual imperfect framing, realistic mobile-camera lighting, candid conversation aesthetic.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/122.png",
@@ -2330,7 +2330,7 @@
     "id": "page-z-4-google-maps-street-view",
     "title": "Google Maps Street View",
     "prompt": "Redo this image as a Google Maps Street View capture. Panoramic distortion, navigation overlays, blurred faces/license plates, realistic street mapping aesthetic.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/123.png",
@@ -2343,7 +2343,7 @@
     "id": "page-z-5-blade-runner-scene",
     "title": "Blade Runner Scene",
     "prompt": "Transform this image into a Blade Runner-inspired cyberpunk scene. Rain-soaked neon city, holograms, cinematic smoke, reflective surfaces, moody futuristic realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/124.png",
@@ -2356,7 +2356,7 @@
     "id": "page-z-6-alien-planet-explorer",
     "title": "Alien Planet Explorer",
     "prompt": "Redo this image as an explorer standing on a hostile alien planet. Massive celestial bodies, strange bioluminescent terrain, atmospheric sci-fi realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/125.png",
@@ -2395,7 +2395,7 @@
     "id": "page-z-9-trading-card",
     "title": "Trading Card",
     "prompt": "Transform this image into a premium collectible trading card. Holographic foil effect, rarity icons, attack stats, glossy printed-card realism.",
-    "category": "Autre",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/128.png",
@@ -2408,7 +2408,7 @@
     "id": "page-z-10-magazine-cover",
     "title": "Magazine Cover",
     "prompt": "Redo this image as a high-end magazine cover. Professional typography, barcode, editorial layout, luxury publication photography.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/129.png",
@@ -2421,7 +2421,7 @@
     "id": "page-z-11-mandela-catalogue-style",
     "title": "Mandela Catalogue Style",
     "prompt": "Transform this image into a Mandela Catalogue-inspired analog horror frame. Distorted human features, unsettling realism, VHS degradation, oppressive atmosphere.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/130.png",
@@ -2434,7 +2434,7 @@
     "id": "page-z-12-reality-glitch",
     "title": "Reality Glitch",
     "prompt": "Transform the image as if reality itself is glitching apart. Spatial distortion, duplicated fragments, broken physics, cinematic anomaly effects.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/131.png",
@@ -2447,7 +2447,7 @@
     "id": "page-extra-1-mech-pilot",
     "title": "Mech Pilot",
     "prompt": "Transform this image into a futuristic mech pilot cinematic shot. Giant armored mech, cockpit HUD reflections, industrial sci-fi lighting, military realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/132.png",
@@ -2460,7 +2460,7 @@
     "id": "page-extra-2-deep-space-horror",
     "title": "Deep Space Horror",
     "prompt": "Redo this image as deep-space horror. Flickering spaceship lights, claustrophobic corridors, emergency red lighting, cosmic dread atmosphere.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/133.png",
@@ -2473,7 +2473,7 @@
     "id": "page-extra-3-inflatable-toy-version",
     "title": "Inflatable Toy Version",
     "prompt": "Transform the subject into a glossy inflatable toy version of themselves. Plastic reflections, soft seams, oversized proportions, playful studio lighting.",
-    "category": "Transformations absurdes",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/134.png",
@@ -2486,7 +2486,7 @@
     "id": "page-extra-4-melting-wax-figure",
     "title": "Melting Wax Figure",
     "prompt": "Redo this image as if the subject is made of melting candle wax. Dripping textures, warm glow, surreal horror-art aesthetic.",
-    "category": "Transformations absurdes",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/135.png",
@@ -2499,7 +2499,7 @@
     "id": "page-extra-5-food-version",
     "title": "Food Version",
     "prompt": "Transform the subject into a realistic food sculpture version of themselves. Hyper-detailed edible textures, culinary presentation, absurd realism.",
-    "category": "Transformations absurdes",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/136.png",
@@ -2512,7 +2512,7 @@
     "id": "page-extra-6-balloon-animal",
     "title": "Balloon Animal",
     "prompt": "Turn the subject into a balloon animal sculpture. Twisted latex textures, glossy reflections, colorful playful aesthetic.",
-    "category": "Transformations absurdes",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/137.png",
@@ -2525,7 +2525,7 @@
     "id": "page-extra-7-medieval-painting-restoration",
     "title": "Medieval Painting Restoration",
     "prompt": "Redo this image as a restored medieval painting discovered in a museum archive. Cracked paint texture, faded pigments, historical restoration realism.",
-    "category": "Simulations réalistes",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/138.png",
@@ -2538,7 +2538,7 @@
     "id": "page-extra-8-archaeological-discovery",
     "title": "Archaeological Discovery",
     "prompt": "Transform this image into an archaeological discovery photograph. Ancient buried artifact aesthetic, dusty excavation site, scientific documentation realism.",
-    "category": "Simulations réalistes",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/139.png",
@@ -2551,7 +2551,7 @@
     "id": "page-extra-9-mugshot",
     "title": "Mugshot",
     "prompt": "Redo this image as a realistic police mugshot. Neutral lighting, booking height chart, documentary realism, procedural photography style.",
-    "category": "Simulations réalistes",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/140.png",
@@ -2564,7 +2564,7 @@
     "id": "page-extra-10-medical-textbook-illustration",
     "title": "Medical Textbook Illustration",
     "prompt": "Transform this image into a hyper-detailed medical textbook illustration. Anatomical labeling, educational diagram style, clean scientific rendering.",
-    "category": "Simulations réalistes",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/141.png",
@@ -2577,7 +2577,7 @@
     "id": "page-extra-11-frozen-world",
     "title": "Frozen World",
     "prompt": "Transform this image into a frozen post-apocalyptic world. Ice-covered surfaces, snowfall, cold blue cinematic tones, survival atmosphere.",
-    "category": "Nature / environnement",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/142.png",
@@ -2590,7 +2590,7 @@
     "id": "page-extra-12-desert-survival",
     "title": "Desert Survival",
     "prompt": "Redo this image in a harsh desert survival setting. Sandstorms, sun-bleached colors, heat distortion, cinematic realism.",
-    "category": "Nature / environnement",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/143.png",
@@ -2603,7 +2603,7 @@
     "id": "page-extra-13-underwater-civilization",
     "title": "Underwater Civilization",
     "prompt": "Transform this image into an underwater civilization scene. Floating particles, aquatic lighting caustics, submerged architecture, cinematic ocean realism.",
-    "category": "Nature / environnement",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/144.png",
@@ -2616,7 +2616,7 @@
     "id": "page-extra-14-jungle-expedition",
     "title": "Jungle Expedition",
     "prompt": "Redo this image as a lost jungle expedition photograph. Dense tropical vegetation, humid atmosphere, cinematic adventure realism.",
-    "category": "Nature / environnement",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/145.png",
@@ -2629,7 +2629,7 @@
     "id": "page-extra-15-sigma-edit-frame",
     "title": "Sigma Edit Frame",
     "prompt": "Transform this image into a dramatic sigma male edit frame. High contrast, monochrome grading, cinematic typography, slow-motion aesthetic, intense emotional atmosphere.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/146.png",
@@ -2642,7 +2642,7 @@
     "id": "page-extra-16-discord-profile-banner",
     "title": "Discord Profile Banner",
     "prompt": "Redo this image as an animated Discord profile banner aesthetic. Neon glow, gaming atmosphere, cyber visual effects, internet-core composition.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/147.png",
@@ -2655,7 +2655,7 @@
     "id": "page-extra-17-fake-album-leak",
     "title": "Fake Album Leak",
     "prompt": "Transform this image into a leaked unreleased album cover posted online. Compression artifacts, edgy typography, underground music aesthetic.",
-    "category": "Pochettes d’album",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/148.png",
@@ -2668,7 +2668,7 @@
     "id": "page-extra-18-ai-influencer-photoshoot",
     "title": "AI Influencer Photoshoot",
     "prompt": "Redo this image as a luxury AI influencer Instagram photoshoot. Unreal perfection, glossy skin, luxury lifestyle aesthetic, ultra-modern fashion photography.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/149.png",
@@ -2681,7 +2681,7 @@
     "id": "page-extra-19-timeline-collapse",
     "title": "Timeline Collapse",
     "prompt": "Create a scene where multiple alternate versions of the same subject from different timelines coexist together in one cinematic frame.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/150.png",
@@ -2694,7 +2694,7 @@
     "id": "page-extra-20-mirror-universe",
     "title": "Mirror Universe",
     "prompt": "Create a mirror-universe version of the scene where everything appears darker, more hostile, and subtly corrupted while preserving the composition.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/151.png",
@@ -2707,7 +2707,7 @@
     "id": "page-extra-21-multiversal-variants",
     "title": "Multiversal Variants",
     "prompt": "Show multiple multiverse variants of the same person side-by-side, each from a radically different universe and aesthetic.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/152.png",
@@ -2720,7 +2720,7 @@
     "id": "page-extra-22-airport-security-scanner",
     "title": "Airport Security Scanner",
     "prompt": "Transform this image into an airport security scanner display. False-color x-ray visualization, luggage-scanner aesthetic, layered transparency, security-monitor realism.",
-    "category": "Simulations réalistes",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/153.png",
@@ -2733,7 +2733,7 @@
     "id": "page-extra-23-weather-news-broadcast",
     "title": "Weather News Broadcast",
     "prompt": "Redo this image as a live television weather broadcast. News lower-thirds, studio graphics, broadcast compression, realistic newsroom aesthetic.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/154.png",
@@ -2746,7 +2746,7 @@
     "id": "page-extra-24-dashcam-footage",
     "title": "Dashcam Footage",
     "prompt": "Transform this image into realistic dashcam footage. Windshield reflections, timestamp overlay, road motion blur, automotive camera realism.",
-    "category": "Simulations réalistes",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/155.png",
@@ -2759,7 +2759,7 @@
     "id": "page-extra-25-drone-surveillance",
     "title": "Drone Surveillance",
     "prompt": "Redo this image as military drone surveillance footage. Thermal overlays, target tracking UI, aerial perspective, monochrome tactical realism.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/156.png",
@@ -2772,7 +2772,7 @@
     "id": "page-extra-26-eldritch-horror",
     "title": "Eldritch Horror",
     "prompt": "Transform this image into cosmic eldritch horror. Impossible geometry, ancient god presence, reality distortion, Lovecraftian atmosphere, existential dread.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/157.png",
@@ -2785,7 +2785,7 @@
     "id": "page-extra-27-cult-ritual",
     "title": "Cult Ritual",
     "prompt": "Redo this image as a hidden cult ritual scene. Candlelight, ritual symbols, dark ceremonial robes, atmospheric smoke, occult horror realism.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/158.png",
@@ -2798,7 +2798,7 @@
     "id": "page-extra-28-haunted-photograph",
     "title": "Haunted Photograph",
     "prompt": "Transform this image into a cursed haunted photograph. Subtle ghostly figure, damaged film texture, eerie vintage realism, paranormal atmosphere.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/159.png",
@@ -2811,7 +2811,7 @@
     "id": "page-extra-29-silent-hill-style",
     "title": "Silent Hill Style",
     "prompt": "Redo this image in a Silent Hill-inspired horror aesthetic. Dense fog, rusted decay, psychological horror atmosphere, abandoned urban nightmare realism.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/160.png",
@@ -2824,7 +2824,7 @@
     "id": "page-extra-30-mushroom-infection",
     "title": "Mushroom Infection",
     "prompt": "Transform the subject into a fungal-infected being. Bioluminescent mushrooms, organic overgrowth, cinematic body horror realism.",
-    "category": "Transformations biologiques",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/161.png",
@@ -2837,7 +2837,7 @@
     "id": "page-extra-31-crystal-mutation",
     "title": "Crystal Mutation",
     "prompt": "Redo this image as if the subject is slowly crystallizing. Gemstone growths, refracted light, surreal body transformation realism.",
-    "category": "Transformations biologiques",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/162.png",
@@ -2850,7 +2850,7 @@
     "id": "page-extra-32-plant-hybrid",
     "title": "Plant Hybrid",
     "prompt": "Transform the subject into a human-plant hybrid. Vines, leaves, bark-like skin textures, natural bioluminescence, fantasy realism.",
-    "category": "Transformations biologiques",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/163.png",
@@ -2863,7 +2863,7 @@
     "id": "page-extra-33-cybernetic-augmentation",
     "title": "Cybernetic Augmentation",
     "prompt": "Redo this image with advanced cybernetic implants and biomechanical enhancements. Futuristic prosthetics, glowing circuitry, hard sci-fi realism.",
-    "category": "Transformations biologiques",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/164.png",
@@ -2876,7 +2876,7 @@
     "id": "page-extra-34-myspace-profile",
     "title": "MySpace Profile",
     "prompt": "Transform this image into a 2006 MySpace profile aesthetic. Glitter graphics, emo internet culture, HTML-style overlays, nostalgic social-media design.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/165.png",
@@ -2889,7 +2889,7 @@
     "id": "page-extra-35-windows-xp-wallpaper",
     "title": "Windows XP Wallpaper",
     "prompt": "Redo this image as a classic Windows XP wallpaper. Bright saturated colors, peaceful composition, nostalgic early-2000s desktop aesthetic.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/166.png",
@@ -2902,7 +2902,7 @@
     "id": "page-extra-36-limewire-album-download",
     "title": "LimeWire Album Download",
     "prompt": "Transform this image into a fake LimeWire music download screenshot. Retro desktop UI, compressed preview image, chaotic piracy-era internet nostalgia.",
-    "category": "Tech / UI",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/167.png",
@@ -2915,7 +2915,7 @@
     "id": "page-extra-37-old-forum-signature",
     "title": "Old Forum Signature",
     "prompt": "Redo this image as a dramatic early-2000s forum signature banner. Oversharpened effects, glowing typography, edgy internet-core aesthetic.",
-    "category": "Réseaux sociaux",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/168.png",
@@ -2928,7 +2928,7 @@
     "id": "page-extra-38-classified-cia-file",
     "title": "Classified CIA File",
     "prompt": "Transform this image into a classified CIA dossier. Redacted text, surveillance photos, stamped confidential markings, intelligence-agency realism.",
-    "category": "Faux documents",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/169.png",
@@ -2941,7 +2941,7 @@
     "id": "page-extra-39-fbi-most-wanted-poster",
     "title": "FBI Most Wanted Poster",
     "prompt": "Redo this image as an FBI most wanted poster. Official law-enforcement layout, procedural photography style, aged paper texture.",
-    "category": "Faux documents",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/170.png",
@@ -2954,7 +2954,7 @@
     "id": "page-extra-40-scientific-research-paper",
     "title": "Scientific Research Paper",
     "prompt": "Transform this image into a scientific journal publication figure. Academic annotations, technical diagrams, peer-reviewed publication aesthetic.",
-    "category": "Faux documents",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/171.png",
@@ -2967,7 +2967,7 @@
     "id": "page-extra-41-ancient-prophecy-scroll",
     "title": "Ancient Prophecy Scroll",
     "prompt": "Redo this image as an ancient prophetic scroll illustration. Burned parchment texture, mystical symbols, medieval ink artwork.",
-    "category": "Faux documents",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/172.png",
@@ -2980,7 +2980,7 @@
     "id": "page-extra-42-retro-sci-fi-magazine-cover",
     "title": "Retro Sci-Fi Magazine Cover",
     "prompt": "Transform this image into a 1970s retro sci-fi magazine cover. Airbrushed illustration style, bold typography, pulp science-fiction aesthetic.",
-    "category": "Pochettes d’album",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/173.png",
@@ -2993,7 +2993,7 @@
     "id": "page-extra-43-fallout-wasteland",
     "title": "Fallout Wasteland",
     "prompt": "Redo this image in a Fallout-inspired retro-futuristic wasteland. Nuclear-age design, worn technology, dusty apocalypse atmosphere.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Jeu vidéo",
     "images": [
       {
         "src": "images/174.png",
@@ -3006,7 +3006,7 @@
     "id": "page-extra-44-bioshock-underwater-dystopia",
     "title": "Bioshock Underwater Dystopia",
     "prompt": "Transform this image into a Bioshock-inspired underwater dystopian scene. Art deco architecture, underwater decay, eerie vintage futurism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Jeu vidéo",
     "images": [
       {
         "src": "images/175.png",
@@ -3019,7 +3019,7 @@
     "id": "page-extra-45-retro-space-program",
     "title": "Retro Space Program",
     "prompt": "Redo this image as a 1960s retro space program photograph. NASA-era realism, film grain, analog photography, optimistic sci-fi atmosphere.",
-    "category": "Photographie",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/176.png",
@@ -3032,7 +3032,7 @@
     "id": "page-extra-46-time-freeze",
     "title": "Time Freeze",
     "prompt": "Transform the scene as if time has completely frozen. Suspended particles, frozen motion, cinematic stillness, ultra-detailed realism.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/177.png",
@@ -3045,7 +3045,7 @@
     "id": "page-extra-47-gravity-reversal",
     "title": "Gravity Reversal",
     "prompt": "Redo this image with gravity reversed. Floating furniture, inverted environment, surreal cinematic realism.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/178.png",
@@ -3058,7 +3058,7 @@
     "id": "page-extra-48-fractured-dimensions",
     "title": "Fractured Dimensions",
     "prompt": "Transform this image into a fractured multidimensional scene. Multiple realities intersecting, impossible geometry, cinematic visual complexity.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/179.png",
@@ -3071,7 +3071,7 @@
     "id": "page-extra-49-infinite-recursion",
     "title": "Infinite Recursion",
     "prompt": "Redo this image with an infinite recursive visual effect, where the same scene repeats endlessly within itself in increasingly distorted ways.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/180.png",
@@ -3084,7 +3084,7 @@
     "id": "page-extra-50-war-photography",
     "title": "War Photography",
     "prompt": "Transform this image into award-winning war photography. Smoke, chaos, documentary realism, emotional intensity, cinematic photojournalism.",
-    "category": "Photographie",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/181.png",
@@ -3097,7 +3097,7 @@
     "id": "page-extra-51-70s-fashion-editorial",
     "title": "70s Fashion Editorial",
     "prompt": "Redo this image as a 1970s fashion editorial photoshoot. Vintage film grain, retro styling, dramatic studio lighting, magazine realism.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/182.png",
@@ -3110,7 +3110,7 @@
     "id": "page-extra-52-celebrity-red-carpet",
     "title": "Celebrity Red Carpet",
     "prompt": "Transform this image into a celebrity red carpet paparazzi moment. Flash photography, glamorous styling, luxury-event atmosphere.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/183.png",
@@ -3123,7 +3123,7 @@
     "id": "page-extra-53-scandinavian-minimalism",
     "title": "Scandinavian Minimalism",
     "prompt": "Redo this image in a Scandinavian minimalist photography style. Clean composition, soft natural lighting, muted neutral palette, elegant realism.",
-    "category": "Photographie",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/184.png",
@@ -3162,7 +3162,7 @@
     "id": "page-extra-56-vintage-postcard",
     "title": "Vintage Postcard",
     "prompt": "Transform this image into a vintage travel postcard. Faded print colors, aged paper texture, retro tourism aesthetic.",
-    "category": "Faux médias",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/187.png",
@@ -3188,7 +3188,7 @@
     "id": "page-extra-58-liminal-school-hallway",
     "title": "Liminal School Hallway",
     "prompt": "Redo this image inside an empty liminal school hallway at night. Flickering fluorescent lights, uncanny silence, nostalgic unease.",
-    "category": "Dreamcore / Weirdcore",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/189.png",
@@ -3201,7 +3201,7 @@
     "id": "page-extra-59-paranormal-investigation",
     "title": "Paranormal Investigation",
     "prompt": "Transform this image into paranormal investigation footage. Flashlight-only lighting, abandoned location, documentary horror realism.",
-    "category": "Horreur",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/190.png",
@@ -3214,7 +3214,7 @@
     "id": "page-extra-60-cursed-children-s-tv-show",
     "title": "Cursed Children’s TV Show",
     "prompt": "Redo this image as a corrupted frame from an old children's television program. Cheerful colors mixed with disturbing visual corruption.",
-    "category": "Horreur",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/191.png",
@@ -3227,7 +3227,7 @@
     "id": "page-extra-61-giant-moon-approaching-earth",
     "title": "Giant Moon Approaching Earth",
     "prompt": "Transform this image into a cinematic scene where a gigantic moon is dangerously close to Earth. Apocalyptic sky, atmospheric panic, epic scale.",
-    "category": "Cinématique",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/192.png",
@@ -3240,7 +3240,7 @@
     "id": "page-extra-62-black-hole-distortion",
     "title": "Black Hole Distortion",
     "prompt": "Redo this image near a black hole. Extreme gravitational lensing, warped light, surreal cosmic realism.",
-    "category": "Sci‑Fi expérimental",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/193.png",
@@ -3253,7 +3253,7 @@
     "id": "page-extra-63-reality-flooded",
     "title": "Reality Flooded",
     "prompt": "Transform the scene into a world completely flooded by water. Submerged buildings, reflections, atmospheric aquatic realism.",
-    "category": "Scène conceptuelle",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/194.png",
@@ -3266,7 +3266,7 @@
     "id": "page-extra-64-eternal-night",
     "title": "Eternal Night",
     "prompt": "Redo this image in a world where the sun never rises. Deep blue-black tones, artificial lighting only, melancholic atmosphere.",
-    "category": "Scène conceptuelle",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/195.png",
@@ -3279,7 +3279,7 @@
     "id": "page-extra-65-retro-futuristic-os",
     "title": "Retro Futuristic OS",
     "prompt": "Transform this image into a retro-futuristic operating system interface. CRT monitor glow, holographic windows, vintage sci-fi computing aesthetic.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/196.png",
@@ -3292,7 +3292,7 @@
     "id": "page-extra-66-ai-detection-interface",
     "title": "AI Detection Interface",
     "prompt": "Redo this image as if analyzed by an advanced AI recognition system. Facial tracking, biometric overlays, futuristic UI graphics.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/197.png",
@@ -3305,7 +3305,7 @@
     "id": "page-extra-67-hologram-projection",
     "title": "Hologram Projection",
     "prompt": "Transform the subject into a holographic projection. Transparent blue light, digital flicker, volumetric sci-fi glow.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/198.png",
@@ -3318,7 +3318,7 @@
     "id": "page-extra-68-robot-vision",
     "title": "Robot Vision",
     "prompt": "Redo this image through the eyes of a robot. Targeting overlays, data readouts, machine-analysis interface, synthetic perception aesthetic.",
-    "category": "Tech / UI",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/199.png",
@@ -3331,7 +3331,7 @@
     "id": "page-extra-69-cake-illusion",
     "title": "Cake Illusion",
     "prompt": "Transform the subject into an ultra-realistic hyper-detailed cake sculpture. Fondant textures, frosting layers, culinary realism, viral internet aesthetic.",
-    "category": "Transformations absurdes",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/200.png",
@@ -3344,7 +3344,7 @@
     "id": "page-extra-70-action-figure-unboxing",
     "title": "Action Figure Unboxing",
     "prompt": "Redo this image as a viral YouTube action figure unboxing thumbnail. Plastic reflections, excited presentation, collector culture aesthetic.",
-    "category": "Emballage jouet",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/201.png",
@@ -3357,7 +3357,7 @@
     "id": "page-extra-71-ikea-product-photo",
     "title": "IKEA Product Photo",
     "prompt": "Transform this image into an IKEA catalog product photo. Scandinavian interior design, minimalist staging, commercial realism.",
-    "category": "Fausse publicité",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/202.png",
@@ -3370,7 +3370,7 @@
     "id": "page-extra-72-giant-food-version",
     "title": "Giant Food Version",
     "prompt": "Redo this image where every object is made of gigantic realistic food items. Absurd oversized culinary environment.",
-    "category": "Transformations absurdes",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/203.png",
@@ -3383,7 +3383,7 @@
     "id": "page-extra-73-ww2-propaganda-poster",
     "title": "WW2 Propaganda Poster",
     "prompt": "Transform this image into a World War II propaganda poster. Vintage print texture, patriotic composition, historical poster aesthetic.",
-    "category": "Univers historiques",
+    "category": "Cinéma / Photographie",
     "images": [
       {
         "src": "images/204.png",
@@ -3396,7 +3396,7 @@
     "id": "page-extra-74-victorian-ghost-photo",
     "title": "Victorian Ghost Photo",
     "prompt": "Redo this image as an authentic Victorian-era ghost photograph. Sepia tones, long exposure blur, antique camera realism.",
-    "category": "Univers historiques",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/205.png",
@@ -3409,7 +3409,7 @@
     "id": "page-extra-75-medieval-tapestry",
     "title": "Medieval Tapestry",
     "prompt": "Transform this image into a medieval woven tapestry artwork. Embroidered texture, heraldic symbolism, historical craftsmanship aesthetic.",
-    "category": "Univers historiques",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/206.png",
@@ -3422,7 +3422,7 @@
     "id": "page-extra-76-ancient-roman-mosaic",
     "title": "Ancient Roman Mosaic",
     "prompt": "Redo this image as an ancient Roman mosaic floor artwork. Tiny stone tesserae, historical Mediterranean art style.",
-    "category": "Univers historiques",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/207.png",
@@ -3435,7 +3435,7 @@
     "id": "page-extra-77-simulation-theory-breakdown",
     "title": "Simulation Theory Breakdown",
     "prompt": "Transform this image as if the simulated reality is breaking apart. Wireframes, rendering glitches, unfinished geometry, existential sci-fi atmosphere.",
-    "category": "Concepts IA",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/208.png",
@@ -3448,7 +3448,7 @@
     "id": "page-extra-78-ai-dream-interpretation",
     "title": "AI Dream Interpretation",
     "prompt": "Redo this image as if generated from the subconscious dream of an artificial intelligence. Surreal machine symbolism, abstract emotional logic.",
-    "category": "Concepts IA",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/209.png",
@@ -3461,7 +3461,7 @@
     "id": "page-extra-79-memory-fragment",
     "title": "Memory Fragment",
     "prompt": "Transform this image into a fragmented fading memory. Soft distortions, incomplete details, nostalgic emotional atmosphere.",
-    "category": "Concepts IA",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/210.png",
@@ -3474,7 +3474,7 @@
     "id": "page-extra-80-human-evolution-future",
     "title": "Human Evolution Future",
     "prompt": "Redo this image showing an evolved future-human version of the subject thousands of years ahead. Speculative biology, advanced adaptation realism.",
-    "category": "Concepts IA",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/211.png",
