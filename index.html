@@ -1,29 +1,45 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Galerie de prompts visuels</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
 <div class="page">
-
   <header class="hero">
     <h1>Galerie de prompts visuels</h1>
-    <p>Bibliothèque de prompts IA organisée par catégories</p>
+    <p>Une galerie centralisée de prompts visuels</p>
+    <div class="stats">
+      
+    </div>
   </header>
 
   <section class="toolbar">
-    <input id="search" type="search" placeholder="Rechercher un prompt...">
-    <div id="categories"></div>
+    <div class="toolbar-row">
+      <input id="search" class="search" type="search" placeholder="Rechercher un style ou un prompt...">
+      <select id="sort">
+        <option value="original">Ordre original</option>
+        <option value="title">Titre A-Z</option>
+        <option value="category">Catégorie</option>
+      </select>
+      <button id="reset">Réinitialiser</button>
+    </div>
+    <div class="filter-row" id="categoryFilters"></div>
+    
   </section>
 
-  <main id="gallery" class="gallery-grid"></main>
-
+  <p class="counter" id="counter"></p>
+  <main class="grid" id="gallery"></main>
+  <div class="empty" id="empty">Aucun résultat trouvé.</div>
 </div>
 
+<div id="lightbox">
+  <button class="close" type="button">Fermer</button>
+  <img src="" alt="">
+</div>
+<div class="toast" id="toast">Prompt copié</div>
 <script src="script.js"></script>
 </body>
 </html>
