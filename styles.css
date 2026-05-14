@@ -1,0 +1,43 @@
+body{
+font-family:Arial,sans-serif;
+background:#f4f6fb;
+margin:0;
+padding:20px;
+}
+
+#categories{
+display:flex;
+flex-wrap:wrap;
+gap:8px;
+margin:15px 0;
+}
+
+.chip{
+padding:8px 12px;
+border-radius:999px;
+border:1px solid #ccc;
+background:white;
+cursor:pointer;
+}
+
+.card{
+background:white;
+border-radius:14px;
+padding:16px;
+margin-bottom:16px;
+border:1px solid #ddd;
+}
+
+.card img{
+width:100%;
+max-width:300px;
+border-radius:10px;
+}
+
+.prompt{
+background:#f8fafc;
+padding:10px;
+border-radius:10px;
+white-space:pre-wrap;
+margin-top:10px;
+}
