@@ -1,9 +1,6 @@
 let ITEMS = [];
 let CATEGORIES = ["Tous"];
-const PAGES = ["Toutes"];
-
 let activeCategory = "Tous";
-let activePage = "Toutes";
 
 const gallery = document.getElementById("gallery");
 const search = document.getElementById("search");
@@ -12,16 +9,33 @@ const counter = document.getElementById("counter");
 const empty = document.getElementById("empty");
 
 async function loadPrompts() {
-  const response = await fetch("prompts.json");
-  ITEMS = await response.json();
+  try {
+    const response = await fetch("./prompts.json", { cache: "no-store" });
 
-  CATEGORIES = [
-    "Tous",
-    ...Array.from(new Set(ITEMS.map(item => item.category))).sort((a, b) => a.localeCompare(b, "fr"))
-  ];
+    if (!response.ok) {
+      throw new Error(`Impossible de charger prompts.json (${response.status})`);
+    }
 
-  buildFilters();
-  render();
+    ITEMS = await response.json();
+
+    CATEGORIES = [
+      "Tous",
+      ...Array.from(new Set(ITEMS.map(item => item.category))).sort((a, b) => a.localeCompare(b, "fr"))
+    ];
+
+    buildFilters();
+    render();
+
+  } catch (error) {
+    console.error(error);
+    gallery.innerHTML = `
+      <div class="empty" style="display:block; grid-column: 1 / -1;">
+        Impossible de charger <strong>prompts.json</strong>.<br>
+        Vérifie que le fichier est bien à la racine du dépôt GitHub, à côté de index.html.
+      </div>
+    `;
+    counter.textContent = "Erreur de chargement.";
+  }
 }
 
 function escapeHtml(str) {
@@ -58,14 +72,8 @@ function refreshFilters() {
 }
 
 function itemMatches(item, q) {
-  const imageLabels = (item.images || []).map(i => i.label || "").join(" ");
-  const haystack = [
-    item.title,
-    item.prompt,
-    item.category,
-    imageLabels
-  ].join(" ").toLowerCase();
-
+  const labels = (item.images || []).map(i => i.label || "").join(" ");
+  const haystack = [item.title, item.prompt, item.category, labels].join(" ").toLowerCase();
   return haystack.includes(q);
 }
 
@@ -79,11 +87,11 @@ function render() {
   });
 
   if (sort.value === "title") {
-    results.sort((a, b) => a.title.localeCompare(b.title, "fr"));
+    results.sort((a,b) => a.title.localeCompare(b.title, "fr"));
   }
 
   if (sort.value === "category") {
-    results.sort((a, b) => (a.category + a.title).localeCompare(b.category + b.title, "fr"));
+    results.sort((a,b) => (a.category + a.title).localeCompare(b.category + b.title, "fr"));
   }
 
   gallery.innerHTML = results.map(item => `
@@ -113,26 +121,21 @@ function render() {
     </article>
   `).join("");
 
-  counter.textContent =
-    `${results.length} résultat${results.length > 1 ? "s" : ""} affiché${results.length > 1 ? "s" : ""} sur ${ITEMS.length}`;
-
+  counter.textContent = `${results.length} résultat${results.length > 1 ? "s" : ""} affiché${results.length > 1 ? "s" : ""} sur ${ITEMS.length}`;
   empty.style.display = results.length ? "none" : "block";
 
   document.querySelectorAll(".thumb").forEach(btn => {
-    btn.addEventListener("click", () => {
-      openLightbox(btn.dataset.src, btn.dataset.alt);
-    });
+    btn.addEventListener("click", () => openLightbox(btn.dataset.src, btn.dataset.alt));
   });
 
   document.querySelectorAll(".copy-btn").forEach(btn => {
     btn.addEventListener("click", async () => {
       try {
         await navigator.clipboard.writeText(btn.dataset.prompt);
-        showToast("Prompt copié");
-      } catch (err) {
+      } catch {
         fallbackCopy(btn.dataset.prompt);
-        showToast("Prompt copié");
       }
+      showToast("Prompt copié");
     });
   });
 }
@@ -161,8 +164,10 @@ function showToast(message) {
 
 function openLightbox(src, alt) {
   const lb = document.getElementById("lightbox");
-  lb.querySelector("img").src = src;
-  lb.querySelector("img").alt = alt || "";
+  const img = lb.querySelector("img");
+
+  img.src = src;
+  img.alt = alt || "";
   lb.style.display = "flex";
 }
 
@@ -183,7 +188,6 @@ document.addEventListener("keydown", e => {
 });
 
 search.addEventListener("input", render);
-
 sort.addEventListener("change", render);
 
 document.getElementById("reset").addEventListener("click", () => {
