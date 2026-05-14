@@ -7,12 +7,21 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="page">
-<h1>Galerie de prompts visuels</h1>
 
-<input id="search" type="search" placeholder="Rechercher un prompt...">
-<div id="categories"></div>
-<div id="gallery"></div>
+<div class="page">
+
+  <header class="hero">
+    <h1>Galerie de prompts visuels</h1>
+    <p>Bibliothèque de prompts IA organisée par catégories</p>
+  </header>
+
+  <section class="toolbar">
+    <input id="search" type="search" placeholder="Rechercher un prompt...">
+    <div id="categories"></div>
+  </section>
+
+  <main id="gallery" class="gallery-grid"></main>
+
 </div>
 
 <script src="script.js"></script>

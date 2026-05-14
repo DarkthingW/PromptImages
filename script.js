@@ -1,58 +1,90 @@
-let ITEMS=[];
-let activeCategory="Tous";
+
+let ITEMS = [];
+let activeCategory = "Tous";
 
 async function init(){
- const response=await fetch("prompts.json");
- ITEMS=await response.json();
- renderCategories();
- render();
+  const response = await fetch("prompts.json");
+  ITEMS = await response.json();
+
+  renderCategories();
+  renderGallery();
 }
 
 function renderCategories(){
- const categories=[
-   "Tous",
-   ...new Set(ITEMS.map(i=>i.category))
- ].sort((a,b)=>a.localeCompare(b,"fr"));
+  const categories = [
+    "Tous",
+    ...new Set(ITEMS.map(i => i.category))
+  ].sort((a,b)=>a.localeCompare(b,"fr"));
 
- const el=document.getElementById("categories");
- el.innerHTML="";
+  const container = document.getElementById("categories");
+  container.innerHTML = "";
 
- categories.forEach(category=>{
-   const btn=document.createElement("button");
-   btn.className="chip";
-   btn.textContent=category;
+  categories.forEach(category => {
+    const btn = document.createElement("button");
 
-   btn.onclick=()=>{
-     activeCategory=category;
-     render();
-   };
+    btn.className =
+      "chip" + (category === activeCategory ? " active" : "");
 
-   el.appendChild(btn);
- });
+    btn.textContent = category;
+
+    btn.onclick = () => {
+      activeCategory = category;
+      renderCategories();
+      renderGallery();
+    };
+
+    container.appendChild(btn);
+  });
 }
 
-function render(){
- const gallery=document.getElementById("gallery");
- const q=document.getElementById("search").value.toLowerCase();
+function renderGallery(){
+  const gallery = document.getElementById("gallery");
 
- const filtered=ITEMS.filter(item=>{
-   const okCategory=activeCategory==="Tous" || item.category===activeCategory;
-   const okSearch=item.title.toLowerCase().includes(q) || item.prompt.toLowerCase().includes(q);
-   return okCategory && okSearch;
- });
+  const search =
+    document.getElementById("search").value.toLowerCase();
 
- gallery.innerHTML=filtered.map(item=>`
-   <div class="card">
-     ${item.images?.[0] ? `<img src="${item.images[0].src}" alt="">` : ""}
-     <h2>${item.title}</h2>
-     <strong>${item.category}</strong>
-     <div class="prompt">${item.prompt}</div>
-   </div>
- `).join("");
+  const filtered = ITEMS.filter(item => {
+
+    const categoryOk =
+      activeCategory === "Tous" ||
+      item.category === activeCategory;
+
+    const searchOk =
+      item.title.toLowerCase().includes(search) ||
+      item.prompt.toLowerCase().includes(search);
+
+    return categoryOk && searchOk;
+  });
+
+  gallery.innerHTML = filtered.map(item => `
+    <article class="card">
+
+      <div class="image-wrapper">
+        ${
+          item.images?.[0]
+            ? `<img src="${item.images[0].src}" alt="${item.title}">`
+            : ""
+        }
+      </div>
+
+      <div class="card-content">
+
+        <div class="badge">${item.category}</div>
+
+        <h2>${item.title}</h2>
+
+        <div class="prompt">${item.prompt}</div>
+
+      </div>
+
+    </article>
+  `).join("");
 }
 
-document.addEventListener("input",e=>{
- if(e.target.id==="search") render();
+document.addEventListener("input", e => {
+  if(e.target.id === "search"){
+    renderGallery();
+  }
 });
 
 init();
