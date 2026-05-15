@@ -3937,5 +3937,317 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-c-c39-ps1-survival-horror-screenshot",
+    "title": "PS1 Survival Horror Screenshot",
+    "prompt": "Transform this image into a late-1990s PlayStation 1 survival horror gameplay screenshot. Use low-poly 3D character models, pre-rendered fixed-camera backgrounds, dark industrial or mansion-like surroundings, muddy compressed textures, jagged polygon edges, dramatic limited lighting, and a tense old-school horror atmosphere. Add a subtle retro HUD with health status and item slots, while making the image feel like an authentic paused moment from a 1998 console game.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/248.png",
+        "alt": "Image 248",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c40-jrpg-battle-screen",
+    "title": "JRPG Battle Screen",
+    "prompt": "Turn this image into a classic turn-based JRPG battle screen. Reimagine the subjects as party members facing a stylized enemy encounter in a dramatic fantasy or sci-fi environment. Add a clean retro battle interface with character names, HP bars, command menus such as Attack / Magic / Item, and slightly exaggerated heroic poses. The whole image should feel like an authentic 1990s or early-2000s console RPG combat scene.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/249.png",
+        "alt": "Image 249",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c41-fighting-game-versus-screen",
+    "title": "Fighting Game Versus Screen",
+    "prompt": "Transform this image into a dramatic arcade fighting game versus screen. Present the subjects as rival playable characters in mirrored hero portraits, with intense facial expressions, bold character nameplates, flashy VS typography in the center, energetic lighting, and a stylized tournament aesthetic. Use high-contrast colors, sharp digital effects, and a polished late-1990s to early-2000s fighting game presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/250.png",
+        "alt": "Image 250",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c42-character-select-screen",
+    "title": "Character Select Screen",
+    "prompt": "Convert this image into a colorful video game character selection screen. Show the main subject as the highlighted playable character, with a large preview model or portrait, stat bars for speed, strength, charisma, or special ability, and a grid of smaller locked or selectable characters around them. Include lively UI framing, gamepad-friendly menu design, and a playful polished console-game aesthetic.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/251.png",
+        "alt": "Image 251",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c43-cozy-life-sim-screenshot",
+    "title": "Cozy Life Sim Screenshot",
+    "prompt": "Reimagine this photo as a cozy life-simulation video game screenshot. Transform the scene into a charming miniature town or home environment with soft stylized 3D graphics, warm ambient lighting, gentle rounded shapes, and a peaceful everyday activity taking place. Add subtle game UI elements such as a clock, inventory icons, friendship meter, or task tracker. The result should feel wholesome, comforting, and highly playable.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/252.png",
+        "alt": "Image 252",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c44-rhythm-game-performance-screen",
+    "title": "Rhythm Game Performance Screen",
+    "prompt": "Transform this image into an energetic rhythm game performance screen. Keep the subject as the visual center while adding colorful beat lanes, timing markers, combo counters, score multipliers, and pulsing motion graphics synchronized to an imagined soundtrack. Use vibrant neon lighting, concert-stage intensity, and glossy arcade-inspired UI. The image should feel like a climactic gameplay moment during a perfect combo streak.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/253.png",
+        "alt": "Image 253",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c45-retro-kart-racing-portrait",
+    "title": "Retro Kart Racing Portrait",
+    "prompt": "Turn this image into a playful kart racing video game promo scene. Reimagine the subjects as stylized racers driving exaggerated colorful karts on a bright fantasy track, with dynamic drifting motion, item-box energy, cartoon speed effects, and a split-second competitive action feel. Add subtle race UI elements such as position number, lap counter, and mini-map styling without overwhelming the composition.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/254.png",
+        "alt": "Image 254",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c46-open-world-quest-log-scene",
+    "title": "Open-World Quest Log Scene",
+    "prompt": "Transform this image into a fantasy open-world RPG gameplay moment with an active quest interface. Preserve the core scene but add immersive environmental storytelling, sweeping scenic depth, cinematic lighting, and a tasteful on-screen quest tracker listing an objective related to the image. Include a compass bar, location discovery text, and subtle interaction prompts, as if captured from a modern exploration-heavy adventure game.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/255.png",
+        "alt": "Image 255",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c47-visual-novel-dialogue-scene",
+    "title": "Visual Novel Dialogue Scene",
+    "prompt": "Convert this image into a polished visual novel dialogue scene. Render the subject in a refined illustrated style with expressive facial emotion, clean character portrait framing, a softly detailed background, and a wide dialogue box at the bottom. Add a character name label, a short dramatic or funny line of text, and small interface icons for auto, skip, save, and log. The final image should feel like a premium story-driven game screenshot.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/256.png",
+        "alt": "Image 256",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c48-1990s-pc-point-and-click-adventure",
+    "title": "1990s PC Point-and-Click Adventure",
+    "prompt": "Recreate this image as a 1990s PC point-and-click adventure game scene. Use hand-painted background art, slightly exaggerated cartoon realism, quirky environmental details, and a lower-screen inventory bar with several clickable items inspired by the original image. Add a cursor hovering over one object, with subtle pixel-era interface charm. The scene should feel narrative, humorous, and full of discoverable details.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/257.png",
+        "alt": "Image 257",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c49-roguelike-loot-reward-screen",
+    "title": "Roguelike Loot Reward Screen",
+    "prompt": "Turn this image into a stylish roguelike reward selection screen. The subject appears after clearing a challenge, standing before three glowing item choices or upgrade cards. Add concise perk descriptions, rarity colors, subtle particles, and a dark-but-readable game UI. The tone should feel exciting, strategic, and replayable, like the player has just earned a powerful build-defining upgrade.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/258.png",
+        "alt": "Image 258",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c50-achievement-unlocked-screen",
+    "title": "Achievement Unlocked Screen",
+    "prompt": "Transform this photo into a cinematic video game achievement-unlocked moment. Preserve the main scene but add a polished notification banner with a humorous achievement title inspired by what is happening in the image, a badge icon, rarity percentage, and celebratory UI sparkle. The aesthetic should feel like a console screenshot captured at the exact perfect moment of an unexpected accomplishment.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/259.png",
+        "alt": "Image 259",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c51-vintage-pocket-playset",
+    "title": "Vintage Pocket Playset",
+    "prompt": "Transform this image into a tiny clamshell miniature playset inspired by compact 1990s pocket toys. Recreate the setting as a small fold-open plastic world with molded rooms, miniature accessories, bright pastel colors, and tiny simplified figurines representing the subjects. Show the toy opened from a slightly elevated angle, with glossy plastic surfaces, small hinges, cute compartment details, and authentic retro collectible charm.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/260.png",
+        "alt": "Image 260",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c52-retro-preschool-little-figures-set",
+    "title": "Retro Preschool Little Figures Set",
+    "prompt": "Reimagine this image as a retro preschool playset with chunky rounded plastic figures and simplified toy architecture. Convert the people into peg-like, child-friendly figurines with minimal painted facial features, while turning the setting into a colorful molded-plastic scene full of interactive toy details. Use soft studio lighting and a catalog-style product presentation, as if photographed for a 1980s toy advertisement.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/261.png",
+        "alt": "Image 261",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c53-classic-modular-toy-figurine-scene",
+    "title": "Classic Modular Toy Figurine Scene",
+    "prompt": "Transform the entire image into a highly detailed toy diorama made of classic articulated plastic figurines and modular accessories. Recreate the people as simplified smiling toy characters with rounded hands, smooth molded hair, and colorful outfit pieces. Rebuild the environment as a complete playset with precise miniature props, clean plastic textures, and a realistic tabletop product-photography look.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/262.png",
+        "alt": "Image 262",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c54-cozy-flocked-animal-family-diorama",
+    "title": "Cozy Flocked Animal Family Diorama",
+    "prompt": "Turn this image into a warm miniature dollhouse diorama populated by soft flocked animal figurines dressed in tiny fabric clothes. Reinterpret the people as charming anthropomorphic toy characters while preserving their roles and positions. Build the environment as a lovingly detailed miniature interior or outdoor scene with tiny furniture, tea sets, wood textures, lace curtains, and a cozy handcrafted family-toy atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/263.png",
+        "alt": "Image 263",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c55-vintage-wind-up-tin-toy",
+    "title": "Vintage Wind-Up Tin Toy",
+    "prompt": "Transform the main subject into a vintage wind-up tin toy from the 1940s or 1950s. Reinterpret the form using painted lithographed metal panels, visible seams, small mechanical joints, a winding key on the side, and slightly worn collectible patina. Place it on a tabletop with soft museum-like lighting, subtle scratches, and a nostalgic antique toy-store feeling.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/264.png",
+        "alt": "Image 264",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c56-die-cast-collector-diorama",
+    "title": "Die-Cast Collector Diorama",
+    "prompt": "Recreate this image as a premium die-cast collector diorama. Convert vehicles, furniture, or large objects into detailed painted metal miniatures with realistic scale, tiny decals, glossy enamel finishes, and accurate molded parts. Present the entire scene inside a glass display case or on a clean collector shelf, with shallow depth of field and high-end hobby photography.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/265.png",
+        "alt": "Image 265",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c57-board-game-miniatures-and-box",
+    "title": "Board Game Miniatures and Box",
+    "prompt": "Transform this image into a deluxe tabletop board game product shot. Reimagine the scene as a strategy game laid out on a printed game board, with the subjects represented by detailed painted miniatures, cards, tokens, dice, and objective markers. Include a partially visible premium board game box in the background using artwork inspired by the scene. The result should feel like an expensive collector's edition photographed for crowdfunding.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/266.png",
+        "alt": "Image 266",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c58-blind-box-designer-toy",
+    "title": "Blind Box Designer Toy",
+    "prompt": "Turn the subject into a trendy blind-box designer toy collectible. Use a stylized vinyl figure with compact proportions, a slightly oversized head, simplified but recognizable facial features, matte-soft plastic textures, and a signature accessory inspired by the source image. Show the figure next to a matching sealed mystery box with collectible series branding, photographed like a premium art toy product release.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/267.png",
+        "alt": "Image 267",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c59-retro-dollhouse-miniature-room",
+    "title": "Retro Dollhouse Miniature Room",
+    "prompt": "Transform this image into a detailed dollhouse miniature room, preserving the original layout and major objects at tiny scale. Everything should look handcrafted and collectible: miniature wallpaper, small wood furniture, tiny framed pictures, fabric rugs, scaled lighting fixtures, and miniature human or character figures when appropriate. Use warm realistic lighting and a cross-section dollhouse view to emphasize the tiny handcrafted world.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/268.png",
+        "alt": "Image 268",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c60-monochrome-plastic-toy-playset",
+    "title": "Monochrome Plastic Toy Playset",
+    "prompt": "Reimagine this image as a molded monochrome plastic playset filled with tiny classic toy figures and exaggerated miniature props. Convert the subjects and scene elements into single-color injected plastic figures with visible mold seams, rigid poses, and toy terrain pieces. Present it from a tabletop perspective, with dramatic macro lighting that makes the small playset feel epic while still clearly plastic and collectible.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/269.png",
+        "alt": "Image 269",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c61-capsule-mini-figure-collection-sheet",
+    "title": "Capsule Mini Figure Collection Sheet",
+    "prompt": "Turn the subject into a full series of small collectible capsule mini-figures arranged like a product lineup poster. Show multiple charming variants based on the original person or object: standard version, sleepy version, overexcited version, rare metallic version, and secret edition. Use tiny rounded proportions, glossy resin or PVC textures, numbered labels under each figure, and clean Japanese-style gashapon catalog presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/270.png",
+        "alt": "Image 270",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-c-c62-vintage-toy-catalog-page",
+    "title": "Vintage Toy Catalog Page",
+    "prompt": "Transform this image into a colorful 1980s or 1990s toy catalog page. Recreate the subject as a fictional toy line with staged product photography, energetic callout badges, price bubbles, exaggerated marketing copy, and multiple boxed accessories or playsets inspired by the image. Use slightly faded print texture, dense retail catalog layout, and authentic retro toy-commercial energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/271.png",
+        "alt": "Image 271",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
