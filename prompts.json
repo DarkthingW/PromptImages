@@ -4249,5 +4249,629 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-d-d1-90s-video-game-strategy-guide",
+    "title": "90s Video Game Strategy Guide",
+    "prompt": "Transform this image into a double-page spread from a 1990s video game strategy guide. Recreate the subject as part of a fictional game level with annotated screenshots, a small map, boss tips, item icons, secret paths, and playful sidebars. Use dense magazine layout, slightly worn paper texture, colorful arrows, and nostalgic console-era design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/272.png",
+        "alt": "Image 272",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d2-vintage-cookbook-page",
+    "title": "Vintage Cookbook Page",
+    "prompt": "Turn this image into a vintage cookbook page. Reinterpret the subject as a charming illustrated recipe with a large food-style hero illustration, ingredient list, numbered preparation steps, handwritten notes, stains, decorative borders, and warm retro kitchen typography. Keep it playful, appetizing, and print-authentic.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/273.png",
+        "alt": "Image 273",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d3-absurd-assembly-manual",
+    "title": "Absurd Assembly Manual",
+    "prompt": "Transform this image into a silent absurd assembly manual inspired by minimalist flat-pack furniture instructions. Break the subject into simple black-and-white diagram steps with arrows, numbered panels, warning icons, exploded parts, and confusing but funny construction logic. Use clean technical line art on plain paper.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/274.png",
+        "alt": "Image 274",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d4-80s-childrens-encyclopedia",
+    "title": "80s Children's Encyclopedia",
+    "prompt": "Recreate this image as a page from a colorful 1980s children's encyclopedia. Show the subject as the central educational illustration surrounded by labeled diagrams, small fun-fact boxes, simplified explanations, playful icons, and friendly textbook typography. Use bright but slightly aged print colors and a wholesome classroom tone.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/275.png",
+        "alt": "Image 275",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d5-film-festival-program",
+    "title": "Film Festival Program",
+    "prompt": "Transform this image into an official film festival program page. Present the subject as the star or central concept of a fictional short film, with a refined portrait, elegant title treatment, screening times, short synopsis, critic blurbs, director credit, laurels, and clean editorial layout. Use premium matte print texture and sophisticated typography.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/276.png",
+        "alt": "Image 276",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d6-vinyl-record-booklet",
+    "title": "Vinyl Record Booklet",
+    "prompt": "Turn this image into an inner booklet spread from a collectible vinyl record release. Reinterpret the subject as the visual identity of an album with moody photography or illustration, track list, production credits, short liner notes, graphic symbols, worn paper folds, and a stylish music-poster atmosphere.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/277.png",
+        "alt": "Image 277",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d7-retrofuturist-tourist-postcard",
+    "title": "Retrofuturist Tourist Postcard",
+    "prompt": "Transform this image into a retrofuturist tourist postcard. Rebuild the scene as a colorful travel-poster destination with bold 'Greetings from' lettering, simplified landmarks inspired by the image, exaggerated perspective, airbrushed gradients, vintage print grain, and optimistic space-age charm.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/278.png",
+        "alt": "Image 278",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d8-themed-restaurant-menu",
+    "title": "Themed Restaurant Menu",
+    "prompt": "Reimagine this image as the branding for a fictional themed restaurant menu. Use the subject as a mascot, logo, or hero illustration, surrounded by illustrated menu items, playful dish names, prices, specials, decorative dividers, and appetizing retro-modern restaurant design. Make it feel like a real printed menu.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/279.png",
+        "alt": "Image 279",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d9-tabletop-rpg-character-sheet",
+    "title": "Tabletop RPG Character Sheet",
+    "prompt": "Transform the subject into a tabletop role-playing game character sheet. Include a recognizable portrait, class, level, stats, skills, inventory, traits, flaws, equipment icons, handwritten notes, dice marks, and parchment or photocopied paper texture. Make the layout readable and full of personality.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/280.png",
+        "alt": "Image 280",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d10-museum-catalog-artifact",
+    "title": "Museum Catalog Artifact",
+    "prompt": "Present this image as a museum catalog entry for a rare artifact. Place the subject or object in a clean archival photograph or illustration, with a title, date, material, origin, accession number, scale reference, curator notes, and refined gallery layout. Use quiet lighting, neutral background, and documentary precision.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/281.png",
+        "alt": "Image 281",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d11-minimal-prestige-film-poster",
+    "title": "Minimal Prestige Film Poster",
+    "prompt": "Transform this image into a minimalist prestige indie film poster. Use restrained composition, negative space, subtle unsettling symbolism, muted colors, elegant typography, small festival laurels, and one strong visual metaphor based on the subject. Make it feel artistic, mysterious, and award-season ready.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/282.png",
+        "alt": "Image 282",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d12-1930s-lobby-card",
+    "title": "1930s Movie Lobby Card",
+    "prompt": "Recreate this image as a 1930s movie lobby card. Use hand-tinted illustration, dramatic taglines, ornate borders, cast billing, studio-style layout, faded paper texture, and staged theatrical composition. The subject should feel like the featured scene from a lost classic film.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/283.png",
+        "alt": "Image 283",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d13-90s-mtv-music-video-frame",
+    "title": "90s MTV Music Video Frame",
+    "prompt": "Turn this image into a freeze-frame from a 1990s music video. Add analog video texture, punchy color grading, stylized performance lighting, camera timecode, small channel-style graphic overlays, motion blur, and a cool candid energy. Make it feel like it was captured from a VHS broadcast.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/284.png",
+        "alt": "Image 284",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d14-backstage-concert-rehearsal",
+    "title": "Backstage Concert Rehearsal",
+    "prompt": "Transform this photo into a backstage concert rehearsal scene. Place the subject among dressing-room mirrors, cables, instruments, flight cases, setlists, stage lights, and warm practical bulbs. Use a documentary photography style with candid composition, shallow depth of field, and pre-show anticipation.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/285.png",
+        "alt": "Image 285",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d15-reality-tv-confessional",
+    "title": "Reality TV Confessional",
+    "prompt": "Reimagine this image as a reality TV confessional shot. Put the subject in a glossy studio set with dramatic soft lighting, a stylish lower-third name graphic, decorative background props, and expressive interview posture. Make it look like a polished television screenshot with playful tension.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/286.png",
+        "alt": "Image 286",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d16-official-sports-team-photo",
+    "title": "Official Sports Team Photo",
+    "prompt": "Transform the subject or group into an official sports team photo. Dress them in fictional team uniforms, arrange them in a clean season portrait composition, add team colors, player names, positions, logo marks, and a polished studio background. Make it feel like an authentic media-day photograph.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/287.png",
+        "alt": "Image 287",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d17-premium-sports-trading-card",
+    "title": "Premium Sports Trading Card",
+    "prompt": "Turn the subject into a premium sports trading card. Use dynamic athlete-style portraiture, team colors, foil-like accents, stat boxes, season numbers, ranking badges, signature area, and dramatic broadcast lighting. The card should feel collectible, glossy, and professionally printed.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/288.png",
+        "alt": "Image 288",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d18-pulp-paperback-cover",
+    "title": "Pulp Paperback Cover",
+    "prompt": "Transform this image into a dramatic vintage pulp paperback cover. Use painted illustration, bold sensational title typography, intense composition, aged paper texture, worn corners, over-the-top tagline, and exaggerated cinematic lighting. Make the subject feel like the hero or mystery of a forgotten cheap novel.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/289.png",
+        "alt": "Image 289",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d19-rpg-item-shop-screen",
+    "title": "RPG Item Shop Screen",
+    "prompt": "Recreate this image as an item shop screen from a fantasy RPG. Show the subject as a merchant, hero, mascot, or rare item surrounded by inventory slots, prices, potion icons, equipment, dialogue box, gold counter, and cozy shop background. Use readable game UI and charming pixel or illustrated detail.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/290.png",
+        "alt": "Image 290",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d20-character-creation-screen",
+    "title": "Character Creation Screen",
+    "prompt": "Transform this photo into a character creation screen from a modern RPG. Show the subject as a customizable avatar preview with sliders, class options, traits, outfit presets, color swatches, stats, name field, and polished game interface. Keep the likeness recognizable while making the UI feel fully playable.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/291.png",
+        "alt": "Image 291",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d21-adventure-game-world-map",
+    "title": "Adventure Game World Map",
+    "prompt": "Turn this image into a detailed adventure game world map. Reinterpret the subject, objects, or environment as regions, landmarks, paths, quest markers, danger zones, hidden caves, towns, and collectible icons. Use illustrated parchment or polished game-map styling with a clear legend.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/292.png",
+        "alt": "Image 292",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d22-arcade-level-complete-screen",
+    "title": "Arcade Level Complete Screen",
+    "prompt": "Transform the subject into a classic arcade level-complete screen. Add a triumphant pose or central object, score tally, rank grade, bonus points, collectibles found, timer, stage name, flashing UI elements, and colorful celebratory effects. Make it feel like a satisfying end-of-level victory moment.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/293.png",
+        "alt": "Image 293",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d23-fictional-game-patch-notes",
+    "title": "Fictional Game Patch Notes",
+    "prompt": "Reimagine this image as a humorous game patch notes screen. Present the subject as a playable character, enemy, vehicle, or item receiving buffs, nerfs, bug fixes, balance changes, and developer comments. Use clean launcher UI, icons, version number, highlighted changes, and witty but readable text blocks.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/294.png",
+        "alt": "Image 294",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d24-legendary-loot-reveal",
+    "title": "Legendary Loot Reveal",
+    "prompt": "Transform the subject into a legendary loot reward reveal screen. Show the item or character floating dramatically in a glowing reward chamber with rarity label, stats, special effects, unlock text, particle bursts, and premium game UI. Make it feel exciting, rare, and collectible.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/295.png",
+        "alt": "Image 295",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d25-japanese-arcade-cabinet-instruction-card",
+    "title": "Japanese Arcade Cabinet Instruction Card",
+    "prompt": "Recreate this image as a colorful Japanese arcade cabinet instruction card. Include character art, button diagrams, combo moves, safety warnings, score tips, dense layout, bright stickers, tiny screenshots, and laminated plastic texture. Make it look mounted above real arcade controls.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/296.png",
+        "alt": "Image 296",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d26-cutaway-architectural-model",
+    "title": "Cutaway Architectural Model",
+    "prompt": "Transform this image into a detailed cutaway architectural model. Convert the scene into a building or miniature structure sliced open to reveal rooms, corridors, tiny figures, furniture, lighting, and layered activity inside. Use clean model-making materials, precise scale, and museum-quality presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/297.png",
+        "alt": "Image 297",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d27-exploded-patent-diagram",
+    "title": "Exploded Patent Diagram",
+    "prompt": "Turn the subject or main object into an exploded technical patent diagram. Separate components into floating layers with thin leader lines, part numbers, cross-section views, labels, and precise monochrome drafting. Keep the image elegant, engineered, and slightly absurd if the subject is organic.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/298.png",
+        "alt": "Image 298",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d28-collectible-cereal-box",
+    "title": "Collectible Cereal Box",
+    "prompt": "Transform this image into a collectible cereal box design. Make the subject a cheerful mascot or featured flavor, with bold front packaging, nutrition-style side panel, prize promotion, maze or mini-game on the back, bright supermarket colors, and crunchy breakfast-commercial energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/299.png",
+        "alt": "Image 299",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d29-cake-topper-figurine",
+    "title": "Cake Topper Figurine",
+    "prompt": "Reimagine the subject as a small decorative cake topper figurine. Place the mini figure on frosting with sprinkles, candles, edible decorations, and realistic bakery lighting. Use glossy icing, sculpted sugar details, toy-like proportions, and a celebratory birthday or wedding-cake presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/300.png",
+        "alt": "Image 300",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d30-translucent-gelatin-sculpture",
+    "title": "Translucent Gelatin Sculpture",
+    "prompt": "Transform the subject into a translucent gelatin sculpture. Preserve the recognizable silhouette while rendering it as colorful wobbly jelly with subsurface scattering, tiny air bubbles, glossy highlights, soft studio lighting, and a surreal dessert-like display on a simple plate or pedestal.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/301.png",
+        "alt": "Image 301",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d31-miniature-theme-park-attraction",
+    "title": "Miniature Theme Park Attraction",
+    "prompt": "Turn the image into a miniature theme park attraction. Rebuild the subject or scene as the central ride, surrounded by tiny visitors, queue lines, signage, lights, themed buildings, souvenir stands, and playful scale details. Use colorful diorama realism and joyful amusement-park energy.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/302.png",
+        "alt": "Image 302",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d32-papercraft-template-kit",
+    "title": "Papercraft Template Kit",
+    "prompt": "Convert the subject into a printable papercraft kit sheet. Show flat cut-out parts with fold lines, tabs, numbers, glue indicators, simple instructions, and a small preview of the assembled model. Use clean vector shapes, crisp outlines, and a believable DIY craft magazine layout.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/303.png",
+        "alt": "Image 303",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d33-art-nouveau-poster",
+    "title": "Art Nouveau Poster",
+    "prompt": "Transform this image into an elegant Art Nouveau poster. Use flowing organic curves, ornamental floral borders, elongated graceful forms, decorative typography, soft muted colors, and a refined turn-of-the-century lithograph texture. Make the subject feel iconic, romantic, and beautifully framed.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/304.png",
+        "alt": "Image 304",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d34-bauhaus-poster",
+    "title": "Bauhaus Poster",
+    "prompt": "Reimagine this image as a Bauhaus poster. Reduce the subject into bold geometric forms, asymmetrical layout, primary color blocks, strict grid alignment, sans-serif typography, and functional modernist composition. Keep it clean, experimental, and print-design focused.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/305.png",
+        "alt": "Image 305",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d35-psychedelic-60s-concert-poster",
+    "title": "Psychedelic 60s Concert Poster",
+    "prompt": "Turn this image into a psychedelic 1960s concert poster. Use swirling organic lettering, vibrating acid colors, distorted shapes, ornamental borders, high-energy screen-print texture, and a trippy stage-poster composition. The subject should become the headline act or central symbol.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/306.png",
+        "alt": "Image 306",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d36-ancient-damaged-fresco",
+    "title": "Ancient Damaged Fresco",
+    "prompt": "Transform this image into an ancient damaged fresco discovered on a ruined wall. Use faded mineral pigments, cracked plaster, missing fragments, weathered edges, simplified classical figures, and uneven surface texture. Make it feel archaeological, fragile, and historically mysterious.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/307.png",
+        "alt": "Image 307",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d37-esoteric-tarot-card",
+    "title": "Esoteric Tarot Card",
+    "prompt": "Reimagine the subject as an ornate tarot card. Place the central figure or object inside a decorative mystical frame with symbolic objects, celestial motifs, roman numeral, arcane title, subtle gold accents, and aged card texture. Make it mysterious, balanced, and readable as a real card.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/308.png",
+        "alt": "Image 308",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d38-rpg-monster-bestiary-card",
+    "title": "RPG Monster Bestiary Card",
+    "prompt": "Turn this image into a tabletop RPG monster bestiary card. Reinterpret the subject as a creature, entity, or legendary NPC with illustrated portrait, threat level, habitat, behavior notes, abilities, weaknesses, and small field-sketch details. Use fantasy manual design, not medieval manuscript styling.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/309.png",
+        "alt": "Image 309",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d39-vintage-circus-poster",
+    "title": "Vintage Circus Poster",
+    "prompt": "Transform this image into a vintage circus poster. Present the subject as the star attraction with dramatic hand-painted illustration, bold decorative lettering, striped tent motifs, aged paper, spectacle-focused slogans, and an energetic showbill layout. Make it colorful, theatrical, and slightly strange.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/310.png",
+        "alt": "Image 310",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d40-pop-up-childrens-book-cover",
+    "title": "Pop-Up Children's Book Cover",
+    "prompt": "Reimagine this image as the cover of a pop-up children's book. Use layered paper depth, cheerful illustrated characters, bright inviting colors, playful title typography, soft shadows between paper layers, and a whimsical storybook world that feels ready to open into 3D.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/311.png",
+        "alt": "Image 311",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d41-public-monument-statue",
+    "title": "Public Monument Statue",
+    "prompt": "Transform the subject into a monumental public statue in a city square. Use bronze, stone, or weathered metal materials, heroic scale, engraved plaque, birds, visitors, surrounding architecture, and dramatic civic lighting. Make it feel like a famous landmark with exaggerated importance.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/312.png",
+        "alt": "Image 312",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d42-view-through-scientific-instrument",
+    "title": "View Through Scientific Instrument",
+    "prompt": "Reframe the image as seen through a scientific instrument such as a microscope, telescope, or observation lens. Use circular framing, measurement marks, optical distortion, labels, data readouts, dust on glass, and a sense that the subject is being carefully studied or discovered.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/313.png",
+        "alt": "Image 313",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d43-archaeological-before-after-reconstruction",
+    "title": "Archaeological Before / After Reconstruction",
+    "prompt": "Create an archaeological before-and-after reconstruction based on the image. Split the composition into two connected halves: one showing the subject as ruins, fragments, or recovered evidence, and the other showing a vivid reconstruction of its original grandeur. Add labels, excavation marks, and museum-documentary styling.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/314.png",
+        "alt": "Image 314",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d44-four-era-character-evolution",
+    "title": "Four-Era Character Evolution",
+    "prompt": "Transform the subject into a four-panel character evolution chart. Show the same person, object, or creature across four eras: ancient past, modern day, near future, and far future. Keep the core identity recognizable while changing clothing, technology, environment, and visual language in each panel.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/315.png",
+        "alt": "Image 315",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d45-emotional-weather-map",
+    "title": "Emotional Weather Map",
+    "prompt": "Reinterpret the mood of the image as a detailed weather map. Convert emotions, tension, humor, or atmosphere into pressure zones, storm fronts, temperature gradients, lightning icons, radar patterns, and meteorological labels. Use polished broadcast weather graphics with surreal symbolic meaning.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/316.png",
+        "alt": "Image 316",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d46-surreal-fantasy-tribunal",
+    "title": "Surreal Fantasy Tribunal",
+    "prompt": "Transform this image into a surreal fantasy tribunal scene. Place the subject at the center of an impossible courtroom with towering judges, symbolic evidence, strange architecture, dramatic overhead light, and solemn theatrical composition. Keep the tone mysterious and grand rather than violent or graphic.",
+    "category": "Horreur / Étrange",
+    "images": [
+      {
+        "src": "images/317.png",
+        "alt": "Image 317",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d47-modern-subway-stained-glass",
+    "title": "Modern Subway Stained Glass",
+    "prompt": "Reimagine the subject as a large stained-glass artwork installed in a modern subway station. Use colored glass panels, black leading lines, platform lighting, commuters, tiled walls, architectural reflections, and a public-art feeling. Keep it contemporary rather than church-like.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/318.png",
+        "alt": "Image 318",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-d-d48-retro-pharmaceutical-ad",
+    "title": "Retro Pharmaceutical Ad",
+    "prompt": "Transform this image into a strange retro pharmaceutical advertisement. Use a clean smiling subject, pastel medical colors, overly reassuring slogans, fine-print disclaimers, product box mockup, doctor-office setting, and mid-century magazine layout. Make it polished, slightly absurd, and intentionally uncanny.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/319.png",
+        "alt": "Image 319",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
