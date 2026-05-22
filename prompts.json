@@ -5250,5 +5250,655 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-f-f1-airline-safety-card",
+    "title": "Airline Safety Card",
+    "prompt": "Transform this image into a vintage airline safety instruction card. Use flat diagram-style illustrations, simplified human poses, numbered emergency steps, seatbelt icons, airplane cabin panels, muted printed colors, and slightly aged laminated paper texture. Keep the subject recognizable while making the entire image feel like an official in-flight safety card.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/349.png",
+        "alt": "Image 349",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f2-library-checkout-card",
+    "title": "Library Checkout Card",
+    "prompt": "Reimagine this image as an old library checkout card tucked inside a book pocket. Use stamped due dates, typewriter text, faded ink, manila paper texture, catalog numbers, handwritten notes, and a small printed portrait or illustration of the subject as if archived in a forgotten public library.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/350.png",
+        "alt": "Image 350",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f3-self-checkout-error-screen",
+    "title": "Self-Checkout Error Screen",
+    "prompt": "Transform this image into a chaotic self-checkout machine error screen. Show the subject embedded inside a supermarket kiosk UI with barcode scans, “unexpected item in bagging area” warnings, receipt previews, blinking red prompts, plastic buttons, fluorescent store lighting, and absurd but believable retail interface design.",
+    "category": "Faux systèmes / interfaces",
+    "images": [
+      {
+        "src": "images/351.png",
+        "alt": "Image 351",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f4-retro-gps-navigation-screen",
+    "title": "Retro GPS Navigation Screen",
+    "prompt": "Turn this image into a 2000s car GPS navigation screen. Use chunky low-resolution UI elements, a simplified road map, route arrows, ETA box, outdated icons, plastic dashboard reflections, and a slightly washed-out LCD display. Make the subject part of the route destination or map marker.",
+    "category": "Faux systèmes / interfaces",
+    "images": [
+      {
+        "src": "images/352.png",
+        "alt": "Image 352",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f5-airline-boarding-pass-portrait",
+    "title": "Airline Boarding Pass Portrait",
+    "prompt": "Transform this image into a stylized airline boarding pass and passport-control document collage. Include barcode strips, seat number, gate number, airport codes, passport stamp textures, security markings, and a small official-looking portrait of the subject. Use realistic paper folds and travel-document design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/353.png",
+        "alt": "Image 353",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f6-museum-audio-guide-display",
+    "title": "Museum Audio Guide Display",
+    "prompt": "Reimagine the subject as an exhibit shown on a museum audio guide screen. Include a small device interface, exhibit number, play button, waveform, multilingual labels, muted museum lighting, and a tiny thumbnail of the artwork or artifact. Make it feel like a real handheld museum guide.",
+    "category": "Faux systèmes / interfaces",
+    "images": [
+      {
+        "src": "images/354.png",
+        "alt": "Image 354",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f7-courtroom-sketch-artist-drawing",
+    "title": "Courtroom Sketch Artist Drawing",
+    "prompt": "Transform this image into a courtroom sketch artist illustration. Use colored pencil and pastel textures on rough paper, slightly exaggerated but recognizable facial features, courtroom benches, legal pads, serious expressions, and documentary news-report framing. Keep the tone dramatic but not violent.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/355.png",
+        "alt": "Image 355",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f8-passport-stamp-world-tour",
+    "title": "Passport Stamp World Tour",
+    "prompt": "Turn this image into a travel-worn passport page filled with colorful stamps, visa stickers, handwritten customs notes, faded ink, and a small official portrait of the subject. Use realistic paper texture, overlapping stamp marks, and a well-traveled archival aesthetic.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/356.png",
+        "alt": "Image 356",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f9-retro-tax-form-nightmare",
+    "title": "Retro Tax Form Nightmare",
+    "prompt": "Transform this image into an absurd tax form document from the 1980s. Use typewriter fields, official stamps, tiny checkboxes, dense instructions, photocopy texture, highlighted mistakes, and a serious bureaucratic layout. The subject should appear as a tiny official ID photo or printed diagram.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/357.png",
+        "alt": "Image 357",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f10-grocery-store-weekly-flyer",
+    "title": "Grocery Store Weekly Flyer",
+    "prompt": "Reimagine this image as a colorful grocery store weekly flyer. Use bold discount stickers, cut-out product photography, halftone print texture, loud sale typography, coupon boxes, and crowded supermarket-ad layout. Make the subject appear as the featured absurd “deal of the week.”",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/358.png",
+        "alt": "Image 358",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f11-vintage-banknote-from-a-fictional-country",
+    "title": "Vintage Banknote from a Fictional Country",
+    "prompt": "Transform this image into a highly detailed banknote from a fictional country. Use engraved portrait linework, ornate borders, serial numbers, security patterns, microtext, seals, decorative symbols, and formal currency composition. Avoid copying any real currency exactly.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/359.png",
+        "alt": "Image 359",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f12-1970s-cooking-magazine-cover",
+    "title": "1970s Cooking Magazine Cover",
+    "prompt": "Turn this image into a 1970s cooking magazine cover. Use warm faded colors, retro food photography, awkward plated dishes, bold serif headlines, kitchen props, glossy magazine wear, and charmingly dated editorial layout. Make the subject part of the featured cover story.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/360.png",
+        "alt": "Image 360",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f13-public-access-tv-interview",
+    "title": "Public Access TV Interview",
+    "prompt": "Transform this image into a low-budget public access TV interview from the 1990s. Use harsh studio lights, cheap curtains, VHS blur, awkward lower-third text, mismatched chairs, visible microphones, and a sincere local-TV atmosphere.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/361.png",
+        "alt": "Image 361",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f14-old-computer-shareware-box",
+    "title": "Old Computer Shareware Box",
+    "prompt": "Reimagine this image as a 1990s shareware PC software box. Use chunky graphic design, fake system requirements, CD-ROM badges, pixelated preview screenshots, plastic jewel case elements, and colorful outdated technology branding. Make it look like software found in a bargain bin.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/362.png",
+        "alt": "Image 362",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f15-toy-instruction-leaflet",
+    "title": "Toy Instruction Leaflet",
+    "prompt": "Transform this image into a folded toy instruction leaflet. Use black-and-white assembly diagrams, numbered steps, arrows, safety icons, tiny part labels, multilingual warnings, and thin paper creases. The subject should be broken down into harmless toy components and assembly views.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/363.png",
+        "alt": "Image 363",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f16-mall-photo-studio-portrait",
+    "title": "Mall Photo Studio Portrait",
+    "prompt": "Redo this image as a 1990s mall portrait studio photo. Use soft glamour lighting, fake cloudy backdrop, awkward pose, fuzzy vignette, pastel laser effects, and slightly overprocessed print texture. Make it feel like an authentic framed mall photo.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/364.png",
+        "alt": "Image 364",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f17-hotel-room-service-menu",
+    "title": "Hotel Room Service Menu",
+    "prompt": "Transform this image into a luxury hotel room service menu. Use elegant typography, cream paper texture, food item listings, subtle gold accents, item prices, a small stylized illustration of the subject, and polished hospitality branding.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/365.png",
+        "alt": "Image 365",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f18-retro-science-fair-display-board",
+    "title": "Retro Science Fair Display Board",
+    "prompt": "Reimagine this image as a school science fair trifold display board. Include hand-cut titles, printed graphs, marker arrows, construction paper borders, photos taped to the board, simple diagrams, and a proud student-project presentation style.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/366.png",
+        "alt": "Image 366",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f19-vintage-warranty-registration-card",
+    "title": "Vintage Warranty Registration Card",
+    "prompt": "Turn this image into an old product warranty registration card. Use perforated paper edges, checkboxes, serial number fields, mail-in form layout, faded blue ink, product diagram thumbnails, and a slightly bureaucratic consumer-product aesthetic.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/367.png",
+        "alt": "Image 367",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f20-classic-arcade-high-score-screen",
+    "title": "Classic Arcade High Score Screen",
+    "prompt": "Transform this image into a classic arcade high score screen. Use glowing CRT pixels, three-letter initials, score rankings, colorful cabinet reflections, “insert coin” text, scanlines, and a celebratory retro game-over interface. The subject should appear as the champion avatar or boss icon.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/368.png",
+        "alt": "Image 368",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f21-fake-festival-wristband",
+    "title": "Fake Festival Wristband",
+    "prompt": "Reimagine this image as a close-up of a colorful music festival wristband and event pass. Use fabric texture, holographic foil, QR code, torn edges, security markings, date stamps, and a small stylized portrait or mascot version of the subject.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/369.png",
+        "alt": "Image 369",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f22-old-classroom-overhead-projector-slide",
+    "title": "Old Classroom Overhead Projector Slide",
+    "prompt": "Transform this image into a transparent overhead projector slide from an old classroom. Use hand-drawn marker notes, acetate reflections, colored annotation arrows, slight smudges, projected wall glow, and educational diagram styling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/370.png",
+        "alt": "Image 370",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f23-mini-golf-course-diorama",
+    "title": "Mini Golf Course Diorama",
+    "prompt": "Turn the subject into a whimsical miniature golf course attraction. Use artificial turf, tiny obstacles, colorful fiberglass props, scorecard signage, soft outdoor lighting, and believable scale-model details. Make the subject part of the themed hole design.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/371.png",
+        "alt": "Image 371",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f24-retro-motel-sign",
+    "title": "Retro Motel Sign",
+    "prompt": "Transform this image into a glowing retro roadside motel sign. Use neon tubes, chipped paint, desert highway atmosphere, buzzing lights, weathered metal, and a stylized portrait or symbol of the subject integrated into the sign design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/372.png",
+        "alt": "Image 372",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f25-mechanical-clockwork-diagram",
+    "title": "Mechanical Clockwork Diagram",
+    "prompt": "Reimagine this image as an intricate mechanical clockwork diagram. Use brass gears, springs, labeled moving parts, transparent cutaway layers, antique engineering paper, fine ink annotations, and a believable handcrafted mechanism inspired by the subject.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/373.png",
+        "alt": "Image 373",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f26-1960s-educational-film-frame",
+    "title": "1960s Educational Film Frame",
+    "prompt": "Transform this image into a frame from a 1960s educational film. Use faded color film stock, classroom narration vibe, labeled props, awkward demonstration staging, simple instructional composition, and mild film scratches.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/374.png",
+        "alt": "Image 374",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f27-fake-museum-restoration-report",
+    "title": "Fake Museum Restoration Report",
+    "prompt": "Turn this image into a museum conservation restoration report. Include before-and-after panels, condition notes, archival labels, tiny damage maps, neutral studio documentation lighting, and formal museum paperwork design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/375.png",
+        "alt": "Image 375",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f28-antique-magic-lantern-slide",
+    "title": "Antique Magic Lantern Slide",
+    "prompt": "Reimagine this image as an antique hand-painted magic lantern slide. Use glass plate borders, faded translucent pigments, soft projection glow, dust specks, historical illustration style, and a theatrical Victorian presentation.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/376.png",
+        "alt": "Image 376",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f29-boardwalk-fortune-teller-machine",
+    "title": "Boardwalk Fortune Teller Machine",
+    "prompt": "Transform the subject into a vintage boardwalk fortune teller machine. Use a glass cabinet, animatronic figure styling, glowing crystal ball, coin slot, painted wooden trim, carnival lights, and slightly mysterious but playful arcade atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/377.png",
+        "alt": "Image 377",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f30-old-recipe-card-box",
+    "title": "Old Recipe Card Box",
+    "prompt": "Turn this image into a handwritten family recipe card inside an old recipe box. Use index card texture, food stains, cursive notes, taped photo corners, faded ink, kitchen-counter lighting, and a nostalgic homemade archive feeling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/378.png",
+        "alt": "Image 378",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f31-retro-rpg-dialogue-scene",
+    "title": "Retro RPG Dialogue Scene",
+    "prompt": "Reimagine this image as a retro RPG dialogue scene. Use pixel-art characters, a text box at the bottom, small character portraits, simple environmental tiles, menu icons, and a dramatic or funny dialogue line inspired by the subject. Make it feel like a key story moment in a classic console RPG.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/379.png",
+        "alt": "Image 379",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f32-boss-battle-intro-screen",
+    "title": "Boss Battle Intro Screen",
+    "prompt": "Turn this image into a dramatic boss battle intro screen. Present the subject as the boss character or final challenge, with a huge name title, health bar, ominous arena background, warning UI, glowing effects, and cinematic game lighting. Make the image feel like the fight is about to begin.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/380.png",
+        "alt": "Image 380",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f33-cozy-farming-game-scene",
+    "title": "Cozy Farming Game Scene",
+    "prompt": "Transform this image into a cozy farming life-sim game scene. Use cute stylized proportions, soft colors, tiny crops, animals, crafting icons, inventory UI, seasonal decorations, and a peaceful village atmosphere. Make the subject feel like a playable villager or farm mascot.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/381.png",
+        "alt": "Image 381",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f34-loading-screen-tip",
+    "title": "Loading Screen Tip",
+    "prompt": "Transform this image into a video game loading screen. Feature the subject as key artwork on one side, with a progress bar, gameplay tip, small rotating icon, background concept art, and clean UI layout. Make it feel like an official loading screen from a polished game.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/382.png",
+        "alt": "Image 382",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f35-fighting-game-victory-pose",
+    "title": "Fighting Game Victory Pose",
+    "prompt": "Transform this image into a fighting game victory screen. Show the subject in a confident victory pose with “WINNER” style UI, health bars, round markers, dramatic background, confetti or impact effects, and a short victory quote. Keep it polished like a modern arcade fighting game.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/383.png",
+        "alt": "Image 383",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f36-dungeon-crawler-map-screen",
+    "title": "Dungeon Crawler Map Screen",
+    "prompt": "Reimagine this image as a dungeon crawler map screen. Include a grid-based dungeon layout, fog-of-war, treasure icons, enemy markers, party status portraits, torchlit stone textures, and a highlighted objective. Make the subject part of the dungeon theme, boss marker, or party avatar.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/384.png",
+        "alt": "Image 384",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f37-visual-novel-choice-scene",
+    "title": "Visual Novel Choice Scene",
+    "prompt": "Transform this image into a visual novel choice scene. Use a polished illustrated background, expressive character portrait, dialogue box, branching choice buttons, soft lighting, and emotional framing. Make the subject central to a dramatic or funny decision moment.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/385.png",
+        "alt": "Image 385",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f38-racing-game-garage-menu",
+    "title": "Racing Game Garage Menu",
+    "prompt": "Turn this image into a racing game garage customization screen. Show the subject as a vehicle, driver, mascot, or custom decal with upgrade menus, speed stats, color options, neon garage lighting, tool cabinets, and glossy UI panels.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/386.png",
+        "alt": "Image 386",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f39-creature-capture-pokedex-style-entry",
+    "title": "Creature Capture Pokédex-Style Entry",
+    "prompt": "Transform the subject into an original creature capture encyclopedia entry. Show a cute or strange creature design inspired by the image, with type icons, height, weight, habitat, evolution hint, flavor text, and clean handheld-game UI. Avoid copying any existing franchise designs directly.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/387.png",
+        "alt": "Image 387",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f40-gashapon-prize-lineup",
+    "title": "Gashapon Prize Lineup",
+    "prompt": "Transform this image into a complete Japanese gashapon prize lineup. Show multiple tiny collectible variants of the subject arranged on a printed product sheet, with capsule toys, rarity icons, small accessories, glossy plastic, and colorful vending-machine branding.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/388.png",
+        "alt": "Image 388",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f41-rubber-duck-version",
+    "title": "Rubber Duck Version",
+    "prompt": "Reimagine the subject as a rubber bath toy. Use smooth yellow or brightly colored rubber material, simplified rounded shape, tiny painted features, glossy wet reflections, bathtub bubbles, and playful bathroom lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/389.png",
+        "alt": "Image 389",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f42-play-doh-sculpture",
+    "title": "Play-Doh Sculpture",
+    "prompt": "Reimagine the subject as a Play-Doh-style handmade sculpture. Use soft colorful modeling compound, fingerprints, rounded handmade shapes, simple sculpted details, craft table setting, and playful children’s art texture.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/390.png",
+        "alt": "Image 390",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f43-ceramic-figurine",
+    "title": "Ceramic Figurine",
+    "prompt": "Transform the subject into a glossy ceramic shelf figurine. Use smooth porcelain-like material, delicate painted details, reflective glaze, small base, soft display lighting, and a charming collectible ornament style.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/391.png",
+        "alt": "Image 391",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f44-toy-cash-register-scanner-figure",
+    "title": "Toy Cash Register Scanner Figure",
+    "prompt": "Transform the subject into a playful toy cash register accessory. Show it as a small plastic item being scanned, with fake barcode sticker, toy money, chunky buttons, pretend store packaging, and bright preschool toy colors.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/392.png",
+        "alt": "Image 392",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f45-puzzle-toy-block-set",
+    "title": "Puzzle Toy Block Set",
+    "prompt": "Reimagine the subject as a set of interlocking puzzle blocks. Break the design into colorful plastic pieces with visible seams, numbered parts, assembly hints, toy instruction sheet, and a partially completed build on a tabletop.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/393.png",
+        "alt": "Image 393",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f46-inflatable-pool-toy",
+    "title": "Inflatable Pool Toy",
+    "prompt": "Transform the subject into an inflatable pool toy. Use shiny vinyl material, visible air valves, seams, playful exaggerated proportions, water reflections, summer pool setting, and realistic inflated plastic texture.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/394.png",
+        "alt": "Image 394",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f47-miniature-snow-village-figure",
+    "title": "Miniature Snow Village Figure",
+    "prompt": "Turn this image into a miniature holiday village collectible. Make the subject part of a tiny painted resin scene with snowy rooftops, warm window lights, scale figures, glitter snow, and a cozy display shelf atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/395.png",
+        "alt": "Image 395",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f48-puzzle-box-packaging",
+    "title": "Puzzle Box Packaging",
+    "prompt": "Transform this image into a classic jigsaw puzzle box. Show the subject as the main puzzle artwork on the box lid, with scattered puzzle pieces, piece count label, age rating, glossy cardboard texture, and cozy tabletop lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/396.png",
+        "alt": "Image 396",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f49-toy-claw-machine-prize",
+    "title": "Toy Claw Machine Prize",
+    "prompt": "Reimagine the subject as a prize inside an arcade claw machine. Surround it with plush toys or capsules, glass reflections, joystick controls, bright arcade lights, prize chute, and the claw hovering above.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/397.png",
+        "alt": "Image 397",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-f-f50-collectible-eraser-toy",
+    "title": "Collectible Eraser Toy",
+    "prompt": "Transform the subject into a collectible Japanese eraser toy. Use matte rubber texture, small rounded shape, removable parts, pastel colors, tiny packaging tray, and school-supply store presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/398.png",
+        "alt": "Image 398",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
