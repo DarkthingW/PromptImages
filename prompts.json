@@ -4873,5 +4873,18 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-c-pubg-ai-character-selection",
+    "title": "PUBG AI Character Selection",
+    "prompt": "Transform the uploaded person image into a PUBG-style character selection screen.\n\nOn the right side, show a full-body portrait of the person standing upright at a 45-degree angle, facing the UI panel on the left.\n\nPreserve the person’s real face, hairstyle, expression, and original outfit exactly as in the uploaded image, but enhance the outfit’s texture and detail so it looks like a polished PUBG skin while staying authentic to the original clothing.\n\nIf the input image is half-body, naturally complete the lower body with matching style and proportions.\n\nOn the left side, create a parody PUBG-style skill panel with metallic UI panels and glowing highlights.\n\nALL TEXT MUST BE IN ENGLISH.\n\nAnalyze the person’s appearance, posture, facial expression, clothing, vibe, accessories, and overall energy from the uploaded image.\n\nBased on that analysis, automatically generate:\n- 2 funny SKILLS\n- 2 funny WEAPONS\n- 1 PASSIVE SKILL\n- 1 humorous passive skill description\n- 1 custom stat meter replacing the traditional HP bar\n\nThe generated abilities must:\n- feel personalized to the person in the image\n- be playful and exaggerated\n- remain lighthearted and non-offensive\n- resemble absurd PUBG/RPG abilities\n- match the visual personality of the character\n\nExamples of possible tones:\n- chaotic energy\n- exhausted office worker\n- overconfident gamer\n- caffeine addict\n- mysterious introvert\n- gym warrior\n- sleepy survivor\n- tech support final boss\n- socially awkward sniper\n- emotionally unavailable tank\n\nDo NOT reuse generic abilities unless they visually fit the person.\n\nUI STRUCTURE:\n\nFirst Metallic Panel:\nSKILLS\n- AI-generated skill #1\n- AI-generated skill #2\n\nSecond Metallic Panel:\nWEAPONS\n- AI-generated weapon #1\n- AI-generated weapon #2\n\nThird Metallic Panel:\nPASSIVE SKILL\n- AI-generated passive name\n- humorous one-line description\n\nBeside the panels, add:\n- a custom AI-generated stat meter name replacing the traditional HP bar\n(example: SOCIAL BATTERY, ANXIETY LEVEL, CAFFEINE POWER, BACK PAIN, CONFIDENCE, CHAOS ENERGY, etc.)\n\nAdd matching icons for every skill, weapon, passive skill, and stat meter.\n\nBackground:\n- dark navy to steel gray gradient\n- cinematic lighting\n- subtle glow effects\n- polished PUBG lobby atmosphere\n- metallic sci-fi UI elements\n- realistic shadows and reflections\n\nThe final image should feel like an authentic PUBG character selection interface with a funny parody twist while keeping the character ultra-realistic.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/320.png",
+        "alt": "Image 320",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
