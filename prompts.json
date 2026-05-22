@@ -4886,5 +4886,369 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-e-e1-save-corruption-screen",
+    "title": "Save Corruption Screen",
+    "prompt": "Transform this image into a corrupted video game save file screen. Show broken thumbnails, glitched file names, missing texture icons, distorted character portraits, warning messages, fragmented UI panels, and a haunted console-menu atmosphere. Make it feel like the player just discovered a damaged save file with mysterious traces of the subject still visible.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/321.png",
+        "alt": "Image 321",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e2-speedrun-timer-overlay",
+    "title": "Speedrun Timer Overlay",
+    "prompt": "Reimagine this image as a live speedrun gameplay screen. Add a split timer overlay, segment names, personal best comparisons, input display, tiny webcam frame, chat messages, and high-pressure gameplay UI. The subject should appear as the game character, boss, obstacle, or objective being rushed through.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/322.png",
+        "alt": "Image 322",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e3-game-boy-camera-portrait",
+    "title": "Game Boy Camera Portrait",
+    "prompt": "Transform this image into a Game Boy Camera-style portrait. Use harsh monochrome dithering, extremely low resolution, playful distorted facial capture, tiny handheld-console frame, pixel noise, retro menu icons, and a weird experimental 1990s portable-camera aesthetic.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/323.png",
+        "alt": "Image 323",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e4-dreamcast-vmu-mini-game",
+    "title": "Dreamcast VMU Mini Game",
+    "prompt": "Turn this image into a tiny Dreamcast VMU mini-game screen. Use a simple monochrome LCD display, chunky pixel sprites, minimal UI, button prompts, tiny score counter, and the subject simplified into a charming handheld mini-game character.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/324.png",
+        "alt": "Image 324",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e5-arcade-attract-mode-demo",
+    "title": "Arcade Attract Mode Demo",
+    "prompt": "Transform this image into an arcade attract-mode screen. Add flashing “PRESS START” text, gameplay demonstration panels, looping character animation feel, high-score teaser, cabinet reflection, saturated colors, and dramatic arcade lighting. Make it feel like the game is trying to lure players in.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/325.png",
+        "alt": "Image 325",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e6-game-over-continue-countdown",
+    "title": "Game Over Continue Countdown",
+    "prompt": "Reimagine this image as a dramatic retro arcade “Continue?” countdown screen. Show the subject frozen in a defeated or exaggerated pose, large countdown numbers, flashing warning text, coin prompt, dark vignette, CRT scanlines, and intense game-over tension.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/326.png",
+        "alt": "Image 326",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e7-fake-cheat-code-magazine-page",
+    "title": "Fake Cheat Code Magazine Page",
+    "prompt": "Transform this image into a 1990s video game cheat-code magazine page. Include secret button combinations, fake unlockable modes, grainy screenshots, bold arrows, margin notes, “hidden trick” callouts, and colorful magazine layout. The subject should be presented as a secret character, hidden boss, or unlockable costume.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/327.png",
+        "alt": "Image 327",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e8-retro-handheld-lcd-game",
+    "title": "Retro Handheld LCD Game",
+    "prompt": "Turn this image into a retro handheld LCD game. Use fixed black LCD segments, simple repeating character poses, plastic handheld casing, score numbers, tiny buttons, muted gray-green screen, and toy-like electronic game design from the 1980s.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/328.png",
+        "alt": "Image 328",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e9-game-manual-controls-page",
+    "title": "Game Manual Controls Page",
+    "prompt": "Reimagine this image as a printed video game manual controls page. Show controller diagrams, labeled buttons, character move examples, warning boxes, grayscale screenshots, paper texture, and instructional captions. The subject should be used to demonstrate actions, poses, or special abilities.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/329.png",
+        "alt": "Image 329",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e10-tamagotchi-virtual-pet",
+    "title": "Tamagotchi Virtual Pet",
+    "prompt": "Transform the subject into a tiny virtual pet on a Tamagotchi-style device. Use simple pixel animation frames, hunger/happiness meters, plastic egg-shaped casing, tiny buttons, cute status icons, and a playful handheld digital pet interface.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/330.png",
+        "alt": "Image 330",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e11-arcade-rhythm-results-screen",
+    "title": "Arcade Rhythm Results Screen",
+    "prompt": "Transform this image into a rhythm arcade results screen. Show grade ranking, combo count, accuracy percentage, note judgments, glowing music UI, stage lights, and a celebratory results pose. Make the subject appear as the performer, avatar, or song mascot.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/331.png",
+        "alt": "Image 331",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e12-retro-lan-party-screenshot",
+    "title": "Retro LAN Party Screenshot",
+    "prompt": "Reimagine this image as a chaotic late-1990s LAN party gaming moment. Include bulky CRT monitors, tangled cables, pizza boxes, beige PCs, glowing desktop screens, multiplayer scoreboard, and grainy flash-photo lighting. The subject should be integrated as the player avatar, screen character, or central gamer.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/332.png",
+        "alt": "Image 332",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e13-view-master-reel",
+    "title": "View-Master Reel",
+    "prompt": "Transform this image into a View-Master reel and viewer scene. Show circular cardboard reels with tiny stereo image frames, a red plastic viewer, nostalgic toy packaging, warm tabletop lighting, and miniature scenes of the subject visible inside the reel windows.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/333.png",
+        "alt": "Image 333",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e14-etch-a-sketch-drawing",
+    "title": "Etch A Sketch Drawing",
+    "prompt": "Reimagine this image as an Etch A Sketch toy drawing. Use a red plastic frame, silver-gray screen, continuous single-line drawing style, mechanical knob controls, faint shaky lines, and a simplified but recognizable version of the subject.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/334.png",
+        "alt": "Image 334",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e15-spirograph-art-toy",
+    "title": "Spirograph Art Toy",
+    "prompt": "Transform this image into a Spirograph-style art toy creation. Build the subject from intricate looping geometric curves, colorful pen lines, plastic gear templates, paper texture, and a tabletop craft setup with scattered drawing tools.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/335.png",
+        "alt": "Image 335",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e16-lite-brite-peg-art",
+    "title": "Lite-Brite Peg Art",
+    "prompt": "Turn this image into a Lite-Brite peg art display. Use glowing translucent colored pegs on a black grid board, simple pixel-like shapes, dark room lighting, plastic toy frame, and a bright recognizable silhouette of the subject.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/336.png",
+        "alt": "Image 336",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e17-wooden-nesting-dolls",
+    "title": "Wooden Nesting Dolls",
+    "prompt": "Transform the subject into a set of wooden nesting dolls. Show multiple opened dolls arranged by size, hand-painted glossy wood texture, repeated simplified versions of the subject, floral or decorative patterns, and warm folk-art studio lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/337.png",
+        "alt": "Image 337",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e18-foam-puzzle-mat-toy",
+    "title": "Foam Puzzle Mat Toy",
+    "prompt": "Reimagine this image as a children’s foam puzzle mat. Use interlocking EVA foam pieces, bright flat colors, alphabet or number details, soft rounded edges, and the subject simplified into a playful floor-toy illustration.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/338.png",
+        "alt": "Image 338",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e19-rubber-stamp-set",
+    "title": "Rubber Stamp Set",
+    "prompt": "Transform this image into a rubber stamp toy set. Show wooden stamp handles, ink pads, stamped impressions of the subject on paper, slightly uneven ink texture, packaging tray, and playful craft-table presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/339.png",
+        "alt": "Image 339",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e20-sticker-album-collectible-page",
+    "title": "Sticker Album Collectible Page",
+    "prompt": "Reimagine this image as a collectible sticker album page. Show glossy stickers of the subject, empty numbered slots, foil rare variant, printed album grid, peel edges, colorful borders, and nostalgic trading-sticker layout.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/340.png",
+        "alt": "Image 340",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e21-toy-microscope-slide",
+    "title": "Toy Microscope Slide",
+    "prompt": "Transform this image into a children’s toy microscope discovery scene. Show a plastic microscope, labeled slide, enlarged playful “specimen” version of the subject, bright educational toy colors, and a science-kit tabletop setup.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/341.png",
+        "alt": "Image 341",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e22-cardboard-standee-toy",
+    "title": "Cardboard Standee Toy",
+    "prompt": "Turn the subject into a cardboard punch-out standee toy. Show printed cardboard sheets, perforated cut lines, fold tabs, assembly slots, small support stands, and a partially assembled tabletop display.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/342.png",
+        "alt": "Image 342",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e23-magnetic-drawing-board",
+    "title": "Magnetic Drawing Board",
+    "prompt": "Transform this image into a magnetic drawing board toy illustration. Use a simple gray magnetic screen, chunky plastic frame, slider eraser, rounded stylus, and a soft dotted-line version of the subject drawn with toy-like simplicity.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/343.png",
+        "alt": "Image 343",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e24-sock-puppet-theater",
+    "title": "Sock Puppet Theater",
+    "prompt": "Reimagine the subject as a handmade sock puppet performing in a small cardboard puppet theater. Use mismatched fabric, googly eyes, yarn hair, sewn-on accessories, stage curtains, craft glue details, and warm homemade lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/344.png",
+        "alt": "Image 344",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e25-toy-x-ray-viewer",
+    "title": "Toy X-Ray Viewer",
+    "prompt": "Transform this image into a pretend toy X-ray viewer. Show the subject as a harmless simplified toy anatomy diagram, glowing plastic screen, chunky medical-playset controls, colorful labels, and a playful educational toy aesthetic.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/345.png",
+        "alt": "Image 345",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e26-crayon-box-mascot",
+    "title": "Crayon Box Mascot",
+    "prompt": "Turn the subject into a crayon-box mascot design. Show colorful wax crayons, paper labels, rounded wax texture, cardboard box packaging, playful school-supply branding, and the subject illustrated as the cheerful character on the front of the box.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/346.png",
+        "alt": "Image 346",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e27-vintage-toy-catalog-page",
+    "title": "Vintage Toy Catalog Page",
+    "prompt": "Reimagine this image as a vintage toy catalog page. Show the subject as a mail-order toy with product number, price, tiny descriptive copy, dotted order form, faded print colors, and multiple catalog poses in a nostalgic retail layout.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/347.png",
+        "alt": "Image 347",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-e-e28-transforming-robot-toy-blueprint",
+    "title": "Transforming Robot Toy Blueprint",
+    "prompt": "Transform the subject into a transforming robot toy instruction blueprint. Show vehicle mode, robot mode, numbered transformation steps, plastic joints, arrows, fold-out instruction paper, and technical toy-diagram styling.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/348.png",
+        "alt": "Image 348",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
