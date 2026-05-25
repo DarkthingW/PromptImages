@@ -5227,7 +5227,7 @@
   },
   {
     "id": "page-e-e27-vintage-toy-catalog-page",
-    "title": "Vintage Toy Catalog Page",
+    "title": "Mail-Order Toy Catalog Page",
     "prompt": "Reimagine this image as a vintage toy catalog page. Show the subject as a mail-order toy with product number, price, tiny descriptive copy, dotted order form, faded print colors, and multiple catalog poses in a nostalgic retail layout.",
     "category": "3D / Objets / Jouets",
     "images": [
@@ -5897,6 +5897,981 @@
       {
         "src": "images/398.png",
         "alt": "Image 398",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g1-lenticular-trading-card",
+    "title": "Lenticular Trading Card",
+    "prompt": "Transform this image into a 1990s lenticular trading card. Show the subject as a shifting multi-frame illustration with visible ridged plastic texture, rainbow reflection bands, foil border, collector number, fake rarity icon, and slight angle-dependent ghosting. Make it feel like a premium holographic card from an old toy store rack.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/399.png",
+        "alt": "Image 399",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g2-embroidered-patch",
+    "title": "Embroidered Patch",
+    "prompt": "Reimagine the subject as a detailed embroidered patch. Use stitched thread texture, raised borders, woven fabric backing, tiny loose fibers, satin-stitch highlights, and a slightly imperfect handmade look. Place the patch on denim or canvas with soft side lighting.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/400.png",
+        "alt": "Image 400",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g3-cyanotype-blueprint-print",
+    "title": "Cyanotype Blueprint Print",
+    "prompt": "Transform this image into an antique cyanotype print. Use deep Prussian blue tones, pale photographic silhouettes, sun-exposed paper texture, botanical-style ghosting, handwritten catalog notes, and subtle fading around the edges.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/401.png",
+        "alt": "Image 401",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g4-origami-paper-sculpture",
+    "title": "Origami Paper Sculpture",
+    "prompt": "Reimagine the subject as a folded origami paper sculpture. Use visible crease lines, layered folded planes, crisp paper edges, slight shadows between folds, delicate handmade imperfections, and a clean tabletop studio setup.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/402.png",
+        "alt": "Image 402",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g5-neon-sign-storefront",
+    "title": "Neon Sign Storefront",
+    "prompt": "Turn the subject into a custom neon sign mounted in a dark storefront window. Use glowing glass tubes, colored halos on the surrounding wall, exposed transformer wires, reflections on glass, rainy street atmosphere, and a retro night-time commercial feel.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/403.png",
+        "alt": "Image 403",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g6-shoebox-diorama-school-project",
+    "title": "Shoebox Diorama School Project",
+    "prompt": "Transform this image into a handmade shoebox diorama school project. Use cardboard walls, construction paper cutouts, glue marks, popsicle sticks, cotton clouds, marker labels, uneven handmade figures, and a childlike but charming presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/404.png",
+        "alt": "Image 404",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g7-museum-wax-seal-archive",
+    "title": "Museum Wax Seal Archive",
+    "prompt": "Reimagine the subject as an official wax-sealed archival document. Include thick parchment paper, embossed red wax seal, ribbon binding, handwritten registry numbers, aged stains, catalog labels, and formal museum archive photography.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/405.png",
+        "alt": "Image 405",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g8-mini-terrarium-world",
+    "title": "Mini Terrarium World",
+    "prompt": "Transform the subject into a miniature world inside a glass terrarium. Use moss, tiny stones, condensation on glass, miniature plants, delicate scale figures, warm natural light, and a realistic tabletop macro-photography look.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/406.png",
+        "alt": "Image 406",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g9-pinball-machine-backglass",
+    "title": "Pinball Machine Backglass",
+    "prompt": "Turn this image into a vintage pinball machine backglass illustration. Use dramatic painted arcade art, score reels, flashing bulb reflections, chrome trim, bold title lettering, bonus icons, and worn glass texture.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/407.png",
+        "alt": "Image 407",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g10-jukebox-selection-label",
+    "title": "Jukebox Selection Label",
+    "prompt": "Reimagine the subject as the featured artwork on a retro jukebox song selection panel. Include small numbered song tabs, glowing plastic buttons, chrome edges, warm diner lighting, faded label paper, and colorful 1950s-60s music-machine styling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/408.png",
+        "alt": "Image 408",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g11-microfiche-archive-frame",
+    "title": "Microfiche Archive Frame",
+    "prompt": "Transform this image into a microfiche archive slide. Use tiny indexed frames, high-contrast monochrome reproduction, dust specks, library catalog codes, magnified detail inset, and a cold archival research-room atmosphere.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/409.png",
+        "alt": "Image 409",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g12-postal-stamp-sheet",
+    "title": "Postal Stamp Sheet",
+    "prompt": "Turn the subject into a collectible postage stamp sheet. Show repeated perforated stamps, official denomination marks, fine engraved details, subtle ink misregistration, marginal printer notes, and a crisp philatelic display layout.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/410.png",
+        "alt": "Image 410",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g13-cross-stitch-pattern",
+    "title": "Cross-Stitch Pattern",
+    "prompt": "Reimagine the subject as a cross-stitch embroidery pattern. Use a visible grid of colored X-shaped stitches, cloth texture, thread color legend, pattern symbols, hoop frame, and cozy craft-table lighting.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/411.png",
+        "alt": "Image 411",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g14-ice-sculpture-centerpiece",
+    "title": "Ice Sculpture Centerpiece",
+    "prompt": "Transform the subject into a translucent ice sculpture centerpiece. Use carved frozen surfaces, trapped air bubbles, sharp chiseled details, cold blue reflections, melting droplets, and elegant event lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/412.png",
+        "alt": "Image 412",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g15-sand-castle-sculpture",
+    "title": "Sand Castle Sculpture",
+    "prompt": "Reimagine the subject as an elaborate sand castle sculpture on a beach. Use packed wet sand texture, carved details, seashell decorations, tiny flags, tide marks, and warm sunset beach lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/413.png",
+        "alt": "Image 413",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g16-chalkboard-classroom-diagram",
+    "title": "Chalkboard Classroom Diagram",
+    "prompt": "Transform this image into a hand-drawn chalkboard classroom diagram. Use white and colored chalk lines, erased smudges, arrows, labels, messy teacher notes, chalk dust, and green-black board texture.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/414.png",
+        "alt": "Image 414",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g17-topographic-map-illustration",
+    "title": "Topographic Map Illustration",
+    "prompt": "Reimagine the subject as a topographic map. Convert forms into contour lines, elevation labels, terrain shading, compass rose, grid coordinates, map legend, and folded-paper texture.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/415.png",
+        "alt": "Image 415",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g18-subway-transit-map",
+    "title": "Subway Transit Map",
+    "prompt": "Transform the subject into a stylized subway transit map. Convert major shapes into colored route lines, station dots, transfer hubs, clean signage typography, zone labels, and a modern public-transit diagram layout.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/416.png",
+        "alt": "Image 416",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g19-scratch-off-lottery-ticket",
+    "title": "Scratch-Off Lottery Ticket",
+    "prompt": "Turn this image into a colorful scratch-off lottery ticket. Use metallic scratch panels, prize boxes, lucky symbols, fake barcode, serial numbers, bold casino-like typography, and partially scratched silver coating revealing parts of the subject.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/417.png",
+        "alt": "Image 417",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g20-aquarium-exhibit-display",
+    "title": "Aquarium Exhibit Display",
+    "prompt": "Reimagine the subject as part of a public aquarium exhibit. Place it behind thick blue-tinted glass with water caustics, bubbles, informational plaques, soft underwater lighting, silhouettes of visitors, and realistic exhibit reflections.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/418.png",
+        "alt": "Image 418",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g21-planetarium-show-poster",
+    "title": "Planetarium Show Poster",
+    "prompt": "Transform this image into a planetarium show poster. Use cosmic gradients, star charts, orbital paths, glowing constellations, educational title text, dome-theater branding, and a polished science-museum design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/419.png",
+        "alt": "Image 419",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g22-embossed-leather-journal-cover",
+    "title": "Embossed Leather Journal Cover",
+    "prompt": "Reimagine the subject as an embossed leather journal cover. Use carved leather relief, stitched edges, worn corners, gold foil accents, bookmark ribbon, antique desk lighting, and tactile handcrafted material detail.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/420.png",
+        "alt": "Image 420",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g23-porcelain-tea-set-pattern",
+    "title": "Porcelain Tea Set Pattern",
+    "prompt": "Transform the subject into a decorative porcelain tea set pattern. Apply the design across teacups, saucers, and a teapot using delicate painted motifs, glossy glaze, gold rim accents, and elegant afternoon-tea table styling.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/421.png",
+        "alt": "Image 421",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g24-arcade-token-design",
+    "title": "Arcade Token Design",
+    "prompt": "Turn the subject into a collectible arcade token. Use stamped metal relief, worn brass texture, circular border text, tiny stars, scratches, coin-rim details, and macro photography on an arcade carpet background.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/422.png",
+        "alt": "Image 422",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g25-carnival-prize-wall",
+    "title": "Carnival Prize Wall",
+    "prompt": "Reimagine the subject as the grand prize on a carnival game wall. Surround it with smaller prizes, paper tickets, peg hooks, colorful bulbs, faded fairground signage, and chaotic midway lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/423.png",
+        "alt": "Image 423",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g26-childrens-lunchbox-illustration",
+    "title": "Children's Lunchbox Illustration",
+    "prompt": "Transform this image into the artwork on a vintage metal children's lunchbox. Use rounded tin edges, embossed printed art, metal clasp, handle, scuffed corners, thermos beside it, and bright nostalgic school-day colors.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/424.png",
+        "alt": "Image 424",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g27-fictional-creature-anatomy-poster",
+    "title": "Fictional Creature Anatomy Poster",
+    "prompt": "Reimagine the subject as a fictional anatomy wall chart. Use labeled organs or internal mechanisms, vintage educational poster style, numbered callouts, cross-section diagrams, aged paper, and precise scientific illustration.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/425.png",
+        "alt": "Image 425",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g28-carnival-mirror-distortion",
+    "title": "Carnival Mirror Distortion",
+    "prompt": "Transform this image into a funhouse mirror scene. Show the subject reflected in distorted carnival mirrors, warped proportions, colorful fairground lights, polished reflective surfaces, and playful surreal exaggeration.",
+    "category": "Horreur / Étrange",
+    "images": [
+      {
+        "src": "images/426.png",
+        "alt": "Image 426",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g29-antique-jewelry-brooch",
+    "title": "Antique Jewelry Brooch",
+    "prompt": "Reimagine the subject as an ornate antique brooch. Use enamel, gemstones, filigree metalwork, tiny clasp details, velvet display box, macro jewelry photography, and soft luxury lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/427.png",
+        "alt": "Image 427",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g30-inflatable-parade-balloon",
+    "title": "Inflatable Parade Balloon",
+    "prompt": "Transform the subject into a giant parade balloon floating above a city street. Add visible seams, tether ropes, handlers below, cheering crowds, confetti, tall buildings, and bright holiday parade atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/428.png",
+        "alt": "Image 428",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g31-1970s-library-book-cover",
+    "title": "1970s Library Book Cover",
+    "prompt": "Turn this image into a worn 1970s library book cover. Use faded printed colors, clothbound texture, library spine sticker, checkout wear, stamped catalog marks, and understated vintage cover design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/429.png",
+        "alt": "Image 429",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g32-ceramic-tile-mural",
+    "title": "Ceramic Tile Mural",
+    "prompt": "Reimagine the subject as a hand-painted ceramic tile mural. Break the image across square tiles with grout lines, glazed reflections, slight misalignment, decorative border motifs, and Mediterranean wall lighting.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/430.png",
+        "alt": "Image 430",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g33-paper-theater-stage",
+    "title": "Paper Theater Stage",
+    "prompt": "Transform this image into a miniature paper theater stage. Use layered illustrated cutouts, cardboard proscenium arch, visible paper tabs, painted curtains, stage footlights, and a vintage toy-theater atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/431.png",
+        "alt": "Image 431",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g34-boardwalk-souvenir-plate",
+    "title": "Boardwalk Souvenir Plate",
+    "prompt": "Turn the subject into a kitschy souvenir plate. Use glossy ceramic, decorative rim text, tiny landmark illustrations, faded tourist-shop colors, gold trim, and a display stand on a shelf.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/432.png",
+        "alt": "Image 432",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-g-g35-vintage-fireworks-label",
+    "title": "Vintage Fireworks Label",
+    "prompt": "Reimagine the subject as the artwork on a vintage fireworks label. Use explosive illustrated bursts, bold carnival typography, rough paper printing, warning-style borders, saturated reds and yellows, and nostalgic roadside-stand packaging.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/433.png",
+        "alt": "Image 433",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h1-snow-globe-souvenir",
+    "title": "Snow Globe Souvenir",
+    "prompt": "Transform this image into a collectible snow globe souvenir. Place the subject as a tiny sculpted figure inside a clear glass dome filled with floating glitter snow, distorted glass refraction, a decorative base with a small engraved nameplate, warm shelf lighting, and a nostalgic gift-shop atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/434.png",
+        "alt": "Image 434",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h2-vintage-vinyl-record-cover",
+    "title": "Vintage Vinyl Record Cover",
+    "prompt": "Reimagine the subject as the cover art of a vintage vinyl record. Use worn cardboard texture, ring wear, corner scuffs, bold album typography, a dramatic band-poster composition, price sticker residue, and a partially visible vinyl disc peeking out from the sleeve.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/435.png",
+        "alt": "Image 435",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h3-breakfast-cereal-box-mascot",
+    "title": "Breakfast Cereal Box Mascot",
+    "prompt": "Transform this image into a colorful breakfast cereal box design. Make the subject the cheerful mascot on the front, with exaggerated product branding, crunchy cereal pieces flying around, nutrition panel details, toy prize callout, glossy cardboard packaging, and bright supermarket-shelf lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/436.png",
+        "alt": "Image 436",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h4-cassette-tape-insert",
+    "title": "Cassette Tape Insert",
+    "prompt": "Reimagine the subject as artwork on a vintage cassette tape insert. Include folded paper liner notes, handwritten tracklist, plastic cassette case reflections, worn tape label, small scratches, analog music-store nostalgia, and slightly faded 1980s print colors.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/437.png",
+        "alt": "Image 437",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h5-snowy-glass-ornament",
+    "title": "Snowy Glass Ornament",
+    "prompt": "Transform the subject into a delicate hanging glass ornament. Use hand-painted details on transparent blown glass, metallic cap and string, subtle glitter, reflections from Christmas tree lights, shallow depth of field, and cozy holiday display lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/438.png",
+        "alt": "Image 438",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h6-arcade-cabinet-side-art",
+    "title": "Arcade Cabinet Side Art",
+    "prompt": "Turn this image into the side art of a classic arcade cabinet. Use bold airbrushed illustration, dramatic character pose, lightning shapes, worn vinyl edges, coin-door details, joystick panel visible in perspective, and glowing arcade-room atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/439.png",
+        "alt": "Image 439",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h7-old-toy-store-window-display",
+    "title": "Old Toy Store Window Display",
+    "prompt": "Reimagine the subject as part of a nostalgic toy store window display. Include stacked toy boxes, paper sale signs, warm display lights, glass reflections, tiny dust on the window, colorful props, and a magical after-hours storefront feeling.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/440.png",
+        "alt": "Image 440",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h8-soap-bar-packaging",
+    "title": "Soap Bar Packaging",
+    "prompt": "Transform this image into luxury soap bar packaging. Use wrapped paper, embossed label, botanical accents, gold foil details, clean typography, soft bathroom-counter lighting, subtle water droplets, and premium handmade-product styling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/441.png",
+        "alt": "Image 441",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h9-chocolate-box-lid",
+    "title": "Chocolate Box Lid",
+    "prompt": "Reimagine the subject as the illustrated lid of a fancy chocolate box. Add satin ribbon, molded chocolate compartments, gold foil trim, glossy printed cardboard, elegant product photography, and romantic confectionery-shop styling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/442.png",
+        "alt": "Image 442",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h10-carnival-ticket-roll",
+    "title": "Carnival Ticket Roll",
+    "prompt": "Transform the subject into a printed design repeated across a roll of carnival tickets. Use perforated ticket strips, serial numbers, faded red and blue ink, tiny icons, paper fibers, torn edges, and chaotic fairground tabletop lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/443.png",
+        "alt": "Image 443",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h11-arcade-carpet-pattern",
+    "title": "Arcade Carpet Pattern",
+    "prompt": "Reimagine the subject as a repeating pattern on a retro arcade carpet. Use neon geometric shapes, dark background, glowing speckles, hidden simplified versions of the subject, worn fabric texture, and blacklight arcade atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/444.png",
+        "alt": "Image 444",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h12-miniature-book-nook",
+    "title": "Miniature Book Nook",
+    "prompt": "Transform this image into a miniature book nook shelf insert. Build the subject into a tiny illuminated alley, room, or fantasy scene between two books, with tiny doors, warm lights, layered depth, dust motes, and cozy library-shelf realism.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/445.png",
+        "alt": "Image 445",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h13-vintage-school-textbook-diagram",
+    "title": "Vintage School Textbook Diagram",
+    "prompt": "Reimagine the subject as a diagram inside an old school textbook. Use limited-color printing, numbered callouts, simple instructional captions, aged off-white paper, underlined notes, slightly misregistered ink, and a mid-century educational layout.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/446.png",
+        "alt": "Image 446",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h14-needle-felted-figure",
+    "title": "Needle Felted Figure",
+    "prompt": "Transform the subject into a handmade needle-felted wool figure. Use fuzzy wool fibers, rounded sculpted shapes, tiny bead eyes if appropriate, visible needle texture, soft pastel tones, craft-table props, and warm natural lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/447.png",
+        "alt": "Image 447",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h15-desktop-icon-set",
+    "title": "Desktop Icon Set",
+    "prompt": "Reimagine the subject as a set of retro desktop computer icons. Use tiny pixelated variations, old operating-system window chrome, file names underneath, low-resolution charm, simple drop shadows, and a nostalgic 1990s computer interface.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/448.png",
+        "alt": "Image 448",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h16-candy-wrapper-design",
+    "title": "Candy Wrapper Design",
+    "prompt": "Transform this image into a colorful candy wrapper. Use crinkled plastic foil, bold product name, fruit or flavor graphics, tiny ingredient text, barcode, glossy highlights, torn corner detail, and bright convenience-store product photography.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/449.png",
+        "alt": "Image 449",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h17-matchbox-label",
+    "title": "Matchbox Label",
+    "prompt": "Reimagine the subject as artwork on a vintage matchbox label. Use rough lithographic printing, tiny decorative border, striking limited-color illustration, worn cardboard, safety-match typography, and macro photography on a wooden table.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/450.png",
+        "alt": "Image 450",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h18-souvenir-ski-lodge-patch",
+    "title": "Souvenir Ski Lodge Patch",
+    "prompt": "Transform this image into a retro ski lodge souvenir patch. Use embroidered mountain motifs, stitched lettering, snowflake details, felt backing, slightly frayed edges, and a cozy alpine gift-shop presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/451.png",
+        "alt": "Image 451",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h19-boardwalk-photo-booth-strip",
+    "title": "Boardwalk Photo Booth Strip",
+    "prompt": "Reimagine the subject as a strip of old photo booth pictures. Show four small vertical frames with slightly different poses or expressions, harsh flash, curtain background, glossy paper, dust scratches, and a nostalgic boardwalk arcade feeling.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/452.png",
+        "alt": "Image 452",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h20-rental-vhs-cover",
+    "title": "Rental VHS Cover",
+    "prompt": "Transform this image into an old video rental store VHS cover. Use oversized title typography, dramatic painted cover art, genre stickers, rental barcode, worn plastic case, sun-faded spine, and late-night video-store shelf lighting.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/453.png",
+        "alt": "Image 453",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h21-miniature-zen-garden",
+    "title": "Miniature Zen Garden",
+    "prompt": "Reimagine the subject as part of a tabletop zen garden. Use raked sand patterns, tiny stones, miniature moss, small wooden rake, calm balanced composition, soft natural light, and meditative macro photography.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/454.png",
+        "alt": "Image 454",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h22-fortune-cookie-message",
+    "title": "Fortune Cookie Message",
+    "prompt": "Transform the subject into a surreal fortune cookie scene. Show a cracked fortune cookie with a tiny printed version of the subject or message emerging on the paper slip, restaurant table setting, warm light, crumbs, and playful magical realism.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/455.png",
+        "alt": "Image 455",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h23-old-board-game-box",
+    "title": "Old Board Game Box",
+    "prompt": "Reimagine this image as the cover of a vintage board game box. Use dramatic painted box art, age recommendation badge, player count, worn corners, cardboard texture, game pieces scattered nearby, and family game-night nostalgia.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/456.png",
+        "alt": "Image 456",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h24-toy-vending-machine-display-card",
+    "title": "Toy Vending Machine Display Card",
+    "prompt": "Transform the subject into the display card inside a coin-operated toy vending machine. Use faded printed prize examples, plastic capsule samples, coin slot reflections, small price label, scratched clear window, and colorful vending-machine lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/457.png",
+        "alt": "Image 457",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h25-antique-cameo-portrait",
+    "title": "Antique Cameo Portrait",
+    "prompt": "Reimagine the subject as an antique cameo portrait. Use raised ivory-like relief on an oval background, carved profile styling, ornate metal frame, velvet display case, subtle patina, and elegant macro jewelry photography.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/458.png",
+        "alt": "Image 458",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h26-retro-pizza-box-art",
+    "title": "Retro Pizza Box Art",
+    "prompt": "Transform this image into artwork on a retro pizza box. Use red-and-green printed cardboard, grease stains, checkered borders, bold pizzeria logo, steam lines, fake coupon panel, and casual kitchen-counter lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/459.png",
+        "alt": "Image 459",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h27-bubble-gum-card",
+    "title": "Bubble Gum Card",
+    "prompt": "Reimagine the subject as a bubble gum trading card from the 1980s. Use waxy card stock, funny caption, small stats box, off-register printing, bright border, stick of gum wrapper nearby, and collectible nostalgia.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/460.png",
+        "alt": "Image 460",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h28-museum-gift-shop-magnet",
+    "title": "Museum Gift Shop Magnet",
+    "prompt": "Transform the subject into a molded refrigerator magnet sold in a museum gift shop. Use glossy resin, slightly raised relief, tiny printed label, soft souvenir colors, magnet backing visible nearby, and fridge-door product photography.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/461.png",
+        "alt": "Image 461",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h29-retro-phone-wallpaper-pack",
+    "title": "Retro Phone Wallpaper Pack",
+    "prompt": "Reimagine the subject as a set of early-2000s flip-phone wallpapers. Show a grid of tiny low-resolution screens, glossy phone UI frames, pixelated gradients, tiny icons, sparkly effects, and nostalgic mobile customization energy.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/462.png",
+        "alt": "Image 462",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h30-toy-stamp-set",
+    "title": "Toy Stamp Set",
+    "prompt": "Transform the image into a children’s rubber stamp set. Show the subject simplified as stamp designs on wooden blocks, ink pads, stamped impressions on paper, smudged edges, colorful craft table setting, and playful classroom-art texture.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/463.png",
+        "alt": "Image 463",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h31-aquarium-resin-paperweight",
+    "title": "Aquarium Resin Paperweight",
+    "prompt": "Reimagine the subject inside a clear resin paperweight. Use suspended bubbles, tiny embedded decorative elements, polished rounded resin, distorted magnification, desk reflections, and realistic office-souvenir lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/464.png",
+        "alt": "Image 464",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h32-retro-diner-placemat",
+    "title": "Retro Diner Placemat",
+    "prompt": "Transform this image into a printed diner placemat. Use paper menu texture, maze or puzzle corner, daily specials, checkered border, coffee stains, crayon marks, and a laminated tabletop under warm diner lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/465.png",
+        "alt": "Image 465",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h33-old-theme-park-map",
+    "title": "Old Theme Park Map",
+    "prompt": "Reimagine the subject as the central attraction on a vintage theme park map. Use illustrated paths, tiny attraction icons, numbered legend, folded paper creases, bright family-friendly colors, and nostalgic amusement-park brochure design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/466.png",
+        "alt": "Image 466",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h34-pencil-topper-toy",
+    "title": "Pencil Topper Toy",
+    "prompt": "Transform the subject into a small rubber pencil topper toy. Use soft molded rubber, simplified cute proportions, bright school-supply colors, visible pencil eraser base, desk clutter, and cheerful back-to-school product photography.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/467.png",
+        "alt": "Image 467",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h35-collectors-coin-display-case",
+    "title": "Collector’s Coin Display Case",
+    "prompt": "Reimagine the subject as a commemorative collector coin. Use embossed metal relief, polished silver or bronze texture, decorative rim text, velvet-lined display case, certificate card, and macro lighting that emphasizes engraved details.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/468.png",
+        "alt": "Image 468",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h36-retro-fast-food-tray-liner",
+    "title": "Retro Fast-Food Tray Liner",
+    "prompt": "Transform this image into a printed fast-food tray liner. Use colorful promotional graphics, coupon boxes, tiny game or maze section, grease marks, folded paper texture, ketchup packet nearby, and nostalgic restaurant tabletop styling.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/469.png",
+        "alt": "Image 469",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h37-lunchroom-milk-carton",
+    "title": "Lunchroom Milk Carton",
+    "prompt": "Reimagine the subject as the illustration on a small school milk carton. Use folded carton top, printed nutrition facts, simple mascot graphics, slight condensation, cafeteria tray setting, and bright institutional lunchroom lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/470.png",
+        "alt": "Image 470",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h38-sticker-machine-prize-card",
+    "title": "Sticker Machine Prize Card",
+    "prompt": "Transform the subject into a prize preview card for an old sticker vending machine. Use rows of tiny sticker examples, coin price, scratched plastic cover, faded colors, peeling corners, and mall arcade nostalgia.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/471.png",
+        "alt": "Image 471",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h39-floating-parade-lantern",
+    "title": "Floating Parade Lantern",
+    "prompt": "Reimagine the subject as a glowing paper lantern in a night festival. Use translucent paper texture, internal warm light, bamboo frame, hand-painted details, other lanterns floating in the background, and soft atmospheric darkness.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/472.png",
+        "alt": "Image 472",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "page-h-h40-retro-science-kit-box",
+    "title": "Retro Science Kit Box",
+    "prompt": "Transform this image into the cover of a vintage children’s science kit. Use bold educational packaging, small experiment illustrations, badge-like callouts, cardboard box wear, plastic test tubes or tools nearby, and optimistic mid-century science-club energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/473.png",
+        "alt": "Image 473",
         "label": "ChatGPT 2026"
       }
     ]
