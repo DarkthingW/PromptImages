@@ -98,6 +98,7 @@ function render() {
     <article class="card" id="${escapeHtml(item.id)}">
       <div class="card-header">
         <h2>${escapeHtml(item.title)}</h2>
+        <p class="subtitle">${escapeHtml(item.subtitle || "")}</p>
         <div class="meta">
           <span class="badge">${escapeHtml(item.category)}</span>
         </div>

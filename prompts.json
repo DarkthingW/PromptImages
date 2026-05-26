@@ -4,7 +4,8 @@
     "title": "Base",
     "prompt": "Keep the exact composition, subject placement, and aspect ratio. Only change the visual style. Do not alter layout, proportions, or content. Do not default to square, using the original images aspect ratio is critical and must not be changed.",
     "category": "Base / Utilitaire",
-    "images": []
+    "images": [],
+    "subtitle": "Base"
   },
   {
     "id": "page-1-1-ghibli",
@@ -27,7 +28,8 @@
         "alt": "Image 1-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Ghibli"
   },
   {
     "id": "page-1-2-muppet-realistic-style",
@@ -45,7 +47,8 @@
         "alt": "Image 2-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Muppet réaliste"
   },
   {
     "id": "page-1-3-plushy-toy",
@@ -63,7 +66,8 @@
         "alt": "Image 3-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Peluche"
   },
   {
     "id": "page-1-4-pixar-3d",
@@ -86,7 +90,8 @@
         "alt": "Image 4-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Pixar 3D"
   },
   {
     "id": "page-1-5-fleischer-studios",
@@ -109,7 +114,8 @@
         "alt": "Image 5-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Fleischer Studios"
   },
   {
     "id": "page-1-6-rick-and-morty",
@@ -132,7 +138,8 @@
         "alt": "Image 6-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Rick et Morty"
   },
   {
     "id": "page-1-7-classic-comic-book",
@@ -150,7 +157,8 @@
         "alt": "Image 7-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bande dessinée classique"
   },
   {
     "id": "page-1-8-knitted-toy",
@@ -168,7 +176,8 @@
         "alt": "Image 8-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Jouet tricoté"
   },
   {
     "id": "page-1-9-disney-classic",
@@ -191,7 +200,8 @@
         "alt": "Image 9-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Disney classique"
   },
   {
     "id": "page-1-10-retro-pixel-game",
@@ -214,7 +224,8 @@
         "alt": "Image 10-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Jeu rétro pixelisé"
   },
   {
     "id": "page-1-11-keith-haring",
@@ -232,7 +243,8 @@
         "alt": "Image 11-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Keith Haring"
   },
   {
     "id": "page-1-12-picasso",
@@ -250,7 +262,8 @@
         "alt": "Image 12-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Picasso"
   },
   {
     "id": "page-1-13-marble",
@@ -268,7 +281,8 @@
         "alt": "Image 13-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sculpture de marbre"
   },
   {
     "id": "page-1-14-lego",
@@ -291,7 +305,8 @@
         "alt": "Image 14-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style LEGO"
   },
   {
     "id": "page-1-15-dollar-bill",
@@ -309,7 +324,8 @@
         "alt": "Image 15-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Billet de banque"
   },
   {
     "id": "page-1-16-claymation-stop-motion",
@@ -327,7 +343,8 @@
         "alt": "Image 16-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Animation pâte à modeler"
   },
   {
     "id": "page-1-17-low-poly-3d",
@@ -345,7 +362,8 @@
         "alt": "Image 17-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "3D low poly"
   },
   {
     "id": "page-1-18-vaporwave",
@@ -368,7 +386,8 @@
         "alt": "Image 18-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vaporwave"
   },
   {
     "id": "page-1-19-ukiyo-e",
@@ -386,7 +405,8 @@
         "alt": "Image 19-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ukiyo-e"
   },
   {
     "id": "page-1-20-surrealism-dalí-inspired",
@@ -404,7 +424,8 @@
         "alt": "Image 20-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Surréalisme inspiré de Dalí"
   },
   {
     "id": "page-1-21-steampunk",
@@ -427,7 +448,8 @@
         "alt": "Image 21-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Steampunk"
   },
   {
     "id": "page-1-22-line-art-ink-drawing",
@@ -445,7 +467,8 @@
         "alt": "Image 22-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dessin à l’encre"
   },
   {
     "id": "page-1-23-doodle-art",
@@ -463,7 +486,8 @@
         "alt": "Image 23-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Doodle art"
   },
   {
     "id": "page-1-24-graffiti-street-art",
@@ -481,7 +505,8 @@
         "alt": "Image 24-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Graffiti urbain"
   },
   {
     "id": "page-1-25-brutalist-3d",
@@ -499,7 +524,8 @@
         "alt": "Image 25-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "3D brutaliste"
   },
   {
     "id": "page-1-26-glitch-art",
@@ -517,7 +543,8 @@
         "alt": "Image 26-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Art glitch"
   },
   {
     "id": "page-1-27-gothic-illuminated-manuscript",
@@ -535,7 +562,8 @@
         "alt": "Image 27-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Manuscrit enluminé gothique"
   },
   {
     "id": "page-1-28-wes-anderson",
@@ -553,7 +581,8 @@
         "alt": "Image 28-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Wes Anderson"
   },
   {
     "id": "page-1-29-hyperpop-y2k-aesthetic",
@@ -571,7 +600,8 @@
         "alt": "Image 29-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Esthétique Hyperpop Y2K"
   },
   {
     "id": "page-1-30-architectural-blueprint-style",
@@ -589,7 +619,8 @@
         "alt": "Image 30-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Plan architectural"
   },
   {
     "id": "page-2-31-botanical-illustration",
@@ -607,7 +638,8 @@
         "alt": "Image 31-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Illustration botanique"
   },
   {
     "id": "page-2-32-ai-glitchcore",
@@ -625,7 +657,8 @@
         "alt": "Image 32-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Glitchcore IA"
   },
   {
     "id": "page-2-33-thermal-imaging",
@@ -643,7 +676,8 @@
         "alt": "Image 33-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Imagerie thermique"
   },
   {
     "id": "page-2-34-holographic-ui-style",
@@ -661,7 +695,8 @@
         "alt": "Image 34-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Interface holographique"
   },
   {
     "id": "page-2-35-cyberpunk-glow-up",
@@ -679,7 +714,8 @@
         "alt": "Image 35-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ambiance cyberpunk"
   },
   {
     "id": "page-2-36-oil-painting-filter",
@@ -697,7 +733,8 @@
         "alt": "Image 36-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Peinture à l’huile"
   },
   {
     "id": "page-2-37-surreal-dream-filter",
@@ -715,7 +752,8 @@
         "alt": "Image 37-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Filtre rêve surréaliste"
   },
   {
     "id": "page-2-38-anime-scene-overlay",
@@ -733,7 +771,8 @@
         "alt": "Image 38-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Scène anime"
   },
   {
     "id": "page-2-39-noir-lighting-treatment",
@@ -751,7 +790,8 @@
         "alt": "Image 39-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Éclairage film noir"
   },
   {
     "id": "page-2-40-3d-sculpted-look",
@@ -769,7 +809,8 @@
         "alt": "Image 40-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sculpture 3D"
   },
   {
     "id": "page-2-41-high-fashion-editorial",
@@ -787,7 +828,8 @@
         "alt": "Image 41-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Éditorial haute couture"
   },
   {
     "id": "page-2-42-golden-hour-filter",
@@ -805,7 +847,8 @@
         "alt": "Image 42-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Filtre golden hour"
   },
   {
     "id": "page-2-43-simpsons",
@@ -823,7 +866,8 @@
         "alt": "Image 43-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Simpsons"
   },
   {
     "id": "page-2-44-watercolor-portrait",
@@ -841,7 +885,8 @@
         "alt": "Image 44-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Portrait aquarelle"
   },
   {
     "id": "page-2-45-bold-pop-art-comic-art",
@@ -859,7 +904,8 @@
         "alt": "Image 45-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pop art BD"
   },
   {
     "id": "page-2-46-precise-ink-sketch",
@@ -882,7 +928,8 @@
         "alt": "Image 46-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Croquis à l’encre"
   },
   {
     "id": "page-2-47-paper-cut-collage",
@@ -905,7 +952,8 @@
         "alt": "Image 47-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Collage papier découpé"
   },
   {
     "id": "page-2-48-modern-comic-book",
@@ -928,7 +976,8 @@
         "alt": "Image 48-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bande dessinée moderne"
   },
   {
     "id": "page-2-49-paper-mario-style",
@@ -946,7 +995,8 @@
         "alt": "Image 49-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Paper Mario"
   },
   {
     "id": "page-2-50-90s-inspired-troll",
@@ -969,7 +1019,8 @@
         "alt": "Image 50-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Troll années 90"
   },
   {
     "id": "page-2-51-fortnite",
@@ -987,7 +1038,8 @@
         "alt": "Image 51-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Fortnite"
   },
   {
     "id": "page-2-52-gta",
@@ -1005,7 +1057,8 @@
         "alt": "Image 52-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style GTA"
   },
   {
     "id": "page-2-53-south-park",
@@ -1023,7 +1076,8 @@
         "alt": "Image 53-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style South Park"
   },
   {
     "id": "page-2-54-funny-cartoon-caricature",
@@ -1041,7 +1095,8 @@
         "alt": "Image 54-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Caricature humoristique"
   },
   {
     "id": "page-2-55-manga",
@@ -1059,7 +1114,8 @@
         "alt": "Image 55-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Manga"
   },
   {
     "id": "page-2-56-call-of-duty",
@@ -1077,7 +1133,8 @@
         "alt": "Image 56-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Call of Duty"
   },
   {
     "id": "page-2-57-pokemon",
@@ -1095,7 +1152,8 @@
         "alt": "Image 57-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Pokémon"
   },
   {
     "id": "page-2-58-roblox",
@@ -1113,7 +1171,8 @@
         "alt": "Image 58-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Roblox"
   },
   {
     "id": "page-2-59-zelda",
@@ -1131,7 +1190,8 @@
         "alt": "Image 59-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Zelda"
   },
   {
     "id": "page-2-60-snoopy",
@@ -1149,7 +1209,8 @@
         "alt": "Image 60-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Snoopy"
   },
   {
     "id": "page-3-61-family-guy",
@@ -1167,7 +1228,8 @@
         "alt": "Image 61-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Family Guy"
   },
   {
     "id": "page-3-62-post-apocalyptic-drama",
@@ -1190,7 +1252,8 @@
         "alt": "Image 62-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Drame post-apocalyptique"
   },
   {
     "id": "page-3-63-fantasy-movie-magic",
@@ -1208,7 +1271,8 @@
         "alt": "Image 63-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Film fantastique"
   },
   {
     "id": "page-3-64-spaghetti-western-classic",
@@ -1226,7 +1290,8 @@
         "alt": "Image 64-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Western spaghetti"
   },
   {
     "id": "page-3-65-fantasy-war-film",
@@ -1249,7 +1314,8 @@
         "alt": "Image 65-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Film de guerre fantastique"
   },
   {
     "id": "page-3-66-space-adventure",
@@ -1272,7 +1338,8 @@
         "alt": "Image 66-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Aventure spatiale"
   },
   {
     "id": "page-3-67-plushy",
@@ -1290,7 +1357,8 @@
         "alt": "Image 67-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Peluche"
   },
   {
     "id": "page-3-68-sims",
@@ -1308,7 +1376,8 @@
         "alt": "Image 68-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style Les Sims"
   },
   {
     "id": "page-3-69-flat-corporate-style",
@@ -1326,7 +1395,8 @@
         "alt": "Image 69-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style corporatif plat"
   },
   {
     "id": "page-3-70-street-art-style",
@@ -1344,7 +1414,8 @@
         "alt": "Image 70-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Style street art"
   },
   {
     "id": "page-b-b1-panel-comic",
@@ -1362,7 +1433,8 @@
         "alt": "Image B1-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bande dessinée à panneaux"
   },
   {
     "id": "page-b-b2-90s-video-game-character-trend",
@@ -1380,7 +1452,8 @@
         "alt": "Image B2-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Tendance jeu vidéo années 90"
   },
   {
     "id": "page-b-b3-stickers",
@@ -1398,7 +1471,8 @@
         "alt": "Image B3-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Autocollants"
   },
   {
     "id": "page-b-b4-realistic-action-figure",
@@ -1416,7 +1490,8 @@
         "alt": "Image B4-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Figurine réaliste"
   },
   {
     "id": "page-b-b6-isometric",
@@ -1439,7 +1514,8 @@
         "alt": "Image B6-3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Isométrique"
   },
   {
     "id": "page-b-b7-comic-page-summary",
@@ -1457,7 +1533,8 @@
         "alt": "Image B7-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Résumé en page BD"
   },
   {
     "id": "page-b-b9-miniature-world-encapsulated-in-a-common-object",
@@ -1475,7 +1552,8 @@
         "alt": "Image B9-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature World Encapsulated in a Common Object"
   },
   {
     "id": "page-b-b10-retro-image",
@@ -1493,7 +1571,8 @@
         "alt": "Image B10-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro-Image"
   },
   {
     "id": "page-b-b11-3d-fluffy-object",
@@ -1511,7 +1590,8 @@
         "alt": "Image B11-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "3D fluffy object"
   },
   {
     "id": "page-b-b12-found-footage",
@@ -1529,7 +1609,8 @@
         "alt": "Image B12-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Found Footage in Forest"
   },
   {
     "id": "page-b-b13-psychological-thriller-scene",
@@ -1547,7 +1628,8 @@
         "alt": "Image B13-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Psychological Thriller Scene"
   },
   {
     "id": "page-b-b14-stylized-action-figure",
@@ -1560,7 +1642,8 @@
         "alt": "Image B14",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Stylized action figure"
   },
   {
     "id": "page-b-b15-chibi-style-stickers",
@@ -1578,7 +1661,8 @@
         "alt": "Image B15-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Chibi-style stickers"
   },
   {
     "id": "page-b-b16-porte-clés",
@@ -1596,7 +1680,8 @@
         "alt": "Image B16-2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Porte-Clés"
   },
   {
     "id": "n1-anime",
@@ -1609,7 +1694,8 @@
         "alt": "Image N1",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dynamic Stylized Anime Comic Art"
   },
   {
     "id": "n2-16bit",
@@ -1622,7 +1708,8 @@
         "alt": "Image N2",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Modern High-Detail 16-Bit Pixel Art"
   },
   {
     "id": "n3-comic1980",
@@ -1635,7 +1722,8 @@
         "alt": "Image N3",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1980s Comic Book Illustration"
   },
   {
     "id": "n4-newspaper",
@@ -1648,7 +1736,8 @@
         "alt": "Image N4",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Newspaper Illustration"
   },
   {
     "id": "page-c-c1-vhs-horror-80s",
@@ -1661,7 +1750,8 @@
         "alt": "Image 71",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "VHS Horror 80s"
   },
   {
     "id": "page-c-c2-dark-fantasy-rpg",
@@ -1674,7 +1764,8 @@
         "alt": "Image 72",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dark Fantasy RPG"
   },
   {
     "id": "page-c-c3-detective-crime-thriller",
@@ -1687,7 +1778,8 @@
         "alt": "Image 73",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Detective Crime Thriller"
   },
   {
     "id": "page-c-c4-found-footage",
@@ -1700,7 +1792,8 @@
         "alt": "Image 74",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Found Footage"
   },
   {
     "id": "page-c-c5-ps2-cutscene",
@@ -1713,7 +1806,8 @@
         "alt": "Image 75",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "PS2 Cutscene"
   },
   {
     "id": "page-c-c6-nintendo-ds-portrait",
@@ -1726,7 +1820,8 @@
         "alt": "Image 76",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Nintendo DS Portrait"
   },
   {
     "id": "page-c-c7-gta-loading-screen",
@@ -1739,7 +1834,8 @@
         "alt": "Image 77",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "GTA Loading Screen"
   },
   {
     "id": "page-c-c8-mmo-character-selection-screen",
@@ -1752,7 +1848,8 @@
         "alt": "Image 78",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "MMO Character Selection Screen"
   },
   {
     "id": "page-c-c9-renaissance-oil-portrait",
@@ -1765,7 +1862,8 @@
         "alt": "Image 79",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Renaissance Oil Portrait"
   },
   {
     "id": "page-c-c10-black-metal-cover",
@@ -1778,7 +1876,8 @@
         "alt": "Image 80",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Black Metal Cover"
   },
   {
     "id": "page-c-c11-dreamcore-weirdcore",
@@ -1791,7 +1890,8 @@
         "alt": "Image 81",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dreamcore / Weirdcore"
   },
   {
     "id": "page-c-c12-dark-academic-painting",
@@ -1804,7 +1904,8 @@
         "alt": "Image 82",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dark Academic Painting"
   },
   {
     "id": "page-c-c13-wax-museum-figure",
@@ -1817,7 +1918,8 @@
         "alt": "Image 83",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Wax Museum Figure"
   },
   {
     "id": "page-c-c14-funko-pop",
@@ -1830,7 +1932,8 @@
         "alt": "Image 84",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Funko Pop Collector Box"
   },
   {
     "id": "page-c-c15-hot-wheels",
@@ -1843,7 +1946,8 @@
         "alt": "Image 85",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Hot Wheels Packaging"
   },
   {
     "id": "page-c-c16-snow-globe",
@@ -1856,7 +1960,8 @@
         "alt": "Image 86",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Snow Globe Miniature"
   },
   {
     "id": "page-c-c17-celebrity-paparazzi",
@@ -1869,7 +1974,8 @@
         "alt": "Image 87",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Celebrity Paparazzi Shot"
   },
   {
     "id": "page-c-c18-luxury-perfume-ad",
@@ -1882,7 +1988,8 @@
         "alt": "Image 88",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Luxury Perfume Advertisement"
   },
   {
     "id": "page-c-c19-documentary-photography",
@@ -1895,7 +2002,8 @@
         "alt": "Image 89",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Documentary Photography"
   },
   {
     "id": "page-c-c20-analog-film-portrait",
@@ -1908,7 +2016,8 @@
         "alt": "Image 90",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Analog Film Portrait"
   },
   {
     "id": "page-c-c21-alternate-universe",
@@ -1921,7 +2030,8 @@
         "alt": "Image 91",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Alternate Universe Version"
   },
   {
     "id": "page-c-c22-before-after-timeline",
@@ -1934,7 +2044,8 @@
         "alt": "Image 92",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Before / After Timeline"
   },
   {
     "id": "page-c-c23-parallel-dimension-corruption",
@@ -1947,7 +2058,8 @@
         "alt": "Image 93",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Parallel Dimension Corruption"
   },
   {
     "id": "page-c-c24-aging-transformation",
@@ -1960,7 +2072,8 @@
         "alt": "Image 94",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Aging Transformation"
   },
   {
     "id": "page-d-d1-true-crime-netflix",
@@ -1973,7 +2086,8 @@
         "alt": "Image 95",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "True Crime Netflix"
   },
   {
     "id": "page-d-d2-vhs-family-tape",
@@ -1986,7 +2100,8 @@
         "alt": "Image 96",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "VHS Family Tape"
   },
   {
     "id": "page-d-d3-national-geographic",
@@ -1999,7 +2114,8 @@
         "alt": "Image 97",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "National Geographic Explorer"
   },
   {
     "id": "page-d-d4-old-newspaper",
@@ -2012,7 +2128,8 @@
         "alt": "Image 98",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Newspaper Front Page"
   },
   {
     "id": "page-d-d5-backrooms",
@@ -2025,7 +2142,8 @@
         "alt": "Image 99",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Backrooms"
   },
   {
     "id": "page-d-d6-analog-horror",
@@ -2038,7 +2156,8 @@
         "alt": "Image 100",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Analog Horror Broadcast"
   },
   {
     "id": "page-d-d7-sleep-paralysis",
@@ -2051,7 +2170,8 @@
         "alt": "Image 101",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sleep Paralysis Scene"
   },
   {
     "id": "page-d-d8-energy-drink",
@@ -2064,7 +2184,8 @@
         "alt": "Image 102",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Energy Drink Commercial"
   },
   {
     "id": "page-d-d9-fast-food",
@@ -2077,7 +2198,8 @@
         "alt": "Image 103",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fast Food Advertisement"
   },
   {
     "id": "page-d-d10-luxury-watch",
@@ -2090,7 +2212,8 @@
         "alt": "Image 104",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Luxury Watch Campaign"
   },
   {
     "id": "page-d-d11-youtube-thumbnail",
@@ -2103,7 +2226,8 @@
         "alt": "Image 105",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "YouTube Thumbnail"
   },
   {
     "id": "page-d-d12-tiktok",
@@ -2116,7 +2240,8 @@
         "alt": "Image 106",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "TikTok Screenshot"
   },
   {
     "id": "page-d-d13-twitch",
@@ -2129,7 +2254,8 @@
         "alt": "Image 107",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Twitch Stream Setup"
   },
   {
     "id": "page-d-d14-zombie",
@@ -2142,7 +2268,8 @@
         "alt": "Image 108",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Zombie Outbreak"
   },
   {
     "id": "page-d-d15-samurai",
@@ -2155,7 +2282,8 @@
         "alt": "Image 109",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Samurai Epic"
   },
   {
     "id": "page-d-d16-pirate",
@@ -2168,7 +2296,8 @@
         "alt": "Image 110",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pirate Adventure"
   },
   {
     "id": "page-d-d17-roman-empire",
@@ -2181,7 +2310,8 @@
         "alt": "Image 111",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Roman Empire"
   },
   {
     "id": "page-d-d18-action-figure-shelf",
@@ -2194,7 +2324,8 @@
         "alt": "Image 112",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "AI Action Figure Shelf"
   },
   {
     "id": "page-d-d19-tiny-planet",
@@ -2207,7 +2338,8 @@
         "alt": "Image 113",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Tiny Planet"
   },
   {
     "id": "page-d-d20-miniature-construction",
@@ -2220,7 +2352,8 @@
         "alt": "Image 114",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Construction Crew"
   },
   {
     "id": "page-d-d21-kaiju",
@@ -2233,7 +2366,8 @@
         "alt": "Image 115",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Giant Monster Attack"
   },
   {
     "id": "page-d-d22-xray",
@@ -2246,7 +2380,8 @@
         "alt": "Image 116",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "X-Ray Vision"
   },
   {
     "id": "page-d-d23-liquid-metal",
@@ -2259,7 +2394,8 @@
         "alt": "Image 117",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Liquid Metal Morph"
   },
   {
     "id": "page-d-d24-crystal-statue",
@@ -2272,7 +2408,8 @@
         "alt": "Image 118",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Crystal Statue"
   },
   {
     "id": "page-d-d25-cosmic-entity",
@@ -2285,7 +2422,8 @@
         "alt": "Image 119",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cosmic Entity"
   },
   {
     "id": "page-z-1-security-camera-feed",
@@ -2298,7 +2436,8 @@
         "alt": "Image 120",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Security Camera Feed"
   },
   {
     "id": "page-z-2-police-bodycam",
@@ -2311,7 +2450,8 @@
         "alt": "Image 121",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Police Bodycam"
   },
   {
     "id": "page-z-3-facetime-screenshot",
@@ -2324,7 +2464,8 @@
         "alt": "Image 122",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "FaceTime Screenshot"
   },
   {
     "id": "page-z-4-google-maps-street-view",
@@ -2337,7 +2478,8 @@
         "alt": "Image 123",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Google Maps Street View"
   },
   {
     "id": "page-z-5-blade-runner-scene",
@@ -2350,7 +2492,8 @@
         "alt": "Image 124",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Blade Runner Scene"
   },
   {
     "id": "page-z-6-alien-planet-explorer",
@@ -2363,7 +2506,8 @@
         "alt": "Image 125",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Alien Planet Explorer"
   },
   {
     "id": "page-z-7-resident-evil-inventory-screen",
@@ -2376,7 +2520,8 @@
         "alt": "Image 126",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Resident Evil Inventory Screen"
   },
   {
     "id": "page-z-8-dark-souls-boss-intro",
@@ -2389,7 +2534,8 @@
         "alt": "Image 127",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dark Souls Boss Intro"
   },
   {
     "id": "page-z-9-trading-card",
@@ -2402,7 +2548,8 @@
         "alt": "Image 128",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Trading Card"
   },
   {
     "id": "page-z-10-magazine-cover",
@@ -2415,7 +2562,8 @@
         "alt": "Image 129",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Magazine Cover"
   },
   {
     "id": "page-z-11-mandela-catalogue-style",
@@ -2428,7 +2576,8 @@
         "alt": "Image 130",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mandela Catalogue Style"
   },
   {
     "id": "page-z-12-reality-glitch",
@@ -2441,7 +2590,8 @@
         "alt": "Image 131",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Reality Glitch"
   },
   {
     "id": "page-extra-1-mech-pilot",
@@ -2454,7 +2604,8 @@
         "alt": "Image 132",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mech Pilot"
   },
   {
     "id": "page-extra-2-deep-space-horror",
@@ -2467,7 +2618,8 @@
         "alt": "Image 133",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Deep Space Horror"
   },
   {
     "id": "page-extra-3-inflatable-toy-version",
@@ -2480,7 +2632,8 @@
         "alt": "Image 134",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Inflatable Toy Version"
   },
   {
     "id": "page-extra-4-melting-wax-figure",
@@ -2493,7 +2646,8 @@
         "alt": "Image 135",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Melting Wax Figure"
   },
   {
     "id": "page-extra-5-food-version",
@@ -2506,7 +2660,8 @@
         "alt": "Image 136",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Food Version"
   },
   {
     "id": "page-extra-6-balloon-animal",
@@ -2519,7 +2674,8 @@
         "alt": "Image 137",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Balloon Animal"
   },
   {
     "id": "page-extra-7-medieval-painting-restoration",
@@ -2532,7 +2688,8 @@
         "alt": "Image 138",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Medieval Painting Restoration"
   },
   {
     "id": "page-extra-8-archaeological-discovery",
@@ -2545,7 +2702,8 @@
         "alt": "Image 139",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Archaeological Discovery"
   },
   {
     "id": "page-extra-9-mugshot",
@@ -2558,7 +2716,8 @@
         "alt": "Image 140",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mugshot"
   },
   {
     "id": "page-extra-10-medical-textbook-illustration",
@@ -2571,7 +2730,8 @@
         "alt": "Image 141",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Medical Textbook Illustration"
   },
   {
     "id": "page-extra-11-frozen-world",
@@ -2584,7 +2744,8 @@
         "alt": "Image 142",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Frozen World"
   },
   {
     "id": "page-extra-12-desert-survival",
@@ -2597,7 +2758,8 @@
         "alt": "Image 143",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Desert Survival"
   },
   {
     "id": "page-extra-13-underwater-civilization",
@@ -2610,7 +2772,8 @@
         "alt": "Image 144",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Underwater Civilization"
   },
   {
     "id": "page-extra-14-jungle-expedition",
@@ -2623,7 +2786,8 @@
         "alt": "Image 145",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Jungle Expedition"
   },
   {
     "id": "page-extra-15-sigma-edit-frame",
@@ -2636,7 +2800,8 @@
         "alt": "Image 146",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sigma Edit Frame"
   },
   {
     "id": "page-extra-16-discord-profile-banner",
@@ -2649,7 +2814,8 @@
         "alt": "Image 147",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Discord Profile Banner"
   },
   {
     "id": "page-extra-17-fake-album-leak",
@@ -2662,7 +2828,8 @@
         "alt": "Image 148",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Album Leak"
   },
   {
     "id": "page-extra-18-ai-influencer-photoshoot",
@@ -2675,7 +2842,8 @@
         "alt": "Image 149",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "AI Influencer Photoshoot"
   },
   {
     "id": "page-extra-19-timeline-collapse",
@@ -2688,7 +2856,8 @@
         "alt": "Image 150",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Timeline Collapse"
   },
   {
     "id": "page-extra-20-mirror-universe",
@@ -2701,7 +2870,8 @@
         "alt": "Image 151",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mirror Universe"
   },
   {
     "id": "page-extra-21-multiversal-variants",
@@ -2714,7 +2884,8 @@
         "alt": "Image 152",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Multiversal Variants"
   },
   {
     "id": "page-extra-22-airport-security-scanner",
@@ -2727,7 +2898,8 @@
         "alt": "Image 153",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Airport Security Scanner"
   },
   {
     "id": "page-extra-23-weather-news-broadcast",
@@ -2740,7 +2912,8 @@
         "alt": "Image 154",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Weather News Broadcast"
   },
   {
     "id": "page-extra-24-dashcam-footage",
@@ -2753,7 +2926,8 @@
         "alt": "Image 155",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dashcam Footage"
   },
   {
     "id": "page-extra-25-drone-surveillance",
@@ -2766,7 +2940,8 @@
         "alt": "Image 156",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Drone Surveillance"
   },
   {
     "id": "page-extra-26-eldritch-horror",
@@ -2779,7 +2954,8 @@
         "alt": "Image 157",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Eldritch Horror"
   },
   {
     "id": "page-extra-27-cult-ritual",
@@ -2792,7 +2968,8 @@
         "alt": "Image 158",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cult Ritual"
   },
   {
     "id": "page-extra-28-haunted-photograph",
@@ -2805,7 +2982,8 @@
         "alt": "Image 159",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Haunted Photograph"
   },
   {
     "id": "page-extra-29-silent-hill-style",
@@ -2818,7 +2996,8 @@
         "alt": "Image 160",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Silent Hill Style"
   },
   {
     "id": "page-extra-30-mushroom-infection",
@@ -2831,7 +3010,8 @@
         "alt": "Image 161",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mushroom Infection"
   },
   {
     "id": "page-extra-31-crystal-mutation",
@@ -2844,7 +3024,8 @@
         "alt": "Image 162",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Crystal Mutation"
   },
   {
     "id": "page-extra-32-plant-hybrid",
@@ -2857,7 +3038,8 @@
         "alt": "Image 163",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Plant Hybrid"
   },
   {
     "id": "page-extra-33-cybernetic-augmentation",
@@ -2870,7 +3052,8 @@
         "alt": "Image 164",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cybernetic Augmentation"
   },
   {
     "id": "page-extra-34-myspace-profile",
@@ -2883,7 +3066,8 @@
         "alt": "Image 165",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "MySpace Profile"
   },
   {
     "id": "page-extra-35-windows-xp-wallpaper",
@@ -2896,7 +3080,8 @@
         "alt": "Image 166",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Windows XP Wallpaper"
   },
   {
     "id": "page-extra-36-limewire-album-download",
@@ -2909,7 +3094,8 @@
         "alt": "Image 167",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "LimeWire Album Download"
   },
   {
     "id": "page-extra-37-old-forum-signature",
@@ -2922,7 +3108,8 @@
         "alt": "Image 168",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Forum Signature"
   },
   {
     "id": "page-extra-38-classified-cia-file",
@@ -2935,7 +3122,8 @@
         "alt": "Image 169",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Classified CIA File"
   },
   {
     "id": "page-extra-39-fbi-most-wanted-poster",
@@ -2948,7 +3136,8 @@
         "alt": "Image 170",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "FBI Most Wanted Poster"
   },
   {
     "id": "page-extra-40-scientific-research-paper",
@@ -2961,7 +3150,8 @@
         "alt": "Image 171",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Scientific Research Paper"
   },
   {
     "id": "page-extra-41-ancient-prophecy-scroll",
@@ -2974,7 +3164,8 @@
         "alt": "Image 172",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ancient Prophecy Scroll"
   },
   {
     "id": "page-extra-42-retro-sci-fi-magazine-cover",
@@ -2987,7 +3178,8 @@
         "alt": "Image 173",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Sci-Fi Magazine Cover"
   },
   {
     "id": "page-extra-43-fallout-wasteland",
@@ -3000,7 +3192,8 @@
         "alt": "Image 174",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fallout Wasteland"
   },
   {
     "id": "page-extra-44-bioshock-underwater-dystopia",
@@ -3013,7 +3206,8 @@
         "alt": "Image 175",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bioshock Underwater Dystopia"
   },
   {
     "id": "page-extra-45-retro-space-program",
@@ -3026,7 +3220,8 @@
         "alt": "Image 176",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Space Program"
   },
   {
     "id": "page-extra-46-time-freeze",
@@ -3039,7 +3234,8 @@
         "alt": "Image 177",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Time Freeze"
   },
   {
     "id": "page-extra-47-gravity-reversal",
@@ -3052,7 +3248,8 @@
         "alt": "Image 178",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Gravity Reversal"
   },
   {
     "id": "page-extra-48-fractured-dimensions",
@@ -3065,7 +3262,8 @@
         "alt": "Image 179",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fractured Dimensions"
   },
   {
     "id": "page-extra-49-infinite-recursion",
@@ -3078,7 +3276,8 @@
         "alt": "Image 180",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Infinite Recursion"
   },
   {
     "id": "page-extra-50-war-photography",
@@ -3091,7 +3290,8 @@
         "alt": "Image 181",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "War Photography"
   },
   {
     "id": "page-extra-51-70s-fashion-editorial",
@@ -3104,7 +3304,8 @@
         "alt": "Image 182",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "70s Fashion Editorial"
   },
   {
     "id": "page-extra-52-celebrity-red-carpet",
@@ -3117,7 +3318,8 @@
         "alt": "Image 183",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Celebrity Red Carpet"
   },
   {
     "id": "page-extra-53-scandinavian-minimalism",
@@ -3130,7 +3332,8 @@
         "alt": "Image 184",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Scandinavian Minimalism"
   },
   {
     "id": "page-extra-54-persona-5-splash-art",
@@ -3143,7 +3346,8 @@
         "alt": "Image 185",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Persona 5 Splash Art"
   },
   {
     "id": "page-extra-55-skyrim-loading-screen",
@@ -3156,7 +3360,8 @@
         "alt": "Image 186",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Skyrim Loading Screen"
   },
   {
     "id": "page-extra-56-vintage-postcard",
@@ -3169,7 +3374,8 @@
         "alt": "Image 187",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Postcard"
   },
   {
     "id": "page-extra-57-arcade-cabinet-art",
@@ -3182,7 +3388,8 @@
         "alt": "Image 188",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Cabinet Art"
   },
   {
     "id": "page-extra-58-liminal-school-hallway",
@@ -3195,7 +3402,8 @@
         "alt": "Image 189",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Liminal School Hallway"
   },
   {
     "id": "page-extra-59-paranormal-investigation",
@@ -3208,7 +3416,8 @@
         "alt": "Image 190",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Paranormal Investigation"
   },
   {
     "id": "page-extra-60-cursed-children-s-tv-show",
@@ -3221,7 +3430,8 @@
         "alt": "Image 191",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cursed Children’s TV Show"
   },
   {
     "id": "page-extra-61-giant-moon-approaching-earth",
@@ -3234,7 +3444,8 @@
         "alt": "Image 192",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Giant Moon Approaching Earth"
   },
   {
     "id": "page-extra-62-black-hole-distortion",
@@ -3247,7 +3458,8 @@
         "alt": "Image 193",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Black Hole Distortion"
   },
   {
     "id": "page-extra-63-reality-flooded",
@@ -3260,7 +3472,8 @@
         "alt": "Image 194",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Reality Flooded"
   },
   {
     "id": "page-extra-64-eternal-night",
@@ -3273,7 +3486,8 @@
         "alt": "Image 195",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Eternal Night"
   },
   {
     "id": "page-extra-65-retro-futuristic-os",
@@ -3286,7 +3500,8 @@
         "alt": "Image 196",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Futuristic OS"
   },
   {
     "id": "page-extra-66-ai-detection-interface",
@@ -3299,7 +3514,8 @@
         "alt": "Image 197",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "AI Detection Interface"
   },
   {
     "id": "page-extra-67-hologram-projection",
@@ -3312,7 +3528,8 @@
         "alt": "Image 198",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Hologram Projection"
   },
   {
     "id": "page-extra-68-robot-vision",
@@ -3325,7 +3542,8 @@
         "alt": "Image 199",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Robot Vision"
   },
   {
     "id": "page-extra-69-cake-illusion",
@@ -3338,7 +3556,8 @@
         "alt": "Image 200",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cake Illusion"
   },
   {
     "id": "page-extra-70-action-figure-unboxing",
@@ -3351,7 +3570,8 @@
         "alt": "Image 201",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Action Figure Unboxing"
   },
   {
     "id": "page-extra-71-ikea-product-photo",
@@ -3364,7 +3584,8 @@
         "alt": "Image 202",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "IKEA Product Photo"
   },
   {
     "id": "page-extra-72-giant-food-version",
@@ -3377,7 +3598,8 @@
         "alt": "Image 203",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Giant Food Version"
   },
   {
     "id": "page-extra-73-ww2-propaganda-poster",
@@ -3390,7 +3612,8 @@
         "alt": "Image 204",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "WW2 Propaganda Poster"
   },
   {
     "id": "page-extra-74-victorian-ghost-photo",
@@ -3403,7 +3626,8 @@
         "alt": "Image 205",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Victorian Ghost Photo"
   },
   {
     "id": "page-extra-75-medieval-tapestry",
@@ -3416,7 +3640,8 @@
         "alt": "Image 206",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Medieval Tapestry"
   },
   {
     "id": "page-extra-76-ancient-roman-mosaic",
@@ -3429,7 +3654,8 @@
         "alt": "Image 207",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ancient Roman Mosaic"
   },
   {
     "id": "page-extra-77-simulation-theory-breakdown",
@@ -3442,7 +3668,8 @@
         "alt": "Image 208",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Simulation Theory Breakdown"
   },
   {
     "id": "page-extra-78-ai-dream-interpretation",
@@ -3455,7 +3682,8 @@
         "alt": "Image 209",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "AI Dream Interpretation"
   },
   {
     "id": "page-extra-79-memory-fragment",
@@ -3468,7 +3696,8 @@
         "alt": "Image 210",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Memory Fragment"
   },
   {
     "id": "page-extra-80-human-evolution-future",
@@ -3481,7 +3710,8 @@
         "alt": "Image 211",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Human Evolution Future"
   },
   {
     "id": "page-c-c3-vhs-rental-store-box-art",
@@ -3494,7 +3724,8 @@
         "alt": "Image 212",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "VHS Rental Store Box Art"
   },
   {
     "id": "page-c-c4-fast-food-kids-meal-toy",
@@ -3507,7 +3738,8 @@
         "alt": "Image 213",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fast Food Kids Meal Toy"
   },
   {
     "id": "page-c-c5-theme-park-ride-photo",
@@ -3520,7 +3752,8 @@
         "alt": "Image 214",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Theme Park Ride Photo"
   },
   {
     "id": "page-c-c6-fake-dating-app-profile",
@@ -3533,7 +3766,8 @@
         "alt": "Image 215",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Dating App Profile"
   },
   {
     "id": "page-c-c7-emergency-alert-system",
@@ -3546,7 +3780,8 @@
         "alt": "Image 216",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Emergency Alert System"
   },
   {
     "id": "page-c-c8-infomercial-product-demonstration",
@@ -3559,7 +3794,8 @@
         "alt": "Image 217",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Infomercial Product Demonstration"
   },
   {
     "id": "page-c-c9-theme-park-animatronic",
@@ -3572,7 +3808,8 @@
         "alt": "Image 218",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Theme Park Animatronic"
   },
   {
     "id": "page-c-c10-mall-store-security-mirror",
@@ -3585,7 +3822,8 @@
         "alt": "Image 219",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mall Store Security Mirror"
   },
   {
     "id": "page-c-c11-wildlife-trail-camera",
@@ -3598,7 +3836,8 @@
         "alt": "Image 220",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Wildlife Trail Camera"
   },
   {
     "id": "page-c-c12-fake-kickstarter-campaign",
@@ -3611,7 +3850,8 @@
         "alt": "Image 221",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Kickstarter Campaign"
   },
   {
     "id": "page-c-c13-retro-toy-commercial-screenshot",
@@ -3624,7 +3864,8 @@
         "alt": "Image 222",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Toy Commercial Screenshot"
   },
   {
     "id": "page-c-c14-theme-restaurant-mascot",
@@ -3637,7 +3878,8 @@
         "alt": "Image 223",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Theme Restaurant Mascot"
   },
   {
     "id": "page-c-c15-old-forum-avatar-signature",
@@ -3650,7 +3892,8 @@
         "alt": "Image 224",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Forum Avatar + Signature"
   },
   {
     "id": "page-c-c16-fake-steam-game-page",
@@ -3663,7 +3906,8 @@
         "alt": "Image 225",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Steam Game Page"
   },
   {
     "id": "page-c-c18-film-contact-sheet",
@@ -3676,7 +3920,8 @@
         "alt": "Image 227",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Film Contact Sheet"
   },
   {
     "id": "page-c-c19-retro-board-game-box",
@@ -3689,7 +3934,8 @@
         "alt": "Image 228",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Board Game Box"
   },
   {
     "id": "page-c-c20-stained-glass-window",
@@ -3702,7 +3948,8 @@
         "alt": "Image 229",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Stained Glass Window"
   },
   {
     "id": "page-c-c21-natural-history-museum-diorama",
@@ -3715,7 +3962,8 @@
         "alt": "Image 230",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Natural History Museum Diorama"
   },
   {
     "id": "page-c-c22-ancient-stone-relief-tablet",
@@ -3728,7 +3976,8 @@
         "alt": "Image 231",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ancient Stone Relief Tablet"
   },
   {
     "id": "page-c-c23-1980s-school-yearbook-portrait",
@@ -3741,7 +3990,8 @@
         "alt": "Image 232",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1980s School Yearbook Portrait"
   },
   {
     "id": "page-c-c24-toy-capsule-vending-machine",
@@ -3754,7 +4004,8 @@
         "alt": "Image 233",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Capsule Vending Machine"
   },
   {
     "id": "page-c-c25-model-kit-assembly-sprue",
@@ -3767,7 +4018,8 @@
         "alt": "Image 234",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Model Kit Assembly Sprue"
   },
   {
     "id": "page-c-c26-retro-pc-shareware-box",
@@ -3780,7 +4032,8 @@
         "alt": "Image 235",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro PC Shareware Box"
   },
   {
     "id": "page-c-c27-late-night-psychic-hotline-tv-ad",
@@ -3793,7 +4046,8 @@
         "alt": "Image 236",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Late-Night Psychic Hotline TV Ad"
   },
   {
     "id": "page-c-c28-photo-booth-strip",
@@ -3806,7 +4060,8 @@
         "alt": "Image 237",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Photo Booth Strip"
   },
   {
     "id": "page-c-c29-medieval-bestiary-page",
@@ -3819,7 +4074,8 @@
         "alt": "Image 238",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Medieval Bestiary Page"
   },
   {
     "id": "page-c-c30-comic-convention-badge",
@@ -3832,7 +4088,8 @@
         "alt": "Image 239",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Comic Convention Badge"
   },
   {
     "id": "page-c-c31-police-evidence-table",
@@ -3845,7 +4102,8 @@
         "alt": "Image 240",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Police Evidence Table"
   },
   {
     "id": "page-c-c32-family-scrapbook-page",
@@ -3858,7 +4116,8 @@
         "alt": "Image 241",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Family Scrapbook Page"
   },
   {
     "id": "page-c-c33-airport-departure-board",
@@ -3871,7 +4130,8 @@
         "alt": "Image 242",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Airport Departure Board"
   },
   {
     "id": "page-c-c34-grocery-store-tabloid-front-page",
@@ -3884,7 +4144,8 @@
         "alt": "Image 243",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Grocery Store Tabloid Front Page"
   },
   {
     "id": "page-c-c35-miniature-train-model-display",
@@ -3897,7 +4158,8 @@
         "alt": "Image 244",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Train Model Display"
   },
   {
     "id": "page-c-c36-museum-security-infrared-exhibit",
@@ -3910,7 +4172,8 @@
         "alt": "Image 245",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Museum Security Infrared Exhibit"
   },
   {
     "id": "page-c-c37-diy-zine-photocopy-spread",
@@ -3923,7 +4186,8 @@
         "alt": "Image 246",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "DIY Zine Photocopy Spread"
   },
   {
     "id": "page-c-c38-vintage-mall-glamour-portrait",
@@ -3936,7 +4200,8 @@
         "alt": "Image 247",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Mall Glamour Portrait"
   },
   {
     "id": "page-c-c39-ps1-survival-horror-screenshot",
@@ -3949,7 +4214,8 @@
         "alt": "Image 248",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "PS1 Survival Horror Screenshot"
   },
   {
     "id": "page-c-c40-jrpg-battle-screen",
@@ -3962,7 +4228,8 @@
         "alt": "Image 249",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "JRPG Battle Screen"
   },
   {
     "id": "page-c-c41-fighting-game-versus-screen",
@@ -3975,7 +4242,8 @@
         "alt": "Image 250",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fighting Game Versus Screen"
   },
   {
     "id": "page-c-c42-character-select-screen",
@@ -3988,7 +4256,8 @@
         "alt": "Image 251",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Character Select Screen"
   },
   {
     "id": "page-c-c43-cozy-life-sim-screenshot",
@@ -4001,7 +4270,8 @@
         "alt": "Image 252",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cozy Life Sim Screenshot"
   },
   {
     "id": "page-c-c44-rhythm-game-performance-screen",
@@ -4014,7 +4284,8 @@
         "alt": "Image 253",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Rhythm Game Performance Screen"
   },
   {
     "id": "page-c-c45-retro-kart-racing-portrait",
@@ -4027,7 +4298,8 @@
         "alt": "Image 254",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Kart Racing Portrait"
   },
   {
     "id": "page-c-c46-open-world-quest-log-scene",
@@ -4040,7 +4312,8 @@
         "alt": "Image 255",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Open-World Quest Log Scene"
   },
   {
     "id": "page-c-c47-visual-novel-dialogue-scene",
@@ -4053,7 +4326,8 @@
         "alt": "Image 256",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Visual Novel Dialogue Scene"
   },
   {
     "id": "page-c-c48-1990s-pc-point-and-click-adventure",
@@ -4066,7 +4340,8 @@
         "alt": "Image 257",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1990s PC Point-and-Click Adventure"
   },
   {
     "id": "page-c-c49-roguelike-loot-reward-screen",
@@ -4079,7 +4354,8 @@
         "alt": "Image 258",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Roguelike Loot Reward Screen"
   },
   {
     "id": "page-c-c50-achievement-unlocked-screen",
@@ -4092,7 +4368,8 @@
         "alt": "Image 259",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Achievement Unlocked Screen"
   },
   {
     "id": "page-c-c51-vintage-pocket-playset",
@@ -4105,7 +4382,8 @@
         "alt": "Image 260",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Pocket Playset"
   },
   {
     "id": "page-c-c52-retro-preschool-little-figures-set",
@@ -4118,7 +4396,8 @@
         "alt": "Image 261",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Preschool Little Figures Set"
   },
   {
     "id": "page-c-c53-classic-modular-toy-figurine-scene",
@@ -4131,7 +4410,8 @@
         "alt": "Image 262",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Classic Modular Toy Figurine Scene"
   },
   {
     "id": "page-c-c54-cozy-flocked-animal-family-diorama",
@@ -4144,7 +4424,8 @@
         "alt": "Image 263",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cozy Flocked Animal Family Diorama"
   },
   {
     "id": "page-c-c55-vintage-wind-up-tin-toy",
@@ -4157,7 +4438,8 @@
         "alt": "Image 264",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Wind-Up Tin Toy"
   },
   {
     "id": "page-c-c56-die-cast-collector-diorama",
@@ -4170,7 +4452,8 @@
         "alt": "Image 265",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Die-Cast Collector Diorama"
   },
   {
     "id": "page-c-c57-board-game-miniatures-and-box",
@@ -4183,7 +4466,8 @@
         "alt": "Image 266",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Board Game Miniatures and Box"
   },
   {
     "id": "page-c-c58-blind-box-designer-toy",
@@ -4196,7 +4480,8 @@
         "alt": "Image 267",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Blind Box Designer Toy"
   },
   {
     "id": "page-c-c59-retro-dollhouse-miniature-room",
@@ -4209,7 +4494,8 @@
         "alt": "Image 268",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Dollhouse Miniature Room"
   },
   {
     "id": "page-c-c60-monochrome-plastic-toy-playset",
@@ -4222,7 +4508,8 @@
         "alt": "Image 269",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Monochrome Plastic Toy Playset"
   },
   {
     "id": "page-c-c61-capsule-mini-figure-collection-sheet",
@@ -4235,7 +4522,8 @@
         "alt": "Image 270",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Capsule Mini Figure Collection Sheet"
   },
   {
     "id": "page-c-c62-vintage-toy-catalog-page",
@@ -4248,7 +4536,8 @@
         "alt": "Image 271",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Toy Catalog Page"
   },
   {
     "id": "page-d-d1-90s-video-game-strategy-guide",
@@ -4261,7 +4550,8 @@
         "alt": "Image 272",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "90s Video Game Strategy Guide"
   },
   {
     "id": "page-d-d2-vintage-cookbook-page",
@@ -4274,7 +4564,8 @@
         "alt": "Image 273",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Cookbook Page"
   },
   {
     "id": "page-d-d3-absurd-assembly-manual",
@@ -4287,7 +4578,8 @@
         "alt": "Image 274",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Absurd Assembly Manual"
   },
   {
     "id": "page-d-d4-80s-childrens-encyclopedia",
@@ -4300,7 +4592,8 @@
         "alt": "Image 275",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "80s Children's Encyclopedia"
   },
   {
     "id": "page-d-d5-film-festival-program",
@@ -4313,7 +4606,8 @@
         "alt": "Image 276",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Film Festival Program"
   },
   {
     "id": "page-d-d6-vinyl-record-booklet",
@@ -4326,7 +4620,8 @@
         "alt": "Image 277",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vinyl Record Booklet"
   },
   {
     "id": "page-d-d7-retrofuturist-tourist-postcard",
@@ -4339,7 +4634,8 @@
         "alt": "Image 278",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retrofuturist Tourist Postcard"
   },
   {
     "id": "page-d-d8-themed-restaurant-menu",
@@ -4352,7 +4648,8 @@
         "alt": "Image 279",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Themed Restaurant Menu"
   },
   {
     "id": "page-d-d9-tabletop-rpg-character-sheet",
@@ -4365,7 +4662,8 @@
         "alt": "Image 280",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Tabletop RPG Character Sheet"
   },
   {
     "id": "page-d-d10-museum-catalog-artifact",
@@ -4378,7 +4676,8 @@
         "alt": "Image 281",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Museum Catalog Artifact"
   },
   {
     "id": "page-d-d11-minimal-prestige-film-poster",
@@ -4391,7 +4690,8 @@
         "alt": "Image 282",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Minimal Prestige Film Poster"
   },
   {
     "id": "page-d-d12-1930s-lobby-card",
@@ -4404,7 +4704,8 @@
         "alt": "Image 283",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1930s Movie Lobby Card"
   },
   {
     "id": "page-d-d13-90s-mtv-music-video-frame",
@@ -4417,7 +4718,8 @@
         "alt": "Image 284",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "90s MTV Music Video Frame"
   },
   {
     "id": "page-d-d14-backstage-concert-rehearsal",
@@ -4430,7 +4732,8 @@
         "alt": "Image 285",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Backstage Concert Rehearsal"
   },
   {
     "id": "page-d-d15-reality-tv-confessional",
@@ -4443,7 +4746,8 @@
         "alt": "Image 286",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Reality TV Confessional"
   },
   {
     "id": "page-d-d16-official-sports-team-photo",
@@ -4456,7 +4760,8 @@
         "alt": "Image 287",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Official Sports Team Photo"
   },
   {
     "id": "page-d-d17-premium-sports-trading-card",
@@ -4469,7 +4774,8 @@
         "alt": "Image 288",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Premium Sports Trading Card"
   },
   {
     "id": "page-d-d18-pulp-paperback-cover",
@@ -4482,7 +4788,8 @@
         "alt": "Image 289",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pulp Paperback Cover"
   },
   {
     "id": "page-d-d19-rpg-item-shop-screen",
@@ -4495,7 +4802,8 @@
         "alt": "Image 290",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "RPG Item Shop Screen"
   },
   {
     "id": "page-d-d20-character-creation-screen",
@@ -4508,7 +4816,8 @@
         "alt": "Image 291",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Character Creation Screen"
   },
   {
     "id": "page-d-d21-adventure-game-world-map",
@@ -4521,7 +4830,8 @@
         "alt": "Image 292",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Adventure Game World Map"
   },
   {
     "id": "page-d-d22-arcade-level-complete-screen",
@@ -4534,7 +4844,8 @@
         "alt": "Image 293",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Level Complete Screen"
   },
   {
     "id": "page-d-d23-fictional-game-patch-notes",
@@ -4547,7 +4858,8 @@
         "alt": "Image 294",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fictional Game Patch Notes"
   },
   {
     "id": "page-d-d24-legendary-loot-reveal",
@@ -4560,7 +4872,8 @@
         "alt": "Image 295",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Legendary Loot Reveal"
   },
   {
     "id": "page-d-d25-japanese-arcade-cabinet-instruction-card",
@@ -4573,7 +4886,8 @@
         "alt": "Image 296",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Japanese Arcade Cabinet Instruction Card"
   },
   {
     "id": "page-d-d26-cutaway-architectural-model",
@@ -4586,7 +4900,8 @@
         "alt": "Image 297",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cutaway Architectural Model"
   },
   {
     "id": "page-d-d27-exploded-patent-diagram",
@@ -4599,7 +4914,8 @@
         "alt": "Image 298",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Exploded Patent Diagram"
   },
   {
     "id": "page-d-d28-collectible-cereal-box",
@@ -4612,7 +4928,8 @@
         "alt": "Image 299",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Collectible Cereal Box"
   },
   {
     "id": "page-d-d29-cake-topper-figurine",
@@ -4625,7 +4942,8 @@
         "alt": "Image 300",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cake Topper Figurine"
   },
   {
     "id": "page-d-d30-translucent-gelatin-sculpture",
@@ -4638,7 +4956,8 @@
         "alt": "Image 301",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Translucent Gelatin Sculpture"
   },
   {
     "id": "page-d-d31-miniature-theme-park-attraction",
@@ -4651,7 +4970,8 @@
         "alt": "Image 302",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Theme Park Attraction"
   },
   {
     "id": "page-d-d32-papercraft-template-kit",
@@ -4664,7 +4984,8 @@
         "alt": "Image 303",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Papercraft Template Kit"
   },
   {
     "id": "page-d-d33-art-nouveau-poster",
@@ -4677,7 +4998,8 @@
         "alt": "Image 304",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Art Nouveau Poster"
   },
   {
     "id": "page-d-d34-bauhaus-poster",
@@ -4690,7 +5012,8 @@
         "alt": "Image 305",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bauhaus Poster"
   },
   {
     "id": "page-d-d35-psychedelic-60s-concert-poster",
@@ -4703,7 +5026,8 @@
         "alt": "Image 306",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Psychedelic 60s Concert Poster"
   },
   {
     "id": "page-d-d36-ancient-damaged-fresco",
@@ -4716,7 +5040,8 @@
         "alt": "Image 307",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ancient Damaged Fresco"
   },
   {
     "id": "page-d-d37-esoteric-tarot-card",
@@ -4729,7 +5054,8 @@
         "alt": "Image 308",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Esoteric Tarot Card"
   },
   {
     "id": "page-d-d38-rpg-monster-bestiary-card",
@@ -4742,7 +5068,8 @@
         "alt": "Image 309",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "RPG Monster Bestiary Card"
   },
   {
     "id": "page-d-d39-vintage-circus-poster",
@@ -4755,7 +5082,8 @@
         "alt": "Image 310",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Circus Poster"
   },
   {
     "id": "page-d-d40-pop-up-childrens-book-cover",
@@ -4768,7 +5096,8 @@
         "alt": "Image 311",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pop-Up Children's Book Cover"
   },
   {
     "id": "page-d-d41-public-monument-statue",
@@ -4781,7 +5110,8 @@
         "alt": "Image 312",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Public Monument Statue"
   },
   {
     "id": "page-d-d42-view-through-scientific-instrument",
@@ -4794,7 +5124,8 @@
         "alt": "Image 313",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "View Through Scientific Instrument"
   },
   {
     "id": "page-d-d43-archaeological-before-after-reconstruction",
@@ -4807,7 +5138,8 @@
         "alt": "Image 314",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Archaeological Before / After Reconstruction"
   },
   {
     "id": "page-d-d44-four-era-character-evolution",
@@ -4820,7 +5152,8 @@
         "alt": "Image 315",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Four-Era Character Evolution"
   },
   {
     "id": "page-d-d45-emotional-weather-map",
@@ -4833,7 +5166,8 @@
         "alt": "Image 316",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Emotional Weather Map"
   },
   {
     "id": "page-d-d46-surreal-fantasy-tribunal",
@@ -4846,7 +5180,8 @@
         "alt": "Image 317",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Surreal Fantasy Tribunal"
   },
   {
     "id": "page-d-d47-modern-subway-stained-glass",
@@ -4859,7 +5194,8 @@
         "alt": "Image 318",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Modern Subway Stained Glass"
   },
   {
     "id": "page-d-d48-retro-pharmaceutical-ad",
@@ -4872,7 +5208,8 @@
         "alt": "Image 319",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Pharmaceutical Ad"
   },
   {
     "id": "page-c-pubg-ai-character-selection",
@@ -4885,7 +5222,8 @@
         "alt": "Image 320",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "PUBG AI Character Selection"
   },
   {
     "id": "page-e-e1-save-corruption-screen",
@@ -4898,7 +5236,8 @@
         "alt": "Image 321",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Save Corruption Screen"
   },
   {
     "id": "page-e-e2-speedrun-timer-overlay",
@@ -4911,7 +5250,8 @@
         "alt": "Image 322",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Speedrun Timer Overlay"
   },
   {
     "id": "page-e-e3-game-boy-camera-portrait",
@@ -4924,7 +5264,8 @@
         "alt": "Image 323",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Game Boy Camera Portrait"
   },
   {
     "id": "page-e-e4-dreamcast-vmu-mini-game",
@@ -4937,7 +5278,8 @@
         "alt": "Image 324",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dreamcast VMU Mini Game"
   },
   {
     "id": "page-e-e5-arcade-attract-mode-demo",
@@ -4950,7 +5292,8 @@
         "alt": "Image 325",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Attract Mode Demo"
   },
   {
     "id": "page-e-e6-game-over-continue-countdown",
@@ -4963,7 +5306,8 @@
         "alt": "Image 326",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Game Over Continue Countdown"
   },
   {
     "id": "page-e-e7-fake-cheat-code-magazine-page",
@@ -4976,7 +5320,8 @@
         "alt": "Image 327",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Cheat Code Magazine Page"
   },
   {
     "id": "page-e-e8-retro-handheld-lcd-game",
@@ -4989,7 +5334,8 @@
         "alt": "Image 328",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Handheld LCD Game"
   },
   {
     "id": "page-e-e9-game-manual-controls-page",
@@ -5002,7 +5348,8 @@
         "alt": "Image 329",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Game Manual Controls Page"
   },
   {
     "id": "page-e-e10-tamagotchi-virtual-pet",
@@ -5015,7 +5362,8 @@
         "alt": "Image 330",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Tamagotchi Virtual Pet"
   },
   {
     "id": "page-e-e11-arcade-rhythm-results-screen",
@@ -5028,7 +5376,8 @@
         "alt": "Image 331",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Rhythm Results Screen"
   },
   {
     "id": "page-e-e12-retro-lan-party-screenshot",
@@ -5041,7 +5390,8 @@
         "alt": "Image 332",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro LAN Party Screenshot"
   },
   {
     "id": "page-e-e13-view-master-reel",
@@ -5054,7 +5404,8 @@
         "alt": "Image 333",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "View-Master Reel"
   },
   {
     "id": "page-e-e14-etch-a-sketch-drawing",
@@ -5067,7 +5418,8 @@
         "alt": "Image 334",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Etch A Sketch Drawing"
   },
   {
     "id": "page-e-e15-spirograph-art-toy",
@@ -5080,7 +5432,8 @@
         "alt": "Image 335",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Spirograph Art Toy"
   },
   {
     "id": "page-e-e16-lite-brite-peg-art",
@@ -5093,7 +5446,8 @@
         "alt": "Image 336",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Lite-Brite Peg Art"
   },
   {
     "id": "page-e-e17-wooden-nesting-dolls",
@@ -5106,7 +5460,8 @@
         "alt": "Image 337",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Wooden Nesting Dolls"
   },
   {
     "id": "page-e-e18-foam-puzzle-mat-toy",
@@ -5119,7 +5474,8 @@
         "alt": "Image 338",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Foam Puzzle Mat Toy"
   },
   {
     "id": "page-e-e19-rubber-stamp-set",
@@ -5132,7 +5488,8 @@
         "alt": "Image 339",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Rubber Stamp Set"
   },
   {
     "id": "page-e-e20-sticker-album-collectible-page",
@@ -5145,7 +5502,8 @@
         "alt": "Image 340",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sticker Album Collectible Page"
   },
   {
     "id": "page-e-e21-toy-microscope-slide",
@@ -5158,7 +5516,8 @@
         "alt": "Image 341",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Microscope Slide"
   },
   {
     "id": "page-e-e22-cardboard-standee-toy",
@@ -5171,7 +5530,8 @@
         "alt": "Image 342",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cardboard Standee Toy"
   },
   {
     "id": "page-e-e23-magnetic-drawing-board",
@@ -5184,7 +5544,8 @@
         "alt": "Image 343",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Magnetic Drawing Board"
   },
   {
     "id": "page-e-e24-sock-puppet-theater",
@@ -5197,7 +5558,8 @@
         "alt": "Image 344",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sock Puppet Theater"
   },
   {
     "id": "page-e-e25-toy-x-ray-viewer",
@@ -5210,7 +5572,8 @@
         "alt": "Image 345",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy X-Ray Viewer"
   },
   {
     "id": "page-e-e26-crayon-box-mascot",
@@ -5223,7 +5586,8 @@
         "alt": "Image 346",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Crayon Box Mascot"
   },
   {
     "id": "page-e-e27-vintage-toy-catalog-page",
@@ -5236,7 +5600,8 @@
         "alt": "Image 347",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mail-Order Toy Catalog Page"
   },
   {
     "id": "page-e-e28-transforming-robot-toy-blueprint",
@@ -5249,7 +5614,8 @@
         "alt": "Image 348",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Transforming Robot Toy Blueprint"
   },
   {
     "id": "page-f-f1-airline-safety-card",
@@ -5262,7 +5628,8 @@
         "alt": "Image 349",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Airline Safety Card"
   },
   {
     "id": "page-f-f2-library-checkout-card",
@@ -5275,7 +5642,8 @@
         "alt": "Image 350",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Library Checkout Card"
   },
   {
     "id": "page-f-f3-self-checkout-error-screen",
@@ -5288,7 +5656,8 @@
         "alt": "Image 351",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Self-Checkout Error Screen"
   },
   {
     "id": "page-f-f4-retro-gps-navigation-screen",
@@ -5301,7 +5670,8 @@
         "alt": "Image 352",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro GPS Navigation Screen"
   },
   {
     "id": "page-f-f5-airline-boarding-pass-portrait",
@@ -5314,7 +5684,8 @@
         "alt": "Image 353",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Airline Boarding Pass Portrait"
   },
   {
     "id": "page-f-f6-museum-audio-guide-display",
@@ -5327,7 +5698,8 @@
         "alt": "Image 354",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Museum Audio Guide Display"
   },
   {
     "id": "page-f-f7-courtroom-sketch-artist-drawing",
@@ -5340,7 +5712,8 @@
         "alt": "Image 355",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Courtroom Sketch Artist Drawing"
   },
   {
     "id": "page-f-f8-passport-stamp-world-tour",
@@ -5353,7 +5726,8 @@
         "alt": "Image 356",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Passport Stamp World Tour"
   },
   {
     "id": "page-f-f9-retro-tax-form-nightmare",
@@ -5366,7 +5740,8 @@
         "alt": "Image 357",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Tax Form Nightmare"
   },
   {
     "id": "page-f-f10-grocery-store-weekly-flyer",
@@ -5379,7 +5754,8 @@
         "alt": "Image 358",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Grocery Store Weekly Flyer"
   },
   {
     "id": "page-f-f11-vintage-banknote-from-a-fictional-country",
@@ -5392,7 +5768,8 @@
         "alt": "Image 359",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Banknote from a Fictional Country"
   },
   {
     "id": "page-f-f12-1970s-cooking-magazine-cover",
@@ -5405,7 +5782,8 @@
         "alt": "Image 360",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1970s Cooking Magazine Cover"
   },
   {
     "id": "page-f-f13-public-access-tv-interview",
@@ -5418,7 +5796,8 @@
         "alt": "Image 361",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Public Access TV Interview"
   },
   {
     "id": "page-f-f14-old-computer-shareware-box",
@@ -5431,7 +5810,8 @@
         "alt": "Image 362",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Computer Shareware Box"
   },
   {
     "id": "page-f-f15-toy-instruction-leaflet",
@@ -5444,7 +5824,8 @@
         "alt": "Image 363",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Instruction Leaflet"
   },
   {
     "id": "page-f-f16-mall-photo-studio-portrait",
@@ -5457,7 +5838,8 @@
         "alt": "Image 364",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mall Photo Studio Portrait"
   },
   {
     "id": "page-f-f17-hotel-room-service-menu",
@@ -5470,7 +5852,8 @@
         "alt": "Image 365",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Hotel Room Service Menu"
   },
   {
     "id": "page-f-f18-retro-science-fair-display-board",
@@ -5483,7 +5866,8 @@
         "alt": "Image 366",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Science Fair Display Board"
   },
   {
     "id": "page-f-f19-vintage-warranty-registration-card",
@@ -5496,7 +5880,8 @@
         "alt": "Image 367",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Warranty Registration Card"
   },
   {
     "id": "page-f-f20-classic-arcade-high-score-screen",
@@ -5509,7 +5894,8 @@
         "alt": "Image 368",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Classic Arcade High Score Screen"
   },
   {
     "id": "page-f-f21-fake-festival-wristband",
@@ -5522,7 +5908,8 @@
         "alt": "Image 369",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Festival Wristband"
   },
   {
     "id": "page-f-f22-old-classroom-overhead-projector-slide",
@@ -5535,7 +5922,8 @@
         "alt": "Image 370",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Classroom Overhead Projector Slide"
   },
   {
     "id": "page-f-f23-mini-golf-course-diorama",
@@ -5548,7 +5936,8 @@
         "alt": "Image 371",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mini Golf Course Diorama"
   },
   {
     "id": "page-f-f24-retro-motel-sign",
@@ -5561,7 +5950,8 @@
         "alt": "Image 372",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Motel Sign"
   },
   {
     "id": "page-f-f25-mechanical-clockwork-diagram",
@@ -5574,7 +5964,8 @@
         "alt": "Image 373",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mechanical Clockwork Diagram"
   },
   {
     "id": "page-f-f26-1960s-educational-film-frame",
@@ -5587,7 +5978,8 @@
         "alt": "Image 374",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1960s Educational Film Frame"
   },
   {
     "id": "page-f-f27-fake-museum-restoration-report",
@@ -5600,7 +5992,8 @@
         "alt": "Image 375",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fake Museum Restoration Report"
   },
   {
     "id": "page-f-f28-antique-magic-lantern-slide",
@@ -5613,7 +6006,8 @@
         "alt": "Image 376",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Antique Magic Lantern Slide"
   },
   {
     "id": "page-f-f29-boardwalk-fortune-teller-machine",
@@ -5626,7 +6020,8 @@
         "alt": "Image 377",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Boardwalk Fortune Teller Machine"
   },
   {
     "id": "page-f-f30-old-recipe-card-box",
@@ -5639,7 +6034,8 @@
         "alt": "Image 378",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Recipe Card Box"
   },
   {
     "id": "page-f-f31-retro-rpg-dialogue-scene",
@@ -5652,7 +6048,8 @@
         "alt": "Image 379",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro RPG Dialogue Scene"
   },
   {
     "id": "page-f-f32-boss-battle-intro-screen",
@@ -5665,7 +6062,8 @@
         "alt": "Image 380",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Boss Battle Intro Screen"
   },
   {
     "id": "page-f-f33-cozy-farming-game-scene",
@@ -5678,7 +6076,8 @@
         "alt": "Image 381",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cozy Farming Game Scene"
   },
   {
     "id": "page-f-f34-loading-screen-tip",
@@ -5691,7 +6090,8 @@
         "alt": "Image 382",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Loading Screen Tip"
   },
   {
     "id": "page-f-f35-fighting-game-victory-pose",
@@ -5704,7 +6104,8 @@
         "alt": "Image 383",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fighting Game Victory Pose"
   },
   {
     "id": "page-f-f36-dungeon-crawler-map-screen",
@@ -5717,7 +6118,8 @@
         "alt": "Image 384",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Dungeon Crawler Map Screen"
   },
   {
     "id": "page-f-f37-visual-novel-choice-scene",
@@ -5730,7 +6132,8 @@
         "alt": "Image 385",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Visual Novel Choice Scene"
   },
   {
     "id": "page-f-f38-racing-game-garage-menu",
@@ -5743,7 +6146,8 @@
         "alt": "Image 386",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Racing Game Garage Menu"
   },
   {
     "id": "page-f-f39-creature-capture-pokedex-style-entry",
@@ -5756,7 +6160,8 @@
         "alt": "Image 387",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Creature Capture Pokédex-Style Entry"
   },
   {
     "id": "page-f-f40-gashapon-prize-lineup",
@@ -5769,7 +6174,8 @@
         "alt": "Image 388",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Gashapon Prize Lineup"
   },
   {
     "id": "page-f-f41-rubber-duck-version",
@@ -5782,7 +6188,8 @@
         "alt": "Image 389",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Rubber Duck Version"
   },
   {
     "id": "page-f-f42-play-doh-sculpture",
@@ -5795,7 +6202,8 @@
         "alt": "Image 390",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Play-Doh Sculpture"
   },
   {
     "id": "page-f-f43-ceramic-figurine",
@@ -5808,7 +6216,8 @@
         "alt": "Image 391",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ceramic Figurine"
   },
   {
     "id": "page-f-f44-toy-cash-register-scanner-figure",
@@ -5821,7 +6230,8 @@
         "alt": "Image 392",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Cash Register Scanner Figure"
   },
   {
     "id": "page-f-f45-puzzle-toy-block-set",
@@ -5834,7 +6244,8 @@
         "alt": "Image 393",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Puzzle Toy Block Set"
   },
   {
     "id": "page-f-f46-inflatable-pool-toy",
@@ -5847,7 +6258,8 @@
         "alt": "Image 394",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Inflatable Pool Toy"
   },
   {
     "id": "page-f-f47-miniature-snow-village-figure",
@@ -5860,7 +6272,8 @@
         "alt": "Image 395",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Snow Village Figure"
   },
   {
     "id": "page-f-f48-puzzle-box-packaging",
@@ -5873,7 +6286,8 @@
         "alt": "Image 396",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Puzzle Box Packaging"
   },
   {
     "id": "page-f-f49-toy-claw-machine-prize",
@@ -5886,7 +6300,8 @@
         "alt": "Image 397",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Claw Machine Prize"
   },
   {
     "id": "page-f-f50-collectible-eraser-toy",
@@ -5899,7 +6314,8 @@
         "alt": "Image 398",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Collectible Eraser Toy"
   },
   {
     "id": "page-g-g1-lenticular-trading-card",
@@ -5912,7 +6328,8 @@
         "alt": "Image 399",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Lenticular Trading Card"
   },
   {
     "id": "page-g-g2-embroidered-patch",
@@ -5925,7 +6342,8 @@
         "alt": "Image 400",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Embroidered Patch"
   },
   {
     "id": "page-g-g3-cyanotype-blueprint-print",
@@ -5938,7 +6356,8 @@
         "alt": "Image 401",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cyanotype Blueprint Print"
   },
   {
     "id": "page-g-g4-origami-paper-sculpture",
@@ -5951,7 +6370,8 @@
         "alt": "Image 402",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Origami Paper Sculpture"
   },
   {
     "id": "page-g-g5-neon-sign-storefront",
@@ -5964,7 +6384,8 @@
         "alt": "Image 403",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Neon Sign Storefront"
   },
   {
     "id": "page-g-g6-shoebox-diorama-school-project",
@@ -5977,7 +6398,8 @@
         "alt": "Image 404",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Shoebox Diorama School Project"
   },
   {
     "id": "page-g-g7-museum-wax-seal-archive",
@@ -5990,7 +6412,8 @@
         "alt": "Image 405",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Museum Wax Seal Archive"
   },
   {
     "id": "page-g-g8-mini-terrarium-world",
@@ -6003,7 +6426,8 @@
         "alt": "Image 406",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Mini Terrarium World"
   },
   {
     "id": "page-g-g9-pinball-machine-backglass",
@@ -6016,7 +6440,8 @@
         "alt": "Image 407",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pinball Machine Backglass"
   },
   {
     "id": "page-g-g10-jukebox-selection-label",
@@ -6029,7 +6454,8 @@
         "alt": "Image 408",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Jukebox Selection Label"
   },
   {
     "id": "page-g-g11-microfiche-archive-frame",
@@ -6042,7 +6468,8 @@
         "alt": "Image 409",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Microfiche Archive Frame"
   },
   {
     "id": "page-g-g12-postal-stamp-sheet",
@@ -6055,7 +6482,8 @@
         "alt": "Image 410",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Postal Stamp Sheet"
   },
   {
     "id": "page-g-g13-cross-stitch-pattern",
@@ -6068,7 +6496,8 @@
         "alt": "Image 411",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cross-Stitch Pattern"
   },
   {
     "id": "page-g-g14-ice-sculpture-centerpiece",
@@ -6081,7 +6510,8 @@
         "alt": "Image 412",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ice Sculpture Centerpiece"
   },
   {
     "id": "page-g-g15-sand-castle-sculpture",
@@ -6094,7 +6524,8 @@
         "alt": "Image 413",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sand Castle Sculpture"
   },
   {
     "id": "page-g-g16-chalkboard-classroom-diagram",
@@ -6107,7 +6538,8 @@
         "alt": "Image 414",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Chalkboard Classroom Diagram"
   },
   {
     "id": "page-g-g17-topographic-map-illustration",
@@ -6120,7 +6552,8 @@
         "alt": "Image 415",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Topographic Map Illustration"
   },
   {
     "id": "page-g-g18-subway-transit-map",
@@ -6133,7 +6566,8 @@
         "alt": "Image 416",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Subway Transit Map"
   },
   {
     "id": "page-g-g19-scratch-off-lottery-ticket",
@@ -6146,7 +6580,8 @@
         "alt": "Image 417",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Scratch-Off Lottery Ticket"
   },
   {
     "id": "page-g-g20-aquarium-exhibit-display",
@@ -6159,7 +6594,8 @@
         "alt": "Image 418",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Aquarium Exhibit Display"
   },
   {
     "id": "page-g-g21-planetarium-show-poster",
@@ -6172,7 +6608,8 @@
         "alt": "Image 419",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Planetarium Show Poster"
   },
   {
     "id": "page-g-g22-embossed-leather-journal-cover",
@@ -6185,7 +6622,8 @@
         "alt": "Image 420",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Embossed Leather Journal Cover"
   },
   {
     "id": "page-g-g23-porcelain-tea-set-pattern",
@@ -6198,7 +6636,8 @@
         "alt": "Image 421",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Porcelain Tea Set Pattern"
   },
   {
     "id": "page-g-g24-arcade-token-design",
@@ -6211,7 +6650,8 @@
         "alt": "Image 422",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Token Design"
   },
   {
     "id": "page-g-g25-carnival-prize-wall",
@@ -6224,7 +6664,8 @@
         "alt": "Image 423",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Carnival Prize Wall"
   },
   {
     "id": "page-g-g26-childrens-lunchbox-illustration",
@@ -6237,7 +6678,8 @@
         "alt": "Image 424",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Children's Lunchbox Illustration"
   },
   {
     "id": "page-g-g27-fictional-creature-anatomy-poster",
@@ -6250,7 +6692,8 @@
         "alt": "Image 425",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fictional Creature Anatomy Poster"
   },
   {
     "id": "page-g-g28-carnival-mirror-distortion",
@@ -6263,7 +6706,8 @@
         "alt": "Image 426",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Carnival Mirror Distortion"
   },
   {
     "id": "page-g-g29-antique-jewelry-brooch",
@@ -6276,7 +6720,8 @@
         "alt": "Image 427",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Antique Jewelry Brooch"
   },
   {
     "id": "page-g-g30-inflatable-parade-balloon",
@@ -6289,7 +6734,8 @@
         "alt": "Image 428",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Inflatable Parade Balloon"
   },
   {
     "id": "page-g-g31-1970s-library-book-cover",
@@ -6302,7 +6748,8 @@
         "alt": "Image 429",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "1970s Library Book Cover"
   },
   {
     "id": "page-g-g32-ceramic-tile-mural",
@@ -6315,7 +6762,8 @@
         "alt": "Image 430",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Ceramic Tile Mural"
   },
   {
     "id": "page-g-g33-paper-theater-stage",
@@ -6328,7 +6776,8 @@
         "alt": "Image 431",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Paper Theater Stage"
   },
   {
     "id": "page-g-g34-boardwalk-souvenir-plate",
@@ -6341,7 +6790,8 @@
         "alt": "Image 432",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Boardwalk Souvenir Plate"
   },
   {
     "id": "page-g-g35-vintage-fireworks-label",
@@ -6354,7 +6804,8 @@
         "alt": "Image 433",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Fireworks Label"
   },
   {
     "id": "page-h-h1-snow-globe-souvenir",
@@ -6367,7 +6818,8 @@
         "alt": "Image 434",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Snow Globe Souvenir"
   },
   {
     "id": "page-h-h2-vintage-vinyl-record-cover",
@@ -6380,7 +6832,8 @@
         "alt": "Image 435",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage Vinyl Record Cover"
   },
   {
     "id": "page-h-h3-breakfast-cereal-box-mascot",
@@ -6393,7 +6846,8 @@
         "alt": "Image 436",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Breakfast Cereal Box Mascot"
   },
   {
     "id": "page-h-h4-cassette-tape-insert",
@@ -6406,7 +6860,8 @@
         "alt": "Image 437",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Cassette Tape Insert"
   },
   {
     "id": "page-h-h5-snowy-glass-ornament",
@@ -6419,7 +6874,8 @@
         "alt": "Image 438",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Snowy Glass Ornament"
   },
   {
     "id": "page-h-h6-arcade-cabinet-side-art",
@@ -6432,7 +6888,8 @@
         "alt": "Image 439",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Cabinet Side Art"
   },
   {
     "id": "page-h-h7-old-toy-store-window-display",
@@ -6445,7 +6902,8 @@
         "alt": "Image 440",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Toy Store Window Display"
   },
   {
     "id": "page-h-h8-soap-bar-packaging",
@@ -6458,7 +6916,8 @@
         "alt": "Image 441",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Soap Bar Packaging"
   },
   {
     "id": "page-h-h9-chocolate-box-lid",
@@ -6471,7 +6930,8 @@
         "alt": "Image 442",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Chocolate Box Lid"
   },
   {
     "id": "page-h-h10-carnival-ticket-roll",
@@ -6484,7 +6944,8 @@
         "alt": "Image 443",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Carnival Ticket Roll"
   },
   {
     "id": "page-h-h11-arcade-carpet-pattern",
@@ -6497,7 +6958,8 @@
         "alt": "Image 444",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Arcade Carpet Pattern"
   },
   {
     "id": "page-h-h12-miniature-book-nook",
@@ -6510,7 +6972,8 @@
         "alt": "Image 445",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Book Nook"
   },
   {
     "id": "page-h-h13-vintage-school-textbook-diagram",
@@ -6523,7 +6986,8 @@
         "alt": "Image 446",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Vintage School Textbook Diagram"
   },
   {
     "id": "page-h-h14-needle-felted-figure",
@@ -6536,7 +7000,8 @@
         "alt": "Image 447",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Needle Felted Figure"
   },
   {
     "id": "page-h-h15-desktop-icon-set",
@@ -6549,7 +7014,8 @@
         "alt": "Image 448",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Desktop Icon Set"
   },
   {
     "id": "page-h-h16-candy-wrapper-design",
@@ -6562,7 +7028,8 @@
         "alt": "Image 449",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Candy Wrapper Design"
   },
   {
     "id": "page-h-h17-matchbox-label",
@@ -6575,7 +7042,8 @@
         "alt": "Image 450",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Matchbox Label"
   },
   {
     "id": "page-h-h18-souvenir-ski-lodge-patch",
@@ -6588,7 +7056,8 @@
         "alt": "Image 451",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Souvenir Ski Lodge Patch"
   },
   {
     "id": "page-h-h19-boardwalk-photo-booth-strip",
@@ -6601,7 +7070,8 @@
         "alt": "Image 452",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Boardwalk Photo Booth Strip"
   },
   {
     "id": "page-h-h20-rental-vhs-cover",
@@ -6614,7 +7084,8 @@
         "alt": "Image 453",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Rental VHS Cover"
   },
   {
     "id": "page-h-h21-miniature-zen-garden",
@@ -6627,7 +7098,8 @@
         "alt": "Image 454",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Miniature Zen Garden"
   },
   {
     "id": "page-h-h22-fortune-cookie-message",
@@ -6640,7 +7112,8 @@
         "alt": "Image 455",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Fortune Cookie Message"
   },
   {
     "id": "page-h-h23-old-board-game-box",
@@ -6653,7 +7126,8 @@
         "alt": "Image 456",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Board Game Box"
   },
   {
     "id": "page-h-h24-toy-vending-machine-display-card",
@@ -6666,7 +7140,8 @@
         "alt": "Image 457",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Vending Machine Display Card"
   },
   {
     "id": "page-h-h25-antique-cameo-portrait",
@@ -6679,7 +7154,8 @@
         "alt": "Image 458",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Antique Cameo Portrait"
   },
   {
     "id": "page-h-h26-retro-pizza-box-art",
@@ -6692,7 +7168,8 @@
         "alt": "Image 459",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Pizza Box Art"
   },
   {
     "id": "page-h-h27-bubble-gum-card",
@@ -6705,7 +7182,8 @@
         "alt": "Image 460",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Bubble Gum Card"
   },
   {
     "id": "page-h-h28-museum-gift-shop-magnet",
@@ -6718,7 +7196,8 @@
         "alt": "Image 461",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Museum Gift Shop Magnet"
   },
   {
     "id": "page-h-h29-retro-phone-wallpaper-pack",
@@ -6731,7 +7210,8 @@
         "alt": "Image 462",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Phone Wallpaper Pack"
   },
   {
     "id": "page-h-h30-toy-stamp-set",
@@ -6744,7 +7224,8 @@
         "alt": "Image 463",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Toy Stamp Set"
   },
   {
     "id": "page-h-h31-aquarium-resin-paperweight",
@@ -6757,7 +7238,8 @@
         "alt": "Image 464",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Aquarium Resin Paperweight"
   },
   {
     "id": "page-h-h32-retro-diner-placemat",
@@ -6770,7 +7252,8 @@
         "alt": "Image 465",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Diner Placemat"
   },
   {
     "id": "page-h-h33-old-theme-park-map",
@@ -6783,7 +7266,8 @@
         "alt": "Image 466",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Old Theme Park Map"
   },
   {
     "id": "page-h-h34-pencil-topper-toy",
@@ -6796,7 +7280,8 @@
         "alt": "Image 467",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Pencil Topper Toy"
   },
   {
     "id": "page-h-h35-collectors-coin-display-case",
@@ -6809,7 +7294,8 @@
         "alt": "Image 468",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Collector’s Coin Display Case"
   },
   {
     "id": "page-h-h36-retro-fast-food-tray-liner",
@@ -6822,7 +7308,8 @@
         "alt": "Image 469",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Fast-Food Tray Liner"
   },
   {
     "id": "page-h-h37-lunchroom-milk-carton",
@@ -6835,7 +7322,8 @@
         "alt": "Image 470",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Lunchroom Milk Carton"
   },
   {
     "id": "page-h-h38-sticker-machine-prize-card",
@@ -6848,7 +7336,8 @@
         "alt": "Image 471",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Sticker Machine Prize Card"
   },
   {
     "id": "page-h-h39-floating-parade-lantern",
@@ -6861,7 +7350,8 @@
         "alt": "Image 472",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Floating Parade Lantern"
   },
   {
     "id": "page-h-h40-retro-science-kit-box",
@@ -6874,6 +7364,7 @@
         "alt": "Image 473",
         "label": "ChatGPT 2026"
       }
-    ]
+    ],
+    "subtitle": "Retro Science Kit Box"
   }
 ]

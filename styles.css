@@ -131,10 +131,20 @@ button:hover, select:hover { border-color: var(--accent); color: var(--accent); 
 }
 .card h2 {
   font-size: 1.15rem;
-  margin: 0 0 10px;
+  margin: 0 0 4px;
   letter-spacing: -0.02em;
   text-align: center;
 }
+
+.subtitle {
+  margin: -2px 0 10px;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.2;
+}
+
 .meta {
   display: flex;
   gap: 6px;
