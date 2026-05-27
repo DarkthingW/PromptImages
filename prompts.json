@@ -7800,5 +7800,285 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "new-vg-017-inventory-tetris-backpack",
+    "title": "Inventory Tetris Backpack",
+    "subtitle": "Inventaire sac à dos façon puzzle",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as an inventory-management puzzle screen from a survival adventure game. Convert the subject into oddly shaped equipment, food, tools, relics, or quest items arranged inside a grid-based backpack. Add item rarity borders, weight values, durability bars, rotate icons, empty slots, tooltip panels, and a messy but readable adventure-game UI. The final image should feel like the player is trying to optimize limited inventory space before entering a dangerous area.",
+    "images": [
+      {
+        "src": "images/505.png",
+        "alt": "Image 505",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-018-extraction-shooter-loadout-screen",
+    "title": "Extraction Shooter Loadout Screen",
+    "subtitle": "Écran d’équipement extraction shooter",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into an extraction shooter pre-raid loadout screen. Turn the subject into the main operator, rare gear, mission item, or high-value loot. Include tactical inventory slots, armor condition, insured equipment, risk rating, extraction timer, map zone preview, squad status, and gritty military-industrial UI. The atmosphere should feel tense, high-risk, and grounded, as if the player may lose everything if they fail.",
+    "images": [
+      {
+        "src": "images/506.png",
+        "alt": "Image 506",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-019-hacking-minigame-terminal",
+    "title": "Hacking Minigame Terminal",
+    "subtitle": "Terminal de piratage",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a cyberpunk hacking minigame screen. Convert the subject into the target system, digital avatar, encrypted file, or security daemon. Add code fragments, node connections, firewall blocks, access timers, breach progress, warning alerts, glitch effects, and neon terminal UI. The composition should feel interactive, like the player must solve the hack before the alarm triggers.",
+    "images": [
+      {
+        "src": "images/507.png",
+        "alt": "Image 507",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-020-auto-battler-shop-phase",
+    "title": "Auto-Battler Shop Phase",
+    "subtitle": "Boutique auto-battler",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into an auto-battler shop phase screen. Turn the subject into a recruitable unit, mascot, item, or board piece. Include five shop cards, gold counter, reroll button, freeze button, synergy icons, unit stars, bench slots, round timer, and a small battlefield preview. Use colorful strategy-game UI with readable stats and a playful competitive tone.",
+    "images": [
+      {
+        "src": "images/508.png",
+        "alt": "Image 508",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-021-hero-shooter-play-of-the-game",
+    "title": "Hero Shooter Highlight Intro",
+    "subtitle": "Intro meilleur moment hero shooter",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a hero shooter highlight intro screen. Convert the subject into a heroic playable character caught in a dramatic victory pose. Add ability icons, ultimate charge, player banner, animated-style nameplate, medal badges, team-color lighting, and a bold 'highlight moment' presentation. The scene should feel flashy, competitive, and exaggerated like a post-match showcase.",
+    "images": [
+      {
+        "src": "images/509.png",
+        "alt": "Image 509",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-022-battle-royale-drop-map",
+    "title": "Battle Royale Drop Map",
+    "subtitle": "Carte de largage battle royale",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a battle royale drop-planning screen. Convert the subject into a landing marker, squad emblem, transport vehicle, or featured character portrait. Add a large island map, flight path line, danger zones, loot rarity heatmap, squad pings, countdown timer, storm circle preview, and tactical UI overlays. The image should feel like the match is seconds away from starting.",
+    "images": [
+      {
+        "src": "images/510.png",
+        "alt": "Image 510",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-023-space-sim-cockpit-hud",
+    "title": "Space Sim Cockpit HUD",
+    "subtitle": "HUD de cockpit spatial",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a space simulation cockpit view. Turn the subject into the pilot, ship AI, alien artifact, target vessel, or dashboard charm. Add holographic radar, shield indicators, oxygen levels, weapon groups, navigation grid, starfield reflections, warning lights, and immersive cockpit framing. The result should feel like a playable moment during deep-space exploration or combat.",
+    "images": [
+      {
+        "src": "images/511.png",
+        "alt": "Image 511",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-024-underwater-exploration-sonar",
+    "title": "Underwater Exploration Sonar",
+    "subtitle": "Exploration sous-marine sonar",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into an underwater exploration game screen. Convert the subject into a rare sea creature, diver companion, submarine module, artifact, or mysterious signal. Add sonar rings, depth meter, oxygen gauge, pressure warnings, inventory icons, dark blue water lighting, floating particles, and a minimap of submerged caves. The mood should feel quiet, mysterious, and slightly dangerous.",
+    "images": [
+      {
+        "src": "images/512.png",
+        "alt": "Image 512",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-025-idle-clicker-prestige-screen",
+    "title": "Idle Clicker Prestige Screen",
+    "subtitle": "Écran prestige idle clicker",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as an idle clicker prestige screen. Turn the subject into the main resource generator, mascot, upgrade icon, or legendary automation machine. Add huge number counters, income-per-second stats, upgrade buttons, prestige multiplier, shiny currency icons, progress bars, achievement badges, and satisfying mobile-game UI. The image should feel absurdly rewarding and addictive.",
+    "images": [
+      {
+        "src": "images/513.png",
+        "alt": "Image 513",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-026-cooking-minigame-rush",
+    "title": "Cooking Minigame Rush",
+    "subtitle": "Mini-jeu de cuisine chronométré",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a frantic cooking minigame screen. Convert the subject into the chef, special ingredient, customer, dish, or kitchen helper. Add order tickets, combo meter, timer, cooking stations, ingredient icons, burned-food warning, score counter, and colorful restaurant-game UI. The scene should feel fast, chaotic, funny, and readable as an active gameplay moment.",
+    "images": [
+      {
+        "src": "images/514.png",
+        "alt": "Image 514",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-027-puzzle-game-level-select",
+    "title": "Puzzle Game Level Select",
+    "subtitle": "Sélection de niveau puzzle",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a puzzle game level-select screen. Turn the subject into the central puzzle piece, level mascot, world icon, or collectible reward. Add floating level nodes, star ratings, locked stages, hint icons, chapter progress, clean colorful UI, and a charming puzzle-map background. The final image should feel polished, approachable, and ready for the player to choose the next challenge.",
+    "images": [
+      {
+        "src": "images/515.png",
+        "alt": "Image 515",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-028-soulslike-rest-checkpoint",
+    "title": "Soulslike Rest Checkpoint",
+    "subtitle": "Point de repos soulslike",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a dark fantasy checkpoint rest screen from a difficult action RPG. Convert the subject into the resting hero, cursed relic, sacred flame, or mysterious guide. Add a dim menu with options like level up, travel, inventory, restore, and leave; include ember-like lighting, gothic UI ornaments, worn stone textures, health and stamina bars, and a lonely atmosphere of temporary safety.",
+    "images": [
+      {
+        "src": "images/516.png",
+        "alt": "Image 516",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-029-physics-sandbox-editor",
+    "title": "Physics Sandbox Editor",
+    "subtitle": "Éditeur sandbox physique",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a physics sandbox editor screen. Convert the subject into a test object, ragdoll character, vehicle part, creature, or experimental contraption. Add transform gizmos, collision boxes, gravity settings, material sliders, spawn menu, grid floor, debug overlays, and playful simulation UI. The result should look like the player is building or breaking something in a creative sandbox game.",
+    "images": [
+      {
+        "src": "images/517.png",
+        "alt": "Image 517",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-030-strategy-fog-of-war-recon",
+    "title": "Strategy Fog-of-War Recon Screen",
+    "subtitle": "Reconnaissance avec brouillard de guerre",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a real-time strategy recon screen. Turn the subject into a scout unit, enemy commander, resource point, radar signal, or hidden objective. Add fog-of-war shadows, minimap, unit command panel, resource counters, selection circles, terrain bonuses, alert pings, and tactical overlays. The composition should feel like a commander discovering a crucial part of the battlefield.",
+    "images": [
+      {
+        "src": "images/518.png",
+        "alt": "Image 518",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-031-vr-training-simulation",
+    "title": "VR Training Simulation",
+    "subtitle": "Simulation d’entraînement VR",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a VR training simulation screen. Convert the subject into the trainee avatar, holographic target, training dummy, or interactive object. Add floating VR hands, calibration grid, objective tracker, motion prompts, accuracy score, headset-style vignette, holographic UI panels, and a clean futuristic training-room environment.",
+    "images": [
+      {
+        "src": "images/519.png",
+        "alt": "Image 519",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-032-steampunk-management-sim",
+    "title": "Steampunk Factory Management Sim",
+    "subtitle": "Gestion d’usine steampunk",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a steampunk factory management game screen. Turn the subject into a worker, machine, automaton, product, or factory mascot. Add production lines, brass UI panels, pressure gauges, resource counters, worker mood, efficiency stats, upgrade buttons, smoke effects, and an isometric factory floor. The result should feel strategic, busy, and mechanical.",
+    "images": [
+      {
+        "src": "images/520.png",
+        "alt": "Image 520",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-033-card-fusion-crafting-screen",
+    "title": "Card Fusion Crafting Screen",
+    "subtitle": "Fusion et création de cartes",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a card fusion crafting screen from a fantasy strategy game. Convert the subject into two source cards and one upgraded result card. Add fusion arrows, essence costs, rarity gems, upgrade preview, stat changes, glowing crafting table, confirmation button, and magical UI effects. The screen should clearly show a before-and-after transformation.",
+    "images": [
+      {
+        "src": "images/521.png",
+        "alt": "Image 521",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-034-train-tycoon-route-planner",
+    "title": "Train Tycoon Route Planner",
+    "subtitle": "Planificateur de routes train tycoon",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a train tycoon route-planning screen. Convert the subject into a station mascot, conductor, train engine, cargo item, or landmark destination. Add rail lines, city nodes, profit estimates, passenger demand, cargo icons, timetable panels, upgrade costs, and cozy management-game UI. The image should feel like the player is optimizing a growing transport empire.",
+    "images": [
+      {
+        "src": "images/522.png",
+        "alt": "Image 522",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-035-medical-sim-diagnosis-ui",
+    "title": "Medical Sim Diagnosis UI",
+    "subtitle": "Interface diagnostic jeu médical",
+    "category": "Jeu vidéo",
+    "prompt": "Reimagine this image as a medical simulation diagnosis screen. Convert the subject into the patient avatar, diagnostic scan, strange symptom, or treatment item. Add vitals monitor, symptom checklist, scan overlays, treatment options, urgency meter, hospital UI, and clean clinical lighting. Keep it non-graphic and game-like, focused on diagnosis, decisions, and readable interface design.",
+    "images": [
+      {
+        "src": "images/523.png",
+        "alt": "Image 523",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-036-god-game-miracle-menu",
+    "title": "God Game Miracle Menu",
+    "subtitle": "Menu de miracles god game",
+    "category": "Jeu vidéo",
+    "prompt": "Transform this image into a god game miracle menu. Convert the subject into a worshipper, divine avatar, sacred object, village landmark, or miracle icon. Add a tiny settlement below, faith resource counter, miracle wheel, weather controls, follower needs, blessing effects, and glowing celestial UI. The scene should feel like the player is shaping a small world from above.",
+    "images": [
+      {
+        "src": "images/524.png",
+        "alt": "Image 524",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
