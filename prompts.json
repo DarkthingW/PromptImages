@@ -7394,5 +7394,411 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-b-b17-fantasy-trading-card",
+    "title": "Magic The Gathering - Fantasy Trading Card",
+    "subtitle": "Carte fantasy à collectionner",
+    "prompt": "Create a highly detailed custom trading card inspired by the visual style and presentation of a classic fantasy collectible card game.\n\nThe artwork must reinterpret the reference image as a powerful legendary creature or planeswalker from an ancient mystical world.\n\nPreserve the core silhouette, colors, mood, and recognizable traits of the original subject while transforming it into epic fantasy artwork with dramatic lighting, magical effects, cinematic atmosphere, intricate textures, and painterly realism.\n\nThe card should include:\n- ornate fantasy card frame\n- mana symbols\n- card title area\n- illustration window\n- type line\n- rules text box\n- power/toughness section\n- collector details and rarity gem\n\nStyle inspiration:\n1990s–modern premium fantasy trading card illustration, dark fantasy realism, high-detail brushwork, glowing magic energy, atmospheric depth, collectible print quality.\n\nThe character/entity should feel iconic, mysterious, and powerful, as if it belongs to a legendary expansion set.\n\nComposition must look like a professionally photographed authentic collectible card placed on a dark textured surface with subtle reflections and dramatic lighting.\n\nIMPORTANT:\n- Do not copy copyrighted logos or exact official branding.\n- Create an original fantasy card layout inspired by collectible card games.\n- Make the text look believable and stylized, but not necessarily fully readable.\n- Ultra detailed, masterpiece quality, sharp focus, fantasy illustration, premium print finish.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/476.png",
+        "alt": "Image 476",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-001-premium-vinyl-desk-statue",
+    "title": "Premium Vinyl Desk Statue",
+    "subtitle": "Statue de bureau en vinyle premium",
+    "prompt": "Transform this image into a premium vinyl desk statue. Recreate the subject as a smooth collectible figure with slightly stylized proportions, matte vinyl texture, subtle seam lines, weighted base, and a clean display plaque. Use soft studio lighting, realistic product photography, and a modern collector shelf presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/477.png",
+        "alt": "Image 477",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-002-glass-terrarium-figurine",
+    "title": "Glass Terrarium Figurine",
+    "subtitle": "Figurine dans terrarium de verre",
+    "prompt": "Reimagine the subject as a tiny 3D figurine inside a clear glass terrarium. Include miniature plants, moss, pebbles, condensation on the glass, and warm natural light. The subject should feel like a small preserved world, highly detailed, realistic, and delicately handcrafted.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/478.png",
+        "alt": "Image 478",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-003-bronze-patina-bust",
+    "title": "Bronze Patina Bust",
+    "subtitle": "Buste en bronze patiné",
+    "prompt": "Turn the subject into a realistic bronze bust sculpture with aged green-blue patina, polished highlights on raised edges, engraved base plaque, and museum display lighting. Preserve recognizable features while making the object feel heavy, historic, and professionally cast.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/479.png",
+        "alt": "Image 479",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-004-resin-garage-kit-figure",
+    "title": "Resin Garage Kit Figure",
+    "subtitle": "Figurine garage kit en résine",
+    "prompt": "Transform this image into an unpainted resin garage kit figure. Show the subject as a detailed collectible model with pale resin material, visible cast seams, separate accessory pieces, tiny support pegs, and hobby workbench lighting. Include sanding tools and instruction paper nearby.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/480.png",
+        "alt": "Image 480",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-005-luxury-perfume-bottle-sculpture",
+    "title": "Luxury Perfume Bottle Sculpture",
+    "subtitle": "Sculpture flacon de parfum de luxe",
+    "prompt": "Recreate the subject as an elegant luxury perfume bottle. Translate the main shapes into sculpted glass, metallic cap details, translucent liquid, embossed label, and premium packaging elements. Use dramatic reflections, glossy product photography, and high-end boutique presentation.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/481.png",
+        "alt": "Image 481",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-006-mechanical-automaton-toy",
+    "title": "Mechanical Automaton Toy",
+    "subtitle": "Jouet automate mécanique",
+    "prompt": "Turn the subject into a vintage mechanical automaton toy. Use painted metal, tiny exposed gears, winding key, moving-joint seams, slightly worn enamel paint, and a small wooden display base. Make it look like a functional antique toy photographed under warm workshop lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/482.png",
+        "alt": "Image 482",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-007-inflatable-vinyl-mascot-suit",
+    "title": "Inflatable Vinyl Mascot Suit",
+    "subtitle": "Costume mascotte gonflable en vinyle",
+    "prompt": "Transform the subject into a giant inflatable vinyl mascot suit. Use glossy inflated seams, rounded exaggerated shapes, soft wrinkles, air-valve details, and event-floor lighting. Keep the subject recognizable but make it look like a huge promotional character balloon costume.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/483.png",
+        "alt": "Image 483",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-008-3d-printed-prototype",
+    "title": "3D Printed Prototype",
+    "subtitle": "Prototype imprimé en 3D",
+    "prompt": "Reimagine the subject as a freshly 3D-printed prototype. Use visible layer lines, matte PLA plastic texture, support structures, raft base, calibration marks, and a desktop 3D printer environment. The result should look like a real printed object before sanding or painting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/484.png",
+        "alt": "Image 484",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-009-stained-glass-3d-ornament",
+    "title": "Stained Glass 3D Ornament",
+    "subtitle": "Ornement vitrail 3D",
+    "prompt": "Transform the subject into a sculptural stained-glass ornament. Rebuild the image with colored translucent glass pieces, black lead outlines, beveled edges, hanging chain, and sunlight passing through the object. Make it look like a handcrafted decorative collectible.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/485.png",
+        "alt": "Image 485",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-010-luxury-chess-piece",
+    "title": "Luxury Chess Piece",
+    "subtitle": "Pièce d’échecs de luxe",
+    "prompt": "Turn the subject into a luxury chess piece. Preserve the recognizable silhouette while sculpting it as a polished black or ivory game piece with carved details, weighted base, felt underside, and dramatic tabletop lighting. Make it feel like part of a premium fantasy chess set.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/486.png",
+        "alt": "Image 486",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-011-museum-fossil-reconstruction",
+    "title": "Museum Fossil Reconstruction",
+    "subtitle": "Reconstruction fossile de musée",
+    "prompt": "Reimagine the subject as a museum fossil reconstruction. Convert the main shapes into fossilized bone, stone matrix, excavation markings, tiny labels, and a display stand. Use realistic paleontology exhibit lighting and make the object feel ancient, fragile, and scientifically displayed.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/487.png",
+        "alt": "Image 487",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-3d-012-rubberized-designer-desk-toy",
+    "title": "Rubberized Designer Desk Toy",
+    "subtitle": "Jouet de bureau design en caoutchouc",
+    "prompt": "Transform the subject into a modern rubberized designer desk toy. Use soft-touch silicone material, minimal sculpted details, rounded simplified forms, muted color palette, and a clean product photography setup. Make it feel like a trendy collectible sold in a design shop.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/488.png",
+        "alt": "Image 488",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-001-metroidvania-ability-unlock-screen",
+    "title": "Metroidvania Ability Unlock Screen",
+    "subtitle": "Écran de nouvelle capacité Metroidvania",
+    "prompt": "Transform this image into a Metroidvania ability unlock screen. Show the subject as a newly acquired power, relic, or movement ability with dramatic item glow, pixel-art or hand-painted game UI, ability name, short description, map fragment, button prompt, and atmospheric cave or temple background.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/489.png",
+        "alt": "Image 489",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-002-tactical-rpg-grid-battle",
+    "title": "Tactical RPG Grid Battle",
+    "subtitle": "Combat tactique sur grille",
+    "prompt": "Reimagine this image as a tactical RPG battle screen. Place the subject on an isometric grid battlefield with highlighted movement tiles, attack range markers, character portraits, turn order, terrain bonuses, and fantasy strategy-game UI. Make it look like a paused moment before a decisive move.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/490.png",
+        "alt": "Image 490",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-003-stealth-game-detection-screen",
+    "title": "Stealth Game Detection Screen",
+    "subtitle": "Écran d’infiltration furtive",
+    "prompt": "Transform this image into a stealth video game screenshot. Add enemy vision cones, suspicion meters, crouch icon, security camera overlays, objective marker, dark environment lighting, and tense UI indicators. The subject should appear as the player character, target, or suspicious object in the scene.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/491.png",
+        "alt": "Image 491",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-004-survival-crafting-menu",
+    "title": "Survival Crafting Menu",
+    "subtitle": "Menu de survie et artisanat",
+    "prompt": "Turn this image into a survival crafting game interface. Show the subject as a craftable item, companion, shelter object, or player avatar with inventory slots, resource counts, durability bars, recipe requirements, weather status, and rugged wilderness UI design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/492.png",
+        "alt": "Image 492",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-005-tower-defense-upgrade-screen",
+    "title": "Tower Defense Upgrade Screen",
+    "subtitle": "Écran d’amélioration tower defense",
+    "prompt": "Reimagine this image as a tower defense upgrade screen. Convert the subject into a tower, hero unit, enemy wave boss, or special ability. Include upgrade paths, damage stats, range circle, currency cost, wave counter, and colorful strategy-game UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/493.png",
+        "alt": "Image 493",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-006-city-builder-disaster-alert",
+    "title": "City Builder Disaster Alert",
+    "subtitle": "Alerte catastrophe de city builder",
+    "prompt": "Transform this image into a city builder simulation screen during a strange disaster event. Add city management UI, population stats, warning banners, resource meters, tiny roads and buildings, emergency icons, and the subject appearing as the cause or centerpiece of the event.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/494.png",
+        "alt": "Image 494",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-007-mobile-gacha-pull-results",
+    "title": "Mobile Gacha Pull Results",
+    "subtitle": "Résultat de tirage gacha mobile",
+    "prompt": "Turn the subject into a mobile gacha game pull result screen. Show rarity stars, glowing summon effects, character card frame, duplicate shard rewards, “NEW!” badge, currency counter, and multiple result slots. Make the subject feel like a rare unlockable character or item.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/495.png",
+        "alt": "Image 495",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-008-deckbuilder-card-reward-screen",
+    "title": "Deckbuilder Card Reward Screen",
+    "subtitle": "Récompense de cartes deckbuilder",
+    "prompt": "Reimagine this image as a roguelike deckbuilder reward screen. Convert the subject into three playable cards with different effects, mana costs, rarity frames, flavor text, and upgrade icons. Use dark fantasy or neon strategy-game UI with a “choose one” layout.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/496.png",
+        "alt": "Image 496",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-009-horror-game-safe-room-save-point",
+    "title": "Horror Game Safe Room Save Point",
+    "subtitle": "Salle de sauvegarde horror game",
+    "prompt": "Transform this image into a survival horror safe room save point. Add dim lamp lighting, dusty furniture, inventory chest, save device, eerie calm atmosphere, item slots, health status, and subtle environmental storytelling. The subject should appear as a mysterious safe-room object or character.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/497.png",
+        "alt": "Image 497",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-010-skateboarding-game-replay-editor",
+    "title": "Skateboarding Game Replay Editor",
+    "subtitle": "Éditeur de replay de jeu de skate",
+    "prompt": "Turn this image into a skateboarding game replay editor screen. Add fisheye camera view, trick score combo, timeline controls, slow-motion markers, graffiti UI, urban skatepark background, and the subject performing or being styled as part of an exaggerated skate trick moment.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/498.png",
+        "alt": "Image 498",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-011-fishing-minigame-screen",
+    "title": "Fishing Minigame Screen",
+    "subtitle": "Mini-jeu de pêche",
+    "prompt": "Reimagine this image as a cozy fishing minigame screen. Add bobber meter, tension gauge, catch rarity, water reflections, inventory icons, peaceful background, and playful UI prompts. The subject should become the rare catch, fisher character, bait item, or lakeside companion.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/499.png",
+        "alt": "Image 499",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-012-mech-customization-garage",
+    "title": "Mech Customization Garage",
+    "subtitle": "Garage de personnalisation de mécha",
+    "prompt": "Transform this image into a mech customization garage screen. Rebuild the subject as a pilot, mech, armor skin, or emblem with part slots, weapon loadout, armor stats, color customization, hangar lighting, and futuristic workshop UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/500.png",
+        "alt": "Image 500",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-013-detective-game-evidence-board",
+    "title": "Detective Game Evidence Board",
+    "subtitle": "Tableau d’indices de jeu détective",
+    "prompt": "Turn this image into a detective mystery game evidence board. Add pinned photos, red string connections, clue cards, case notes, suspect profile UI, objective checklist, and moody investigation lighting. The subject should appear as the central clue, suspect portrait, or key evidence.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/501.png",
+        "alt": "Image 501",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-014-dating-sim-affection-meter",
+    "title": "Dating Sim Affection Meter",
+    "subtitle": "Écran relation de dating sim",
+    "prompt": "Reimagine this image as a dating sim relationship screen. Show the subject as a stylized character portrait with affection meter, dialogue choices, personality traits, gift icons, calendar event, and soft visual novel UI. Keep the tone playful, clean, and non-explicit.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/502.png",
+        "alt": "Image 502",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-015-monster-hunter-quest-board",
+    "title": "Monster Hunter Quest Board",
+    "subtitle": "Tableau de quête de chasse aux monstres",
+    "prompt": "Transform this image into a monster-hunting quest board screen. Recreate the subject as the monster, hunter, companion, or quest target with parchment UI, reward money, difficulty stars, habitat icons, equipment suggestions, and dramatic fantasy hunting artwork.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/503.png",
+        "alt": "Image 503",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "new-vg-016-retro-sports-game-player-card",
+    "title": "Retro Sports Game Player Card",
+    "subtitle": "Carte joueur de jeu sportif rétro",
+    "prompt": "Turn this image into a retro sports video game player card. Add pixel portrait, player stats, stamina meter, team colors, fake season record, arcade-style typography, trading-card layout, and a stadium background with CRT texture.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/504.png",
+        "alt": "Image 504",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
