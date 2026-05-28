@@ -8080,5 +8080,19 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "page-g-g23-figure-collector",
+    "title": "Ultra-Realistic Figure Collector Workspace",
+    "subtitle": "Collectionneur de Figurines Ultra-Réaliste",
+    "prompt": "Ultra-realistic 1/7 scale action figure of the person in the pictures. The figure is posed on a sleek computer desk. It stands on a circular, crystal-clear acrylic base (no text or logos).\n\nOn the left side of the desk, a monitor displays the ZBrush software interface, showing the same figure mid-sculpt, with visible wireframe and clay render.\n\nIn the background, on the right side of the desk: a BANDAI-style window box packaging with a vinyl window containing the finished figure inside. The box is pristine and decorated with stylized themed graphics and photography of the figure, angled to highlight its 3D form.\n\nThe scene is indoors: a modern figure-collector’s workspace. Soft diffused key light with subtle rim lighting highlights the subject, cinematic depth of field keeps focus on the figure and desk, while the background softly blurs. Realistic textures on the figure, packaging, and workspace create a premium, hyper-detailed atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/525.png",
+        "alt": "Image 525",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
