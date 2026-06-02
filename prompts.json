@@ -9501,7 +9501,13 @@
     "subtitle": "Carte mémoire rétro",
     "prompt": "Transform this image into a retro console memory card save file screen. Show multiple save slots with tiny pixel portraits, playtime counters, completion percentages, corrupted file warnings, low-resolution UI, CRT glow, and nostalgic late-1990s console menu design.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/626.png",
+        "alt": "Image 626",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-002-video-game-rental-store-shelf",
@@ -9509,7 +9515,13 @@
     "subtitle": "Étagère de club vidéo",
     "prompt": "Reimagine this image as the cover art on a video game rental case displayed on a crowded 1990s rental store shelf. Include worn plastic cases, handwritten rental stickers, faded price tags, genre labels, fluorescent store lighting, and nostalgic game-shop atmosphere.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/627.png",
+        "alt": "Image 627",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-003-arcade-prize-redemption-counter",
@@ -9517,7 +9529,13 @@
     "subtitle": "Comptoir de prix d’arcade",
     "prompt": "Transform the subject into a prize displayed behind an arcade redemption counter. Add ticket rolls, neon prize shelves, cheap plastic toys, glowing arcade machines in the background, laminated point-value tags, and colorful family entertainment center lighting.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/628.png",
+        "alt": "Image 628",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-004-crt-split-screen-couch-co-op",
@@ -9525,7 +9543,13 @@
     "subtitle": "Coop locale sur CRT",
     "prompt": "Turn this image into a split-screen couch co-op video game scene on an old CRT television. Show four-player screen divisions, controller cables, pizza boxes, soda cans, carpeted basement setting, scanlines, and chaotic late-night multiplayer energy.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/629.png",
+        "alt": "Image 629",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-005-old-console-launch-poster",
@@ -9533,7 +9557,13 @@
     "subtitle": "Affiche de lancement de console",
     "prompt": "Reimagine the subject as the hero artwork for a fictional retro console launch poster. Use bold 1990s tech typography, chrome gradients, exaggerated marketing slogans, console box art fragments, controller silhouettes, and glossy magazine-ad printing.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/630.png",
+        "alt": "Image 630",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-006-boss-health-bar-portrait",
@@ -9541,7 +9571,13 @@
     "subtitle": "Portrait de boss avec barre de vie",
     "prompt": "Transform this image into a dramatic video game boss encounter screen. Add a huge boss health bar, ominous title card, arena lighting, attack warning icons, HUD elements, particle effects, and intense final-battle composition.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/631.png",
+        "alt": "Image 631",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-007-game-cartridge-label-art",
@@ -9549,7 +9585,13 @@
     "subtitle": "Étiquette de cartouche rétro",
     "prompt": "Turn this image into the illustrated label on a vintage video game cartridge. Use cropped action artwork, worn sticker edges, console-era typography, tiny serial numbers, plastic cartridge texture, faded colors, and slight label peeling.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/632.png",
+        "alt": "Image 632",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-008-fake-expansion-pack-box",
@@ -9557,7 +9599,13 @@
     "subtitle": "Boîte d’extension fictive",
     "prompt": "Reimagine this image as a boxed expansion pack for a fictional video game. Include dramatic cover art, “Expansion Pack” branding, feature bullet points, screenshots on the back, rating icon, shrink-wrap shine, and retail PC game box styling.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/633.png",
+        "alt": "Image 633",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-009-strategy-guide-boss-weakness-page",
@@ -9565,7 +9613,13 @@
     "subtitle": "Page de guide stratégique",
     "prompt": "Transform this image into a page from an old video game strategy guide explaining a boss weakness. Use annotated screenshots, arrows, damage charts, item icons, highlighted weak points, magazine-style layout, and slightly worn glossy paper texture.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/634.png",
+        "alt": "Image 634",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-010-retro-demo-disc-menu",
@@ -9573,7 +9627,13 @@
     "subtitle": "Menu de disque démo",
     "prompt": "Turn this image into a retro demo disc menu screen. Show selectable game tiles, looping preview window, low-resolution animated background, techno UI design, “Press Start” prompt, disc icon, and early-2000s console magazine demo-disc atmosphere.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/635.png",
+        "alt": "Image 635",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-011-unlockable-costume-closet",
@@ -9581,7 +9641,13 @@
     "subtitle": "Garde-robe de costumes déblocables",
     "prompt": "Reimagine the subject as a character customization screen focused on unlockable costumes. Add outfit thumbnails, rarity labels, locked icons, preview rotation arrows, currency count, achievement requirements, and polished game menu lighting.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/636.png",
+        "alt": "Image 636",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-012-arcade-repair-bench",
@@ -9589,7 +9655,13 @@
     "subtitle": "Établi de réparation d’arcade",
     "prompt": "Transform this image into an arcade repair bench scene. Show opened cabinet panels, loose circuit boards, joystick parts, buttons, wiring diagrams, dust, tools, old service manual pages, and warm workshop lighting.",
     "category": "Jeu vidéo",
-    "images": []
+    "images": [
+      {
+        "src": "images/637.png",
+        "alt": "Image 637",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-013-retro-toy-repair-workshop",
@@ -9597,7 +9669,13 @@
     "subtitle": "Atelier de réparation de jouets",
     "prompt": "Transform the subject into a toy being repaired on a vintage workshop table. Add tiny screwdrivers, spare plastic limbs, paint touch-up bottles, worn instruction sheets, scattered screws, soft desk lamp lighting, and realistic toy-repair textures.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/638.png",
+        "alt": "Image 638",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-014-deluxe-toy-collector-shelf",
@@ -9605,7 +9683,13 @@
     "subtitle": "Tablette de collectionneur",
     "prompt": "Reimagine the subject as part of a deluxe collector shelf display. Use acrylic risers, tiny nameplates, dramatic LED shelf lighting, dust-free glass cabinet reflections, multiple scale figures, and premium toy photography composition.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/639.png",
+        "alt": "Image 639",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-015-action-figure-accessory-tray",
@@ -9613,7 +9697,13 @@
     "subtitle": "Plateau d’accessoires de figurine",
     "prompt": "Transform the subject into a collectible figure accessory tray. Arrange interchangeable hands, tiny props, alternate heads, weapons or themed items, molded plastic compartments, instruction insert, and realistic product photography.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/640.png",
+        "alt": "Image 640",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-016-toy-store-pegboard-wall",
@@ -9621,7 +9711,13 @@
     "subtitle": "Mur de jouets en magasin",
     "prompt": "Turn this image into a toy displayed on a crowded retail pegboard wall. Include hanging hooks, price labels, neighboring toys, colorful packaging, fluorescent store lighting, slight shelf wear, and authentic toy aisle atmosphere.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/641.png",
+        "alt": "Image 641",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-017-build-a-figure-parts-wave",
@@ -9629,7 +9725,13 @@
     "subtitle": "Série de pièces à assembler",
     "prompt": "Reimagine the subject as a build-a-figure toy wave. Show separate collectible parts in blister packaging, numbered boxes, a completed figure diagram, “collect them all” branding, and realistic plastic packaging reflections.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/642.png",
+        "alt": "Image 642",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-018-toy-prototype-test-shot",
@@ -9637,7 +9739,13 @@
     "subtitle": "Prototype de jouet non peint",
     "prompt": "Transform the subject into an unpainted toy prototype test shot. Use matte gray plastic, visible mold seams, peg joints, engineering notes, caliper measurements, prototype labels, and clean studio documentation lighting.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/643.png",
+        "alt": "Image 643",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-019-clear-plastic-display-cube",
@@ -9645,7 +9753,13 @@
     "subtitle": "Cube de présentation transparent",
     "prompt": "Place the subject as a collectible object inside a clear acrylic display cube. Add polished plastic edges, subtle dust specks, museum-like label, soft reflections, black display base, and premium collector photography.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/644.png",
+        "alt": "Image 644",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-020-giant-store-mascot-statue",
@@ -9653,7 +9767,13 @@
     "subtitle": "Statue mascotte de magasin",
     "prompt": "Transform the subject into a giant fiberglass store mascot statue. Use oversized toy-like proportions, glossy paint, slight scuffs, bolted base, shopping mall or toy store entrance setting, and realistic commercial display lighting.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/645.png",
+        "alt": "Image 645",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-021-die-cast-vehicle-showroom",
@@ -9661,7 +9781,13 @@
     "subtitle": "Présentoir de véhicule moulé",
     "prompt": "Reimagine the subject as a die-cast collectible vehicle or themed miniature on a showroom display. Use metallic paint, rubber wheels, scale model details, rotating display platform, collector plaque, and macro product photography.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/646.png",
+        "alt": "Image 646",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-022-toy-photography-macro-scene",
@@ -9669,7 +9795,13 @@
     "subtitle": "Photo macro de jouet",
     "prompt": "Transform the subject into a small toy photographed in a dramatic macro setup. Use shallow depth of field, oversized real-world objects around it, tiny dust particles, realistic plastic textures, and cinematic toy photography lighting.",
     "category": "3D / Objets / Jouets",
-    "images": []
+    "images": [
+      {
+        "src": "images/647.png",
+        "alt": "Image 647",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-023-miniature-arcade-room-diorama",
@@ -9677,7 +9809,13 @@
     "subtitle": "Salle d’arcade miniature",
     "prompt": "Reimagine this image as part of a miniature arcade room diorama. Include tiny arcade cabinets, glowing screens, carpet pattern, miniature stools, soda cups, prize counter, scale figures, and realistic tilt-shift photography.",
     "category": "Miniatures / Dioramas / Mondes réduits",
-    "images": []
+    "images": [
+      {
+        "src": "images/648.png",
+        "alt": "Image 648",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-024-video-game-loading-screen-diorama",
@@ -9685,7 +9823,13 @@
     "subtitle": "Diorama d’écran de chargement",
     "prompt": "Transform this image into a physical diorama recreating a video game loading screen. Use layered cardboard scenery, tiny painted figures, miniature props, LED backlighting, visible handmade edges, and a small printed loading-tip sign.",
     "category": "Miniatures / Dioramas / Mondes réduits",
-    "images": []
+    "images": [
+      {
+        "src": "images/649.png",
+        "alt": "Image 649",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-025-tiny-game-developer-desk",
@@ -9693,7 +9837,13 @@
     "subtitle": "Bureau miniature de développeur",
     "prompt": "Create a miniature diorama of a game developer’s desk inspired by the image. Include tiny monitors, sticky notes, coffee cups, controller prototypes, keyboard, sketches, desk lamp, and detailed scale-model realism.",
     "category": "Miniatures / Dioramas / Mondes réduits",
-    "images": []
+    "images": [
+      {
+        "src": "images/650.png",
+        "alt": "Image 650",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-026-vintage-playset-commercial-frame",
@@ -9701,7 +9851,13 @@
     "subtitle": "Publicité télé de jouet vintage",
     "prompt": "Transform this image into a still frame from a vintage toy playset TV commercial. Use bright studio lighting, excited product demonstration layout, bold on-screen price text, fake jingle lyrics, VHS texture, and cheerful 1980s advertising energy.",
     "category": "Médias / Publicité / Documents",
-    "images": []
+    "images": [
+      {
+        "src": "images/651.png",
+        "alt": "Image 651",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-027-toy-catalog-mail-in-offer",
@@ -9709,7 +9865,13 @@
     "subtitle": "Offre postale de catalogue de jouets",
     "prompt": "Reimagine the subject as a mail-in offer page from an old toy catalog. Include cut-out order form, proof-of-purchase instructions, tiny product photos, bold price circles, legal fine print, and yellowed catalog paper.",
     "category": "Médias / Publicité / Documents",
-    "images": []
+    "images": [
+      {
+        "src": "images/652.png",
+        "alt": "Image 652",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-028-old-cereal-premium-mail-in-ad",
@@ -9717,7 +9879,13 @@
     "subtitle": "Prime de céréales par la poste",
     "prompt": "Turn this image into a cereal box mail-in premium advertisement. Show the toy reward, coupon cutout, “send 3 proofs of purchase” instructions, colorful breakfast graphics, small-print rules, and retro supermarket print design.",
     "category": "Médias / Publicité / Documents",
-    "images": []
+    "images": [
+      {
+        "src": "images/653.png",
+        "alt": "Image 653",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-029-animated-movie-lobby-standee",
@@ -9725,7 +9893,13 @@
     "subtitle": "Présentoir de cinéma animé",
     "prompt": "Transform this image into a cardboard lobby standee for a fictional animated movie. Use large die-cut character artwork, theatrical release date, colorful title logo, folded cardboard edges, cinema carpet, and promotional display lighting.",
     "category": "Médias / Publicité / Documents",
-    "images": []
+    "images": [
+      {
+        "src": "images/654.png",
+        "alt": "Image 654",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-030-board-game-rulebook-spread",
@@ -9733,7 +9907,13 @@
     "subtitle": "Double-page de règles de jeu",
     "prompt": "Reimagine this image as a double-page spread from a board game rulebook. Include setup diagrams, numbered steps, icon explanations, component callouts, example turn illustrations, and clean instructional graphic design.",
     "category": "Médias / Publicité / Documents",
-    "images": []
+    "images": [
+      {
+        "src": "images/655.png",
+        "alt": "Image 655",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-031-analog-horror-toy-recall-notice",
@@ -9741,7 +9921,13 @@
     "subtitle": "Avis de rappel de jouet maudit",
     "prompt": "Transform this image into an analog horror toy recall notice. Use degraded VHS capture, emergency bulletin typography, distorted product photo, unsettling warning symbols, government-style instructions, tracking noise, and cold institutional dread.",
     "category": "Horreur / Étrange",
-    "images": []
+    "images": [
+      {
+        "src": "images/656.png",
+        "alt": "Image 656",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-032-haunted-video-store-shelf",
@@ -9749,7 +9935,13 @@
     "subtitle": "Étagère de club vidéo hantée",
     "prompt": "Reimagine this image as a haunted video store shelf at night. Use dim fluorescent lighting, warped VHS cases, strange handwritten labels, security camera grain, unnatural shadows between tapes, and a quiet cursed atmosphere.",
     "category": "Horreur / Étrange",
-    "images": []
+    "images": [
+      {
+        "src": "images/657.png",
+        "alt": "Image 657",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-033-emergency-broadcast-weather-alert",
@@ -9757,7 +9949,13 @@
     "subtitle": "Alerte météo inquiétante",
     "prompt": "Turn this image into a disturbing emergency weather broadcast. Add severe alert crawlers, radar graphics, distorted local news typography, storm warnings, washed-out analog TV color, and a sense that the broadcast is hiding something worse.",
     "category": "Horreur / Étrange",
-    "images": []
+    "images": [
+      {
+        "src": "images/658.png",
+        "alt": "Image 658",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-034-retro-mall-directory-kiosk",
@@ -9765,7 +9963,13 @@
     "subtitle": "Borne de centre d’achat rétro",
     "prompt": "Transform this image into a retro mall directory kiosk screen. Add pixelated store map, “You Are Here” marker, category buttons, scratched touchscreen glass, outdated shopping mall branding, and fluorescent reflection.",
     "category": "Interfaces / Écrans / Faux OS",
-    "images": []
+    "images": [
+      {
+        "src": "images/659.png",
+        "alt": "Image 659",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-035-toy-store-inventory-terminal",
@@ -9773,7 +9977,13 @@
     "subtitle": "Terminal d’inventaire de magasin de jouets",
     "prompt": "Reimagine this image as a toy store inventory terminal. Show product SKU, stock count, aisle location, low-resolution product thumbnail, barcode scanner status, old beige computer UI, and retail backroom atmosphere.",
     "category": "Interfaces / Écrans / Faux OS",
-    "images": []
+    "images": [
+      {
+        "src": "images/660.png",
+        "alt": "Image 660",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-036-victorian-penny-arcade-machine",
@@ -9781,7 +9991,13 @@
     "subtitle": "Machine d’arcade victorienne",
     "prompt": "Transform the subject into a Victorian penny arcade machine. Use polished wood, brass gears, hand-painted display panels, coin slot, mechanical viewing window, ornate lettering, and warm antique parlor lighting.",
     "category": "Histoire / Époques / Civilisations",
-    "images": []
+    "images": [
+      {
+        "src": "images/661.png",
+        "alt": "Image 661",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-037-ancient-toy-artifact-exhibit",
@@ -9789,7 +10005,13 @@
     "subtitle": "Jouet ancien exposé au musée",
     "prompt": "Reimagine the subject as an ancient toy artifact in a museum exhibit. Use aged clay, carved wood, bronze or bone materials, excavation labels, glass case reflections, archival lighting, and archaeological presentation.",
     "category": "Histoire / Époques / Civilisations",
-    "images": []
+    "images": [
+      {
+        "src": "images/662.png",
+        "alt": "Image 662",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-038-luxury-collectible-watch-box",
@@ -9797,7 +10019,13 @@
     "subtitle": "Coffret de montre de collection",
     "prompt": "Transform the subject into the design theme for a luxury collectible watch box. Use polished wood, leather lining, metallic embossing, velvet cushion, premium certificate card, dramatic product lighting, and high-end boutique presentation.",
     "category": "Mode / Beauté / Luxe",
-    "images": []
+    "images": [
+      {
+        "src": "images/663.png",
+        "alt": "Image 663",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-039-sports-mascot-bobblehead-night",
@@ -9805,6 +10033,12 @@
     "subtitle": "Soirée bobblehead sportive",
     "prompt": "Reimagine the subject as a sports arena bobblehead giveaway promotion. Show a boxed bobblehead figure, team-color graphics, game date text, arena lights, sponsor logo area, and energetic collectible event poster styling.",
     "category": "Sport / Événement / Affiche",
-    "images": []
+    "images": [
+      {
+        "src": "images/664.png",
+        "alt": "Image 664",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
