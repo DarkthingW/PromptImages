@@ -1,4 +1,5 @@
 let ITEMS = [];
+let ORIGINAL_ITEMS = [];
 let CATEGORIES = ["Tous"];
 let activeCategory = "Tous";
 
@@ -17,6 +18,7 @@ async function loadPrompts() {
     }
 
     ITEMS = await response.json();
+    ORIGINAL_ITEMS = [...ITEMS];
 
     CATEGORIES = [
       "Tous",
@@ -92,6 +94,34 @@ function render() {
 
   if (sort.value === "category") {
     results.sort((a,b) => (a.category + a.title).localeCompare(b.category + b.title, "fr"));
+  }
+
+  if (sort.value === "title-desc") {
+    results.sort((a,b) => b.title.localeCompare(a.title, "fr"));
+  }
+
+  if (sort.value === "category-desc") {
+    results.sort((a,b) => (b.category + b.title).localeCompare(a.category + a.title, "fr"));
+  }
+
+  if (sort.value === "prompt-long") {
+    results.sort((a,b) => (b.prompt?.length || 0) - (a.prompt?.length || 0));
+  }
+
+  if (sort.value === "prompt-short") {
+    results.sort((a,b) => (a.prompt?.length || 0) - (b.prompt?.length || 0));
+  }
+
+  if (sort.value === "newest") {
+    results.sort((a,b) => ORIGINAL_ITEMS.indexOf(b) - ORIGINAL_ITEMS.indexOf(a));
+  }
+
+  if (sort.value === "original") {
+    results.sort((a,b) => ORIGINAL_ITEMS.indexOf(a) - ORIGINAL_ITEMS.indexOf(b));
+  }
+
+  if (sort.value === "random") {
+    results.sort(() => Math.random() - 0.5);
   }
 
   gallery.innerHTML = results.map(item => `
