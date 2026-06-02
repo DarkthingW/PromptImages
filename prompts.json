@@ -313,7 +313,7 @@
     "title": "Dollar Bill",
     "subtitle": "Billet de banque",
     "prompt": "Redo this image in the style of a vintage dollar bill, intricate engraved linework, monochrome green tones, ornate borders, classical portrait framing, fine hatch shading, and a formal, currency-like composition with official emblems or seals.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/15.png",
@@ -589,7 +589,7 @@
     "title": "Hyperpop / Y2K Aesthetic",
     "subtitle": "Esthétique Hyperpop / Y2K",
     "prompt": "Redo this image in the Hyperpop Y2K style, glossy textures, digital plastic sheen, overexposed lighting, chrome and neon accessories, chaotic and flashy visual overload.",
-    "category": "Horreur / Étrange",
+    "category": "Art / Illustration",
     "images": [
       {
         "src": "images/29.png",
@@ -646,7 +646,7 @@
     "title": "AI Glitchcore",
     "subtitle": "Glitchcore IA",
     "prompt": "Redo this image in a fractured, layered visual style, surreal machine-generated patterns, chaotic color blending, digital distortions, and procedural textures that evoke a dreamlike, algorithmic intensity.",
-    "category": "Horreur / Étrange",
+    "category": "Science-fiction / Tech",
     "images": [
       {
         "src": "images/32.png",
@@ -741,7 +741,7 @@
     "title": "Surreal Dream Filter",
     "subtitle": "Filtre rêve surréaliste",
     "prompt": "Remix this into a surreal dreamscape — soft haze, levitating objects, bending background, and unnatural light sources. Keep a pastel-toned atmosphere.",
-    "category": "Horreur / Étrange",
+    "category": "Conceptuel / Mondes / Transformations",
     "images": [
       {
         "src": "images/37.png",
@@ -1460,7 +1460,7 @@
     "title": "Stickers",
     "subtitle": "Autocollants",
     "prompt": "Create a sticker set of the person from the reference photo in a polished cartoon avatar sticker style. Use clean vector-like digital illustration with bold black outlines, soft cel shading, smooth gradients, slightly caricatured but recognizable facial proportions, expressive eyebrows, and exaggerated facial expressions. Maintain accurate identity and likeness while simplifying details into a friendly avatar style. High readability emoji/sticker pack aesthetic similar to premium messaging app stickers / Bitmoji quality. Crisp edges, polished digital rendering, subtle facial shading, expressive hands when needed. Transparent background. Arrange multiple head-and-shoulder stickers in a neat grid. Include varied expressions and gestures such as happy, sad, wink, surprised, laughing, thumbs up, skeptical, shrugging, facepalm.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B3.png",
@@ -1650,7 +1650,7 @@
     "title": "Chibi-style stickers",
     "subtitle": "Autocollants style chibi",
     "prompt": "Create a 3D kawaii illustration on a 10:16 canvas featuring nine chibi-style stickers of me, each in different [poses] and [expressions]. Each sticker should have a white border Set the scene against a transparent background for a fun, positive vibe.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/B15.png",
@@ -1669,7 +1669,7 @@
     "title": "Porte-Clés",
     "subtitle": "Porte-clés",
     "prompt": "Transform the subject or image into a small 3D keychain figurine. If a person is present, preserve their likeness as a collectible miniature figure with rounded, slightly stylized toy-like proportions. If no person is present, convert the object or animal into a collectible keychain figurine with realistic materials and proper scale. Add a glossy resin finish, subtle painted details, and a metal loop on top attached to a keyring. Use soft natural lighting, shallow depth of field, and ensure a photorealistic render.",
-    "category": "Packaging / Produits fictifs",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/B16.png",
@@ -1744,7 +1744,7 @@
     "title": "VHS Horror 80s",
     "subtitle": "Horreur VHS années 80",
     "prompt": "Transform this image into a 1980s VHS horror movie frame, analog tape degradation, chromatic aberration, scan lines, practical lighting, eerie fog, cinematic grain, retro slasher atmosphere, dim neon lighting, worn videotape artifacts.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/71.png",
@@ -2122,7 +2122,7 @@
     "title": "Old Newspaper Front Page",
     "subtitle": "Une de vieux journal",
     "prompt": "Transform the subject into a vintage black-and-white newspaper front page. Dense editorial layout, engraved portrait style, dramatic historical headlines, aged paper texture, authentic typography.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/98.png",
@@ -2150,7 +2150,7 @@
     "title": "Analog Horror Broadcast",
     "subtitle": "Diffusion d’horreur analogique",
     "prompt": "Transform this image into an analog horror emergency broadcast. CRT distortion, warning graphics, VHS artifacts, eerie government message aesthetic, unsettling realism.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/100.png",
@@ -2542,7 +2542,7 @@
     "title": "Trading Card",
     "subtitle": "Carte à collectionner",
     "prompt": "Transform this image into a premium collectible trading card. Holographic foil effect, rarity icons, attack stats, glossy printed-card realism.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/128.png",
@@ -2556,7 +2556,7 @@
     "title": "Magazine Cover",
     "subtitle": "Couverture de magazine",
     "prompt": "Redo this image as a high-end magazine cover. Professional typography, barcode, editorial layout, luxury publication photography.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/129.png",
@@ -3130,7 +3130,7 @@
     "title": "FBI Most Wanted Poster",
     "subtitle": "Affiche FBI Most Wanted",
     "prompt": "Redo this image as an FBI most wanted poster. Official law-enforcement layout, procedural photography style, aged paper texture.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/170.png",
@@ -3858,7 +3858,7 @@
     "title": "Retro Toy Commercial Screenshot",
     "subtitle": "Capture d’écran de publicité de jouet rétro",
     "prompt": "Transform this image into a frame from a 1990s toy commercial. Oversaturated colors, energetic children’s TV advertisement style, VHS artifacts, exaggerated excitement.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/222.png",
@@ -4040,7 +4040,7 @@
     "title": "Late-Night Psychic Hotline TV Ad",
     "subtitle": "Publicité télé de ligne psychique de fin de soirée",
     "prompt": "Transform this image into a bizarre late-night 1990s psychic hotline television advertisement. Overly saturated colors, glowing aura effects, cheap studio backdrop, scrolling phone number banner, dramatic starbursts, VHS softness, and the unmistakable look of an off-hours cable TV commercial.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/236.png",
@@ -4082,7 +4082,7 @@
     "title": "Comic Convention Badge",
     "subtitle": "Badge de convention BD",
     "prompt": "Reimagine this image as a premium comic convention attendee badge. Feature the subject as the central illustrated artwork, with event title, year, stylized access level, lanyard hole, glossy laminated finish, subtle security hologram, and authentic pop-culture convention graphic design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/239.png",
@@ -4138,7 +4138,7 @@
     "title": "Grocery Store Tabloid Front Page",
     "subtitle": "Une de tabloïd d’épicerie",
     "prompt": "Transform this image into an outrageous supermarket tabloid front page. Huge sensational headline, dramatic cutout portrait, absurd teaser boxes, red and yellow typography, exaggerated subheadings, cheap newsprint texture, and chaotic checkout-aisle magazine design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/243.png",
@@ -4152,7 +4152,7 @@
     "title": "Miniature Train Model Display",
     "subtitle": "Exposition de train miniature",
     "prompt": "Turn this scene into a highly detailed miniature model railway diorama. The subject and environment are recreated at tiny hobby scale, with realistic flocked grass, miniature figures, painted resin buildings, railroad scenery, tilt-shift depth of field, and exhibition-quality craftsmanship.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Miniatures / Dioramas / Mondes réduits",
     "images": [
       {
         "src": "images/244.png",
@@ -4390,7 +4390,7 @@
     "title": "Retro Preschool Little Figures Set",
     "subtitle": "Ensemble rétro de petites figurines préscolaires",
     "prompt": "Reimagine this image as a retro preschool playset with chunky rounded plastic figures and simplified toy architecture. Convert the people into peg-like, child-friendly figurines with minimal painted facial features, while turning the setting into a colorful molded-plastic scene full of interactive toy details. Use soft studio lighting and a catalog-style product presentation, as if photographed for a 1980s toy advertisement.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/261.png",
@@ -4432,7 +4432,7 @@
     "title": "Vintage Wind-Up Tin Toy",
     "subtitle": "Jouet mécanique vintage en métal",
     "prompt": "Transform the main subject into a vintage wind-up tin toy from the 1940s or 1950s. Reinterpret the form using painted lithographed metal panels, visible seams, small mechanical joints, a winding key on the side, and slightly worn collectible patina. Place it on a tabletop with soft museum-like lighting, subtle scratches, and a nostalgic antique toy-store feeling.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/264.png",
@@ -4530,7 +4530,7 @@
     "title": "Vintage Toy Catalog Page",
     "subtitle": "Page de catalogue de jouets vintage",
     "prompt": "Transform this image into a colorful 1980s or 1990s toy catalog page. Recreate the subject as a fictional toy line with staged product photography, energetic callout badges, price bubbles, exaggerated marketing copy, and multiple boxed accessories or playsets inspired by the image. Use slightly faded print texture, dense retail catalog layout, and authentic retro toy-commercial energy.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/271.png",
@@ -4558,7 +4558,7 @@
     "title": "Vintage Cookbook Page",
     "subtitle": "Page de livre de recettes vintage",
     "prompt": "Turn this image into a vintage cookbook page. Reinterpret the subject as a charming illustrated recipe with a large food-style hero illustration, ingredient list, numbered preparation steps, handwritten notes, stains, decorative borders, and warm retro kitchen typography. Keep it playful, appetizing, and print-authentic.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/273.png",
@@ -4628,7 +4628,7 @@
     "title": "Retrofuturist Tourist Postcard",
     "subtitle": "Carte postale touristique rétrofuturiste",
     "prompt": "Transform this image into a retrofuturist tourist postcard. Rebuild the scene as a colorful travel-poster destination with bold 'Greetings from' lettering, simplified landmarks inspired by the image, exaggerated perspective, airbrushed gradients, vintage print grain, and optimistic space-age charm.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/278.png",
@@ -4642,7 +4642,7 @@
     "title": "Themed Restaurant Menu",
     "subtitle": "Menu de restaurant thématique",
     "prompt": "Reimagine this image as the branding for a fictional themed restaurant menu. Use the subject as a mascot, logo, or hero illustration, surrounded by illustrated menu items, playful dish names, prices, specials, decorative dividers, and appetizing retro-modern restaurant design. Make it feel like a real printed menu.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/279.png",
@@ -4670,7 +4670,7 @@
     "title": "Museum Catalog Artifact",
     "subtitle": "Artefact de catalogue de musée",
     "prompt": "Present this image as a museum catalog entry for a rare artifact. Place the subject or object in a clean archival photograph or illustration, with a title, date, material, origin, accession number, scale reference, curator notes, and refined gallery layout. Use quiet lighting, neutral background, and documentary precision.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/281.png",
@@ -4684,7 +4684,7 @@
     "title": "Minimal Prestige Film Poster",
     "subtitle": "Affiche de film prestige minimaliste",
     "prompt": "Transform this image into a minimalist prestige indie film poster. Use restrained composition, negative space, subtle unsettling symbolism, muted colors, elegant typography, small festival laurels, and one strong visual metaphor based on the subject. Make it feel artistic, mysterious, and award-season ready.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/282.png",
@@ -4782,7 +4782,7 @@
     "title": "Pulp Paperback Cover",
     "subtitle": "Couverture de roman pulp",
     "prompt": "Transform this image into a dramatic vintage pulp paperback cover. Use painted illustration, bold sensational title typography, intense composition, aged paper texture, worn corners, over-the-top tagline, and exaggerated cinematic lighting. Make the subject feel like the hero or mystery of a forgotten cheap novel.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/289.png",
@@ -5048,7 +5048,7 @@
     "title": "Esoteric Tarot Card",
     "subtitle": "Carte de tarot ésotérique",
     "prompt": "Reimagine the subject as an ornate tarot card. Place the central figure or object inside a decorative mystical frame with symbolic objects, celestial motifs, roman numeral, arcane title, subtle gold accents, and aged card texture. Make it mysterious, balanced, and readable as a real card.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/308.png",
@@ -5090,7 +5090,7 @@
     "title": "Pop-Up Children's Book Cover",
     "subtitle": "Couverture de livre animé pour enfants",
     "prompt": "Reimagine this image as the cover of a pop-up children's book. Use layered paper depth, cheerful illustrated characters, bright inviting colors, playful title typography, soft shadows between paper layers, and a whimsical storybook world that feels ready to open into 3D.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/311.png",
@@ -5496,7 +5496,7 @@
     "title": "Sticker Album Collectible Page",
     "subtitle": "Page d’album d’autocollants de collection",
     "prompt": "Reimagine this image as a collectible sticker album page. Show glossy stickers of the subject, empty numbered slots, foil rare variant, printed album grid, peel edges, colorful borders, and nostalgic trading-sticker layout.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/340.png",
@@ -5594,7 +5594,7 @@
     "title": "Mail-Order Toy Catalog Page",
     "subtitle": "Page de catalogue de jouets par correspondance",
     "prompt": "Reimagine this image as a vintage toy catalog page. Show the subject as a mail-order toy with product number, price, tiny descriptive copy, dotted order form, faded print colors, and multiple catalog poses in a nostalgic retail layout.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/347.png",
@@ -5622,7 +5622,7 @@
     "title": "Airline Safety Card",
     "subtitle": "Carte de sécurité aérienne",
     "prompt": "Transform this image into a vintage airline safety instruction card. Use flat diagram-style illustrations, simplified human poses, numbered emergency steps, seatbelt icons, airplane cabin panels, muted printed colors, and slightly aged laminated paper texture. Keep the subject recognizable while making the entire image feel like an official in-flight safety card.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/349.png",
@@ -5636,7 +5636,7 @@
     "title": "Library Checkout Card",
     "subtitle": "Fiche d’emprunt de bibliothèque",
     "prompt": "Reimagine this image as an old library checkout card tucked inside a book pocket. Use stamped due dates, typewriter text, faded ink, manila paper texture, catalog numbers, handwritten notes, and a small printed portrait or illustration of the subject as if archived in a forgotten public library.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/350.png",
@@ -5678,7 +5678,7 @@
     "title": "Airline Boarding Pass Portrait",
     "subtitle": "Portrait sur carte d’embarquement",
     "prompt": "Transform this image into a stylized airline boarding pass and passport-control document collage. Include barcode strips, seat number, gate number, airport codes, passport stamp textures, security markings, and a small official-looking portrait of the subject. Use realistic paper folds and travel-document design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/353.png",
@@ -5720,7 +5720,7 @@
     "title": "Passport Stamp World Tour",
     "subtitle": "Tour du monde en tampons de passeport",
     "prompt": "Turn this image into a travel-worn passport page filled with colorful stamps, visa stickers, handwritten customs notes, faded ink, and a small official portrait of the subject. Use realistic paper texture, overlapping stamp marks, and a well-traveled archival aesthetic.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/356.png",
@@ -5734,7 +5734,7 @@
     "title": "Retro Tax Form Nightmare",
     "subtitle": "Cauchemar de formulaire fiscal rétro",
     "prompt": "Transform this image into an absurd tax form document from the 1980s. Use typewriter fields, official stamps, tiny checkboxes, dense instructions, photocopy texture, highlighted mistakes, and a serious bureaucratic layout. The subject should appear as a tiny official ID photo or printed diagram.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/357.png",
@@ -5748,7 +5748,7 @@
     "title": "Grocery Store Weekly Flyer",
     "subtitle": "Circulaire hebdomadaire d’épicerie",
     "prompt": "Reimagine this image as a colorful grocery store weekly flyer. Use bold discount stickers, cut-out product photography, halftone print texture, loud sale typography, coupon boxes, and crowded supermarket-ad layout. Make the subject appear as the featured absurd “deal of the week.”",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/358.png",
@@ -5762,7 +5762,7 @@
     "title": "Vintage Banknote from a Fictional Country",
     "subtitle": "Billet de banque vintage d’un pays fictif",
     "prompt": "Transform this image into a highly detailed banknote from a fictional country. Use engraved portrait linework, ornate borders, serial numbers, security patterns, microtext, seals, decorative symbols, and formal currency composition. Avoid copying any real currency exactly.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/359.png",
@@ -5776,7 +5776,7 @@
     "title": "1970s Cooking Magazine Cover",
     "subtitle": "Couverture de magazine de cuisine des années 1970",
     "prompt": "Turn this image into a 1970s cooking magazine cover. Use warm faded colors, retro food photography, awkward plated dishes, bold serif headlines, kitchen props, glossy magazine wear, and charmingly dated editorial layout. Make the subject part of the featured cover story.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/360.png",
@@ -5818,7 +5818,7 @@
     "title": "Toy Instruction Leaflet",
     "subtitle": "Dépliant d’instructions de jouet",
     "prompt": "Transform this image into a folded toy instruction leaflet. Use black-and-white assembly diagrams, numbered steps, arrows, safety icons, tiny part labels, multilingual warnings, and thin paper creases. The subject should be broken down into harmless toy components and assembly views.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/363.png",
@@ -5846,7 +5846,7 @@
     "title": "Hotel Room Service Menu",
     "subtitle": "Menu de service aux chambres d’hôtel",
     "prompt": "Transform this image into a luxury hotel room service menu. Use elegant typography, cream paper texture, food item listings, subtle gold accents, item prices, a small stylized illustration of the subject, and polished hospitality branding.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/365.png",
@@ -5874,7 +5874,7 @@
     "title": "Vintage Warranty Registration Card",
     "subtitle": "Carte d’enregistrement de garantie vintage",
     "prompt": "Turn this image into an old product warranty registration card. Use perforated paper edges, checkboxes, serial number fields, mail-in form layout, faded blue ink, product diagram thumbnails, and a slightly bureaucratic consumer-product aesthetic.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/367.png",
@@ -5902,7 +5902,7 @@
     "title": "Fake Festival Wristband",
     "subtitle": "Faux bracelet de festival",
     "prompt": "Reimagine this image as a close-up of a colorful music festival wristband and event pass. Use fabric texture, holographic foil, QR code, torn edges, security markings, date stamps, and a small stylized portrait or mascot version of the subject.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/369.png",
@@ -6000,7 +6000,7 @@
     "title": "Antique Magic Lantern Slide",
     "subtitle": "Diapositive ancienne de lanterne magique",
     "prompt": "Reimagine this image as an antique hand-painted magic lantern slide. Use glass plate borders, faded translucent pigments, soft projection glow, dust specks, historical illustration style, and a theatrical Victorian presentation.",
-    "category": "Conceptuel / Mondes / Transformations",
+    "category": "Histoire / Époques / Civilisations",
     "images": [
       {
         "src": "images/376.png",
@@ -6028,7 +6028,7 @@
     "title": "Old Recipe Card Box",
     "subtitle": "Vieille boîte de fiches recettes",
     "prompt": "Turn this image into a handwritten family recipe card inside an old recipe box. Use index card texture, food stains, cursive notes, taped photo corners, faded ink, kitchen-counter lighting, and a nostalgic homemade archive feeling.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/378.png",
@@ -6224,7 +6224,7 @@
     "title": "Toy Cash Register Scanner Figure",
     "subtitle": "Figurine de caisse enregistreuse jouet",
     "prompt": "Transform the subject into a playful toy cash register accessory. Show it as a small plastic item being scanned, with fake barcode sticker, toy money, chunky buttons, pretend store packaging, and bright preschool toy colors.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/392.png",
@@ -6322,7 +6322,7 @@
     "title": "Lenticular Trading Card",
     "subtitle": "Carte lenticulaire à collectionner",
     "prompt": "Transform this image into a 1990s lenticular trading card. Show the subject as a shifting multi-frame illustration with visible ridged plastic texture, rainbow reflection bands, foil border, collector number, fake rarity icon, and slight angle-dependent ghosting. Make it feel like a premium holographic card from an old toy store rack.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/399.png",
@@ -6406,7 +6406,7 @@
     "title": "Museum Wax Seal Archive",
     "subtitle": "Archive de musée scellée à la cire",
     "prompt": "Reimagine the subject as an official wax-sealed archival document. Include thick parchment paper, embossed red wax seal, ribbon binding, handwritten registry numbers, aged stains, catalog labels, and formal museum archive photography.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Histoire / Époques / Civilisations",
     "images": [
       {
         "src": "images/405.png",
@@ -6448,7 +6448,7 @@
     "title": "Jukebox Selection Label",
     "subtitle": "Étiquette de sélection de jukebox",
     "prompt": "Reimagine the subject as the featured artwork on a retro jukebox song selection panel. Include small numbered song tabs, glowing plastic buttons, chrome edges, warm diner lighting, faded label paper, and colorful 1950s-60s music-machine styling.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/408.png",
@@ -6574,7 +6574,7 @@
     "title": "Scratch-Off Lottery Ticket",
     "subtitle": "Billet de loterie à gratter",
     "prompt": "Turn this image into a colorful scratch-off lottery ticket. Use metallic scratch panels, prize boxes, lucky symbols, fake barcode, serial numbers, bold casino-like typography, and partially scratched silver coating revealing parts of the subject.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/417.png",
@@ -6602,7 +6602,7 @@
     "title": "Planetarium Show Poster",
     "subtitle": "Affiche de spectacle de planétarium",
     "prompt": "Transform this image into a planetarium show poster. Use cosmic gradients, star charts, orbital paths, glowing constellations, educational title text, dome-theater branding, and a polished science-museum design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/419.png",
@@ -6686,7 +6686,7 @@
     "title": "Fictional Creature Anatomy Poster",
     "subtitle": "Affiche d’anatomie de créature fictive",
     "prompt": "Reimagine the subject as a fictional anatomy wall chart. Use labeled organs or internal mechanisms, vintage educational poster style, numbered callouts, cross-section diagrams, aged paper, and precise scientific illustration.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/425.png",
@@ -6742,7 +6742,7 @@
     "title": "1970s Library Book Cover",
     "subtitle": "Couverture de livre de bibliothèque des années 1970",
     "prompt": "Turn this image into a worn 1970s library book cover. Use faded printed colors, clothbound texture, library spine sticker, checkout wear, stamped catalog marks, and understated vintage cover design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/429.png",
@@ -6784,7 +6784,7 @@
     "title": "Boardwalk Souvenir Plate",
     "subtitle": "Assiette souvenir « Boardwalk »",
     "prompt": "Turn the subject into a kitschy souvenir plate. Use glossy ceramic, decorative rim text, tiny landmark illustrations, faded tourist-shop colors, gold trim, and a display stand on a shelf.",
-    "category": "Packaging / Produits fictifs",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/432.png",
@@ -6798,7 +6798,7 @@
     "title": "Vintage Fireworks Label",
     "subtitle": "Étiquette de feux d’artifice vintage",
     "prompt": "Reimagine the subject as the artwork on a vintage fireworks label. Use explosive illustrated bursts, bold carnival typography, rough paper printing, warning-style borders, saturated reds and yellows, and nostalgic roadside-stand packaging.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Packaging / Produits fictifs",
     "images": [
       {
         "src": "images/433.png",
@@ -6896,7 +6896,7 @@
     "title": "Old Toy Store Window Display",
     "subtitle": "Vitrine d’ancien magasin de jouets",
     "prompt": "Reimagine the subject as part of a nostalgic toy store window display. Include stacked toy boxes, paper sale signs, warm display lights, glass reflections, tiny dust on the window, colorful props, and a magical after-hours storefront feeling.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/440.png",
@@ -7134,7 +7134,7 @@
     "title": "Toy Vending Machine Display Card",
     "subtitle": "Carte d’affichage de distributrice de jouets",
     "prompt": "Transform the subject into the display card inside a coin-operated toy vending machine. Use faded printed prize examples, plastic capsule samples, coin slot reflections, small price label, scratched clear window, and colorful vending-machine lighting.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/457.png",
@@ -7162,7 +7162,7 @@
     "title": "Retro Pizza Box Art",
     "subtitle": "Illustration de boîte à pizza rétro",
     "prompt": "Transform this image into artwork on a retro pizza box. Use red-and-green printed cardboard, grease stains, checkered borders, bold pizzeria logo, steam lines, fake coupon panel, and casual kitchen-counter lighting.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Packaging / Produits fictifs",
     "images": [
       {
         "src": "images/459.png",
@@ -7190,7 +7190,7 @@
     "title": "Museum Gift Shop Magnet",
     "subtitle": "Aimant de boutique de musée",
     "prompt": "Transform the subject into a molded refrigerator magnet sold in a museum gift shop. Use glossy resin, slightly raised relief, tiny printed label, soft souvenir colors, magnet backing visible nearby, and fridge-door product photography.",
-    "category": "Packaging / Produits fictifs",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/461.png",
@@ -7232,7 +7232,7 @@
     "title": "Aquarium Resin Paperweight",
     "subtitle": "Presse-papiers aquarium en résine",
     "prompt": "Reimagine the subject inside a clear resin paperweight. Use suspended bubbles, tiny embedded decorative elements, polished rounded resin, distorted magnification, desk reflections, and realistic office-souvenir lighting.",
-    "category": "Miniatures / Dioramas / Mondes réduits",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/464.png",
@@ -7246,7 +7246,7 @@
     "title": "Retro Diner Placemat",
     "subtitle": "Set de table de diner rétro",
     "prompt": "Transform this image into a printed diner placemat. Use paper menu texture, maze or puzzle corner, daily specials, checkered border, coffee stains, crayon marks, and a laminated tabletop under warm diner lighting.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/465.png",
@@ -7288,7 +7288,7 @@
     "title": "Collector’s Coin Display Case",
     "subtitle": "Vitrine de pièces de collection",
     "prompt": "Reimagine the subject as a commemorative collector coin. Use embossed metal relief, polished silver or bronze texture, decorative rim text, velvet-lined display case, certificate card, and macro lighting that emphasizes engraved details.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/468.png",
@@ -7302,7 +7302,7 @@
     "title": "Retro Fast-Food Tray Liner",
     "subtitle": "Papier de plateau de restauration rapide rétro",
     "prompt": "Transform this image into a printed fast-food tray liner. Use colorful promotional graphics, coupon boxes, tiny game or maze section, grease marks, folded paper texture, ketchup packet nearby, and nostalgic restaurant tabletop styling.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/469.png",
@@ -7330,7 +7330,7 @@
     "title": "Sticker Machine Prize Card",
     "subtitle": "Carte de prix de machine à autocollants",
     "prompt": "Transform the subject into a prize preview card for an old sticker vending machine. Use rows of tiny sticker examples, coin price, scratched plastic cover, faded colors, peeling corners, and mall arcade nostalgia.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/471.png",
@@ -7344,7 +7344,7 @@
     "title": "Floating Parade Lantern",
     "subtitle": "Lanterne flottante de parade",
     "prompt": "Reimagine the subject as a glowing paper lantern in a night festival. Use translucent paper texture, internal warm light, bamboo frame, hand-painted details, other lanterns floating in the background, and soft atmospheric darkness.",
-    "category": "Conceptuel / Mondes / Transformations",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/472.png",
@@ -7358,7 +7358,7 @@
     "title": "Retro Science Kit Box",
     "subtitle": "Boîte de kit scientifique rétro",
     "prompt": "Transform this image into the cover of a vintage children’s science kit. Use bold educational packaging, small experiment illustrations, badge-like callouts, cardboard box wear, plastic test tubes or tools nearby, and optimistic mid-century science-club energy.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Packaging / Produits fictifs",
     "images": [
       {
         "src": "images/473.png",
@@ -7400,7 +7400,7 @@
     "title": "Magic The Gathering - Fantasy Trading Card",
     "subtitle": "Carte fantasy à collectionner",
     "prompt": "Create a highly detailed custom trading card inspired by the visual style and presentation of a classic fantasy collectible card game.\n\nThe artwork must reinterpret the reference image as a powerful legendary creature or planeswalker from an ancient mystical world.\n\nPreserve the core silhouette, colors, mood, and recognizable traits of the original subject while transforming it into epic fantasy artwork with dramatic lighting, magical effects, cinematic atmosphere, intricate textures, and painterly realism.\n\nThe card should include:\n- ornate fantasy card frame\n- mana symbols\n- card title area\n- illustration window\n- type line\n- rules text box\n- power/toughness section\n- collector details and rarity gem\n\nStyle inspiration:\n1990s–modern premium fantasy trading card illustration, dark fantasy realism, high-detail brushwork, glowing magic energy, atmospheric depth, collectible print quality.\n\nThe character/entity should feel iconic, mysterious, and powerful, as if it belongs to a legendary expansion set.\n\nComposition must look like a professionally photographed authentic collectible card placed on a dark textured surface with subtle reflections and dramatic lighting.\n\nIMPORTANT:\n- Do not copy copyrighted logos or exact official branding.\n- Create an original fantasy card layout inspired by collectible card games.\n- Make the text look believable and stylized, but not necessarily fully readable.\n- Ultra detailed, masterpiece quality, sharp focus, fantasy illustration, premium print finish.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/476.png",
@@ -8408,7 +8408,7 @@
     "title": "Prize Trophy Figurine",
     "subtitle": "Figurine trophée doré",
     "prompt": "Recreate this image as a golden trophy figurine. Use polished metallic surfaces, engraved nameplate, marble base, dramatic award-ceremony lighting, and heroic simplified pose.",
-    "category": "Sport / Événement / Affiche",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/548.png",
@@ -8422,7 +8422,7 @@
     "title": "Wind-Up Music Box",
     "subtitle": "Boîte à musique mécanique",
     "prompt": "Transform the subject into a miniature figure on a rotating wind-up music box. Use painted porcelain texture, ornate base, tiny crank handle, soft nostalgic lighting, and delicate toy-like craftsmanship.",
-    "category": "Packaging / Produits fictifs",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/549.png",
@@ -8478,7 +8478,7 @@
     "title": "Dashboard Hula Figure",
     "subtitle": "Figurine hula de tableau de bord",
     "prompt": "Turn the subject into a small dashboard hula figurine. Use spring-mounted body movement, plastic base, sunny car interior, slightly kitschy painted details, and playful souvenir-shop energy.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "3D / Objets / Jouets",
     "images": [
       {
         "src": "images/553.png",
@@ -8506,7 +8506,7 @@
     "title": "Miniature Trophy Case Display",
     "subtitle": "Présentoir vitrine miniature",
     "prompt": "Transform this image into a miniature collectible displayed inside a glass trophy case. Use tiny spotlights, velvet-lined base, engraved plaque, reflective glass, and museum-like presentation.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Miniatures / Dioramas / Mondes réduits",
     "images": [
       {
         "src": "images/555.png",
@@ -8618,7 +8618,7 @@
     "title": "Prestige TV Drama Poster",
     "subtitle": "Affiche série dramatique prestige",
     "prompt": "Turn this image into a serious prestige TV drama promotional poster. Use muted color grading, intense close-up composition, dramatic negative space, minimal title placement, and cinematic emotional tension.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/563.png",
@@ -8744,7 +8744,7 @@
     "title": "Space Colony Recruitment Poster",
     "subtitle": "Affiche recrutement colonie spatiale",
     "prompt": "Transform this image into a retro-futuristic space colony recruitment poster. Use optimistic slogans, clean space-age shapes, domed habitats, rocket trails, bold flat colors, and polished propaganda-style composition.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/572.png",
@@ -8758,7 +8758,7 @@
     "title": "Augmented Reality Repair Manual",
     "subtitle": "Manuel réparation réalité augmentée",
     "prompt": "Turn this image into an augmented reality repair manual overlay. Use floating arrows, exploded component labels, diagnostic warnings, step-by-step technical callouts, and semi-transparent interface graphics.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/573.png",
@@ -8814,7 +8814,7 @@
     "title": "Cursed School Portrait",
     "subtitle": "Portrait scolaire maudit",
     "prompt": "Turn this image into an old cursed school portrait. Use faded colors, cracked photo paper, formal pose, strange background details, handwritten yearbook notes, and subtle unsettling distortions.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/577.png",
@@ -8884,7 +8884,7 @@
     "title": "Urban Legend Poster",
     "subtitle": "Affiche légende urbaine",
     "prompt": "Transform this image into an urban legend warning poster. Use photocopied texture, torn-paper edges, cryptic symbols, grainy evidence photos, bold warning typography, and eerie small-town mystery tone.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/582.png",
@@ -8912,7 +8912,7 @@
     "title": "Haunted Antique Store Display",
     "subtitle": "Vitrine antiquaire hantée",
     "prompt": "Reimagine this image as an object inside a haunted antique store window. Use dusty glass, old price tags, dim warm lighting, strange reflections, and subtle ominous details.",
-    "category": "Interfaces / Écrans / Faux OS",
+    "category": "Horreur / Étrange",
     "images": [
       {
         "src": "images/584.png",
@@ -8940,7 +8940,7 @@
     "title": "Retro Airline Magazine Ad",
     "subtitle": "Pub magazine compagnie aérienne rétro",
     "prompt": "Turn this image into a 1960s airline magazine advertisement. Use glamorous travel photography, smiling staged composition, elegant serif typography, pastel skies, luggage props, and optimistic jet-age design.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/586.png",
@@ -8954,7 +8954,7 @@
     "title": "Vintage Ski Resort Brochure",
     "subtitle": "Brochure station de ski vintage",
     "prompt": "Transform this image into a vintage ski resort brochure. Use snowy mountain illustration, folded travel pamphlet layout, warm lodge imagery, bold winter typography, map inset, and cheerful vacation marketing.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/587.png",
@@ -8982,7 +8982,7 @@
     "title": "1980s Fitness VHS Cover",
     "subtitle": "Couverture VHS fitness années 80",
     "prompt": "Turn this image into an 1980s fitness VHS cover. Use neon workout graphics, shiny spandex styling, energetic pose, bold diagonal typography, grainy studio photography, and motivational sales-copy boxes.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/589.png",
@@ -8996,7 +8996,7 @@
     "title": "Local Cable Access Show Flyer",
     "subtitle": "Dépliant émission télé locale",
     "prompt": "Transform this image into a photocopied flyer for a local cable access show. Use messy layout, public-access TV graphics, low-resolution portrait, phone number strip, blocky fonts, and community-center bulletin-board texture.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/590.png",
@@ -9010,7 +9010,7 @@
     "title": "Vintage Appliance Manual",
     "subtitle": "Manuel électroménager vintage",
     "prompt": "Recreate this image as a vintage appliance instruction manual page. Use technical diagrams, numbered callouts, safety warnings, monochrome printing, simple household illustrations, and slightly yellowed paper.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/591.png",
@@ -9024,7 +9024,7 @@
     "title": "1990s School Fundraiser Catalog",
     "subtitle": "Catalogue financement scolaire années 90",
     "prompt": "Turn this image into a 1990s school fundraiser catalog page. Use cheap product photography, colorful price bubbles, order form boxes, playful clip art, and glossy low-budget catalog design.",
-    "category": "Packaging / Produits fictifs",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/592.png",
@@ -9052,7 +9052,7 @@
     "title": "Retro Computer Club Newsletter",
     "subtitle": "Bulletin club informatique rétro",
     "prompt": "Recreate this image as a 1980s computer club newsletter page. Use dot-matrix typography, ASCII dividers, monochrome screenshots, meeting announcements, classified ads, and photocopied paper texture.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/594.png",
@@ -9066,7 +9066,7 @@
     "title": "Vintage Community Theater Poster",
     "subtitle": "Affiche théâtre communautaire vintage",
     "prompt": "Turn this image into a small-town community theater poster. Use dramatic amateur stage photography, bold title treatment, ticket information, sponsor logos, curtain texture, and charming local-production design.",
-    "category": "Nostalgie / Rétro / Archives",
+    "category": "Médias / Publicité / Documents",
     "images": [
       {
         "src": "images/595.png",
@@ -9374,7 +9374,7 @@
     "title": "Memory Museum Exhibit",
     "subtitle": "Exposition musée des souvenirs",
     "prompt": "Reimagine this image as an exhibit inside a museum of memories. Use glass cases, labeled emotional artifacts, soft spotlights, surreal personal objects, and quiet reflective atmosphere.",
-    "category": "Conceptuel / Mondes / Transformations",
+    "category": "Histoire / Époques / Civilisations",
     "images": [
       {
         "src": "images/617.png",
@@ -9494,5 +9494,317 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "new-001-retro-save-file-memory-card",
+    "title": "Retro Save File Memory Card",
+    "subtitle": "Carte mémoire rétro",
+    "prompt": "Transform this image into a retro console memory card save file screen. Show multiple save slots with tiny pixel portraits, playtime counters, completion percentages, corrupted file warnings, low-resolution UI, CRT glow, and nostalgic late-1990s console menu design.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-002-video-game-rental-store-shelf",
+    "title": "Video Game Rental Store Shelf",
+    "subtitle": "Étagère de club vidéo",
+    "prompt": "Reimagine this image as the cover art on a video game rental case displayed on a crowded 1990s rental store shelf. Include worn plastic cases, handwritten rental stickers, faded price tags, genre labels, fluorescent store lighting, and nostalgic game-shop atmosphere.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-003-arcade-prize-redemption-counter",
+    "title": "Arcade Prize Redemption Counter",
+    "subtitle": "Comptoir de prix d’arcade",
+    "prompt": "Transform the subject into a prize displayed behind an arcade redemption counter. Add ticket rolls, neon prize shelves, cheap plastic toys, glowing arcade machines in the background, laminated point-value tags, and colorful family entertainment center lighting.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-004-crt-split-screen-couch-co-op",
+    "title": "CRT Split-Screen Couch Co-op",
+    "subtitle": "Coop locale sur CRT",
+    "prompt": "Turn this image into a split-screen couch co-op video game scene on an old CRT television. Show four-player screen divisions, controller cables, pizza boxes, soda cans, carpeted basement setting, scanlines, and chaotic late-night multiplayer energy.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-005-old-console-launch-poster",
+    "title": "Old Console Launch Poster",
+    "subtitle": "Affiche de lancement de console",
+    "prompt": "Reimagine the subject as the hero artwork for a fictional retro console launch poster. Use bold 1990s tech typography, chrome gradients, exaggerated marketing slogans, console box art fragments, controller silhouettes, and glossy magazine-ad printing.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-006-boss-health-bar-portrait",
+    "title": "Boss Health Bar Portrait",
+    "subtitle": "Portrait de boss avec barre de vie",
+    "prompt": "Transform this image into a dramatic video game boss encounter screen. Add a huge boss health bar, ominous title card, arena lighting, attack warning icons, HUD elements, particle effects, and intense final-battle composition.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-007-game-cartridge-label-art",
+    "title": "Game Cartridge Label Art",
+    "subtitle": "Étiquette de cartouche rétro",
+    "prompt": "Turn this image into the illustrated label on a vintage video game cartridge. Use cropped action artwork, worn sticker edges, console-era typography, tiny serial numbers, plastic cartridge texture, faded colors, and slight label peeling.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-008-fake-expansion-pack-box",
+    "title": "Fake Expansion Pack Box",
+    "subtitle": "Boîte d’extension fictive",
+    "prompt": "Reimagine this image as a boxed expansion pack for a fictional video game. Include dramatic cover art, “Expansion Pack” branding, feature bullet points, screenshots on the back, rating icon, shrink-wrap shine, and retail PC game box styling.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-009-strategy-guide-boss-weakness-page",
+    "title": "Strategy Guide Boss Weakness Page",
+    "subtitle": "Page de guide stratégique",
+    "prompt": "Transform this image into a page from an old video game strategy guide explaining a boss weakness. Use annotated screenshots, arrows, damage charts, item icons, highlighted weak points, magazine-style layout, and slightly worn glossy paper texture.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-010-retro-demo-disc-menu",
+    "title": "Retro Demo Disc Menu",
+    "subtitle": "Menu de disque démo",
+    "prompt": "Turn this image into a retro demo disc menu screen. Show selectable game tiles, looping preview window, low-resolution animated background, techno UI design, “Press Start” prompt, disc icon, and early-2000s console magazine demo-disc atmosphere.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-011-unlockable-costume-closet",
+    "title": "Unlockable Costume Closet",
+    "subtitle": "Garde-robe de costumes déblocables",
+    "prompt": "Reimagine the subject as a character customization screen focused on unlockable costumes. Add outfit thumbnails, rarity labels, locked icons, preview rotation arrows, currency count, achievement requirements, and polished game menu lighting.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-012-arcade-repair-bench",
+    "title": "Arcade Repair Bench",
+    "subtitle": "Établi de réparation d’arcade",
+    "prompt": "Transform this image into an arcade repair bench scene. Show opened cabinet panels, loose circuit boards, joystick parts, buttons, wiring diagrams, dust, tools, old service manual pages, and warm workshop lighting.",
+    "category": "Jeu vidéo",
+    "images": []
+  },
+  {
+    "id": "new-013-retro-toy-repair-workshop",
+    "title": "Retro Toy Repair Workshop",
+    "subtitle": "Atelier de réparation de jouets",
+    "prompt": "Transform the subject into a toy being repaired on a vintage workshop table. Add tiny screwdrivers, spare plastic limbs, paint touch-up bottles, worn instruction sheets, scattered screws, soft desk lamp lighting, and realistic toy-repair textures.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-014-deluxe-toy-collector-shelf",
+    "title": "Deluxe Toy Collector Shelf",
+    "subtitle": "Tablette de collectionneur",
+    "prompt": "Reimagine the subject as part of a deluxe collector shelf display. Use acrylic risers, tiny nameplates, dramatic LED shelf lighting, dust-free glass cabinet reflections, multiple scale figures, and premium toy photography composition.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-015-action-figure-accessory-tray",
+    "title": "Action Figure Accessory Tray",
+    "subtitle": "Plateau d’accessoires de figurine",
+    "prompt": "Transform the subject into a collectible figure accessory tray. Arrange interchangeable hands, tiny props, alternate heads, weapons or themed items, molded plastic compartments, instruction insert, and realistic product photography.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-016-toy-store-pegboard-wall",
+    "title": "Toy Store Pegboard Wall",
+    "subtitle": "Mur de jouets en magasin",
+    "prompt": "Turn this image into a toy displayed on a crowded retail pegboard wall. Include hanging hooks, price labels, neighboring toys, colorful packaging, fluorescent store lighting, slight shelf wear, and authentic toy aisle atmosphere.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-017-build-a-figure-parts-wave",
+    "title": "Build-A-Figure Parts Wave",
+    "subtitle": "Série de pièces à assembler",
+    "prompt": "Reimagine the subject as a build-a-figure toy wave. Show separate collectible parts in blister packaging, numbered boxes, a completed figure diagram, “collect them all” branding, and realistic plastic packaging reflections.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-018-toy-prototype-test-shot",
+    "title": "Toy Prototype Test Shot",
+    "subtitle": "Prototype de jouet non peint",
+    "prompt": "Transform the subject into an unpainted toy prototype test shot. Use matte gray plastic, visible mold seams, peg joints, engineering notes, caliper measurements, prototype labels, and clean studio documentation lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-019-clear-plastic-display-cube",
+    "title": "Clear Plastic Display Cube",
+    "subtitle": "Cube de présentation transparent",
+    "prompt": "Place the subject as a collectible object inside a clear acrylic display cube. Add polished plastic edges, subtle dust specks, museum-like label, soft reflections, black display base, and premium collector photography.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-020-giant-store-mascot-statue",
+    "title": "Giant Store Mascot Statue",
+    "subtitle": "Statue mascotte de magasin",
+    "prompt": "Transform the subject into a giant fiberglass store mascot statue. Use oversized toy-like proportions, glossy paint, slight scuffs, bolted base, shopping mall or toy store entrance setting, and realistic commercial display lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-021-die-cast-vehicle-showroom",
+    "title": "Die-Cast Vehicle Showroom",
+    "subtitle": "Présentoir de véhicule moulé",
+    "prompt": "Reimagine the subject as a die-cast collectible vehicle or themed miniature on a showroom display. Use metallic paint, rubber wheels, scale model details, rotating display platform, collector plaque, and macro product photography.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-022-toy-photography-macro-scene",
+    "title": "Toy Photography Macro Scene",
+    "subtitle": "Photo macro de jouet",
+    "prompt": "Transform the subject into a small toy photographed in a dramatic macro setup. Use shallow depth of field, oversized real-world objects around it, tiny dust particles, realistic plastic textures, and cinematic toy photography lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": []
+  },
+  {
+    "id": "new-023-miniature-arcade-room-diorama",
+    "title": "Miniature Arcade Room Diorama",
+    "subtitle": "Salle d’arcade miniature",
+    "prompt": "Reimagine this image as part of a miniature arcade room diorama. Include tiny arcade cabinets, glowing screens, carpet pattern, miniature stools, soda cups, prize counter, scale figures, and realistic tilt-shift photography.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": []
+  },
+  {
+    "id": "new-024-video-game-loading-screen-diorama",
+    "title": "Video Game Loading Screen Diorama",
+    "subtitle": "Diorama d’écran de chargement",
+    "prompt": "Transform this image into a physical diorama recreating a video game loading screen. Use layered cardboard scenery, tiny painted figures, miniature props, LED backlighting, visible handmade edges, and a small printed loading-tip sign.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": []
+  },
+  {
+    "id": "new-025-tiny-game-developer-desk",
+    "title": "Tiny Game Developer Desk",
+    "subtitle": "Bureau miniature de développeur",
+    "prompt": "Create a miniature diorama of a game developer’s desk inspired by the image. Include tiny monitors, sticky notes, coffee cups, controller prototypes, keyboard, sketches, desk lamp, and detailed scale-model realism.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": []
+  },
+  {
+    "id": "new-026-vintage-playset-commercial-frame",
+    "title": "Vintage Playset Commercial Frame",
+    "subtitle": "Publicité télé de jouet vintage",
+    "prompt": "Transform this image into a still frame from a vintage toy playset TV commercial. Use bright studio lighting, excited product demonstration layout, bold on-screen price text, fake jingle lyrics, VHS texture, and cheerful 1980s advertising energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": []
+  },
+  {
+    "id": "new-027-toy-catalog-mail-in-offer",
+    "title": "Toy Catalog Mail-In Offer",
+    "subtitle": "Offre postale de catalogue de jouets",
+    "prompt": "Reimagine the subject as a mail-in offer page from an old toy catalog. Include cut-out order form, proof-of-purchase instructions, tiny product photos, bold price circles, legal fine print, and yellowed catalog paper.",
+    "category": "Médias / Publicité / Documents",
+    "images": []
+  },
+  {
+    "id": "new-028-old-cereal-premium-mail-in-ad",
+    "title": "Old Cereal Premium Mail-In Ad",
+    "subtitle": "Prime de céréales par la poste",
+    "prompt": "Turn this image into a cereal box mail-in premium advertisement. Show the toy reward, coupon cutout, “send 3 proofs of purchase” instructions, colorful breakfast graphics, small-print rules, and retro supermarket print design.",
+    "category": "Médias / Publicité / Documents",
+    "images": []
+  },
+  {
+    "id": "new-029-animated-movie-lobby-standee",
+    "title": "Animated Movie Lobby Standee",
+    "subtitle": "Présentoir de cinéma animé",
+    "prompt": "Transform this image into a cardboard lobby standee for a fictional animated movie. Use large die-cut character artwork, theatrical release date, colorful title logo, folded cardboard edges, cinema carpet, and promotional display lighting.",
+    "category": "Médias / Publicité / Documents",
+    "images": []
+  },
+  {
+    "id": "new-030-board-game-rulebook-spread",
+    "title": "Board Game Rulebook Spread",
+    "subtitle": "Double-page de règles de jeu",
+    "prompt": "Reimagine this image as a double-page spread from a board game rulebook. Include setup diagrams, numbered steps, icon explanations, component callouts, example turn illustrations, and clean instructional graphic design.",
+    "category": "Médias / Publicité / Documents",
+    "images": []
+  },
+  {
+    "id": "new-031-analog-horror-toy-recall-notice",
+    "title": "Analog Horror Toy Recall Notice",
+    "subtitle": "Avis de rappel de jouet maudit",
+    "prompt": "Transform this image into an analog horror toy recall notice. Use degraded VHS capture, emergency bulletin typography, distorted product photo, unsettling warning symbols, government-style instructions, tracking noise, and cold institutional dread.",
+    "category": "Horreur / Étrange",
+    "images": []
+  },
+  {
+    "id": "new-032-haunted-video-store-shelf",
+    "title": "Haunted Video Store Shelf",
+    "subtitle": "Étagère de club vidéo hantée",
+    "prompt": "Reimagine this image as a haunted video store shelf at night. Use dim fluorescent lighting, warped VHS cases, strange handwritten labels, security camera grain, unnatural shadows between tapes, and a quiet cursed atmosphere.",
+    "category": "Horreur / Étrange",
+    "images": []
+  },
+  {
+    "id": "new-033-emergency-broadcast-weather-alert",
+    "title": "Emergency Broadcast Weather Alert",
+    "subtitle": "Alerte météo inquiétante",
+    "prompt": "Turn this image into a disturbing emergency weather broadcast. Add severe alert crawlers, radar graphics, distorted local news typography, storm warnings, washed-out analog TV color, and a sense that the broadcast is hiding something worse.",
+    "category": "Horreur / Étrange",
+    "images": []
+  },
+  {
+    "id": "new-034-retro-mall-directory-kiosk",
+    "title": "Retro Mall Directory Kiosk",
+    "subtitle": "Borne de centre d’achat rétro",
+    "prompt": "Transform this image into a retro mall directory kiosk screen. Add pixelated store map, “You Are Here” marker, category buttons, scratched touchscreen glass, outdated shopping mall branding, and fluorescent reflection.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": []
+  },
+  {
+    "id": "new-035-toy-store-inventory-terminal",
+    "title": "Toy Store Inventory Terminal",
+    "subtitle": "Terminal d’inventaire de magasin de jouets",
+    "prompt": "Reimagine this image as a toy store inventory terminal. Show product SKU, stock count, aisle location, low-resolution product thumbnail, barcode scanner status, old beige computer UI, and retail backroom atmosphere.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": []
+  },
+  {
+    "id": "new-036-victorian-penny-arcade-machine",
+    "title": "Victorian Penny Arcade Machine",
+    "subtitle": "Machine d’arcade victorienne",
+    "prompt": "Transform the subject into a Victorian penny arcade machine. Use polished wood, brass gears, hand-painted display panels, coin slot, mechanical viewing window, ornate lettering, and warm antique parlor lighting.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": []
+  },
+  {
+    "id": "new-037-ancient-toy-artifact-exhibit",
+    "title": "Ancient Toy Artifact Exhibit",
+    "subtitle": "Jouet ancien exposé au musée",
+    "prompt": "Reimagine the subject as an ancient toy artifact in a museum exhibit. Use aged clay, carved wood, bronze or bone materials, excavation labels, glass case reflections, archival lighting, and archaeological presentation.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": []
+  },
+  {
+    "id": "new-038-luxury-collectible-watch-box",
+    "title": "Luxury Collectible Watch Box",
+    "subtitle": "Coffret de montre de collection",
+    "prompt": "Transform the subject into the design theme for a luxury collectible watch box. Use polished wood, leather lining, metallic embossing, velvet cushion, premium certificate card, dramatic product lighting, and high-end boutique presentation.",
+    "category": "Mode / Beauté / Luxe",
+    "images": []
+  },
+  {
+    "id": "new-039-sports-mascot-bobblehead-night",
+    "title": "Sports Mascot Bobblehead Night",
+    "subtitle": "Soirée bobblehead sportive",
+    "prompt": "Reimagine the subject as a sports arena bobblehead giveaway promotion. Show a boxed bobblehead figure, team-color graphics, game date text, arena lights, sponsor logo area, and energetic collectible event poster styling.",
+    "category": "Sport / Événement / Affiche",
+    "images": []
   }
 ]
