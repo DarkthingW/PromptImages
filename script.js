@@ -51,21 +51,23 @@ function escapeHtml(str) {
 }
 
 function buildFilters() {
-  const catBox = document.getElementById("categoryFilters");
-  catBox.innerHTML = "";
+  const select = document.getElementById("categoryFilter");
+  select.innerHTML = "";
 
   CATEGORIES.forEach(cat => {
-    const btn = document.createElement("button");
-    btn.className = "chip" + (cat === activeCategory ? " active" : "");
-    btn.textContent = cat;
+    const count = cat === "Tous"
+      ? ITEMS.length
+      : ITEMS.filter(item => item.category === cat).length;
 
-    btn.addEventListener("click", () => {
-      activeCategory = cat;
-      buildFilters();
-      render();
-    });
+    const option = document.createElement("option");
+    option.value = cat;
+    option.textContent = `${cat} (${count})`;
 
-    catBox.appendChild(btn);
+    if (cat === activeCategory) {
+      option.selected = true;
+    }
+
+    select.appendChild(option);
   });
 }
 
@@ -220,6 +222,11 @@ document.addEventListener("keydown", e => {
 
 search.addEventListener("input", render);
 sort.addEventListener("change", render);
+
+document.getElementById("categoryFilter").addEventListener("change", e => {
+  activeCategory = e.target.value;
+  render();
+});
 
 document.getElementById("reset").addEventListener("click", () => {
   search.value = "";
