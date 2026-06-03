@@ -10040,5 +10040,845 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "ww-vg-2026-001-new-game-plus-screen",
+    "title": "New Game Plus Screen",
+    "subtitle": "Écran Nouvelle Partie Plus",
+    "prompt": "Transform this image into a New Game Plus unlock screen from a premium video game. Show the subject as the carried-over hero, relic, vehicle, or mascot. Add completed-save data, inherited equipment icons, difficulty modifiers, bonus rewards, glowing confirmation button, cinematic menu lighting, and a triumphant endgame atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/665.png",
+        "alt": "Image 665",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-002-skill-tree-upgrade-menu",
+    "title": "Skill Tree Upgrade Menu",
+    "subtitle": "Menu arbre de compétences",
+    "prompt": "Reimagine the subject as the centerpiece of a video game skill tree upgrade menu. Add branching ability nodes, locked and unlocked perks, glowing connection lines, currency counters, tooltip panels, character stat changes, and polished RPG interface design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/666.png",
+        "alt": "Image 666",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-003-mission-debrief-results",
+    "title": "Mission Debrief Results",
+    "subtitle": "Résultats de mission",
+    "prompt": "Turn this image into a mission debrief results screen. Show rank grade, objective checklist, bonus goals, damage taken, collectibles found, time completed, reward icons, animated progress bars, and dramatic post-mission video game presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/667.png",
+        "alt": "Image 667",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-004-game-photomode-interface",
+    "title": "Game Photomode Interface",
+    "subtitle": "Interface mode photo",
+    "prompt": "Transform this image into an in-game photo mode screenshot. Add camera controls, depth-of-field sliders, exposure settings, filter presets, grid overlay, sticker tools, focal distance indicator, and a cinematic paused-game composition.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/668.png",
+        "alt": "Image 668",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-005-difficulty-select-menu",
+    "title": "Difficulty Select Menu",
+    "subtitle": "Menu sélection de difficulté",
+    "prompt": "Reimagine the subject as a dramatic difficulty selection menu. Show multiple difficulty cards, danger ratings, skull or star indicators, locked challenge modes, warning text, preview artwork, and moody game menu lighting.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/669.png",
+        "alt": "Image 669",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-006-controller-remap-screen",
+    "title": "Controller Remap Screen",
+    "subtitle": "Configuration des contrôles",
+    "prompt": "Turn this image into a controller remapping screen. Display a gamepad diagram, button assignments, accessibility toggles, vibration sliders, dead zone settings, conflict warnings, and clean modern console UI design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/670.png",
+        "alt": "Image 670",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-007-cloud-save-conflict",
+    "title": "Cloud Save Conflict",
+    "subtitle": "Conflit sauvegarde nuage",
+    "prompt": "Reimagine this image as a cloud save conflict screen. Show local save versus cloud save panels, timestamps, progress percentages, tiny preview thumbnails, warning icons, sync arrows, and tense but clean platform UI styling.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/671.png",
+        "alt": "Image 671",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-008-mod-manager-screen",
+    "title": "Mod Manager Screen",
+    "subtitle": "Gestionnaire de mods",
+    "prompt": "Transform this image into a PC game mod manager interface. Add mod thumbnails, enable toggles, load order numbers, compatibility warnings, dependency icons, workshop-style metadata, update buttons, and desktop gaming utility design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/672.png",
+        "alt": "Image 672",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-009-bug-report-beta-build",
+    "title": "Bug Report Beta Build",
+    "subtitle": "Rapport de bogue version bêta",
+    "prompt": "Turn the image into a beta-test bug report screen for an unfinished video game. Include build number, reproduction steps, severity badge, screenshot attachment, debug overlay, collision outlines, placeholder text, and developer QA interface styling.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/673.png",
+        "alt": "Image 673",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-010-game-awards-nomination-card",
+    "title": "Game Awards Nomination Card",
+    "subtitle": "Carte nomination jeu de l’année",
+    "prompt": "Reimagine the subject as a fictional video game awards nomination card. Use premium broadcast graphics, category label, nominee portrait, gold trim, stage lighting, trophy silhouette, dramatic typography, and polished live-event presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/674.png",
+        "alt": "Image 674",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-011-retro-password-screen",
+    "title": "Retro Password Screen",
+    "subtitle": "Écran mot de passe rétro",
+    "prompt": "Transform this image into a retro console password screen. Use rows of strange symbols, blocky letter tiles, blinking cursor, limited color palette, CRT glow, decorative game frame, and mysterious old-school continue-code atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/675.png",
+        "alt": "Image 675",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-012-enemy-codex-entry",
+    "title": "Enemy Codex Entry",
+    "subtitle": "Entrée codex ennemi",
+    "prompt": "Reimagine the subject as an enemy codex entry from an action RPG. Show a rotating model preview, weakness icons, habitat notes, attack pattern diagrams, rarity classification, lore text blocks, and high-detail game database UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/676.png",
+        "alt": "Image 676",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-013-bestiary-illustrated-page",
+    "title": "Bestiary Illustrated Page",
+    "subtitle": "Page de bestiaire illustré",
+    "prompt": "Turn this image into an illustrated video game bestiary page. Use parchment or digital codex layout, creature stats, elemental weaknesses, loot drops, handwritten annotations, map location stamps, and fantasy RPG documentation style.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/677.png",
+        "alt": "Image 677",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-014-party-management-screen",
+    "title": "Party Management Screen",
+    "subtitle": "Gestion d’équipe RPG",
+    "prompt": "Transform this image into a party management screen from a role-playing game. Show character portraits, health and mana bars, equipment slots, formation grid, relationship icons, class labels, and polished menu artwork.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/678.png",
+        "alt": "Image 678",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-015-quest-giver-dialogue",
+    "title": "Quest Giver Dialogue",
+    "subtitle": "Dialogue donneur de quête",
+    "prompt": "Reimagine the image as a quest-giver dialogue scene. Place the subject in a cinematic RPG conversation frame with dialogue box, accept/decline choices, quest reward preview, objective title, NPC nameplate, and atmospheric game lighting.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/679.png",
+        "alt": "Image 679",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-016-collectathon-checklist",
+    "title": "Collectathon Checklist",
+    "subtitle": "Liste de collection complétiste",
+    "prompt": "Turn this image into a collectathon completion checklist. Add collectible icons, percentage counters, region tabs, missing-item silhouettes, shiny completion stamps, map markers, colorful platformer UI, and satisfying 100% progress energy.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/680.png",
+        "alt": "Image 680",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-017-platformer-level-clear",
+    "title": "Platformer Level Clear",
+    "subtitle": "Niveau de plateforme terminé",
+    "prompt": "Transform the subject into a cheerful platformer level-clear screen. Show score tally, time bonus, collected stars, animated confetti, character victory pose, world number, retry/next buttons, and bright arcade-style polish.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/681.png",
+        "alt": "Image 681",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-018-match-three-puzzle-level",
+    "title": "Match-Three Puzzle Level",
+    "subtitle": "Niveau puzzle match-3",
+    "prompt": "Reimagine this image as a match-three puzzle game level. Convert the subject into a board mascot, tile design, or power-up. Add colorful grid pieces, move counter, combo effects, goal panel, booster buttons, and glossy mobile puzzle UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/682.png",
+        "alt": "Image 682",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-019-horror-sanity-meter",
+    "title": "Horror Sanity Meter",
+    "subtitle": "Jauge de santé mentale horreur",
+    "prompt": "Turn this image into a psychological horror game HUD. Add sanity meter, distorted objective text, flickering inventory icons, subtle screen warping, low battery indicator, breathing waveform, and oppressive survival-horror atmosphere without gore.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/683.png",
+        "alt": "Image 683",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-020-stealth-spotted-alert",
+    "title": "Stealth Spotted Alert",
+    "subtitle": "Alerte repéré infiltration",
+    "prompt": "Transform the image into a stealth game spotted-alert moment. Use red detection markers, enemy awareness cones, objective panic text, blurred motion, minimap warning ping, tactical HUD elements, and tense infiltration-game lighting.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/684.png",
+        "alt": "Image 684",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-021-colony-management-dashboard",
+    "title": "Colony Management Dashboard",
+    "subtitle": "Tableau de gestion de colonie",
+    "prompt": "Reimagine the subject as part of a colony management game dashboard. Show colonist portraits, food and power meters, morale alerts, building queue, temperature warnings, tiny base map, and dense strategy-sim interface detail.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/685.png",
+        "alt": "Image 685",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-022-factory-automation-layout",
+    "title": "Factory Automation Layout",
+    "subtitle": "Plan usine automatisée",
+    "prompt": "Turn this image into a factory automation game layout. Add conveyor belts, assembly machines, resource icons, throughput numbers, blueprint grid, robotic arms, warning lights, and satisfying top-down production-chain complexity.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/686.png",
+        "alt": "Image 686",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-023-space-colony-resource-screen",
+    "title": "Space Colony Resource Screen",
+    "subtitle": "Ressources colonie spatiale",
+    "prompt": "Transform the subject into a space colony resource management screen. Show oxygen, water, power, morale, hull integrity, population status, orbital map, emergency alerts, and clean futuristic strategy UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/687.png",
+        "alt": "Image 687",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-024-vr-rhythm-stage",
+    "title": "VR Rhythm Stage",
+    "subtitle": "Scène rythme VR",
+    "prompt": "Reimagine this image as a VR rhythm game stage. Use glowing beat blocks, saber-like motion trails, combo counter, accuracy percentage, neon tunnel perspective, floating score panels, and energetic immersive music-game lighting.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/688.png",
+        "alt": "Image 688",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-025-rhythm-calibration-menu",
+    "title": "Rhythm Calibration Menu",
+    "subtitle": "Menu calibration rythme",
+    "prompt": "Turn this image into a rhythm game calibration menu. Show audio offset sliders, visual timing grid, hit window diagram, sample notes, latency graph, controller icons, and clean arcade/music-game interface styling.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/689.png",
+        "alt": "Image 689",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-026-esports-broadcast-lower-third",
+    "title": "Esports Broadcast Lower Third",
+    "subtitle": "Habillage diffusion esport",
+    "prompt": "Transform this image into an esports broadcast overlay. Add player nameplate, team logos, live score bar, match timer, sponsor slots, animated lower-third graphics, cheering arena lights, and competitive livestream polish.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/690.png",
+        "alt": "Image 690",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-027-streamer-overlay-layout",
+    "title": "Streamer Overlay Layout",
+    "subtitle": "Habillage stream gaming",
+    "prompt": "Reimagine this image as a gaming livestream overlay layout. Include webcam frame, chat panel, latest follower alert, donation goal, gameplay window, animated badges, neon border elements, and polished creator-channel branding.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/691.png",
+        "alt": "Image 691",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-028-console-dashboard-theme",
+    "title": "Console Dashboard Theme",
+    "subtitle": "Thème tableau de bord console",
+    "prompt": "Transform the subject into a custom console dashboard theme. Show game tiles, friend activity, trophy progress, media controls, dynamic wallpaper, soft glow reflections, and premium living-room console UI design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/692.png",
+        "alt": "Image 692",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-029-handheld-emulator-overlay",
+    "title": "Handheld Emulator Overlay",
+    "subtitle": "Surcouche émulateur portable",
+    "prompt": "Turn this image into a handheld emulator screen. Add virtual buttons, save-state slots, fast-forward icon, pixel scaling options, battery indicator, shader settings, plastic handheld bezel, and nostalgic portable gaming atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/693.png",
+        "alt": "Image 693",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-030-light-gun-calibration-screen",
+    "title": "Light Gun Calibration Screen",
+    "subtitle": "Calibration pistolet arcade",
+    "prompt": "Reimagine this image as a retro arcade light-gun calibration screen. Add crosshair targets, CRT scanlines, bright cabinet reflections, calibration instructions, coin counter, attract-mode colors, and old arcade hardware texture.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/694.png",
+        "alt": "Image 694",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-031-mode-7-racing-map",
+    "title": "Mode 7 Racing Map",
+    "subtitle": "Carte course rétro Mode 7",
+    "prompt": "Transform this image into a retro Mode 7 racing game screen. Use tilted pseudo-3D track perspective, chunky sprite racers, lap counter, minimap, speedometer, pixelated horizon, and colorful 16-bit racing energy.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/695.png",
+        "alt": "Image 695",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-032-arcade-coin-door-closeup",
+    "title": "Arcade Coin Door Closeup",
+    "subtitle": "Gros plan monnayeur arcade",
+    "prompt": "Reimagine the subject as artwork reflected in an arcade cabinet coin door. Include metal coin slots, scratched chrome, red reject buttons, price labels, service keyhole, cabinet side glow, and authentic arcade maintenance detail.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/696.png",
+        "alt": "Image 696",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-033-dlc-roadmap-screen",
+    "title": "DLC Roadmap Screen",
+    "subtitle": "Feuille de route DLC",
+    "prompt": "Turn this image into a video game DLC roadmap screen. Show season timeline, upcoming expansions, locked content cards, release windows, teaser artwork, patch icons, premium upgrade banners, and live-service menu polish.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/697.png",
+        "alt": "Image 697",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-034-season-pass-reward-track",
+    "title": "Season Pass Reward Track",
+    "subtitle": "Piste récompenses saisonnière",
+    "prompt": "Transform the subject into a season pass reward-track screen. Add horizontal progression tiers, free and premium rows, cosmetic icons, XP boosts, locked rewards, claim buttons, countdown timer, and flashy live-game UI design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/698.png",
+        "alt": "Image 698",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-035-preorder-bonus-display",
+    "title": "Preorder Bonus Display",
+    "subtitle": "Affiche bonus de précommande",
+    "prompt": "Reimagine this image as a video game preorder bonus display. Include steelbook case, exclusive skin card, digital soundtrack voucher, early access badge, retailer sticker, shrink-wrap shine, and glossy promotional retail graphics.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/699.png",
+        "alt": "Image 699",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-036-game-credits-sequence",
+    "title": "Game Credits Sequence",
+    "subtitle": "Séquence de crédits de jeu",
+    "prompt": "Transform this image into a cinematic game credits sequence. Show scrolling names, soft background artwork, subtle particle effects, orchestral end-screen mood, completion badge, and emotional final-menu presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/700.png",
+        "alt": "Image 700",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-037-accessibility-settings-menu",
+    "title": "Accessibility Settings Menu",
+    "subtitle": "Menu accessibilité jeu vidéo",
+    "prompt": "Reimagine this image as an accessibility settings menu in a modern game. Include subtitle size controls, colorblind filters, aim assist sliders, motion reduction toggles, remappable inputs, preview window, and clean readable UI design.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/701.png",
+        "alt": "Image 701",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-038-performance-benchmark-overlay",
+    "title": "Performance Benchmark Overlay",
+    "subtitle": "Superposition benchmark performance",
+    "prompt": "Turn the image into a PC game benchmark overlay. Show FPS counter, frame-time graph, GPU and CPU usage, resolution settings, ray-tracing toggle, thermal readings, preset comparison panels, and technical review-screen styling.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/702.png",
+        "alt": "Image 702",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-039-game-launcher-library-tile",
+    "title": "Game Launcher Library Tile",
+    "subtitle": "Tuile bibliothèque de launcher",
+    "prompt": "Transform this image into a game launcher library tile. Add cover-art crop, play button, install size, update status, cloud-sync icon, playtime counter, achievement percentage, and clean desktop launcher UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/703.png",
+        "alt": "Image 703",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-040-console-error-code-screen",
+    "title": "Console Error Code Screen",
+    "subtitle": "Écran code erreur console",
+    "prompt": "Reimagine the image as a console error-code screen. Use minimal system UI, cryptic error number, troubleshooting QR placeholder, progress spinner, dark background glow, controller hint icons, and slightly ominous platform atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/704.png",
+        "alt": "Image 704",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-041-arcade-tournament-bracket",
+    "title": "Arcade Tournament Bracket",
+    "subtitle": "Bracket tournoi arcade",
+    "prompt": "Turn this image into an arcade tournament bracket poster. Show player slots, versus lines, cabinet icons, high-score badges, neon arcade lighting, handwritten signup labels, prize pool box, and competitive local-arcade energy.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/705.png",
+        "alt": "Image 705",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-042-trading-card-game-battlefield",
+    "title": "Trading Card Game Battlefield",
+    "subtitle": "Champ de bataille jeu de cartes",
+    "prompt": "Transform the subject into a digital trading card game battlefield. Add card lanes, mana/resource counters, hand of cards, attack arrows, glowing turn timer, card rarity effects, and polished fantasy strategy UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/706.png",
+        "alt": "Image 706",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-043-board-game-digital-adaptation",
+    "title": "Board Game Digital Adaptation",
+    "subtitle": "Adaptation numérique jeu de société",
+    "prompt": "Reimagine this image as a digital board game adaptation screen. Show virtual dice, animated tokens, clickable board spaces, rule reminder panel, player turn order, chat icons, and cozy tabletop-meets-video-game presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/707.png",
+        "alt": "Image 707",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-044-point-and-click-inventory-combine",
+    "title": "Point-and-Click Inventory Combine",
+    "subtitle": "Combinaison inventaire point-and-click",
+    "prompt": "Turn this image into a point-and-click adventure inventory-combination screen. Add item slots, verb buttons, cursor icon, strange object descriptions, puzzle hint text, pixel-art UI frame, and dry comedic adventure-game mood.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/708.png",
+        "alt": "Image 708",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-045-retro-pc-shareware-menu",
+    "title": "Retro PC Shareware Menu",
+    "subtitle": "Menu shareware PC rétro",
+    "prompt": "Transform the image into a 1990s PC shareware menu. Use VGA colors, beveled buttons, episode selection, order-by-mail banner, registration reminder, floppy disk icon, and nostalgic DOS-era game presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/709.png",
+        "alt": "Image 709",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-046-demo-kiosk-store-screen",
+    "title": "Demo Kiosk Store Screen",
+    "subtitle": "Écran borne démo magasin",
+    "prompt": "Reimagine this image as a store demo kiosk game screen. Add timed demo countdown, controller instructions, retail display reflections, looping attract banner, locked menu options, loud promotional graphics, and showroom console energy.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/710.png",
+        "alt": "Image 710",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-047-achievement-hunter-dashboard",
+    "title": "Achievement Hunter Dashboard",
+    "subtitle": "Tableau chasse aux succès",
+    "prompt": "Turn this image into an achievement-hunter dashboard. Show rare achievement tiles, completion roadmap, hidden trophy silhouettes, estimated time remaining, collectible counters, platinum-style badge area, and obsessive 100% completion UI.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/711.png",
+        "alt": "Image 711",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-048-video-game-museum-plaque",
+    "title": "Video Game Museum Plaque",
+    "subtitle": "Plaque musée du jeu vidéo",
+    "prompt": "Transform the subject into a preserved artifact in a video game museum exhibit. Add glass display reflections, console history plaque, controller diagrams, archival screenshots, year labels, soft museum lighting, and respectful retro-gaming presentation.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/712.png",
+        "alt": "Image 712",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-049-save-room-item-box",
+    "title": "Save Room Item Box",
+    "subtitle": "Coffre d’objets salle de sauvegarde",
+    "prompt": "Reimagine this image as a survival-horror save-room item box screen. Show storage grid, limited item slots, key items, healing supplies, typewriter-like save option, dim safe-room lighting, and tense inventory-management atmosphere.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/713.png",
+        "alt": "Image 713",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-050-horror-camera-viewfinder",
+    "title": "Horror Camera Viewfinder",
+    "subtitle": "Viseur caméra jeu d’horreur",
+    "prompt": "Turn the image into a horror game camera viewfinder. Add focus brackets, film counter, spectral indicator, low-light grain, battery meter, objective hint, subtle lens distortion, and eerie ghost-hunting game atmosphere without graphic content.",
+    "category": "Jeu vidéo",
+    "images": [
+      {
+        "src": "images/714.png",
+        "alt": "Image 714",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-051-fake-retro-game-commercial-still",
+    "title": "Fake Retro Game Commercial Still",
+    "subtitle": "Publicité rétro de jeu vidéo",
+    "prompt": "Transform this image into a still frame from a 1990s video game TV commercial. Use excited kid-bedroom staging, CRT gameplay glow, bold price text, fast-cut energy, VHS texture, product box close-up, and loud nostalgic marketing style.",
+    "category": "Nostalgie / Rétro / Archives",
+    "images": [
+      {
+        "src": "images/715.png",
+        "alt": "Image 715",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-052-game-magazine-review-spread",
+    "title": "Game Magazine Review Spread",
+    "subtitle": "Double-page critique magazine jeu",
+    "prompt": "Reimagine the subject as a double-page video game magazine review spread. Add score box, pros and cons, screenshot captions, pull quotes, sidebar tips, glossy paper texture, and late-1990s gaming press layout.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/716.png",
+        "alt": "Image 716",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-053-game-store-midnight-launch",
+    "title": "Game Store Midnight Launch",
+    "subtitle": "Lancement minuit boutique jeu",
+    "prompt": "Turn this image into a game store midnight launch poster. Show lineup silhouettes, preorder pickup counter, release countdown, promotional standees, fluorescent retail lighting, excited fan energy, and modern gaming launch-event design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/717.png",
+        "alt": "Image 717",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-054-arcade-prize-ticket-coupon",
+    "title": "Arcade Prize Ticket Coupon",
+    "subtitle": "Coupon tickets arcade",
+    "prompt": "Transform the subject into artwork on an arcade prize ticket coupon. Use perforated paper strips, redemption value, tiny mascot graphics, bold numbering, cheap ink texture, and colorful family entertainment center branding.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/718.png",
+        "alt": "Image 718",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-055-gaming-energy-drink-ad",
+    "title": "Gaming Energy Drink Ad",
+    "subtitle": "Publicité boisson gamer",
+    "prompt": "Reimagine the subject as a gaming energy drink advertisement. Use neon liquid splash, controller icons, flavor badge, performance-stat typography, cold condensation, dramatic product lighting, and exaggerated esports marketing energy.",
+    "category": "Packaging / Produits fictifs",
+    "images": [
+      {
+        "src": "images/719.png",
+        "alt": "Image 719",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-056-collector-edition-unboxing",
+    "title": "Collector Edition Unboxing",
+    "subtitle": "Déballage édition collector",
+    "prompt": "Turn this image into a collector edition video game unboxing layout. Show premium box, artbook, steelbook, soundtrack card, statue compartment, numbered certificate, foam inserts, and realistic tabletop product photography.",
+    "category": "Packaging / Produits fictifs",
+    "images": [
+      {
+        "src": "images/720.png",
+        "alt": "Image 720",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-057-retro-cartridge-cleaning-kit",
+    "title": "Retro Cartridge Cleaning Kit",
+    "subtitle": "Kit nettoyage cartouches rétro",
+    "prompt": "Transform the subject into a retro cartridge cleaning kit product photo. Include cotton swabs, cleaning solution bottle, old plastic case, instruction leaflet, worn console cartridge, macro dust detail, and nostalgic repair-bench lighting.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/721.png",
+        "alt": "Image 721",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-058-miniature-arcade-cabinet-model-kit",
+    "title": "Miniature Arcade Cabinet Model Kit",
+    "subtitle": "Maquette borne arcade miniature",
+    "prompt": "Reimagine the subject as a miniature arcade cabinet model kit. Show unassembled plastic parts, tiny decals, instruction sheet, joystick buttons, side art stickers, sprues, hobby tools, and realistic model-kit product photography.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/722.png",
+        "alt": "Image 722",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-059-game-dev-whiteboard-plan",
+    "title": "Game Dev Whiteboard Plan",
+    "subtitle": "Plan tableau blanc développeur jeu",
+    "prompt": "Turn this image into a game developer whiteboard planning scene. Add level flow diagrams, sticky notes, bug counts, UI sketches, milestone dates, controller doodles, coffee stains, and authentic indie studio brainstorming energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/723.png",
+        "alt": "Image 723",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "ww-vg-2026-060-lost-level-archive-screen",
+    "title": "Lost Level Archive Screen",
+    "subtitle": "Archive niveau perdu",
+    "prompt": "Transform this image into an archive screen for a lost video game level. Use restored build labels, corrupted thumbnails, developer notes, missing texture warnings, date stamps, preservation metadata, and mysterious game-history atmosphere.",
+    "category": "Nostalgie / Rétro / Archives",
+    "images": [
+      {
+        "src": "images/724.png",
+        "alt": "Image 724",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
