@@ -10880,5 +10880,672 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  
+  {
+    "id": "lowcat-2026-007-playoff-ticket-stub",
+    "title": "Playoff Ticket Stub",
+    "subtitle": "Billet de séries éliminatoires",
+    "prompt": "Transform the subject into a collectible playoff ticket stub. Use perforated edges, seat and section numbers, team-color accents, foil security marks, arena branding space, small legal text, and a premium sports memorabilia feel.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/731.png",
+        "alt": "Image 731",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-008-championship-parade-newspaper",
+    "title": "Championship Parade Newspaper",
+    "subtitle": "Journal de parade de championnat",
+    "prompt": "Reimagine the image as a front page celebrating a championship parade. Use bold sports newspaper typography, confetti photos, crowd scenes, victory headline space, halftone print texture, and triumphant citywide energy.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/732.png",
+        "alt": "Image 732",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-009-stadium-concession-menu",
+    "title": "Stadium Concession Menu",
+    "subtitle": "Menu de casse-croûte de stade",
+    "prompt": "Turn the subject into a stadium concession stand menu design. Include illustrated combo meals, price boards, sponsor logos, plastic backlit signage, condiment counter details, crowd blur, and bright arena concourse lighting.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/733.png",
+        "alt": "Image 733",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-010-rookie-trading-card-insert",
+    "title": "Rookie Trading Card Insert",
+    "subtitle": "Carte recrue de collection",
+    "prompt": "Reimagine the subject as a premium rookie trading card insert. Use holographic foil, stat boxes, signature area, rarity badge, glossy card reflections, team-color graphic bursts, and centered collectible card photography.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/734.png",
+        "alt": "Image 734",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-011-local-tournament-bracket-poster",
+    "title": "Local Tournament Bracket Poster",
+    "subtitle": "Affiche de tournoi local",
+    "prompt": "Transform the image into a local tournament bracket poster. Show matchup boxes, handwritten scores, sponsor strips, gymnasium wall texture, taped corners, bold event title, and community sports-night atmosphere.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/735.png",
+        "alt": "Image 735",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-012-mascot-costume-sideline-photo",
+    "title": "Mascot Costume Sideline Photo",
+    "subtitle": "Mascotte sur le bord du terrain",
+    "prompt": "Reimagine the subject as a sports mascot costume captured on the sideline. Use oversized plush proportions, team-color fabric, stadium lights, cheering crowd blur, foam fingers, event signage, and energetic game-day photography.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/736.png",
+        "alt": "Image 736",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-013-luxury-skincare-shelf-display",
+    "title": "Luxury Skincare Shelf Display",
+    "subtitle": "Présentoir de soins de luxe",
+    "prompt": "Transform the subject into a luxury skincare shelf display. Use frosted glass jars, embossed labels, cream textures, marble counter, soft bathroom-spa lighting, botanical accents, and premium beauty product photography.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/737.png",
+        "alt": "Image 737",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-014-couture-runway-lookbook",
+    "title": "Couture Runway Lookbook",
+    "subtitle": "Lookbook de défilé couture",
+    "prompt": "Reimagine the image as a couture runway lookbook page. Use full-page editorial layout, fabric swatches, designer notes, runway lighting, elegant serif typography, backstage details, and polished fashion-magazine composition.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/738.png",
+        "alt": "Image 738",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-015-jewelry-auction-catalogue",
+    "title": "Jewelry Auction Catalogue",
+    "subtitle": "Catalogue d’enchères bijoux",
+    "prompt": "Turn the subject into a jewelry auction catalogue plate. Include velvet background, lot number, estimated value box, macro gemstone reflections, archival catalog typography, tiny condition notes, and refined gallery lighting.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/739.png",
+        "alt": "Image 739",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-016-premium-leather-goods-campaign",
+    "title": "Premium Leather Goods Campaign",
+    "subtitle": "Campagne maroquinerie premium",
+    "prompt": "Transform the subject into a premium leather goods campaign. Use stitched leather textures, polished buckles, embossed monogram area, warm boutique lighting, handcrafted details, and elegant product-ad framing.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/740.png",
+        "alt": "Image 740",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-017-luxury-spa-treatment-menu",
+    "title": "Luxury Spa Treatment Menu",
+    "subtitle": "Menu de spa haut de gamme",
+    "prompt": "Reimagine the image as a luxury spa treatment menu. Use soft linen texture, botanical illustrations, gold accent lines, calm pricing layout, candlelit atmosphere, folded brochure design, and serene wellness branding.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/741.png",
+        "alt": "Image 741",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-018-designer-sunglasses-display",
+    "title": "Designer Sunglasses Display",
+    "subtitle": "Présentoir lunettes designer",
+    "prompt": "Transform the subject into a designer sunglasses display. Use glossy acrylic stands, tinted lenses, metallic hinges, boutique reflections, minimal luxury signage, velvet tray details, and crisp high-end product lighting.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/742.png",
+        "alt": "Image 742",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-019-behind-the-scenes-slate-shot",
+    "title": "Behind-the-Scenes Slate Shot",
+    "subtitle": "Photo de plateau avec clap",
+    "prompt": "Reimagine the image as a behind-the-scenes movie set photograph. Include a clapperboard, light stands, taped floor marks, crew shadows, production notes, practical lighting, and candid cinematic realism.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/743.png",
+        "alt": "Image 743",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-020-1970s-documentary-still",
+    "title": "1970s Documentary Still",
+    "subtitle": "Image documentaire années 70",
+    "prompt": "Transform the subject into a 1970s documentary still. Use grainy 16mm film texture, muted natural colors, imperfect focus, handheld framing, available light, archival realism, and quiet observational mood.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/744.png",
+        "alt": "Image 744",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-021-magazine-contact-sheet",
+    "title": "Magazine Contact Sheet",
+    "subtitle": "Planche-contact de magazine",
+    "prompt": "Turn the image into a professional photography contact sheet. Show multiple small frames, grease-pencil marks, selected shot circles, film borders, exposure notes, studio proofing table texture, and editorial archive style.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/745.png",
+        "alt": "Image 745",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-022-red-carpet-paparazzi-flash",
+    "title": "Red Carpet Paparazzi Flash",
+    "subtitle": "Flash paparazzi tapis rouge",
+    "prompt": "Reimagine the subject as a red-carpet paparazzi photo. Use harsh flash, step-and-repeat backdrop, camera glare, velvet rope, event badges, crowded background blur, and glossy celebrity-event photography.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/746.png",
+        "alt": "Image 746",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-023-silent-film-intertitle-scene",
+    "title": "Silent Film Intertitle Scene",
+    "subtitle": "Scène de film muet",
+    "prompt": "Transform the image into a silent-era film scene. Use black-and-white nitrate film grain, theatrical lighting, expressive staging, ornate intertitle card area, rounded frame corners, and early cinema atmosphere.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/747.png",
+        "alt": "Image 747",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-024-imax-lobby-poster-mockup",
+    "title": "IMAX Lobby Poster Mockup",
+    "subtitle": "Affiche de hall IMAX",
+    "prompt": "Reimagine the subject as a massive IMAX lobby poster mockup. Use oversized backlit display glass, cinematic tagline space, film-rating block, reflection on polished floor, dramatic key art, and theater-premiere lighting.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/748.png",
+        "alt": "Image 748",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-025-ancient-roman-mosaic",
+    "title": "Ancient Roman Mosaic",
+    "subtitle": "Mosaïque romaine antique",
+    "prompt": "Transform the subject into an ancient Roman floor mosaic. Use tiny stone tesserae, earthy pigments, cracked plaster edges, geometric borders, museum restoration lighting, and authentic archaeological texture.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/749.png",
+        "alt": "Image 749",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-026-victorian-cabinet-card-photo",
+    "title": "Victorian Cabinet Card Photo",
+    "subtitle": "Photo cabinet victorienne",
+    "prompt": "Reimagine the image as a Victorian cabinet card photograph. Use sepia albumen tones, ornate cardboard mount, studio backdrop, formal pose treatment, handwritten photographer mark, and aged paper patina.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/750.png",
+        "alt": "Image 750",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-027-renaissance-workshop-study",
+    "title": "Renaissance Workshop Study",
+    "subtitle": "Étude d’atelier Renaissance",
+    "prompt": "Turn the subject into a Renaissance workshop study. Use chalk and ink on toned paper, anatomical notes, draped fabric studies, candlelit studio atmosphere, marginal sketches, and old master draftsmanship.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/751.png",
+        "alt": "Image 751",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-028-viking-saga-wood-carving",
+    "title": "Viking Saga Wood Carving",
+    "subtitle": "Sculpture de saga viking",
+    "prompt": "Transform the image into a Viking saga wood carving. Use interlaced knotwork, carved runes, weathered oak grain, mythic border patterns, hand-tooled relief depth, and firelit longhouse ambiance.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/752.png",
+        "alt": "Image 752",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-029-1920s-rotogravure-newspaper",
+    "title": "1920s Rotogravure Newspaper",
+    "subtitle": "Journal rotogravure années 20",
+    "prompt": "Reimagine the subject as a 1920s rotogravure newspaper feature. Use soft halftone photography, Art Deco headline styling, column captions, aged broadsheet paper, and early mass-media elegance.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/753.png",
+        "alt": "Image 753",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-030-cold-war-instruction-manual",
+    "title": "Cold War Instruction Manual",
+    "subtitle": "Manuel d’instruction guerre froide",
+    "prompt": "Transform the subject into a Cold War-era instruction manual illustration. Use limited ink colors, numbered diagrams, utilitarian arrows, government binder texture, stamped warnings, and dry technical documentation style.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/754.png",
+        "alt": "Image 754",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-031-cryogenic-pod-scan",
+    "title": "Cryogenic Pod Scan",
+    "subtitle": "Scan de capsule cryogénique",
+    "prompt": "Reimagine the subject inside a cryogenic pod diagnostic scan. Use frosted glass, biometric overlays, condensation, cold blue lighting, medical sci-fi panels, warning indicators, and sterile spaceship-lab realism.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/755.png",
+        "alt": "Image 755",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-032-space-colony-recruitment-poster",
+    "title": "Space Colony Recruitment Poster",
+    "subtitle": "Affiche recrutement colonie spatiale",
+    "prompt": "Transform the image into a space colony recruitment poster. Use optimistic retro-futurist design, domed habitats, orbital sunrise, bold slogan area, mission badge, clean vector shapes, and utopian science-fiction tone.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/756.png",
+        "alt": "Image 756",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-033-alien-translation-tablet",
+    "title": "Alien Translation Tablet",
+    "subtitle": "Tablette de traduction extraterrestre",
+    "prompt": "Reimagine the subject as data displayed on an alien translation tablet. Use glowing glyphs, translucent crystal interface, organic circuitry, unknown language columns, archaeological sci-fi lighting, and mysterious first-contact atmosphere.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/757.png",
+        "alt": "Image 757",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-034-robotics-lab-diagnostic",
+    "title": "Robotics Lab Diagnostic",
+    "subtitle": "Diagnostic de laboratoire robotique",
+    "prompt": "Transform the subject into a robotics lab diagnostic presentation. Include exploded mechanical views, actuator labels, calibration graphs, robotic arm shadows, workbench tools, and precise high-tech engineering lighting.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/758.png",
+        "alt": "Image 758",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-035-terraforming-control-map",
+    "title": "Terraforming Control Map",
+    "subtitle": "Carte de terraformation",
+    "prompt": "Turn the image into a terraforming control map. Show climate zones, oxygen levels, terrain overlays, satellite scan grids, colony markers, hazard warnings, and clean planetary operations interface design.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/759.png",
+        "alt": "Image 759",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-036-quantum-archive-retrieval",
+    "title": "Quantum Archive Retrieval",
+    "subtitle": "Récupération d’archive quantique",
+    "prompt": "Reimagine the subject as a quantum archive retrieval screen. Use floating data fragments, probability trails, holographic file shards, temporal timestamps, dark research-lab UI, and elegant speculative technology visuals.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/760.png",
+        "alt": "Image 760",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-037-sunday-newspaper-comic-strip",
+    "title": "Sunday Newspaper Comic Strip",
+    "subtitle": "Comic strip du dimanche",
+    "prompt": "Transform the image into a colorful Sunday newspaper comic strip. Use four-panel pacing, hand-lettered captions, simple expressive characters, printed dot texture, warm family-comic humor, and slightly yellowed newspaper paper.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/761.png",
+        "alt": "Image 761",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-038-franco-belgian-adventure-page",
+    "title": "Franco-Belgian Adventure Page",
+    "subtitle": "Page d’aventure franco-belge",
+    "prompt": "Reimagine the subject as a Franco-Belgian adventure comic page. Use clean ligne claire outlines, detailed backgrounds, crisp flat colors, rectangular panels, expressive poses, and a polished album-style layout.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/762.png",
+        "alt": "Image 762",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-039-underground-zine-comic",
+    "title": "Underground Zine Comic",
+    "subtitle": "BD fanzine underground",
+    "prompt": "Turn the image into an underground zine comic page. Use rough photocopied ink, chaotic panel borders, hand-scrawled captions, punk collage elements, imperfect registration, and raw DIY comic energy.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/763.png",
+        "alt": "Image 763",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-040-animated-series-title-card",
+    "title": "Animated Series Title Card",
+    "subtitle": "Carton-titre de série animée",
+    "prompt": "Transform the subject into a title card for a fictional animated series. Use bold logo space, stylized character posing, painted background, episode title area, production-card layout, and broadcast-ready cartoon presentation.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/764.png",
+        "alt": "Image 764",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-041-character-turnaround-sheet",
+    "title": "Character Turnaround Sheet",
+    "subtitle": "Planche modèle personnage",
+    "prompt": "Reimagine the subject as an animation character turnaround sheet. Show front, side, back, and three-quarter views, expression thumbnails, color swatches, proportion guides, clean production notes, and studio model-sheet design.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/765.png",
+        "alt": "Image 765",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-042-manga-tankobon-cover",
+    "title": "Manga Tankobon Cover",
+    "subtitle": "Couverture manga reliée",
+    "prompt": "Transform the image into a manga tankobon cover. Use dramatic black-and-white linework, screen tones, vertical title area, volume number badge, dust-jacket texture, author credit space, and sharp bookstore-ready composition.",
+    "category": "Animation / BD",
+    "images": [
+      {
+        "src": "images/766.png",
+        "alt": "Image 766",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-043-matchbox-pocket-diorama",
+    "title": "Matchbox Pocket Diorama",
+    "subtitle": "Diorama de poche dans une boîte d’allumettes",
+    "prompt": "Transform the subject into a tiny diorama built inside an open matchbox. Use miniature paper scenery, visible cardboard fibers, tiny props, tweezers-scale details, shallow depth of field, and charming handmade realism.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/767.png",
+        "alt": "Image 767",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-044-museum-scale-model",
+    "title": "Museum Scale Model",
+    "subtitle": "Maquette de musée",
+    "prompt": "Reimagine the image as a museum-grade scale model. Use tiny labeled figures, acrylic protective case, architectural base, plaque text area, realistic miniature materials, and soft exhibit lighting.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/768.png",
+        "alt": "Image 768",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-045-ant-farm-micro-city",
+    "title": "Ant Farm Micro City",
+    "subtitle": "Micro-ville en fourmilière",
+    "prompt": "Turn the subject into a micro city inside an ant farm. Use glass walls, tunneled layers, tiny rooms, miniature lights, soil textures, exaggerated scale contrast, and detailed cutaway diorama composition.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/769.png",
+        "alt": "Image 769",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-046-desktop-terrarium-world",
+    "title": "Desktop Terrarium World",
+    "subtitle": "Monde miniature en terrarium",
+    "prompt": "Transform the image into a miniature world inside a desktop terrarium. Use moss, tiny paths, glass reflections, condensation droplets, small figurines, warm desk-lamp lighting, and cozy micro-environment realism.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/770.png",
+        "alt": "Image 770",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-047-model-train-scenic-layout",
+    "title": "Model Train Scenic Layout",
+    "subtitle": "Décor de train miniature",
+    "prompt": "Reimagine the subject as part of a model train scenic layout. Include tiny tracks, painted hills, scale trees, miniature buildings, ballast gravel, hobby-table edges, and realistic railway diorama photography.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/771.png",
+        "alt": "Image 771",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "lowcat-2026-048-dollhouse-room-scene",
+    "title": "Dollhouse Room Scene",
+    "subtitle": "Scène de maison de poupée",
+    "prompt": "Transform the subject into a dollhouse room scene. Use tiny furniture, wallpaper patterns, miniature lamps, fabric textures, open-wall perspective, handmade scale details, and warm domestic display lighting.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/772.png",
+        "alt": "Image 772",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Championship Ring Presentation",
+    "subtitle": "Présentation de bague de championnat",
+    "prompt": "Transform the subject into a championship ring presentation ceremony. Use velvet ring box, commemorative plaque, arena spotlights, engraved details, championship banners, premium sports photography, and prestigious award atmosphere.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/773.png",
+        "alt": "Image 773",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Stadium Hall of Fame Plaque",
+    "subtitle": "Plaque du temple de la renommée",
+    "prompt": "Reimagine the subject as a stadium hall of fame plaque. Use engraved metal, commemorative statistics, stadium architecture, spotlight illumination, historical photos, and prestigious sports heritage presentation.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/774.png",
+        "alt": "Image 774",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Luxury Travel Trunk Collection",
+    "subtitle": "Collection de malles de voyage de luxe",
+    "prompt": "Transform the subject into a luxury travel trunk collection display. Use premium leather, brass hardware, monogram details, boutique showroom lighting, travel accessories, and high-end heritage craftsmanship.",
+    "category": "Mode / Beauté / Luxe",
+    "images": [
+      {
+        "src": "images/775.png",
+        "alt": "Image 775",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Interplanetary Customs Checkpoint",
+    "subtitle": "Poste de douane interplanétaire",
+    "prompt": "Transform the subject into an interplanetary customs checkpoint. Use alien passports, holographic scanners, futuristic security gates, multilingual galactic signage, advanced technology, and realistic science-fiction worldbuilding.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/776.png",
+        "alt": "Image 776",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Miniature Theme Park Model",
+    "subtitle": "Maquette de parc d’attractions miniature",
+    "prompt": "Reimagine the subject as part of a detailed miniature theme park model. Include tiny visitors, scale rides, realistic landscaping, model-railroad craftsmanship, tilt-shift photography, and colorful amusement park atmosphere.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/777.png",
+        "alt": "Image 777",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "title": "Renaissance Workshop Illustration",
+    "subtitle": "Atelier de la Renaissance",
+    "prompt": "Transform the subject into a Renaissance workshop illustration. Use period tools, parchment sketches, natural window lighting, artisan craftsmanship, historical clothing, and detailed European Renaissance aesthetics.",
+    "category": "Histoire / Époques / Civilisations",
+    "images": [
+      {
+        "src": "images/778.png",
+        "alt": "Image 778",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
