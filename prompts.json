@@ -11553,7 +11553,13 @@
     "subtitle": "Style Halo",
     "prompt": "Turn this photo into a Halo-inspired sci-fi shooter game style. Use futuristic military armor, clean hard-surface plating, glowing blue interface elements, alien megastructure architecture, ringworld horizon, dramatic battlefield lighting, and polished cinematic Xbox-era science-fiction presentation. Preserve the original subject identity while adapting clothing and surroundings into a heroic space-combat aesthetic.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/779.png",
+        "alt": "Image 779",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-002-assassins-creed",
@@ -11561,7 +11567,13 @@
     "subtitle": "Style Assassin's Creed",
     "prompt": "Turn this photo into an Assassin’s Creed-inspired historical stealth adventure scene. Add a hooded robe silhouette, ornate period architecture, rooftop parkour composition, hidden-blade style wrist gear, warm sunset haze, detailed fabric textures, and cinematic open-world exploration energy. Preserve the subject’s face and pose while transforming the environment into a dramatic historical city.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/780.png",
+        "alt": "Image 780",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-003-mario",
@@ -11569,7 +11581,13 @@
     "subtitle": "Style Mario",
     "prompt": "Turn this photo into a colorful Mario-inspired platform game scene. Use rounded cartoon proportions, bright saturated colors, floating blocks, coins, pipes, cheerful hills, playful clouds, clean toy-like lighting, and family-friendly adventure energy. Keep the subject recognizable while adapting them into a joyful platformer character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/781.png",
+        "alt": "Image 781",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-004-minecraft",
@@ -11577,7 +11595,13 @@
     "subtitle": "Style Minecraft",
     "prompt": "Turn this photo into a Minecraft-inspired voxel game world. Convert the subject into a blocky cubic character with simple pixel-textured surfaces, square proportions, voxel terrain, crafting-table details, torches, grassy blocks, and a bright sandbox survival atmosphere. Keep the main identity readable through simplified blocky features.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/782.png",
+        "alt": "Image 782",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-005-sonic",
@@ -11585,7 +11609,13 @@
     "subtitle": "Style Sonic",
     "prompt": "Turn this photo into a Sonic-inspired high-speed platform game scene. Use bold cartoon character proportions, loop-de-loop terrain, golden rings, motion streaks, checkerboard cliffs, blue sky, palm trees, and energetic arcade-like speed effects. Preserve the subject’s recognizable traits while giving the image a fast, colorful mascot-platformer style.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/783.png",
+        "alt": "Image 783",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-006-final-fantasy",
@@ -11593,7 +11623,13 @@
     "subtitle": "Style Final Fantasy",
     "prompt": "Turn this photo into a Final Fantasy-inspired cinematic RPG scene. Use elegant fantasy clothing, oversized heroic weapon silhouettes, magical particles, dramatic sky lighting, ornate armor details, crystal motifs, sweeping landscapes, and emotional JRPG key-art composition. Preserve the subject’s likeness while making the image feel like a premium fantasy role-playing game poster.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/784.png",
+        "alt": "Image 784",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-007-metal-gear-solid",
@@ -11601,7 +11637,13 @@
     "subtitle": "Style Metal Gear Solid",
     "prompt": "Turn this photo into a Metal Gear Solid-inspired tactical espionage game scene. Use stealth-suit details, military base corridors, codec-style interface overlays, dramatic shadows, sneaking posture, surveillance cameras, muted green-gray tones, and cinematic spy-thriller tension. Keep the subject recognizable while adapting them into a tactical infiltration character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/785.png",
+        "alt": "Image 785",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-008-tomb-raider",
@@ -11609,7 +11651,13 @@
     "subtitle": "Style Tomb Raider",
     "prompt": "Turn this photo into a Tomb Raider-inspired adventure game scene. Add rugged explorer clothing, climbing gear, ancient ruins, jungle overgrowth, torchlight, stone carvings, dust particles, and cinematic treasure-hunting atmosphere. Preserve the subject’s identity while making them look like a capable action-adventure explorer.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/786.png",
+        "alt": "Image 786",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-009-god-of-war",
@@ -11617,7 +11665,13 @@
     "subtitle": "Style God of War",
     "prompt": "Turn this photo into a God of War-inspired mythological action game scene. Use epic Norse or ancient mythic scenery, heavy armor, engraved weapons, snow or ash particles, towering statues, dramatic low-angle framing, intense lighting, and cinematic boss-battle scale. Preserve the subject’s likeness while giving them a powerful mythic warrior presence.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/787.png",
+        "alt": "Image 787",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-010-doom",
@@ -11625,7 +11679,13 @@
     "subtitle": "Style DOOM",
     "prompt": "Turn this photo into a DOOM-inspired fast-paced sci-fi action game scene. Use bulky futuristic armor, red hellish lighting, industrial metal corridors, glowing hazard panels, smoke, sparks, heavy combat atmosphere, and aggressive first-person shooter energy. Keep the subject recognizable while transforming them into an intense armored action hero.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/788.png",
+        "alt": "Image 788",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-011-red-dead-redemption",
@@ -11633,7 +11693,13 @@
     "subtitle": "Style Red Dead Redemption",
     "prompt": "Turn this photo into a Red Dead Redemption-inspired western open-world game scene. Use dusty frontier lighting, worn leather clothing, cowboy hat, rugged landscapes, saloon or prairie background, cinematic sunset, film-grain texture, and grounded outlaw-drama atmosphere. Preserve the subject’s face while adapting the image into a realistic western game poster.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/789.png",
+        "alt": "Image 789",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-012-street-fighter",
@@ -11641,7 +11707,13 @@
     "subtitle": "Style Street Fighter",
     "prompt": "Turn this photo into a Street Fighter-inspired arcade fighting game character portrait. Use exaggerated athletic pose, bold cel-shaded muscles and clothing folds, dynamic impact effects, stage background, health-bar UI accents, intense expression, and colorful tournament-poster energy. Keep the subject recognizable while presenting them as a selectable fighting-game character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/790.png",
+        "alt": "Image 790",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-013-mortal-kombat",
@@ -11649,7 +11721,13 @@
     "subtitle": "Style Mortal Kombat",
     "prompt": "Turn this photo into a Mortal Kombat-inspired dark fantasy fighting game character portrait. Use dramatic arena lighting, ornate combat outfit, smoky background, glowing emblem-like effects, intense stance, cinematic realism, and tournament select-screen presentation. Preserve the subject’s recognizable features without adding graphic gore.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/791.png",
+        "alt": "Image 791",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-014-overwatch",
@@ -11657,7 +11735,13 @@
     "subtitle": "Style Overwatch",
     "prompt": "Turn this photo into an Overwatch-inspired hero shooter character reveal. Use vibrant stylized 3D proportions, futuristic costume design, clean armor panels, glowing ability effects, heroic pose, bright optimistic lighting, and polished character-select screen presentation. Preserve the subject’s likeness while giving them a unique hero role and readable silhouette.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/792.png",
+        "alt": "Image 792",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-015-league-of-legends",
@@ -11665,7 +11749,13 @@
     "subtitle": "Style League of Legends",
     "prompt": "Turn this photo into a League of Legends-inspired champion splash-art scene. Use dramatic fantasy lighting, ornate armor or robes, magical energy, exaggerated heroic pose, painterly cinematic rendering, epic battlefield backdrop, and high-impact MOBA character-poster composition. Preserve the subject’s identity while presenting them as a legendary champion.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/793.png",
+        "alt": "Image 793",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-016-elden-ring",
@@ -11673,7 +11763,13 @@
     "subtitle": "Style Elden Ring",
     "prompt": "Turn this photo into an Elden Ring-inspired dark fantasy RPG scene. Use tarnished medieval armor, golden ruined landscape, enormous distant tree glow, crumbling castles, mist, somber lighting, and lonely epic adventure atmosphere. Preserve the subject’s likeness while transforming them into a wandering fantasy warrior or mage.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/794.png",
+        "alt": "Image 794",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-017-cyberpunk-2077",
@@ -11681,7 +11777,13 @@
     "subtitle": "Style Cyberpunk 2077",
     "prompt": "Turn this photo into a Cyberpunk 2077-inspired open-world RPG scene. Use neon city streets, cybernetic clothing details, holographic ads, rain reflections, saturated yellow and magenta lighting, gritty futuristic fashion, and cinematic dystopian nightlife. Preserve the subject’s recognizable features while adapting them into a stylish urban cyberpunk character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/795.png",
+        "alt": "Image 795",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-018-uncharted",
@@ -11689,7 +11791,13 @@
     "subtitle": "Style Uncharted",
     "prompt": "Turn this photo into an Uncharted-inspired cinematic treasure-hunting game scene. Use sunlit ruins, rugged explorer outfit, ancient maps, climbing ropes, dust, warm adventure lighting, dramatic cliffside composition, and realistic action-adventure poster style. Preserve the subject’s face while giving the scene a blockbuster expedition feel.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/796.png",
+        "alt": "Image 796",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-019-kirby",
@@ -11697,7 +11805,13 @@
     "subtitle": "Style Kirby",
     "prompt": "Turn this photo into a Kirby-inspired cute fantasy platform game scene. Use soft rounded shapes, pastel dreamlike colors, floating stars, fluffy clouds, whimsical hills, gentle toy-like lighting, and cheerful magical atmosphere. Keep the subject recognizable while simplifying them into a charming, friendly platformer character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/797.png",
+        "alt": "Image 797",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-020-metroid",
@@ -11705,7 +11819,13 @@
     "subtitle": "Style Metroid",
     "prompt": "Turn this photo into a Metroid-inspired atmospheric sci-fi exploration game scene. Use sleek power-armor shapes, alien caverns, glowing biomechanical doors, scanner UI elements, lonely exploration mood, cool dramatic lighting, and side-scrolling action-adventure composition. Preserve the subject’s identity while adapting them into a mysterious space explorer.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/798.png",
+        "alt": "Image 798",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-021-diablo",
@@ -11713,7 +11833,13 @@
     "subtitle": "Style Diablo",
     "prompt": "Turn this photo into a Diablo-inspired dark fantasy action RPG scene. Use gothic armor, candlelit catacombs, crimson magical glow, ancient stone arches, loot-like item accents, ominous atmosphere, and high-detail isometric fantasy darkness. Preserve the subject’s likeness while presenting them as a heroic adventurer in a grim dungeon world.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/799.png",
+        "alt": "Image 799",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-022-the-last-of-us",
@@ -11721,7 +11847,13 @@
     "subtitle": "Style The Last of Us",
     "prompt": "Turn this photo into a The Last of Us-inspired cinematic survival drama scene. Use overgrown urban ruins, natural window light, weathered clothing, backpack details, dust, emotional realism, muted colors, and grounded post-apocalyptic storytelling atmosphere. Preserve the subject’s identity while making the image feel like a realistic narrative survival game still.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/800.png",
+        "alt": "Image 800",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-023-animal-crossing",
@@ -11729,7 +11861,13 @@
     "subtitle": "Style Animal Crossing",
     "prompt": "Turn this photo into an Animal Crossing-inspired cozy life-sim scene. Use rounded chibi proportions, soft pastel colors, cute village houses, trees, flowers, friendly expressions, simple furniture, and peaceful handheld-game charm. Keep the subject recognizable while adapting them into a warm, wholesome villager-style character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/801.png",
+        "alt": "Image 801",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-024-splatoon",
@@ -11737,7 +11875,13 @@
     "subtitle": "Style Splatoon",
     "prompt": "Turn this photo into a Splatoon-inspired colorful ink-battle game scene. Use urban streetwear, glossy paint splashes, neon signage, squid-like graphic motifs, bold youth-culture energy, dynamic action pose, and vibrant Nintendo-style multiplayer arena presentation. Preserve the subject’s likeness while making the scene feel energetic and paint-soaked.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/802.png",
+        "alt": "Image 802",
+        "label": "ChatGPT 2026"
+      }
+    ]
   },
   {
     "id": "new-vgp-025-mega-man",
@@ -11745,6 +11889,12 @@
     "subtitle": "Style Mega Man",
     "prompt": "Turn this photo into a Mega Man-inspired retro-futuristic action platformer scene. Use bright robot-hero armor, clean anime-like linework, sci-fi stage tiles, energy blaster effects, boss-door framing, bold colors, and classic action-platformer composition. Preserve the subject’s identity while turning them into a heroic robot master-style character.",
     "category": "Jeu Vidéo (Jeu Précis)",
-    "images": []
+    "images": [
+      {
+        "src": "images/803.png",
+        "alt": "Image 803",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
