@@ -208,7 +208,7 @@
     "title": "Retro Pixel Game",
     "subtitle": "Jeu rétro pixelisé",
     "prompt": "Redo this image into an authentic low-resolution pixel art in the style of a retro 8-bit or 16-bit video game. Use a clean blocky pixel style with no pixel borders, outlines, or smoothing filters. Apply a limited color palette with visible dithering and sharp contrast. Mimic the aesthetic of classic NES or SNES games, with crisp, sprite-like rendering. Restyle everything in a pixelated, vintage video game format. Include minimal retro UI elements like score, hearts, or coins in the top corners.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/10.png",
@@ -532,7 +532,7 @@
     "title": "Glitch Art",
     "subtitle": "Art glitché",
     "prompt": "Redo this image in the Glitch art style, digital corruption effects, RGB splits, pixelation, compression artifacts, broken visuals, surreal electronic interference.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/26.png",
@@ -1027,7 +1027,7 @@
     "title": "Fortnite",
     "subtitle": "Style Fortnite",
     "prompt": "Turn this photo into fortnite game style. Fortnite is known for its vibrant, cartoonish art style with bright colors and exaggerated proportions. The game uses a cell-shaded look that makes everything appear clean and colorful, perfect for its fun, competitive atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/51.png",
@@ -1046,7 +1046,7 @@
     "title": "GTA",
     "subtitle": "Style GTA",
     "prompt": "Turn this photo into GTA game style. The art style captures urban grit with detailed textures and dramatic lighting that gives everything a cinematic feel.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/52.png",
@@ -1122,7 +1122,7 @@
     "title": "Call of Duty",
     "subtitle": "Style Call of Duty",
     "prompt": "Turn this photo into Call of Duty game style. Call of Duty games focus on realistic military aesthetics with high-contrast lighting and detailed weapon models. The art style emphasizes authenticity and intensity through realistic textures and dramatic visual effects.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/56.png",
@@ -1141,7 +1141,7 @@
     "title": "Pokemon",
     "subtitle": "Style Pokémon",
     "prompt": "Turn this photo into Pokemon game style. Pokemon games use bright, anime-inspired graphics with rounded shapes and friendly character designs. The art style emphasizes adventure and discovery through colorful environments and cute creature designs.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/57.png",
@@ -1160,7 +1160,7 @@
     "title": "Roblox",
     "subtitle": "Style Roblox",
     "prompt": "Turn this photo into Roblox game style. Roblox has a distinctive blocky, LEGO-like aesthetic with simple shapes and bright colors. The platform’s art style is designed to be easily customizable while maintaining a consistent, family-friendly appearance.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/58.png",
@@ -1179,7 +1179,7 @@
     "title": "Zelda",
     "subtitle": "Style Zelda",
     "prompt": "Turn this photo into The Legend of Zelda game style. Zelda games use a stylized, anime-inspired art direction with cel-shading techniques. The style features bright colors, clean lines, and a timeless quality that balances realism with cartoon-like charm. Replace the items currently held by the characters so that each person is holding a Master Sword and a Hylian Shield instead of the original objects.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/59.png",
@@ -1365,7 +1365,7 @@
     "title": "Sims",
     "subtitle": "Style Les Sims",
     "prompt": "Create a playful Sims-style digital figurine from a clear photo, with outfit (casual, eccentric, or traditional), one symbolic element (green plumbob, mood bar, or absurd interaction), and a miniature setting (modern office, zen garden, or creative studio)",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/68.png",
@@ -1441,7 +1441,7 @@
     "title": "90s Video Game Character Trend",
     "subtitle": "Tendance jeu vidéo années 90",
     "prompt": "Grungy analog photo of [character name] playing [game title] on a PlayStation 1, displayed on a 90s CRT TV in a dimly lit bedroom. They’re sitting on the floor in front of the TV, holding a PlayStation 1 controller in one hand, with [signature item or accessory] beside them. The character is looking back at the camera mid-action while the game is visible in the background. Candid paparazzi flash photography, raw and unedited.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/B2.png",
@@ -1702,7 +1702,7 @@
     "title": "Modern High-Detail 16-Bit Pixel Art",
     "subtitle": "Pixel art 16 bits moderne et détaillé",
     "prompt": "Inspired by the subject(s) in the uploaded image, create the image of a single screen from a 2D side-scrolling pixel-art narrative game. Translate the themes, colors, or subjects of the image into the game’s universe. The scene should depict a climactic and victorious moment in a non-violent, positive, or humorous way. Use detailed retro 16-bit pixel art styling with crisp silhouettes and a cohesive color palette. The image must be vertical and show the full game screen. Add a classic HUD at the top with a funny and original game title inspired by the image. The image should feel like an in-progress gameplay moment, featuring a character, environment, and a clearly identifiable action or objective. All elements must fit within the game screen.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/N2.png",
@@ -1800,7 +1800,7 @@
     "title": "PS2 Cutscene",
     "subtitle": "Cinématique PS2",
     "prompt": "Turn this image into a PlayStation 2-era cutscene. Early 2000s low-poly models, blurry textures, dramatic pre-rendered lighting, nostalgic console graphics, cinematic action-game atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/75.png",
@@ -1814,7 +1814,7 @@
     "title": "Nintendo DS Portrait",
     "subtitle": "Portrait Nintendo DS",
     "prompt": "Transform this image into Nintendo DS-era character art. Soft cel shading, compressed handheld-console textures, colorful anime-inspired design, dual-screen game aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/76.png",
@@ -1828,7 +1828,7 @@
     "title": "GTA Loading Screen",
     "subtitle": "Écran de chargement GTA",
     "prompt": "Redo this image as a GTA-style loading screen illustration. Bold outlines, semi-realistic comic rendering, dramatic pose, saturated colors, iconic urban action aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/77.png",
@@ -1842,7 +1842,7 @@
     "title": "MMO Character Selection Screen",
     "subtitle": "Écran de sélection de personnage MMO",
     "prompt": "Transform this photo into an MMORPG character selection screen. Fantasy UI elements, glowing stats panels, dramatic idle pose, stylized environment background, game-ready presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/78.png",
@@ -2514,7 +2514,7 @@
     "title": "Resident Evil Inventory Screen",
     "subtitle": "Écran d’inventaire Resident Evil",
     "prompt": "Transform this image into a Resident Evil-style inventory menu. Dark survival horror UI, item slots, gritty textures, ominous atmosphere, realistic game interface design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/126.png",
@@ -2528,7 +2528,7 @@
     "title": "Dark Souls Boss Intro",
     "subtitle": "Intro de boss Dark Souls",
     "prompt": "Redo this image as a Dark Souls boss introduction cinematic. Massive scale, gothic ruins, dramatic fog, ancient armor, ominous fantasy atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/127.png",
@@ -3186,7 +3186,7 @@
     "title": "Fallout Wasteland",
     "subtitle": "Terre désolée Fallout",
     "prompt": "Redo this image in a Fallout-inspired retro-futuristic wasteland. Nuclear-age design, worn technology, dusty apocalypse atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/174.png",
@@ -3200,7 +3200,7 @@
     "title": "Bioshock Underwater Dystopia",
     "subtitle": "Dystopie sous-marine Bioshock",
     "prompt": "Transform this image into a Bioshock-inspired underwater dystopian scene. Art deco architecture, underwater decay, eerie vintage futurism.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/175.png",
@@ -3340,7 +3340,7 @@
     "title": "Persona 5 Splash Art",
     "subtitle": "Illustration splash Persona 5",
     "prompt": "Transform this image into a Persona 5-inspired splash artwork. Bold red-black-white palette, dynamic manga composition, stylish rebellious energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/185.png",
@@ -3354,7 +3354,7 @@
     "title": "Skyrim Loading Screen",
     "subtitle": "Écran de chargement Skyrim",
     "prompt": "Redo this image as a Skyrim loading screen model. Dark atmospheric lighting, floating black background, fantasy RPG presentation aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/186.png",
@@ -3382,7 +3382,7 @@
     "title": "Arcade Cabinet Art",
     "subtitle": "Illustration de borne d’arcade",
     "prompt": "Redo this image as side artwork on a retro arcade cabinet. Neon paint style, bold gaming illustration, 80s arcade aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/188.png",
@@ -3900,7 +3900,7 @@
     "title": "Fake Steam Game Page",
     "subtitle": "Fausse page de jeu Steam",
     "prompt": "Transform this image into a realistic Steam store page. Capsule art, review score, wishlist button, PC gaming storefront interface, believable indie game presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/225.png",
@@ -4208,7 +4208,7 @@
     "title": "PS1 Survival Horror Screenshot",
     "subtitle": "Capture d’écran d’horreur de survie PS1",
     "prompt": "Transform this image into a late-1990s PlayStation 1 survival horror gameplay screenshot. Use low-poly 3D character models, pre-rendered fixed-camera backgrounds, dark industrial or mansion-like surroundings, muddy compressed textures, jagged polygon edges, dramatic limited lighting, and a tense old-school horror atmosphere. Add a subtle retro HUD with health status and item slots, while making the image feel like an authentic paused moment from a 1998 console game.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/248.png",
@@ -4222,7 +4222,7 @@
     "title": "JRPG Battle Screen",
     "subtitle": "Écran de combat JRPG",
     "prompt": "Turn this image into a classic turn-based JRPG battle screen. Reimagine the subjects as party members facing a stylized enemy encounter in a dramatic fantasy or sci-fi environment. Add a clean retro battle interface with character names, HP bars, command menus such as Attack / Magic / Item, and slightly exaggerated heroic poses. The whole image should feel like an authentic 1990s or early-2000s console RPG combat scene.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/249.png",
@@ -4236,7 +4236,7 @@
     "title": "Fighting Game Versus Screen",
     "subtitle": "Écran versus de jeu de combat",
     "prompt": "Transform this image into a dramatic arcade fighting game versus screen. Present the subjects as rival playable characters in mirrored hero portraits, with intense facial expressions, bold character nameplates, flashy VS typography in the center, energetic lighting, and a stylized tournament aesthetic. Use high-contrast colors, sharp digital effects, and a polished late-1990s to early-2000s fighting game presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/250.png",
@@ -4250,7 +4250,7 @@
     "title": "Character Select Screen",
     "subtitle": "Écran de sélection de personnage",
     "prompt": "Convert this image into a colorful video game character selection screen. Show the main subject as the highlighted playable character, with a large preview model or portrait, stat bars for speed, strength, charisma, or special ability, and a grid of smaller locked or selectable characters around them. Include lively UI framing, gamepad-friendly menu design, and a playful polished console-game aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/251.png",
@@ -4264,7 +4264,7 @@
     "title": "Cozy Life Sim Screenshot",
     "subtitle": "Capture d’écran de simulation de vie chaleureuse",
     "prompt": "Reimagine this photo as a cozy life-simulation video game screenshot. Transform the scene into a charming miniature town or home environment with soft stylized 3D graphics, warm ambient lighting, gentle rounded shapes, and a peaceful everyday activity taking place. Add subtle game UI elements such as a clock, inventory icons, friendship meter, or task tracker. The result should feel wholesome, comforting, and highly playable.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/252.png",
@@ -4278,7 +4278,7 @@
     "title": "Rhythm Game Performance Screen",
     "subtitle": "Écran de performance de jeu de rythme",
     "prompt": "Transform this image into an energetic rhythm game performance screen. Keep the subject as the visual center while adding colorful beat lanes, timing markers, combo counters, score multipliers, and pulsing motion graphics synchronized to an imagined soundtrack. Use vibrant neon lighting, concert-stage intensity, and glossy arcade-inspired UI. The image should feel like a climactic gameplay moment during a perfect combo streak.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/253.png",
@@ -4292,7 +4292,7 @@
     "title": "Retro Kart Racing Portrait",
     "subtitle": "Portrait de course de kart rétro",
     "prompt": "Turn this image into a playful kart racing video game promo scene. Reimagine the subjects as stylized racers driving exaggerated colorful karts on a bright fantasy track, with dynamic drifting motion, item-box energy, cartoon speed effects, and a split-second competitive action feel. Add subtle race UI elements such as position number, lap counter, and mini-map styling without overwhelming the composition.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/254.png",
@@ -4306,7 +4306,7 @@
     "title": "Open-World Quest Log Scene",
     "subtitle": "Journal de quête de jeu en monde ouvert",
     "prompt": "Transform this image into a fantasy open-world RPG gameplay moment with an active quest interface. Preserve the core scene but add immersive environmental storytelling, sweeping scenic depth, cinematic lighting, and a tasteful on-screen quest tracker listing an objective related to the image. Include a compass bar, location discovery text, and subtle interaction prompts, as if captured from a modern exploration-heavy adventure game.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/255.png",
@@ -4320,7 +4320,7 @@
     "title": "Visual Novel Dialogue Scene",
     "subtitle": "Scène de dialogue de visual novel",
     "prompt": "Convert this image into a polished visual novel dialogue scene. Render the subject in a refined illustrated style with expressive facial emotion, clean character portrait framing, a softly detailed background, and a wide dialogue box at the bottom. Add a character name label, a short dramatic or funny line of text, and small interface icons for auto, skip, save, and log. The final image should feel like a premium story-driven game screenshot.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/256.png",
@@ -4334,7 +4334,7 @@
     "title": "1990s PC Point-and-Click Adventure",
     "subtitle": "Aventure point-and-click PC des années 1990",
     "prompt": "Recreate this image as a 1990s PC point-and-click adventure game scene. Use hand-painted background art, slightly exaggerated cartoon realism, quirky environmental details, and a lower-screen inventory bar with several clickable items inspired by the original image. Add a cursor hovering over one object, with subtle pixel-era interface charm. The scene should feel narrative, humorous, and full of discoverable details.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/257.png",
@@ -4348,7 +4348,7 @@
     "title": "Roguelike Loot Reward Screen",
     "subtitle": "Écran de récompense de butin roguelike",
     "prompt": "Turn this image into a stylish roguelike reward selection screen. The subject appears after clearing a challenge, standing before three glowing item choices or upgrade cards. Add concise perk descriptions, rarity colors, subtle particles, and a dark-but-readable game UI. The tone should feel exciting, strategic, and replayable, like the player has just earned a powerful build-defining upgrade.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/258.png",
@@ -4362,7 +4362,7 @@
     "title": "Achievement Unlocked Screen",
     "subtitle": "Écran de succès déverrouillé",
     "prompt": "Transform this photo into a cinematic video game achievement-unlocked moment. Preserve the main scene but add a polished notification banner with a humorous achievement title inspired by what is happening in the image, a badge icon, rarity percentage, and celebratory UI sparkle. The aesthetic should feel like a console screenshot captured at the exact perfect moment of an unexpected accomplishment.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/259.png",
@@ -4544,7 +4544,7 @@
     "title": "90s Video Game Strategy Guide",
     "subtitle": "Guide stratégique de jeu vidéo des années 90",
     "prompt": "Transform this image into a double-page spread from a 1990s video game strategy guide. Recreate the subject as part of a fictional game level with annotated screenshots, a small map, boss tips, item icons, secret paths, and playful sidebars. Use dense magazine layout, slightly worn paper texture, colorful arrows, and nostalgic console-era design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/272.png",
@@ -4656,7 +4656,7 @@
     "title": "Tabletop RPG Character Sheet",
     "subtitle": "Fiche de personnage de jeu de rôle sur table",
     "prompt": "Transform the subject into a tabletop role-playing game character sheet. Include a recognizable portrait, class, level, stats, skills, inventory, traits, flaws, equipment icons, handwritten notes, dice marks, and parchment or photocopied paper texture. Make the layout readable and full of personality.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/280.png",
@@ -4796,7 +4796,7 @@
     "title": "RPG Item Shop Screen",
     "subtitle": "Écran de boutique d’objets RPG",
     "prompt": "Recreate this image as an item shop screen from a fantasy RPG. Show the subject as a merchant, hero, mascot, or rare item surrounded by inventory slots, prices, potion icons, equipment, dialogue box, gold counter, and cozy shop background. Use readable game UI and charming pixel or illustrated detail.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/290.png",
@@ -4810,7 +4810,7 @@
     "title": "Character Creation Screen",
     "subtitle": "Écran de création de personnage",
     "prompt": "Transform this photo into a character creation screen from a modern RPG. Show the subject as a customizable avatar preview with sliders, class options, traits, outfit presets, color swatches, stats, name field, and polished game interface. Keep the likeness recognizable while making the UI feel fully playable.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/291.png",
@@ -4824,7 +4824,7 @@
     "title": "Adventure Game World Map",
     "subtitle": "Carte du monde de jeu d’aventure",
     "prompt": "Turn this image into a detailed adventure game world map. Reinterpret the subject, objects, or environment as regions, landmarks, paths, quest markers, danger zones, hidden caves, towns, and collectible icons. Use illustrated parchment or polished game-map styling with a clear legend.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/292.png",
@@ -4838,7 +4838,7 @@
     "title": "Arcade Level Complete Screen",
     "subtitle": "Écran de niveau d’arcade terminé",
     "prompt": "Transform the subject into a classic arcade level-complete screen. Add a triumphant pose or central object, score tally, rank grade, bonus points, collectibles found, timer, stage name, flashing UI elements, and colorful celebratory effects. Make it feel like a satisfying end-of-level victory moment.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/293.png",
@@ -4852,7 +4852,7 @@
     "title": "Fictional Game Patch Notes",
     "subtitle": "Notes de mise à jour de jeu fictif",
     "prompt": "Reimagine this image as a humorous game patch notes screen. Present the subject as a playable character, enemy, vehicle, or item receiving buffs, nerfs, bug fixes, balance changes, and developer comments. Use clean launcher UI, icons, version number, highlighted changes, and witty but readable text blocks.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/294.png",
@@ -4866,7 +4866,7 @@
     "title": "Legendary Loot Reveal",
     "subtitle": "Révélation de butin légendaire",
     "prompt": "Transform the subject into a legendary loot reward reveal screen. Show the item or character floating dramatically in a glowing reward chamber with rarity label, stats, special effects, unlock text, particle bursts, and premium game UI. Make it feel exciting, rare, and collectible.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/295.png",
@@ -4880,7 +4880,7 @@
     "title": "Japanese Arcade Cabinet Instruction Card",
     "subtitle": "Carte d’instructions de borne d’arcade japonaise",
     "prompt": "Recreate this image as a colorful Japanese arcade cabinet instruction card. Include character art, button diagrams, combo moves, safety warnings, score tips, dense layout, bright stickers, tiny screenshots, and laminated plastic texture. Make it look mounted above real arcade controls.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/296.png",
@@ -5216,7 +5216,7 @@
     "title": "PUBG AI Character Selection",
     "subtitle": "Sélection de personnage IA PUBG",
     "prompt": "Transform the uploaded person image into a PUBG-style character selection screen.\n\nOn the right side, show a full-body portrait of the person standing upright at a 45-degree angle, facing the UI panel on the left.\n\nPreserve the person’s real face, hairstyle, expression, and original outfit exactly as in the uploaded image, but enhance the outfit’s texture and detail so it looks like a polished PUBG skin while staying authentic to the original clothing.\n\nIf the input image is half-body, naturally complete the lower body with matching style and proportions.\n\nOn the left side, create a parody PUBG-style skill panel with metallic UI panels and glowing highlights.\n\nALL TEXT MUST BE IN ENGLISH.\n\nAnalyze the person’s appearance, posture, facial expression, clothing, vibe, accessories, and overall energy from the uploaded image.\n\nBased on that analysis, automatically generate:\n- 2 funny SKILLS\n- 2 funny WEAPONS\n- 1 PASSIVE SKILL\n- 1 humorous passive skill description\n- 1 custom stat meter replacing the traditional HP bar\n\nThe generated abilities must:\n- feel personalized to the person in the image\n- be playful and exaggerated\n- remain lighthearted and non-offensive\n- resemble absurd PUBG/RPG abilities\n- match the visual personality of the character\n\nExamples of possible tones:\n- chaotic energy\n- exhausted office worker\n- overconfident gamer\n- caffeine addict\n- mysterious introvert\n- gym warrior\n- sleepy survivor\n- tech support final boss\n- socially awkward sniper\n- emotionally unavailable tank\n\nDo NOT reuse generic abilities unless they visually fit the person.\n\nUI STRUCTURE:\n\nFirst Metallic Panel:\nSKILLS\n- AI-generated skill #1\n- AI-generated skill #2\n\nSecond Metallic Panel:\nWEAPONS\n- AI-generated weapon #1\n- AI-generated weapon #2\n\nThird Metallic Panel:\nPASSIVE SKILL\n- AI-generated passive name\n- humorous one-line description\n\nBeside the panels, add:\n- a custom AI-generated stat meter name replacing the traditional HP bar\n(example: SOCIAL BATTERY, ANXIETY LEVEL, CAFFEINE POWER, BACK PAIN, CONFIDENCE, CHAOS ENERGY, etc.)\n\nAdd matching icons for every skill, weapon, passive skill, and stat meter.\n\nBackground:\n- dark navy to steel gray gradient\n- cinematic lighting\n- subtle glow effects\n- polished PUBG lobby atmosphere\n- metallic sci-fi UI elements\n- realistic shadows and reflections\n\nThe final image should feel like an authentic PUBG character selection interface with a funny parody twist while keeping the character ultra-realistic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/320.png",
@@ -5230,7 +5230,7 @@
     "title": "Save Corruption Screen",
     "subtitle": "Écran de sauvegarde corrompue",
     "prompt": "Transform this image into a corrupted video game save file screen. Show broken thumbnails, glitched file names, missing texture icons, distorted character portraits, warning messages, fragmented UI panels, and a haunted console-menu atmosphere. Make it feel like the player just discovered a damaged save file with mysterious traces of the subject still visible.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/321.png",
@@ -5244,7 +5244,7 @@
     "title": "Speedrun Timer Overlay",
     "subtitle": "Superposition de chronomètre speedrun",
     "prompt": "Reimagine this image as a live speedrun gameplay screen. Add a split timer overlay, segment names, personal best comparisons, input display, tiny webcam frame, chat messages, and high-pressure gameplay UI. The subject should appear as the game character, boss, obstacle, or objective being rushed through.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/322.png",
@@ -5258,7 +5258,7 @@
     "title": "Game Boy Camera Portrait",
     "subtitle": "Portrait Game Boy Camera",
     "prompt": "Transform this image into a Game Boy Camera-style portrait. Use harsh monochrome dithering, extremely low resolution, playful distorted facial capture, tiny handheld-console frame, pixel noise, retro menu icons, and a weird experimental 1990s portable-camera aesthetic.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/323.png",
@@ -5272,7 +5272,7 @@
     "title": "Dreamcast VMU Mini Game",
     "subtitle": "Mini-jeu Dreamcast VMU",
     "prompt": "Turn this image into a tiny Dreamcast VMU mini-game screen. Use a simple monochrome LCD display, chunky pixel sprites, minimal UI, button prompts, tiny score counter, and the subject simplified into a charming handheld mini-game character.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/324.png",
@@ -5286,7 +5286,7 @@
     "title": "Arcade Attract Mode Demo",
     "subtitle": "Démo d’attraction d’arcade",
     "prompt": "Transform this image into an arcade attract-mode screen. Add flashing “PRESS START” text, gameplay demonstration panels, looping character animation feel, high-score teaser, cabinet reflection, saturated colors, and dramatic arcade lighting. Make it feel like the game is trying to lure players in.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/325.png",
@@ -5300,7 +5300,7 @@
     "title": "Game Over Continue Countdown",
     "subtitle": "Compte à rebours continuer de game over",
     "prompt": "Reimagine this image as a dramatic retro arcade “Continue?” countdown screen. Show the subject frozen in a defeated or exaggerated pose, large countdown numbers, flashing warning text, coin prompt, dark vignette, CRT scanlines, and intense game-over tension.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/326.png",
@@ -5314,7 +5314,7 @@
     "title": "Fake Cheat Code Magazine Page",
     "subtitle": "Fausse page de magazine de codes de triche",
     "prompt": "Transform this image into a 1990s video game cheat-code magazine page. Include secret button combinations, fake unlockable modes, grainy screenshots, bold arrows, margin notes, “hidden trick” callouts, and colorful magazine layout. The subject should be presented as a secret character, hidden boss, or unlockable costume.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/327.png",
@@ -5328,7 +5328,7 @@
     "title": "Retro Handheld LCD Game",
     "subtitle": "Jeu LCD portable rétro",
     "prompt": "Turn this image into a retro handheld LCD game. Use fixed black LCD segments, simple repeating character poses, plastic handheld casing, score numbers, tiny buttons, muted gray-green screen, and toy-like electronic game design from the 1980s.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/328.png",
@@ -5342,7 +5342,7 @@
     "title": "Game Manual Controls Page",
     "subtitle": "Page de contrôles de manuel de jeu",
     "prompt": "Reimagine this image as a printed video game manual controls page. Show controller diagrams, labeled buttons, character move examples, warning boxes, grayscale screenshots, paper texture, and instructional captions. The subject should be used to demonstrate actions, poses, or special abilities.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/329.png",
@@ -5356,7 +5356,7 @@
     "title": "Tamagotchi Virtual Pet",
     "subtitle": "Animal virtuel Tamagotchi",
     "prompt": "Transform the subject into a tiny virtual pet on a Tamagotchi-style device. Use simple pixel animation frames, hunger/happiness meters, plastic egg-shaped casing, tiny buttons, cute status icons, and a playful handheld digital pet interface.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/330.png",
@@ -5370,7 +5370,7 @@
     "title": "Arcade Rhythm Results Screen",
     "subtitle": "Écran de résultats de jeu de rythme d’arcade",
     "prompt": "Transform this image into a rhythm arcade results screen. Show grade ranking, combo count, accuracy percentage, note judgments, glowing music UI, stage lights, and a celebratory results pose. Make the subject appear as the performer, avatar, or song mascot.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/331.png",
@@ -5384,7 +5384,7 @@
     "title": "Retro LAN Party Screenshot",
     "subtitle": "Capture d’écran de LAN party rétro",
     "prompt": "Reimagine this image as a chaotic late-1990s LAN party gaming moment. Include bulky CRT monitors, tangled cables, pizza boxes, beige PCs, glowing desktop screens, multiplayer scoreboard, and grainy flash-photo lighting. The subject should be integrated as the player avatar, screen character, or central gamer.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/332.png",
@@ -5888,7 +5888,7 @@
     "title": "Classic Arcade High Score Screen",
     "subtitle": "Écran de meilleurs scores d’arcade classique",
     "prompt": "Transform this image into a classic arcade high score screen. Use glowing CRT pixels, three-letter initials, score rankings, colorful cabinet reflections, “insert coin” text, scanlines, and a celebratory retro game-over interface. The subject should appear as the champion avatar or boss icon.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/368.png",
@@ -6042,7 +6042,7 @@
     "title": "Retro RPG Dialogue Scene",
     "subtitle": "Scène de dialogue RPG rétro",
     "prompt": "Reimagine this image as a retro RPG dialogue scene. Use pixel-art characters, a text box at the bottom, small character portraits, simple environmental tiles, menu icons, and a dramatic or funny dialogue line inspired by the subject. Make it feel like a key story moment in a classic console RPG.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/379.png",
@@ -6056,7 +6056,7 @@
     "title": "Boss Battle Intro Screen",
     "subtitle": "Écran d’intro de combat de boss",
     "prompt": "Turn this image into a dramatic boss battle intro screen. Present the subject as the boss character or final challenge, with a huge name title, health bar, ominous arena background, warning UI, glowing effects, and cinematic game lighting. Make the image feel like the fight is about to begin.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/380.png",
@@ -6070,7 +6070,7 @@
     "title": "Cozy Farming Game Scene",
     "subtitle": "Scène de jeu agricole chaleureux",
     "prompt": "Transform this image into a cozy farming life-sim game scene. Use cute stylized proportions, soft colors, tiny crops, animals, crafting icons, inventory UI, seasonal decorations, and a peaceful village atmosphere. Make the subject feel like a playable villager or farm mascot.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/381.png",
@@ -6084,7 +6084,7 @@
     "title": "Loading Screen Tip",
     "subtitle": "Astuce d’écran de chargement",
     "prompt": "Transform this image into a video game loading screen. Feature the subject as key artwork on one side, with a progress bar, gameplay tip, small rotating icon, background concept art, and clean UI layout. Make it feel like an official loading screen from a polished game.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/382.png",
@@ -6098,7 +6098,7 @@
     "title": "Fighting Game Victory Pose",
     "subtitle": "Pose de victoire de jeu de combat",
     "prompt": "Transform this image into a fighting game victory screen. Show the subject in a confident victory pose with “WINNER” style UI, health bars, round markers, dramatic background, confetti or impact effects, and a short victory quote. Keep it polished like a modern arcade fighting game.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/383.png",
@@ -6112,7 +6112,7 @@
     "title": "Dungeon Crawler Map Screen",
     "subtitle": "Écran de carte de dungeon crawler",
     "prompt": "Reimagine this image as a dungeon crawler map screen. Include a grid-based dungeon layout, fog-of-war, treasure icons, enemy markers, party status portraits, torchlit stone textures, and a highlighted objective. Make the subject part of the dungeon theme, boss marker, or party avatar.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/384.png",
@@ -6126,7 +6126,7 @@
     "title": "Visual Novel Choice Scene",
     "subtitle": "Scène de choix de visual novel",
     "prompt": "Transform this image into a visual novel choice scene. Use a polished illustrated background, expressive character portrait, dialogue box, branching choice buttons, soft lighting, and emotional framing. Make the subject central to a dramatic or funny decision moment.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/385.png",
@@ -6140,7 +6140,7 @@
     "title": "Racing Game Garage Menu",
     "subtitle": "Menu de garage de jeu de course",
     "prompt": "Turn this image into a racing game garage customization screen. Show the subject as a vehicle, driver, mascot, or custom decal with upgrade menus, speed stats, color options, neon garage lighting, tool cabinets, and glossy UI panels.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/386.png",
@@ -6154,7 +6154,7 @@
     "title": "Creature Capture Pokédex-Style Entry",
     "subtitle": "Fiche de créature façon Pokédex",
     "prompt": "Transform the subject into an original creature capture encyclopedia entry. Show a cute or strange creature design inspired by the image, with type icons, height, weight, habitat, evolution hint, flavor text, and clean handheld-game UI. Avoid copying any existing franchise designs directly.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/387.png",
@@ -6434,7 +6434,7 @@
     "title": "Pinball Machine Backglass",
     "subtitle": "Vitre arrière de machine de pinball",
     "prompt": "Turn this image into a vintage pinball machine backglass illustration. Use dramatic painted arcade art, score reels, flashing bulb reflections, chrome trim, bold title lettering, bonus icons, and worn glass texture.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/407.png",
@@ -6644,7 +6644,7 @@
     "title": "Arcade Token Design",
     "subtitle": "Jeton d’arcade",
     "prompt": "Turn the subject into a collectible arcade token. Use stamped metal relief, worn brass texture, circular border text, tiny stars, scratches, coin-rim details, and macro photography on an arcade carpet background.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/422.png",
@@ -6882,7 +6882,7 @@
     "title": "Arcade Cabinet Side Art",
     "subtitle": "Illustration latérale de borne d’arcade",
     "prompt": "Turn this image into the side art of a classic arcade cabinet. Use bold airbrushed illustration, dramatic character pose, lightning shapes, worn vinyl edges, coin-door details, joystick panel visible in perspective, and glowing arcade-room atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/439.png",
@@ -6952,7 +6952,7 @@
     "title": "Arcade Carpet Pattern",
     "subtitle": "Motif de tapis d’arcade",
     "prompt": "Reimagine the subject as a repeating pattern on a retro arcade carpet. Use neon geometric shapes, dark background, glowing speckles, hidden simplified versions of the subject, worn fabric texture, and blacklight arcade atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/444.png",
@@ -7582,7 +7582,7 @@
     "title": "Metroidvania Ability Unlock Screen",
     "subtitle": "Écran de nouvelle capacité Metroidvania",
     "prompt": "Transform this image into a Metroidvania ability unlock screen. Show the subject as a newly acquired power, relic, or movement ability with dramatic item glow, pixel-art or hand-painted game UI, ability name, short description, map fragment, button prompt, and atmospheric cave or temple background.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/489.png",
@@ -7596,7 +7596,7 @@
     "title": "Tactical RPG Grid Battle",
     "subtitle": "Combat tactique sur grille",
     "prompt": "Reimagine this image as a tactical RPG battle screen. Place the subject on an isometric grid battlefield with highlighted movement tiles, attack range markers, character portraits, turn order, terrain bonuses, and fantasy strategy-game UI. Make it look like a paused moment before a decisive move.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/490.png",
@@ -7610,7 +7610,7 @@
     "title": "Stealth Game Detection Screen",
     "subtitle": "Écran d’infiltration furtive",
     "prompt": "Transform this image into a stealth video game screenshot. Add enemy vision cones, suspicion meters, crouch icon, security camera overlays, objective marker, dark environment lighting, and tense UI indicators. The subject should appear as the player character, target, or suspicious object in the scene.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/491.png",
@@ -7624,7 +7624,7 @@
     "title": "Survival Crafting Menu",
     "subtitle": "Menu de survie et artisanat",
     "prompt": "Turn this image into a survival crafting game interface. Show the subject as a craftable item, companion, shelter object, or player avatar with inventory slots, resource counts, durability bars, recipe requirements, weather status, and rugged wilderness UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/492.png",
@@ -7638,7 +7638,7 @@
     "title": "Tower Defense Upgrade Screen",
     "subtitle": "Écran d’amélioration tower defense",
     "prompt": "Reimagine this image as a tower defense upgrade screen. Convert the subject into a tower, hero unit, enemy wave boss, or special ability. Include upgrade paths, damage stats, range circle, currency cost, wave counter, and colorful strategy-game UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/493.png",
@@ -7652,7 +7652,7 @@
     "title": "City Builder Disaster Alert",
     "subtitle": "Alerte catastrophe de city builder",
     "prompt": "Transform this image into a city builder simulation screen during a strange disaster event. Add city management UI, population stats, warning banners, resource meters, tiny roads and buildings, emergency icons, and the subject appearing as the cause or centerpiece of the event.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/494.png",
@@ -7666,7 +7666,7 @@
     "title": "Mobile Gacha Pull Results",
     "subtitle": "Résultat de tirage gacha mobile",
     "prompt": "Turn the subject into a mobile gacha game pull result screen. Show rarity stars, glowing summon effects, character card frame, duplicate shard rewards, “NEW!” badge, currency counter, and multiple result slots. Make the subject feel like a rare unlockable character or item.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/495.png",
@@ -7680,7 +7680,7 @@
     "title": "Deckbuilder Card Reward Screen",
     "subtitle": "Récompense de cartes deckbuilder",
     "prompt": "Reimagine this image as a roguelike deckbuilder reward screen. Convert the subject into three playable cards with different effects, mana costs, rarity frames, flavor text, and upgrade icons. Use dark fantasy or neon strategy-game UI with a “choose one” layout.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/496.png",
@@ -7694,7 +7694,7 @@
     "title": "Horror Game Safe Room Save Point",
     "subtitle": "Salle de sauvegarde horror game",
     "prompt": "Transform this image into a survival horror safe room save point. Add dim lamp lighting, dusty furniture, inventory chest, save device, eerie calm atmosphere, item slots, health status, and subtle environmental storytelling. The subject should appear as a mysterious safe-room object or character.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/497.png",
@@ -7708,7 +7708,7 @@
     "title": "Skateboarding Game Replay Editor",
     "subtitle": "Éditeur de replay de jeu de skate",
     "prompt": "Turn this image into a skateboarding game replay editor screen. Add fisheye camera view, trick score combo, timeline controls, slow-motion markers, graffiti UI, urban skatepark background, and the subject performing or being styled as part of an exaggerated skate trick moment.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/498.png",
@@ -7722,7 +7722,7 @@
     "title": "Fishing Minigame Screen",
     "subtitle": "Mini-jeu de pêche",
     "prompt": "Reimagine this image as a cozy fishing minigame screen. Add bobber meter, tension gauge, catch rarity, water reflections, inventory icons, peaceful background, and playful UI prompts. The subject should become the rare catch, fisher character, bait item, or lakeside companion.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/499.png",
@@ -7736,7 +7736,7 @@
     "title": "Mech Customization Garage",
     "subtitle": "Garage de personnalisation de mécha",
     "prompt": "Transform this image into a mech customization garage screen. Rebuild the subject as a pilot, mech, armor skin, or emblem with part slots, weapon loadout, armor stats, color customization, hangar lighting, and futuristic workshop UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/500.png",
@@ -7750,7 +7750,7 @@
     "title": "Detective Game Evidence Board",
     "subtitle": "Tableau d’indices de jeu détective",
     "prompt": "Turn this image into a detective mystery game evidence board. Add pinned photos, red string connections, clue cards, case notes, suspect profile UI, objective checklist, and moody investigation lighting. The subject should appear as the central clue, suspect portrait, or key evidence.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/501.png",
@@ -7764,7 +7764,7 @@
     "title": "Dating Sim Affection Meter",
     "subtitle": "Écran relation de dating sim",
     "prompt": "Reimagine this image as a dating sim relationship screen. Show the subject as a stylized character portrait with affection meter, dialogue choices, personality traits, gift icons, calendar event, and soft visual novel UI. Keep the tone playful, clean, and non-explicit.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/502.png",
@@ -7778,7 +7778,7 @@
     "title": "Monster Hunter Quest Board",
     "subtitle": "Tableau de quête de chasse aux monstres",
     "prompt": "Transform this image into a monster-hunting quest board screen. Recreate the subject as the monster, hunter, companion, or quest target with parchment UI, reward money, difficulty stars, habitat icons, equipment suggestions, and dramatic fantasy hunting artwork.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Jeu Précis)",
     "images": [
       {
         "src": "images/503.png",
@@ -7805,7 +7805,7 @@
     "id": "new-vg-017-inventory-tetris-backpack",
     "title": "Inventory Tetris Backpack",
     "subtitle": "Inventaire sac à dos façon puzzle",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as an inventory-management puzzle screen from a survival adventure game. Convert the subject into oddly shaped equipment, food, tools, relics, or quest items arranged inside a grid-based backpack. Add item rarity borders, weight values, durability bars, rotate icons, empty slots, tooltip panels, and a messy but readable adventure-game UI. The final image should feel like the player is trying to optimize limited inventory space before entering a dangerous area.",
     "images": [
       {
@@ -7819,7 +7819,7 @@
     "id": "new-vg-018-extraction-shooter-loadout-screen",
     "title": "Extraction Shooter Loadout Screen",
     "subtitle": "Écran d’équipement extraction shooter",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into an extraction shooter pre-raid loadout screen. Turn the subject into the main operator, rare gear, mission item, or high-value loot. Include tactical inventory slots, armor condition, insured equipment, risk rating, extraction timer, map zone preview, squad status, and gritty military-industrial UI. The atmosphere should feel tense, high-risk, and grounded, as if the player may lose everything if they fail.",
     "images": [
       {
@@ -7833,7 +7833,7 @@
     "id": "new-vg-019-hacking-minigame-terminal",
     "title": "Hacking Minigame Terminal",
     "subtitle": "Terminal de piratage",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a cyberpunk hacking minigame screen. Convert the subject into the target system, digital avatar, encrypted file, or security daemon. Add code fragments, node connections, firewall blocks, access timers, breach progress, warning alerts, glitch effects, and neon terminal UI. The composition should feel interactive, like the player must solve the hack before the alarm triggers.",
     "images": [
       {
@@ -7847,7 +7847,7 @@
     "id": "new-vg-020-auto-battler-shop-phase",
     "title": "Auto-Battler Shop Phase",
     "subtitle": "Boutique auto-battler",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into an auto-battler shop phase screen. Turn the subject into a recruitable unit, mascot, item, or board piece. Include five shop cards, gold counter, reroll button, freeze button, synergy icons, unit stars, bench slots, round timer, and a small battlefield preview. Use colorful strategy-game UI with readable stats and a playful competitive tone.",
     "images": [
       {
@@ -7861,7 +7861,7 @@
     "id": "new-vg-021-hero-shooter-play-of-the-game",
     "title": "Hero Shooter Highlight Intro",
     "subtitle": "Intro meilleur moment hero shooter",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a hero shooter highlight intro screen. Convert the subject into a heroic playable character caught in a dramatic victory pose. Add ability icons, ultimate charge, player banner, animated-style nameplate, medal badges, team-color lighting, and a bold 'highlight moment' presentation. The scene should feel flashy, competitive, and exaggerated like a post-match showcase.",
     "images": [
       {
@@ -7875,7 +7875,7 @@
     "id": "new-vg-022-battle-royale-drop-map",
     "title": "Battle Royale Drop Map",
     "subtitle": "Carte de largage battle royale",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a battle royale drop-planning screen. Convert the subject into a landing marker, squad emblem, transport vehicle, or featured character portrait. Add a large island map, flight path line, danger zones, loot rarity heatmap, squad pings, countdown timer, storm circle preview, and tactical UI overlays. The image should feel like the match is seconds away from starting.",
     "images": [
       {
@@ -7889,7 +7889,7 @@
     "id": "new-vg-023-space-sim-cockpit-hud",
     "title": "Space Sim Cockpit HUD",
     "subtitle": "HUD de cockpit spatial",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a space simulation cockpit view. Turn the subject into the pilot, ship AI, alien artifact, target vessel, or dashboard charm. Add holographic radar, shield indicators, oxygen levels, weapon groups, navigation grid, starfield reflections, warning lights, and immersive cockpit framing. The result should feel like a playable moment during deep-space exploration or combat.",
     "images": [
       {
@@ -7903,7 +7903,7 @@
     "id": "new-vg-024-underwater-exploration-sonar",
     "title": "Underwater Exploration Sonar",
     "subtitle": "Exploration sous-marine sonar",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into an underwater exploration game screen. Convert the subject into a rare sea creature, diver companion, submarine module, artifact, or mysterious signal. Add sonar rings, depth meter, oxygen gauge, pressure warnings, inventory icons, dark blue water lighting, floating particles, and a minimap of submerged caves. The mood should feel quiet, mysterious, and slightly dangerous.",
     "images": [
       {
@@ -7917,7 +7917,7 @@
     "id": "new-vg-025-idle-clicker-prestige-screen",
     "title": "Idle Clicker Prestige Screen",
     "subtitle": "Écran prestige idle clicker",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as an idle clicker prestige screen. Turn the subject into the main resource generator, mascot, upgrade icon, or legendary automation machine. Add huge number counters, income-per-second stats, upgrade buttons, prestige multiplier, shiny currency icons, progress bars, achievement badges, and satisfying mobile-game UI. The image should feel absurdly rewarding and addictive.",
     "images": [
       {
@@ -7931,7 +7931,7 @@
     "id": "new-vg-026-cooking-minigame-rush",
     "title": "Cooking Minigame Rush",
     "subtitle": "Mini-jeu de cuisine chronométré",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a frantic cooking minigame screen. Convert the subject into the chef, special ingredient, customer, dish, or kitchen helper. Add order tickets, combo meter, timer, cooking stations, ingredient icons, burned-food warning, score counter, and colorful restaurant-game UI. The scene should feel fast, chaotic, funny, and readable as an active gameplay moment.",
     "images": [
       {
@@ -7945,7 +7945,7 @@
     "id": "new-vg-027-puzzle-game-level-select",
     "title": "Puzzle Game Level Select",
     "subtitle": "Sélection de niveau puzzle",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a puzzle game level-select screen. Turn the subject into the central puzzle piece, level mascot, world icon, or collectible reward. Add floating level nodes, star ratings, locked stages, hint icons, chapter progress, clean colorful UI, and a charming puzzle-map background. The final image should feel polished, approachable, and ready for the player to choose the next challenge.",
     "images": [
       {
@@ -7959,7 +7959,7 @@
     "id": "new-vg-028-soulslike-rest-checkpoint",
     "title": "Soulslike Rest Checkpoint",
     "subtitle": "Point de repos soulslike",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a dark fantasy checkpoint rest screen from a difficult action RPG. Convert the subject into the resting hero, cursed relic, sacred flame, or mysterious guide. Add a dim menu with options like level up, travel, inventory, restore, and leave; include ember-like lighting, gothic UI ornaments, worn stone textures, health and stamina bars, and a lonely atmosphere of temporary safety.",
     "images": [
       {
@@ -7973,7 +7973,7 @@
     "id": "new-vg-029-physics-sandbox-editor",
     "title": "Physics Sandbox Editor",
     "subtitle": "Éditeur sandbox physique",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a physics sandbox editor screen. Convert the subject into a test object, ragdoll character, vehicle part, creature, or experimental contraption. Add transform gizmos, collision boxes, gravity settings, material sliders, spawn menu, grid floor, debug overlays, and playful simulation UI. The result should look like the player is building or breaking something in a creative sandbox game.",
     "images": [
       {
@@ -7987,7 +7987,7 @@
     "id": "new-vg-030-strategy-fog-of-war-recon",
     "title": "Strategy Fog-of-War Recon Screen",
     "subtitle": "Reconnaissance avec brouillard de guerre",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a real-time strategy recon screen. Turn the subject into a scout unit, enemy commander, resource point, radar signal, or hidden objective. Add fog-of-war shadows, minimap, unit command panel, resource counters, selection circles, terrain bonuses, alert pings, and tactical overlays. The composition should feel like a commander discovering a crucial part of the battlefield.",
     "images": [
       {
@@ -8001,7 +8001,7 @@
     "id": "new-vg-031-vr-training-simulation",
     "title": "VR Training Simulation",
     "subtitle": "Simulation d’entraînement VR",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a VR training simulation screen. Convert the subject into the trainee avatar, holographic target, training dummy, or interactive object. Add floating VR hands, calibration grid, objective tracker, motion prompts, accuracy score, headset-style vignette, holographic UI panels, and a clean futuristic training-room environment.",
     "images": [
       {
@@ -8015,7 +8015,7 @@
     "id": "new-vg-032-steampunk-management-sim",
     "title": "Steampunk Factory Management Sim",
     "subtitle": "Gestion d’usine steampunk",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a steampunk factory management game screen. Turn the subject into a worker, machine, automaton, product, or factory mascot. Add production lines, brass UI panels, pressure gauges, resource counters, worker mood, efficiency stats, upgrade buttons, smoke effects, and an isometric factory floor. The result should feel strategic, busy, and mechanical.",
     "images": [
       {
@@ -8029,7 +8029,7 @@
     "id": "new-vg-033-card-fusion-crafting-screen",
     "title": "Card Fusion Crafting Screen",
     "subtitle": "Fusion et création de cartes",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a card fusion crafting screen from a fantasy strategy game. Convert the subject into two source cards and one upgraded result card. Add fusion arrows, essence costs, rarity gems, upgrade preview, stat changes, glowing crafting table, confirmation button, and magical UI effects. The screen should clearly show a before-and-after transformation.",
     "images": [
       {
@@ -8043,7 +8043,7 @@
     "id": "new-vg-034-train-tycoon-route-planner",
     "title": "Train Tycoon Route Planner",
     "subtitle": "Planificateur de routes train tycoon",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a train tycoon route-planning screen. Convert the subject into a station mascot, conductor, train engine, cargo item, or landmark destination. Add rail lines, city nodes, profit estimates, passenger demand, cargo icons, timetable panels, upgrade costs, and cozy management-game UI. The image should feel like the player is optimizing a growing transport empire.",
     "images": [
       {
@@ -8057,7 +8057,7 @@
     "id": "new-vg-035-medical-sim-diagnosis-ui",
     "title": "Medical Sim Diagnosis UI",
     "subtitle": "Interface diagnostic jeu médical",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Reimagine this image as a medical simulation diagnosis screen. Convert the subject into the patient avatar, diagnostic scan, strange symptom, or treatment item. Add vitals monitor, symptom checklist, scan overlays, treatment options, urgency meter, hospital UI, and clean clinical lighting. Keep it non-graphic and game-like, focused on diagnosis, decisions, and readable interface design.",
     "images": [
       {
@@ -8071,7 +8071,7 @@
     "id": "new-vg-036-god-game-miracle-menu",
     "title": "God Game Miracle Menu",
     "subtitle": "Menu de miracles god game",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "prompt": "Transform this image into a god game miracle menu. Convert the subject into a worshipper, divine avatar, sacred object, village landmark, or miracle icon. Add a tiny settlement below, faith resource counter, miracle wheel, weather controls, follower needs, blessing effects, and glowing celestial UI. The scene should feel like the player is shaping a small world from above.",
     "images": [
       {
@@ -9220,7 +9220,7 @@
     "title": "Game & Watch LCD Screen",
     "subtitle": "Écran LCD Game & Watch",
     "prompt": "Transform this image into a vintage handheld LCD game screen. Use black segmented graphics, simple static character poses, tiny score counter, plastic frame, reflective screen surface, and retro electronic toy styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/606.png",
@@ -9234,7 +9234,7 @@
     "title": "Pinball Dot-Matrix Display",
     "subtitle": "Afficheur dot-matrix pinball",
     "prompt": "Turn this image into a pinball machine dot-matrix animation frame. Use orange pixel dots, score graphics, flashing bonus text, simplified character animation, and arcade cabinet glow.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/607.png",
@@ -9248,7 +9248,7 @@
     "title": "Retro Typing Tutor Game",
     "subtitle": "Jeu apprentissage clavier rétro",
     "prompt": "Recreate this image as a 1990s typing tutor game screen. Use colorful educational UI, falling letters, score panel, goofy mascot, beige computer monitor framing, and cheerful school-lab atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/608.png",
@@ -9262,7 +9262,7 @@
     "title": "Old Web Browser Game",
     "subtitle": "Jeu navigateur web ancien",
     "prompt": "Transform this image into an early-2000s browser game screen. Use Flash-era vector graphics, chunky buttons, loading bar, simple score counter, banner ad space, and playful low-budget internet design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/609.png",
@@ -9276,7 +9276,7 @@
     "title": "Rhythm Dance Pad Game",
     "subtitle": "Jeu danse arcade",
     "prompt": "Turn this image into a rhythm dance pad arcade game screen. Use arrow prompts, combo counter, glowing stage lights, energetic character pose, colorful UI, and arcade performance intensity.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/610.png",
@@ -9290,7 +9290,7 @@
     "title": "Retro Educational CD-ROM",
     "subtitle": "CD-ROM éducatif rétro",
     "prompt": "Recreate this image as an educational CD-ROM game from the 1990s. Use pre-rendered backgrounds, cartoon guide character, clickable hotspots, quiz panel, and compressed multimedia graphics.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/611.png",
@@ -9304,7 +9304,7 @@
     "title": "Tactical Stealth Radar Screen",
     "subtitle": "Radar jeu infiltration tactique",
     "prompt": "Transform this image into a tactical stealth game radar screen. Use cone-of-vision indicators, enemy markers, low-light map overlay, mission objective text, and tense espionage UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/612.png",
@@ -9318,7 +9318,7 @@
     "title": "Arcade Photo Sticker Booth Game",
     "subtitle": "Interface photomaton arcade japonais",
     "prompt": "Turn this image into a Japanese arcade photo sticker booth interface. Use cute decorative frames, sparkle overlays, pastel icons, sticker editing buttons, and chaotic cheerful UI elements.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/613.png",
@@ -9332,7 +9332,7 @@
     "title": "Retro Fishing Arcade Cabinet Screen",
     "subtitle": "Écran borne arcade pêche rétro",
     "prompt": "Recreate this image as a fishing arcade cabinet screen. Use water shimmer effects, lure meter, fish silhouette, timer, exaggerated score graphics, and bright arcade attraction styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/614.png",
@@ -9346,7 +9346,7 @@
     "title": "Old MMORPG Guild Recruitment Poster",
     "subtitle": "Affiche recrutement guilde MMORPG",
     "prompt": "Transform this image into an in-game MMORPG guild recruitment poster. Use fantasy UI borders, character class icons, raid schedule, guild emblem, parchment background, and dramatic heroic portrait composition.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/615.png",
@@ -9500,7 +9500,7 @@
     "title": "Retro Save File Memory Card",
     "subtitle": "Carte mémoire rétro",
     "prompt": "Transform this image into a retro console memory card save file screen. Show multiple save slots with tiny pixel portraits, playtime counters, completion percentages, corrupted file warnings, low-resolution UI, CRT glow, and nostalgic late-1990s console menu design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/626.png",
@@ -9514,7 +9514,7 @@
     "title": "Video Game Rental Store Shelf",
     "subtitle": "Étagère de club vidéo",
     "prompt": "Reimagine this image as the cover art on a video game rental case displayed on a crowded 1990s rental store shelf. Include worn plastic cases, handwritten rental stickers, faded price tags, genre labels, fluorescent store lighting, and nostalgic game-shop atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/627.png",
@@ -9528,7 +9528,7 @@
     "title": "Arcade Prize Redemption Counter",
     "subtitle": "Comptoir de prix d’arcade",
     "prompt": "Transform the subject into a prize displayed behind an arcade redemption counter. Add ticket rolls, neon prize shelves, cheap plastic toys, glowing arcade machines in the background, laminated point-value tags, and colorful family entertainment center lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/628.png",
@@ -9542,7 +9542,7 @@
     "title": "CRT Split-Screen Couch Co-op",
     "subtitle": "Coop locale sur CRT",
     "prompt": "Turn this image into a split-screen couch co-op video game scene on an old CRT television. Show four-player screen divisions, controller cables, pizza boxes, soda cans, carpeted basement setting, scanlines, and chaotic late-night multiplayer energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/629.png",
@@ -9556,7 +9556,7 @@
     "title": "Old Console Launch Poster",
     "subtitle": "Affiche de lancement de console",
     "prompt": "Reimagine the subject as the hero artwork for a fictional retro console launch poster. Use bold 1990s tech typography, chrome gradients, exaggerated marketing slogans, console box art fragments, controller silhouettes, and glossy magazine-ad printing.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/630.png",
@@ -9570,7 +9570,7 @@
     "title": "Boss Health Bar Portrait",
     "subtitle": "Portrait de boss avec barre de vie",
     "prompt": "Transform this image into a dramatic video game boss encounter screen. Add a huge boss health bar, ominous title card, arena lighting, attack warning icons, HUD elements, particle effects, and intense final-battle composition.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/631.png",
@@ -9584,7 +9584,7 @@
     "title": "Game Cartridge Label Art",
     "subtitle": "Étiquette de cartouche rétro",
     "prompt": "Turn this image into the illustrated label on a vintage video game cartridge. Use cropped action artwork, worn sticker edges, console-era typography, tiny serial numbers, plastic cartridge texture, faded colors, and slight label peeling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/632.png",
@@ -9598,7 +9598,7 @@
     "title": "Fake Expansion Pack Box",
     "subtitle": "Boîte d’extension fictive",
     "prompt": "Reimagine this image as a boxed expansion pack for a fictional video game. Include dramatic cover art, “Expansion Pack” branding, feature bullet points, screenshots on the back, rating icon, shrink-wrap shine, and retail PC game box styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/633.png",
@@ -9612,7 +9612,7 @@
     "title": "Strategy Guide Boss Weakness Page",
     "subtitle": "Page de guide stratégique",
     "prompt": "Transform this image into a page from an old video game strategy guide explaining a boss weakness. Use annotated screenshots, arrows, damage charts, item icons, highlighted weak points, magazine-style layout, and slightly worn glossy paper texture.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/634.png",
@@ -9626,7 +9626,7 @@
     "title": "Retro Demo Disc Menu",
     "subtitle": "Menu de disque démo",
     "prompt": "Turn this image into a retro demo disc menu screen. Show selectable game tiles, looping preview window, low-resolution animated background, techno UI design, “Press Start” prompt, disc icon, and early-2000s console magazine demo-disc atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/635.png",
@@ -9640,7 +9640,7 @@
     "title": "Unlockable Costume Closet",
     "subtitle": "Garde-robe de costumes déblocables",
     "prompt": "Reimagine the subject as a character customization screen focused on unlockable costumes. Add outfit thumbnails, rarity labels, locked icons, preview rotation arrows, currency count, achievement requirements, and polished game menu lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/636.png",
@@ -9654,7 +9654,7 @@
     "title": "Arcade Repair Bench",
     "subtitle": "Établi de réparation d’arcade",
     "prompt": "Transform this image into an arcade repair bench scene. Show opened cabinet panels, loose circuit boards, joystick parts, buttons, wiring diagrams, dust, tools, old service manual pages, and warm workshop lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/637.png",
@@ -10046,7 +10046,7 @@
     "title": "New Game Plus Screen",
     "subtitle": "Écran Nouvelle Partie Plus",
     "prompt": "Transform this image into a New Game Plus unlock screen from a premium video game. Show the subject as the carried-over hero, relic, vehicle, or mascot. Add completed-save data, inherited equipment icons, difficulty modifiers, bonus rewards, glowing confirmation button, cinematic menu lighting, and a triumphant endgame atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/665.png",
@@ -10060,7 +10060,7 @@
     "title": "Skill Tree Upgrade Menu",
     "subtitle": "Menu arbre de compétences",
     "prompt": "Reimagine the subject as the centerpiece of a video game skill tree upgrade menu. Add branching ability nodes, locked and unlocked perks, glowing connection lines, currency counters, tooltip panels, character stat changes, and polished RPG interface design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/666.png",
@@ -10074,7 +10074,7 @@
     "title": "Mission Debrief Results",
     "subtitle": "Résultats de mission",
     "prompt": "Turn this image into a mission debrief results screen. Show rank grade, objective checklist, bonus goals, damage taken, collectibles found, time completed, reward icons, animated progress bars, and dramatic post-mission video game presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/667.png",
@@ -10088,7 +10088,7 @@
     "title": "Game Photomode Interface",
     "subtitle": "Interface mode photo",
     "prompt": "Transform this image into an in-game photo mode screenshot. Add camera controls, depth-of-field sliders, exposure settings, filter presets, grid overlay, sticker tools, focal distance indicator, and a cinematic paused-game composition.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/668.png",
@@ -10102,7 +10102,7 @@
     "title": "Difficulty Select Menu",
     "subtitle": "Menu sélection de difficulté",
     "prompt": "Reimagine the subject as a dramatic difficulty selection menu. Show multiple difficulty cards, danger ratings, skull or star indicators, locked challenge modes, warning text, preview artwork, and moody game menu lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/669.png",
@@ -10116,7 +10116,7 @@
     "title": "Controller Remap Screen",
     "subtitle": "Configuration des contrôles",
     "prompt": "Turn this image into a controller remapping screen. Display a gamepad diagram, button assignments, accessibility toggles, vibration sliders, dead zone settings, conflict warnings, and clean modern console UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/670.png",
@@ -10130,7 +10130,7 @@
     "title": "Cloud Save Conflict",
     "subtitle": "Conflit sauvegarde nuage",
     "prompt": "Reimagine this image as a cloud save conflict screen. Show local save versus cloud save panels, timestamps, progress percentages, tiny preview thumbnails, warning icons, sync arrows, and tense but clean platform UI styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/671.png",
@@ -10144,7 +10144,7 @@
     "title": "Mod Manager Screen",
     "subtitle": "Gestionnaire de mods",
     "prompt": "Transform this image into a PC game mod manager interface. Add mod thumbnails, enable toggles, load order numbers, compatibility warnings, dependency icons, workshop-style metadata, update buttons, and desktop gaming utility design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/672.png",
@@ -10158,7 +10158,7 @@
     "title": "Bug Report Beta Build",
     "subtitle": "Rapport de bogue version bêta",
     "prompt": "Turn the image into a beta-test bug report screen for an unfinished video game. Include build number, reproduction steps, severity badge, screenshot attachment, debug overlay, collision outlines, placeholder text, and developer QA interface styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/673.png",
@@ -10172,7 +10172,7 @@
     "title": "Game Awards Nomination Card",
     "subtitle": "Carte nomination jeu de l’année",
     "prompt": "Reimagine the subject as a fictional video game awards nomination card. Use premium broadcast graphics, category label, nominee portrait, gold trim, stage lighting, trophy silhouette, dramatic typography, and polished live-event presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/674.png",
@@ -10186,7 +10186,7 @@
     "title": "Retro Password Screen",
     "subtitle": "Écran mot de passe rétro",
     "prompt": "Transform this image into a retro console password screen. Use rows of strange symbols, blocky letter tiles, blinking cursor, limited color palette, CRT glow, decorative game frame, and mysterious old-school continue-code atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/675.png",
@@ -10200,7 +10200,7 @@
     "title": "Enemy Codex Entry",
     "subtitle": "Entrée codex ennemi",
     "prompt": "Reimagine the subject as an enemy codex entry from an action RPG. Show a rotating model preview, weakness icons, habitat notes, attack pattern diagrams, rarity classification, lore text blocks, and high-detail game database UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/676.png",
@@ -10214,7 +10214,7 @@
     "title": "Bestiary Illustrated Page",
     "subtitle": "Page de bestiaire illustré",
     "prompt": "Turn this image into an illustrated video game bestiary page. Use parchment or digital codex layout, creature stats, elemental weaknesses, loot drops, handwritten annotations, map location stamps, and fantasy RPG documentation style.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/677.png",
@@ -10228,7 +10228,7 @@
     "title": "Party Management Screen",
     "subtitle": "Gestion d’équipe RPG",
     "prompt": "Transform this image into a party management screen from a role-playing game. Show character portraits, health and mana bars, equipment slots, formation grid, relationship icons, class labels, and polished menu artwork.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/678.png",
@@ -10242,7 +10242,7 @@
     "title": "Quest Giver Dialogue",
     "subtitle": "Dialogue donneur de quête",
     "prompt": "Reimagine the image as a quest-giver dialogue scene. Place the subject in a cinematic RPG conversation frame with dialogue box, accept/decline choices, quest reward preview, objective title, NPC nameplate, and atmospheric game lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/679.png",
@@ -10256,7 +10256,7 @@
     "title": "Collectathon Checklist",
     "subtitle": "Liste de collection complétiste",
     "prompt": "Turn this image into a collectathon completion checklist. Add collectible icons, percentage counters, region tabs, missing-item silhouettes, shiny completion stamps, map markers, colorful platformer UI, and satisfying 100% progress energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/680.png",
@@ -10270,7 +10270,7 @@
     "title": "Platformer Level Clear",
     "subtitle": "Niveau de plateforme terminé",
     "prompt": "Transform the subject into a cheerful platformer level-clear screen. Show score tally, time bonus, collected stars, animated confetti, character victory pose, world number, retry/next buttons, and bright arcade-style polish.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/681.png",
@@ -10284,7 +10284,7 @@
     "title": "Match-Three Puzzle Level",
     "subtitle": "Niveau puzzle match-3",
     "prompt": "Reimagine this image as a match-three puzzle game level. Convert the subject into a board mascot, tile design, or power-up. Add colorful grid pieces, move counter, combo effects, goal panel, booster buttons, and glossy mobile puzzle UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/682.png",
@@ -10298,7 +10298,7 @@
     "title": "Horror Sanity Meter",
     "subtitle": "Jauge de santé mentale horreur",
     "prompt": "Turn this image into a psychological horror game HUD. Add sanity meter, distorted objective text, flickering inventory icons, subtle screen warping, low battery indicator, breathing waveform, and oppressive survival-horror atmosphere without gore.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/683.png",
@@ -10312,7 +10312,7 @@
     "title": "Stealth Spotted Alert",
     "subtitle": "Alerte repéré infiltration",
     "prompt": "Transform the image into a stealth game spotted-alert moment. Use red detection markers, enemy awareness cones, objective panic text, blurred motion, minimap warning ping, tactical HUD elements, and tense infiltration-game lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/684.png",
@@ -10326,7 +10326,7 @@
     "title": "Colony Management Dashboard",
     "subtitle": "Tableau de gestion de colonie",
     "prompt": "Reimagine the subject as part of a colony management game dashboard. Show colonist portraits, food and power meters, morale alerts, building queue, temperature warnings, tiny base map, and dense strategy-sim interface detail.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/685.png",
@@ -10340,7 +10340,7 @@
     "title": "Factory Automation Layout",
     "subtitle": "Plan usine automatisée",
     "prompt": "Turn this image into a factory automation game layout. Add conveyor belts, assembly machines, resource icons, throughput numbers, blueprint grid, robotic arms, warning lights, and satisfying top-down production-chain complexity.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/686.png",
@@ -10354,7 +10354,7 @@
     "title": "Space Colony Resource Screen",
     "subtitle": "Ressources colonie spatiale",
     "prompt": "Transform the subject into a space colony resource management screen. Show oxygen, water, power, morale, hull integrity, population status, orbital map, emergency alerts, and clean futuristic strategy UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/687.png",
@@ -10368,7 +10368,7 @@
     "title": "VR Rhythm Stage",
     "subtitle": "Scène rythme VR",
     "prompt": "Reimagine this image as a VR rhythm game stage. Use glowing beat blocks, saber-like motion trails, combo counter, accuracy percentage, neon tunnel perspective, floating score panels, and energetic immersive music-game lighting.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/688.png",
@@ -10382,7 +10382,7 @@
     "title": "Rhythm Calibration Menu",
     "subtitle": "Menu calibration rythme",
     "prompt": "Turn this image into a rhythm game calibration menu. Show audio offset sliders, visual timing grid, hit window diagram, sample notes, latency graph, controller icons, and clean arcade/music-game interface styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/689.png",
@@ -10396,7 +10396,7 @@
     "title": "Esports Broadcast Lower Third",
     "subtitle": "Habillage diffusion esport",
     "prompt": "Transform this image into an esports broadcast overlay. Add player nameplate, team logos, live score bar, match timer, sponsor slots, animated lower-third graphics, cheering arena lights, and competitive livestream polish.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/690.png",
@@ -10410,7 +10410,7 @@
     "title": "Streamer Overlay Layout",
     "subtitle": "Habillage stream gaming",
     "prompt": "Reimagine this image as a gaming livestream overlay layout. Include webcam frame, chat panel, latest follower alert, donation goal, gameplay window, animated badges, neon border elements, and polished creator-channel branding.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/691.png",
@@ -10424,7 +10424,7 @@
     "title": "Console Dashboard Theme",
     "subtitle": "Thème tableau de bord console",
     "prompt": "Transform the subject into a custom console dashboard theme. Show game tiles, friend activity, trophy progress, media controls, dynamic wallpaper, soft glow reflections, and premium living-room console UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/692.png",
@@ -10438,7 +10438,7 @@
     "title": "Handheld Emulator Overlay",
     "subtitle": "Surcouche émulateur portable",
     "prompt": "Turn this image into a handheld emulator screen. Add virtual buttons, save-state slots, fast-forward icon, pixel scaling options, battery indicator, shader settings, plastic handheld bezel, and nostalgic portable gaming atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/693.png",
@@ -10452,7 +10452,7 @@
     "title": "Light Gun Calibration Screen",
     "subtitle": "Calibration pistolet arcade",
     "prompt": "Reimagine this image as a retro arcade light-gun calibration screen. Add crosshair targets, CRT scanlines, bright cabinet reflections, calibration instructions, coin counter, attract-mode colors, and old arcade hardware texture.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/694.png",
@@ -10466,7 +10466,7 @@
     "title": "Mode 7 Racing Map",
     "subtitle": "Carte course rétro Mode 7",
     "prompt": "Transform this image into a retro Mode 7 racing game screen. Use tilted pseudo-3D track perspective, chunky sprite racers, lap counter, minimap, speedometer, pixelated horizon, and colorful 16-bit racing energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/695.png",
@@ -10480,7 +10480,7 @@
     "title": "Arcade Coin Door Closeup",
     "subtitle": "Gros plan monnayeur arcade",
     "prompt": "Reimagine the subject as artwork reflected in an arcade cabinet coin door. Include metal coin slots, scratched chrome, red reject buttons, price labels, service keyhole, cabinet side glow, and authentic arcade maintenance detail.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/696.png",
@@ -10494,7 +10494,7 @@
     "title": "DLC Roadmap Screen",
     "subtitle": "Feuille de route DLC",
     "prompt": "Turn this image into a video game DLC roadmap screen. Show season timeline, upcoming expansions, locked content cards, release windows, teaser artwork, patch icons, premium upgrade banners, and live-service menu polish.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/697.png",
@@ -10508,7 +10508,7 @@
     "title": "Season Pass Reward Track",
     "subtitle": "Piste récompenses saisonnière",
     "prompt": "Transform the subject into a season pass reward-track screen. Add horizontal progression tiers, free and premium rows, cosmetic icons, XP boosts, locked rewards, claim buttons, countdown timer, and flashy live-game UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/698.png",
@@ -10522,7 +10522,7 @@
     "title": "Preorder Bonus Display",
     "subtitle": "Affiche bonus de précommande",
     "prompt": "Reimagine this image as a video game preorder bonus display. Include steelbook case, exclusive skin card, digital soundtrack voucher, early access badge, retailer sticker, shrink-wrap shine, and glossy promotional retail graphics.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/699.png",
@@ -10536,7 +10536,7 @@
     "title": "Game Credits Sequence",
     "subtitle": "Séquence de crédits de jeu",
     "prompt": "Transform this image into a cinematic game credits sequence. Show scrolling names, soft background artwork, subtle particle effects, orchestral end-screen mood, completion badge, and emotional final-menu presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/700.png",
@@ -10550,7 +10550,7 @@
     "title": "Accessibility Settings Menu",
     "subtitle": "Menu accessibilité jeu vidéo",
     "prompt": "Reimagine this image as an accessibility settings menu in a modern game. Include subtitle size controls, colorblind filters, aim assist sliders, motion reduction toggles, remappable inputs, preview window, and clean readable UI design.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/701.png",
@@ -10564,7 +10564,7 @@
     "title": "Performance Benchmark Overlay",
     "subtitle": "Superposition benchmark performance",
     "prompt": "Turn the image into a PC game benchmark overlay. Show FPS counter, frame-time graph, GPU and CPU usage, resolution settings, ray-tracing toggle, thermal readings, preset comparison panels, and technical review-screen styling.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/702.png",
@@ -10578,7 +10578,7 @@
     "title": "Game Launcher Library Tile",
     "subtitle": "Tuile bibliothèque de launcher",
     "prompt": "Transform this image into a game launcher library tile. Add cover-art crop, play button, install size, update status, cloud-sync icon, playtime counter, achievement percentage, and clean desktop launcher UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/703.png",
@@ -10592,7 +10592,7 @@
     "title": "Console Error Code Screen",
     "subtitle": "Écran code erreur console",
     "prompt": "Reimagine the image as a console error-code screen. Use minimal system UI, cryptic error number, troubleshooting QR placeholder, progress spinner, dark background glow, controller hint icons, and slightly ominous platform atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/704.png",
@@ -10606,7 +10606,7 @@
     "title": "Arcade Tournament Bracket",
     "subtitle": "Bracket tournoi arcade",
     "prompt": "Turn this image into an arcade tournament bracket poster. Show player slots, versus lines, cabinet icons, high-score badges, neon arcade lighting, handwritten signup labels, prize pool box, and competitive local-arcade energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/705.png",
@@ -10620,7 +10620,7 @@
     "title": "Trading Card Game Battlefield",
     "subtitle": "Champ de bataille jeu de cartes",
     "prompt": "Transform the subject into a digital trading card game battlefield. Add card lanes, mana/resource counters, hand of cards, attack arrows, glowing turn timer, card rarity effects, and polished fantasy strategy UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/706.png",
@@ -10634,7 +10634,7 @@
     "title": "Board Game Digital Adaptation",
     "subtitle": "Adaptation numérique jeu de société",
     "prompt": "Reimagine this image as a digital board game adaptation screen. Show virtual dice, animated tokens, clickable board spaces, rule reminder panel, player turn order, chat icons, and cozy tabletop-meets-video-game presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/707.png",
@@ -10648,7 +10648,7 @@
     "title": "Point-and-Click Inventory Combine",
     "subtitle": "Combinaison inventaire point-and-click",
     "prompt": "Turn this image into a point-and-click adventure inventory-combination screen. Add item slots, verb buttons, cursor icon, strange object descriptions, puzzle hint text, pixel-art UI frame, and dry comedic adventure-game mood.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/708.png",
@@ -10662,7 +10662,7 @@
     "title": "Retro PC Shareware Menu",
     "subtitle": "Menu shareware PC rétro",
     "prompt": "Transform the image into a 1990s PC shareware menu. Use VGA colors, beveled buttons, episode selection, order-by-mail banner, registration reminder, floppy disk icon, and nostalgic DOS-era game presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/709.png",
@@ -10676,7 +10676,7 @@
     "title": "Demo Kiosk Store Screen",
     "subtitle": "Écran borne démo magasin",
     "prompt": "Reimagine this image as a store demo kiosk game screen. Add timed demo countdown, controller instructions, retail display reflections, looping attract banner, locked menu options, loud promotional graphics, and showroom console energy.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/710.png",
@@ -10690,7 +10690,7 @@
     "title": "Achievement Hunter Dashboard",
     "subtitle": "Tableau chasse aux succès",
     "prompt": "Turn this image into an achievement-hunter dashboard. Show rare achievement tiles, completion roadmap, hidden trophy silhouettes, estimated time remaining, collectible counters, platinum-style badge area, and obsessive 100% completion UI.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/711.png",
@@ -10704,7 +10704,7 @@
     "title": "Video Game Museum Plaque",
     "subtitle": "Plaque musée du jeu vidéo",
     "prompt": "Transform the subject into a preserved artifact in a video game museum exhibit. Add glass display reflections, console history plaque, controller diagrams, archival screenshots, year labels, soft museum lighting, and respectful retro-gaming presentation.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/712.png",
@@ -10718,7 +10718,7 @@
     "title": "Save Room Item Box",
     "subtitle": "Coffre d’objets salle de sauvegarde",
     "prompt": "Reimagine this image as a survival-horror save-room item box screen. Show storage grid, limited item slots, key items, healing supplies, typewriter-like save option, dim safe-room lighting, and tense inventory-management atmosphere.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/713.png",
@@ -10732,7 +10732,7 @@
     "title": "Horror Camera Viewfinder",
     "subtitle": "Viseur caméra jeu d’horreur",
     "prompt": "Turn the image into a horror game camera viewfinder. Add focus brackets, film counter, spectral indicator, low-light grain, battery meter, objective hint, subtle lens distortion, and eerie ghost-hunting game atmosphere without graphic content.",
-    "category": "Jeu vidéo",
+    "category": "Jeu Vidéo (Style)",
     "images": [
       {
         "src": "images/714.png",
@@ -10881,7 +10881,6 @@
       }
     ]
   },
-  
   {
     "id": "lowcat-2026-007-playoff-ticket-stub",
     "title": "Playoff Ticket Stub",
@@ -11547,5 +11546,205 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "new-vgp-001-halo",
+    "title": "Halo",
+    "subtitle": "Style Halo",
+    "prompt": "Turn this photo into a Halo-inspired sci-fi shooter game style. Use futuristic military armor, clean hard-surface plating, glowing blue interface elements, alien megastructure architecture, ringworld horizon, dramatic battlefield lighting, and polished cinematic Xbox-era science-fiction presentation. Preserve the original subject identity while adapting clothing and surroundings into a heroic space-combat aesthetic.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-002-assassins-creed",
+    "title": "Assassin's Creed",
+    "subtitle": "Style Assassin's Creed",
+    "prompt": "Turn this photo into an Assassin’s Creed-inspired historical stealth adventure scene. Add a hooded robe silhouette, ornate period architecture, rooftop parkour composition, hidden-blade style wrist gear, warm sunset haze, detailed fabric textures, and cinematic open-world exploration energy. Preserve the subject’s face and pose while transforming the environment into a dramatic historical city.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-003-mario",
+    "title": "Mario",
+    "subtitle": "Style Mario",
+    "prompt": "Turn this photo into a colorful Mario-inspired platform game scene. Use rounded cartoon proportions, bright saturated colors, floating blocks, coins, pipes, cheerful hills, playful clouds, clean toy-like lighting, and family-friendly adventure energy. Keep the subject recognizable while adapting them into a joyful platformer character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-004-minecraft",
+    "title": "Minecraft",
+    "subtitle": "Style Minecraft",
+    "prompt": "Turn this photo into a Minecraft-inspired voxel game world. Convert the subject into a blocky cubic character with simple pixel-textured surfaces, square proportions, voxel terrain, crafting-table details, torches, grassy blocks, and a bright sandbox survival atmosphere. Keep the main identity readable through simplified blocky features.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-005-sonic",
+    "title": "Sonic",
+    "subtitle": "Style Sonic",
+    "prompt": "Turn this photo into a Sonic-inspired high-speed platform game scene. Use bold cartoon character proportions, loop-de-loop terrain, golden rings, motion streaks, checkerboard cliffs, blue sky, palm trees, and energetic arcade-like speed effects. Preserve the subject’s recognizable traits while giving the image a fast, colorful mascot-platformer style.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-006-final-fantasy",
+    "title": "Final Fantasy",
+    "subtitle": "Style Final Fantasy",
+    "prompt": "Turn this photo into a Final Fantasy-inspired cinematic RPG scene. Use elegant fantasy clothing, oversized heroic weapon silhouettes, magical particles, dramatic sky lighting, ornate armor details, crystal motifs, sweeping landscapes, and emotional JRPG key-art composition. Preserve the subject’s likeness while making the image feel like a premium fantasy role-playing game poster.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-007-metal-gear-solid",
+    "title": "Metal Gear Solid",
+    "subtitle": "Style Metal Gear Solid",
+    "prompt": "Turn this photo into a Metal Gear Solid-inspired tactical espionage game scene. Use stealth-suit details, military base corridors, codec-style interface overlays, dramatic shadows, sneaking posture, surveillance cameras, muted green-gray tones, and cinematic spy-thriller tension. Keep the subject recognizable while adapting them into a tactical infiltration character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-008-tomb-raider",
+    "title": "Tomb Raider",
+    "subtitle": "Style Tomb Raider",
+    "prompt": "Turn this photo into a Tomb Raider-inspired adventure game scene. Add rugged explorer clothing, climbing gear, ancient ruins, jungle overgrowth, torchlight, stone carvings, dust particles, and cinematic treasure-hunting atmosphere. Preserve the subject’s identity while making them look like a capable action-adventure explorer.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-009-god-of-war",
+    "title": "God of War",
+    "subtitle": "Style God of War",
+    "prompt": "Turn this photo into a God of War-inspired mythological action game scene. Use epic Norse or ancient mythic scenery, heavy armor, engraved weapons, snow or ash particles, towering statues, dramatic low-angle framing, intense lighting, and cinematic boss-battle scale. Preserve the subject’s likeness while giving them a powerful mythic warrior presence.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-010-doom",
+    "title": "DOOM",
+    "subtitle": "Style DOOM",
+    "prompt": "Turn this photo into a DOOM-inspired fast-paced sci-fi action game scene. Use bulky futuristic armor, red hellish lighting, industrial metal corridors, glowing hazard panels, smoke, sparks, heavy combat atmosphere, and aggressive first-person shooter energy. Keep the subject recognizable while transforming them into an intense armored action hero.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-011-red-dead-redemption",
+    "title": "Red Dead Redemption",
+    "subtitle": "Style Red Dead Redemption",
+    "prompt": "Turn this photo into a Red Dead Redemption-inspired western open-world game scene. Use dusty frontier lighting, worn leather clothing, cowboy hat, rugged landscapes, saloon or prairie background, cinematic sunset, film-grain texture, and grounded outlaw-drama atmosphere. Preserve the subject’s face while adapting the image into a realistic western game poster.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-012-street-fighter",
+    "title": "Street Fighter",
+    "subtitle": "Style Street Fighter",
+    "prompt": "Turn this photo into a Street Fighter-inspired arcade fighting game character portrait. Use exaggerated athletic pose, bold cel-shaded muscles and clothing folds, dynamic impact effects, stage background, health-bar UI accents, intense expression, and colorful tournament-poster energy. Keep the subject recognizable while presenting them as a selectable fighting-game character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-013-mortal-kombat",
+    "title": "Mortal Kombat",
+    "subtitle": "Style Mortal Kombat",
+    "prompt": "Turn this photo into a Mortal Kombat-inspired dark fantasy fighting game character portrait. Use dramatic arena lighting, ornate combat outfit, smoky background, glowing emblem-like effects, intense stance, cinematic realism, and tournament select-screen presentation. Preserve the subject’s recognizable features without adding graphic gore.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-014-overwatch",
+    "title": "Overwatch",
+    "subtitle": "Style Overwatch",
+    "prompt": "Turn this photo into an Overwatch-inspired hero shooter character reveal. Use vibrant stylized 3D proportions, futuristic costume design, clean armor panels, glowing ability effects, heroic pose, bright optimistic lighting, and polished character-select screen presentation. Preserve the subject’s likeness while giving them a unique hero role and readable silhouette.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-015-league-of-legends",
+    "title": "League of Legends",
+    "subtitle": "Style League of Legends",
+    "prompt": "Turn this photo into a League of Legends-inspired champion splash-art scene. Use dramatic fantasy lighting, ornate armor or robes, magical energy, exaggerated heroic pose, painterly cinematic rendering, epic battlefield backdrop, and high-impact MOBA character-poster composition. Preserve the subject’s identity while presenting them as a legendary champion.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-016-elden-ring",
+    "title": "Elden Ring",
+    "subtitle": "Style Elden Ring",
+    "prompt": "Turn this photo into an Elden Ring-inspired dark fantasy RPG scene. Use tarnished medieval armor, golden ruined landscape, enormous distant tree glow, crumbling castles, mist, somber lighting, and lonely epic adventure atmosphere. Preserve the subject’s likeness while transforming them into a wandering fantasy warrior or mage.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-017-cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "subtitle": "Style Cyberpunk 2077",
+    "prompt": "Turn this photo into a Cyberpunk 2077-inspired open-world RPG scene. Use neon city streets, cybernetic clothing details, holographic ads, rain reflections, saturated yellow and magenta lighting, gritty futuristic fashion, and cinematic dystopian nightlife. Preserve the subject’s recognizable features while adapting them into a stylish urban cyberpunk character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-018-uncharted",
+    "title": "Uncharted",
+    "subtitle": "Style Uncharted",
+    "prompt": "Turn this photo into an Uncharted-inspired cinematic treasure-hunting game scene. Use sunlit ruins, rugged explorer outfit, ancient maps, climbing ropes, dust, warm adventure lighting, dramatic cliffside composition, and realistic action-adventure poster style. Preserve the subject’s face while giving the scene a blockbuster expedition feel.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-019-kirby",
+    "title": "Kirby",
+    "subtitle": "Style Kirby",
+    "prompt": "Turn this photo into a Kirby-inspired cute fantasy platform game scene. Use soft rounded shapes, pastel dreamlike colors, floating stars, fluffy clouds, whimsical hills, gentle toy-like lighting, and cheerful magical atmosphere. Keep the subject recognizable while simplifying them into a charming, friendly platformer character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-020-metroid",
+    "title": "Metroid",
+    "subtitle": "Style Metroid",
+    "prompt": "Turn this photo into a Metroid-inspired atmospheric sci-fi exploration game scene. Use sleek power-armor shapes, alien caverns, glowing biomechanical doors, scanner UI elements, lonely exploration mood, cool dramatic lighting, and side-scrolling action-adventure composition. Preserve the subject’s identity while adapting them into a mysterious space explorer.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-021-diablo",
+    "title": "Diablo",
+    "subtitle": "Style Diablo",
+    "prompt": "Turn this photo into a Diablo-inspired dark fantasy action RPG scene. Use gothic armor, candlelit catacombs, crimson magical glow, ancient stone arches, loot-like item accents, ominous atmosphere, and high-detail isometric fantasy darkness. Preserve the subject’s likeness while presenting them as a heroic adventurer in a grim dungeon world.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-022-the-last-of-us",
+    "title": "The Last of Us",
+    "subtitle": "Style The Last of Us",
+    "prompt": "Turn this photo into a The Last of Us-inspired cinematic survival drama scene. Use overgrown urban ruins, natural window light, weathered clothing, backpack details, dust, emotional realism, muted colors, and grounded post-apocalyptic storytelling atmosphere. Preserve the subject’s identity while making the image feel like a realistic narrative survival game still.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-023-animal-crossing",
+    "title": "Animal Crossing",
+    "subtitle": "Style Animal Crossing",
+    "prompt": "Turn this photo into an Animal Crossing-inspired cozy life-sim scene. Use rounded chibi proportions, soft pastel colors, cute village houses, trees, flowers, friendly expressions, simple furniture, and peaceful handheld-game charm. Keep the subject recognizable while adapting them into a warm, wholesome villager-style character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-024-splatoon",
+    "title": "Splatoon",
+    "subtitle": "Style Splatoon",
+    "prompt": "Turn this photo into a Splatoon-inspired colorful ink-battle game scene. Use urban streetwear, glossy paint splashes, neon signage, squid-like graphic motifs, bold youth-culture energy, dynamic action pose, and vibrant Nintendo-style multiplayer arena presentation. Preserve the subject’s likeness while making the scene feel energetic and paint-soaked.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
+  },
+  {
+    "id": "new-vgp-025-mega-man",
+    "title": "Mega Man",
+    "subtitle": "Style Mega Man",
+    "prompt": "Turn this photo into a Mega Man-inspired retro-futuristic action platformer scene. Use bright robot-hero armor, clean anime-like linework, sci-fi stage tiles, energy blaster effects, boss-door framing, bold colors, and classic action-platformer composition. Preserve the subject’s identity while turning them into a heroic robot master-style character.",
+    "category": "Jeu Vidéo (Jeu Précis)",
+    "images": []
   }
 ]
