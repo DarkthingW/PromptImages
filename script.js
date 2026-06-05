@@ -26,6 +26,9 @@ async function loadPrompts() {
     ];
 
     buildFilters();
+	
+	sort.value = "random"; // tri par défaut
+	
     render();
 
   } catch (error) {
@@ -230,7 +233,7 @@ document.getElementById("categoryFilter").addEventListener("change", e => {
 
 document.getElementById("reset").addEventListener("click", () => {
   search.value = "";
-  sort.value = "original";
+  sort.value = "random";
   activeCategory = "Tous";
   refreshFilters();
   render();
