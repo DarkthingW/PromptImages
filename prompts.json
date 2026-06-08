@@ -11475,6 +11475,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-049-championship-ring-presentation",
     "title": "Championship Ring Presentation",
     "subtitle": "Présentation de bague de championnat",
     "prompt": "Transform the subject into a championship ring presentation ceremony. Use velvet ring box, commemorative plaque, arena spotlights, engraved details, championship banners, premium sports photography, and prestigious award atmosphere.",
@@ -11488,6 +11489,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-050-stadium-hall-of-fame-plaque",
     "title": "Stadium Hall of Fame Plaque",
     "subtitle": "Plaque du temple de la renommée",
     "prompt": "Reimagine the subject as a stadium hall of fame plaque. Use engraved metal, commemorative statistics, stadium architecture, spotlight illumination, historical photos, and prestigious sports heritage presentation.",
@@ -11501,6 +11503,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-051-luxury-travel-trunk-collection",
     "title": "Luxury Travel Trunk Collection",
     "subtitle": "Collection de malles de voyage de luxe",
     "prompt": "Transform the subject into a luxury travel trunk collection display. Use premium leather, brass hardware, monogram details, boutique showroom lighting, travel accessories, and high-end heritage craftsmanship.",
@@ -11514,6 +11517,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-052-interplanetary-customs-checkpoint",
     "title": "Interplanetary Customs Checkpoint",
     "subtitle": "Poste de douane interplanétaire",
     "prompt": "Transform the subject into an interplanetary customs checkpoint. Use alien passports, holographic scanners, futuristic security gates, multilingual galactic signage, advanced technology, and realistic science-fiction worldbuilding.",
@@ -11527,6 +11531,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-053-miniature-theme-park-model",
     "title": "Miniature Theme Park Model",
     "subtitle": "Maquette de parc d’attractions miniature",
     "prompt": "Reimagine the subject as part of a detailed miniature theme park model. Include tiny visitors, scale rides, realistic landscaping, model-railroad craftsmanship, tilt-shift photography, and colorful amusement park atmosphere.",
@@ -11540,6 +11545,7 @@
     ]
   },
   {
+    "id": "lowcat-2026-054-renaissance-workshop-illustration",
     "title": "Renaissance Workshop Illustration",
     "subtitle": "Atelier de la Renaissance",
     "prompt": "Transform the subject into a Renaissance workshop illustration. Use period tools, parchment sketches, natural window lighting, artisan craftsmanship, historical clothing, and detailed European Renaissance aesthetics.",
@@ -11908,6 +11914,566 @@
       {
         "src": "images/803.png",
         "alt": "Image 803",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-001-tattoo-flash-sheet",
+    "title": "Tattoo Flash Sheet",
+    "subtitle": "Planche de tatouages flash",
+    "prompt": "Redo this image as a vintage tattoo flash sheet, with bold black outlines, limited classic ink colors, aged paper texture, small decorative icons, hand-painted shading, and multiple tattoo-ready variations arranged neatly on a wall-studio reference sheet.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/804.png",
+        "alt": "Image 804",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-002-enamel-pin-collector-board",
+    "title": "Enamel Pin Collector Board",
+    "subtitle": "Tableau de pins émaillés",
+    "prompt": "Transform this image into a set of glossy enamel pins displayed on a collector board. Use raised metallic outlines, hard enamel colors, shiny reflections, small rubber pin backs, and a clean product photography layout.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/805.png",
+        "alt": "Image 805",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-003-patchwork-quilt-portrait",
+    "title": "Patchwork Quilt Portrait",
+    "subtitle": "Portrait en courtepointe",
+    "prompt": "Recreate this image as a handmade patchwork quilt, using stitched fabric blocks, visible seams, varied textile patterns, soft cotton texture, embroidered facial details, and a cozy handcrafted wall-hanging presentation.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/806.png",
+        "alt": "Image 806",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-004-felt-board-story-scene",
+    "title": "Felt Board Story Scene",
+    "subtitle": "Scène de feutrine narrative",
+    "prompt": "Turn this image into a children’s felt board story scene, with flat cut felt shapes, soft fuzzy fabric edges, simple expressive characters, layered background pieces, and a playful classroom storytelling look.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/807.png",
+        "alt": "Image 807",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-005-laser-etched-wood-plaque",
+    "title": "Laser-Etched Wood Plaque",
+    "subtitle": "Plaque de bois gravée au laser",
+    "prompt": "Convert this image into a laser-etched wooden plaque, with burned engraving lines, natural wood grain, subtle depth carving, warm varnish, and a handcrafted sign-shop product photo style.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/808.png",
+        "alt": "Image 808",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-006-foil-embossed-certificate",
+    "title": "Foil Embossed Certificate",
+    "subtitle": "Certificat embossé métallisé",
+    "prompt": "Reimagine this image as an ornate foil-embossed certificate, with raised gold details, decorative borders, elegant serif typography, textured parchment paper, official seals, and premium award-document presentation.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/809.png",
+        "alt": "Image 809",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-007-holographic-concert-ticket",
+    "title": "Holographic Concert Ticket",
+    "subtitle": "Billet de concert holographique",
+    "prompt": "Transform this image into a holographic concert ticket design, with reflective foil gradients, barcode, seat number, torn ticket edge, bold event typography, and a premium collectible memorabilia look.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/810.png",
+        "alt": "Image 810",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-008-old-cash-register-receipt",
+    "title": "Old Cash Register Receipt",
+    "subtitle": "Reçu de caisse ancien",
+    "prompt": "Recreate this image as a long faded cash register receipt, using thermal paper texture, slightly misaligned printed text, itemized humorous descriptions, barcode, store logo, and worn folded edges.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/811.png",
+        "alt": "Image 811",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-009-classified-field-notebook",
+    "title": "Classified Field Notebook",
+    "subtitle": "Carnet de terrain classifié",
+    "prompt": "Turn this image into pages from a classified field notebook, with handwritten notes, stamped warnings, taped reference photos, redacted sections, coffee stains, sketches, arrows, and investigative annotations.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/812.png",
+        "alt": "Image 812",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-010-dvd-menu-screen",
+    "title": "DVD Menu Screen",
+    "subtitle": "Écran de menu DVD",
+    "prompt": "Transform this image into an early-2000s DVD menu screen, with animated-looking background still, selectable buttons, scene selection thumbnails, glowing highlight cursor, widescreen safe margins, and compressed video texture.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/813.png",
+        "alt": "Image 813",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-011-winamp-skin-player",
+    "title": "Winamp Skin Player",
+    "subtitle": "Lecteur Winamp personnalisé",
+    "prompt": "Recreate this image as a custom retro MP3 player skin, with tiny metallic buttons, spectrum analyzer, playlist window, pixel fonts, glowing equalizer bars, and a late-1990s desktop audio software aesthetic.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/814.png",
+        "alt": "Image 814",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-012-geocities-fan-page",
+    "title": "GeoCities Fan Page",
+    "subtitle": "Page fan GeoCities",
+    "prompt": "Turn this image into a chaotic 1990s personal fan page, with tiled background, animated GIF-style icons, visitor counter, rainbow dividers, blinking text, tiny badges, guestbook link, and amateur HTML layout.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/815.png",
+        "alt": "Image 815",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-013-smartwatch-fitness-rings",
+    "title": "Smartwatch Fitness Rings",
+    "subtitle": "Anneaux fitness de montre intelligente",
+    "prompt": "Convert this image into a smartwatch fitness dashboard, with circular activity rings, heart-rate graph, step count, clean rounded UI cards, tiny icons, dark glass screen reflections, and wearable-tech product framing.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/816.png",
+        "alt": "Image 816",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-014-obs-streaming-scene-overlay",
+    "title": "OBS Streaming Scene Overlay",
+    "subtitle": "Overlay de scène OBS",
+    "prompt": "Reimagine this image as a professional OBS streaming scene overlay, with webcam frame, chat box, alert panel, recent follower labels, audio meters, source list hints, and a clean creator-brand layout.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/817.png",
+        "alt": "Image 817",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-015-premiere-pro-timeline-screenshot",
+    "title": "Premiere Pro Timeline Screenshot",
+    "subtitle": "Capture de timeline Premiere Pro",
+    "prompt": "Transform this image into a video-editing timeline interface, with layered clips, audio waveform tracks, color-coded markers, preview monitor, editing panels, timecode, and a polished behind-the-scenes creator workflow look.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/818.png",
+        "alt": "Image 818",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-016-youtube-analytics-dashboard",
+    "title": "YouTube Analytics Dashboard",
+    "subtitle": "Tableau de bord YouTube Analytics",
+    "prompt": "Recreate this image as a YouTube analytics dashboard, with thumbnail preview, watch-time graph, retention curve, subscriber count, traffic sources, performance badges, and clean creator-studio UI styling.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/819.png",
+        "alt": "Image 819",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-017-playstation-trophy-guide-page",
+    "title": "PlayStation Trophy Guide Page",
+    "subtitle": "Page de guide de trophées PlayStation",
+    "prompt": "Turn this image into a PlayStation-style trophy guide page, with trophy icons, rarity percentages, completion checklist, hidden trophy blur, platinum progress bar, timestamp notes, and clean gaming-guide layout.",
+    "category": "Jeu Vidéo (Style)",
+    "images": [
+      {
+        "src": "images/820.png",
+        "alt": "Image 820",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-018-memory-card-save-manager-screen",
+    "title": "Memory Card Save Manager Screen",
+    "subtitle": "Écran de gestion de carte mémoire",
+    "prompt": "Recreate this image as a retro console memory card save manager, with save blocks, tiny preview icons, file names, corrupted slot warning, low-resolution UI, and nostalgic early-2000s console menu design.",
+    "category": "Jeu Vidéo (Style)",
+    "images": [
+      {
+        "src": "images/821.png",
+        "alt": "Image 821",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-019-demo-disc-magazine-insert",
+    "title": "Demo Disc Magazine Insert",
+    "subtitle": "Encart magazine de disque démo",
+    "prompt": "Transform this image into a 1990s demo disc magazine insert, with flashy screenshots, CD-ROM label, “playable demo” stickers, game preview blurbs, bold gradient typography, and glossy magazine paper texture.",
+    "category": "Nostalgie / Rétro / Archives",
+    "images": [
+      {
+        "src": "images/822.png",
+        "alt": "Image 822",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-020-e-ink-reader-page",
+    "title": "E-Ink Reader Page",
+    "subtitle": "Page de liseuse e-ink",
+    "prompt": "Convert this image into an e-ink reader display, with grayscale dithering, crisp serif text, minimal UI header, page number, soft screen texture, and calm digital-book presentation.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/823.png",
+        "alt": "Image 823",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-021-local-classified-newspaper-ad",
+    "title": "Local Classified Newspaper Ad",
+    "subtitle": "Petite annonce de journal local",
+    "prompt": "Recreate this image as a small local newspaper classified ad, with cramped black-and-white layout, cheap clipart, phone number tabs, grainy print texture, simple border, and community bulletin energy.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/824.png",
+        "alt": "Image 824",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-022-subway-safety-poster",
+    "title": "Subway Safety Poster",
+    "subtitle": "Affiche de sécurité métro",
+    "prompt": "Turn this image into a public transit safety poster, with simplified instructional graphics, bold warning colors, icon-based steps, bilingual-style layout, worn station-wall texture, and official municipal design.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/825.png",
+        "alt": "Image 825",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-023-lost-pet-poster-in-fantasy-city",
+    "title": "Lost Pet Poster in Fantasy City",
+    "subtitle": "Avis d’animal perdu en ville fantastique",
+    "prompt": "Reimagine this image as a lost pet poster posted in a fantasy city, with torn parchment, hand-drawn creature sketch, reward notice, strange magical symbols, wax seal, and weathered stone-wall background.",
+    "category": "Conceptuel / Mondes / Transformations",
+    "images": [
+      {
+        "src": "images/826.png",
+        "alt": "Image 826",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-024-weathered-utility-box-sticker-art",
+    "title": "Weathered Utility Box Sticker Art",
+    "subtitle": "Boîtier urbain couvert d’autocollants",
+    "prompt": "Transform this image into sticker-covered street utility box art, with peeling decals, layered graffiti stickers, sun-faded colors, torn paper edges, scratches, rain stains, and urban sidewalk realism.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/827.png",
+        "alt": "Image 827",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-025-chalk-sidewalk-mural",
+    "title": "Chalk Sidewalk Mural",
+    "subtitle": "Murale à la craie sur trottoir",
+    "prompt": "Recreate this image as a sidewalk chalk mural, with powdery pastel texture, visible concrete cracks, hand-smudged shading, playful street-art composition, and slightly distorted perspective from above.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/828.png",
+        "alt": "Image 828",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-026-light-painting-long-exposure",
+    "title": "Light Painting Long Exposure",
+    "subtitle": "Photo longue exposition light painting",
+    "prompt": "Transform this image into a long-exposure light painting photograph, with glowing trails surrounding the subject, dark background, motion blur, luminous outlines, camera exposure artifacts, and dramatic nighttime photography.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/829.png",
+        "alt": "Image 829",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-027-double-exposure-portrait",
+    "title": "Double Exposure Portrait",
+    "subtitle": "Portrait en double exposition",
+    "prompt": "Reimagine this image as a double exposure portrait, blending the subject with landscapes, city lights, forests, or memories inside the silhouette, using soft contrast, layered transparency, and cinematic photographic texture.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/830.png",
+        "alt": "Image 830",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-028-night-vision-wildlife-camera",
+    "title": "Night Vision Wildlife Camera",
+    "subtitle": "Caméra nocturne de surveillance animale",
+    "prompt": "Turn this image into a night vision wildlife camera capture, with monochrome green illumination, infrared glow, timestamp overlay, motion-triggered blur, high ISO noise, and eerie candid framing.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/831.png",
+        "alt": "Image 831",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-029-satellite-surveillance-image",
+    "title": "Satellite Surveillance Image",
+    "subtitle": "Image de surveillance satellite",
+    "prompt": "Recreate this image as a satellite surveillance image, with overhead perspective, targeting reticle, coordinate data, map grid overlays, zoomed inset panels, compression artifacts, and classified reconnaissance styling.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/832.png",
+        "alt": "Image 832",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-030-microscopic-slide-world",
+    "title": "Microscopic Slide World",
+    "subtitle": "Monde microscopique sur lame",
+    "prompt": "Transform this image into a microscopic slide world, as if the scene exists under a laboratory microscope, with translucent organic textures, labeled slide markings, shallow focus, scientific lighting, and surreal tiny-scale detail.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/833.png",
+        "alt": "Image 833",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-031-time-lapse-stack-photo",
+    "title": "Time-Lapse Stack Photo",
+    "subtitle": "Photo empilée en time-lapse",
+    "prompt": "Recreate this image as a time-lapse stack photograph, showing multiple ghosted positions of the subject across the frame, soft motion trails, layered exposure, and a clean experimental photography look.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/834.png",
+        "alt": "Image 834",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-032-miniature-food-truck-diorama",
+    "title": "Miniature Food Truck Diorama",
+    "subtitle": "Diorama miniature de food truck",
+    "prompt": "Turn this image into a miniature food truck diorama, with tiny figures, menu board, string lights, sidewalk props, realistic scale-model textures, warm evening lighting, and charming handcrafted detail.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/835.png",
+        "alt": "Image 835",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-033-pop-up-greeting-card",
+    "title": "Pop-Up Greeting Card",
+    "subtitle": "Carte de souhaits pop-up",
+    "prompt": "Transform this image into a pop-up greeting card, with folded paper engineering, layered cutout characters, visible crease lines, decorative printed patterns, and a photographed handmade card presentation.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/836.png",
+        "alt": "Image 836",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-034-foam-finger-stadium-souvenir",
+    "title": "Foam Finger Stadium Souvenir",
+    "subtitle": "Souvenir de stade en main de mousse",
+    "prompt": "Recreate this image as a foam finger stadium souvenir design, with oversized foam texture, bold team-style typography, stitched logo details, concession-stand product photo lighting, and playful sports-event energy.",
+    "category": "Sport / Événement / Affiche",
+    "images": [
+      {
+        "src": "images/837.png",
+        "alt": "Image 837",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-035-comic-con-artist-alley-table",
+    "title": "Comic Con Artist Alley Table",
+    "subtitle": "Table d’artiste en convention",
+    "prompt": "Turn this image into a comic convention artist alley display, with prints, stickers, price tags, tablecloth, acrylic stands, small fan merch, convention lighting, and a busy booth presentation.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/838.png",
+        "alt": "Image 838",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-036-fake-app-store-listing",
+    "title": "Fake App Store Listing",
+    "subtitle": "Fausse fiche App Store",
+    "prompt": "Recreate this image as a fake mobile app store listing, with app icon, screenshots carousel, star rating, feature bullets, download button, reviews, and clean modern marketplace UI.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/839.png",
+        "alt": "Image 839",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-037-smart-home-control-panel",
+    "title": "Smart Home Control Panel",
+    "subtitle": "Panneau de contrôle maison intelligente",
+    "prompt": "Transform this image into a smart home control panel, with room cards, lighting sliders, thermostat controls, security camera preview, automation buttons, soft glass UI, and clean futuristic home-interface design.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/840.png",
+        "alt": "Image 840",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-038-old-messenger-chat-window",
+    "title": "Old Messenger Chat Window",
+    "subtitle": "Ancienne fenêtre de clavardage",
+    "prompt": "Reimagine this image as an early-2000s instant messenger chat window, with buddy icons, status message, tiny emoticons, gradient title bar, typing indicator, and nostalgic desktop chat styling.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/841.png",
+        "alt": "Image 841",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-039-escape-room-clue-sheet",
+    "title": "Escape Room Clue Sheet",
+    "subtitle": "Feuille d’indices d’escape room",
+    "prompt": "Turn this image into an escape room clue sheet, with cryptic symbols, numbered puzzles, handwritten hints, torn paper, red circles, string connections, and tabletop mystery-game presentation.",
+    "category": "Médias / Publicité / Documents",
+    "images": [
+      {
+        "src": "images/842.png",
+        "alt": "Image 842",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-040-cardboard-arcade-cabinet",
+    "title": "Cardboard Arcade Cabinet",
+    "subtitle": "Borne d’arcade en carton",
+    "prompt": "Transform this image into a handmade cardboard arcade cabinet, with cut-out controls, marker-drawn graphics, taped edges, small screen window, DIY school-project charm, and realistic cardboard texture.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/843.png",
+        "alt": "Image 843",
         "label": "ChatGPT 2026"
       }
     ]
