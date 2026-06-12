@@ -7429,20 +7429,6 @@
     ]
   },
   {
-    "id": "new-3d-002-glass-terrarium-figurine",
-    "title": "Glass Terrarium Figurine",
-    "subtitle": "Figurine dans terrarium de verre",
-    "prompt": "Reimagine the subject as a tiny 3D figurine inside a clear glass terrarium. Include miniature plants, moss, pebbles, condensation on the glass, and warm natural light. The subject should feel like a small preserved world, highly detailed, realistic, and delicately handcrafted.",
-    "category": "Miniatures / Dioramas / Mondes réduits",
-    "images": [
-      {
-        "src": "images/478.png",
-        "alt": "Image 478",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
     "id": "new-3d-003-bronze-patina-bust",
     "title": "Bronze Patina Bust",
     "subtitle": "Buste en bronze patiné",
@@ -11111,20 +11097,6 @@
     ]
   },
   {
-    "id": "lowcat-2026-023-silent-film-intertitle-scene",
-    "title": "Silent Film Intertitle Scene",
-    "subtitle": "Scène de film muet",
-    "prompt": "Transform the image into a silent-era film scene. Use black-and-white nitrate film grain, theatrical lighting, expressive staging, ornate intertitle card area, rounded frame corners, and early cinema atmosphere.",
-    "category": "Cinéma / Photographie",
-    "images": [
-      {
-        "src": "images/747.png",
-        "alt": "Image 747",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
     "id": "lowcat-2026-024-imax-lobby-poster-mockup",
     "title": "IMAX Lobby Poster Mockup",
     "subtitle": "Affiche de hall IMAX",
@@ -11237,20 +11209,6 @@
     ]
   },
   {
-    "id": "lowcat-2026-032-space-colony-recruitment-poster",
-    "title": "Space Colony Recruitment Poster",
-    "subtitle": "Affiche recrutement colonie spatiale",
-    "prompt": "Transform the image into a space colony recruitment poster. Use optimistic retro-futurist design, domed habitats, orbital sunrise, bold slogan area, mission badge, clean vector shapes, and utopian science-fiction tone.",
-    "category": "Science-fiction / Tech",
-    "images": [
-      {
-        "src": "images/756.png",
-        "alt": "Image 756",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
     "id": "lowcat-2026-033-alien-translation-tablet",
     "title": "Alien Translation Tablet",
     "subtitle": "Tablette de traduction extraterrestre",
@@ -11302,20 +11260,6 @@
       {
         "src": "images/760.png",
         "alt": "Image 760",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "lowcat-2026-037-sunday-newspaper-comic-strip",
-    "title": "Sunday Newspaper Comic Strip",
-    "subtitle": "Comic strip du dimanche",
-    "prompt": "Transform the image into a colorful Sunday newspaper comic strip. Use four-panel pacing, hand-lettered captions, simple expressive characters, printed dot texture, warm family-comic humor, and slightly yellowed newspaper paper.",
-    "category": "Animation / BD",
-    "images": [
-      {
-        "src": "images/761.png",
-        "alt": "Image 761",
         "label": "ChatGPT 2026"
       }
     ]
@@ -11428,20 +11372,6 @@
       {
         "src": "images/769.png",
         "alt": "Image 769",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "lowcat-2026-046-desktop-terrarium-world",
-    "title": "Desktop Terrarium World",
-    "subtitle": "Monde miniature en terrarium",
-    "prompt": "Transform the image into a miniature world inside a desktop terrarium. Use moss, tiny paths, glass reflections, condensation droplets, small figurines, warm desk-lamp lighting, and cozy micro-environment realism.",
-    "category": "Miniatures / Dioramas / Mondes réduits",
-    "images": [
-      {
-        "src": "images/770.png",
-        "alt": "Image 770",
         "label": "ChatGPT 2026"
       }
     ]
@@ -12507,34 +12437,6 @@
     ]
   },
   {
-    "id": "suggested-2026-043-virtual-pet-device",
-    "title": "Virtual Pet Device",
-    "subtitle": "Animal virtuel de poche",
-    "prompt": "Turn this image into a handheld virtual pet device screen. Use a tiny pixel LCD, simple pet-care icons, hunger and happiness meters, chunky plastic shell, tiny buttons, toy-like lighting, and transform the subject into a cute minimal pixel companion inside the device.",
-    "category": "Interfaces / Écrans / Faux OS",
-    "images": [
-      {
-        "src": "images/846.png",
-        "alt": "Image 846",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-044-smart-fridge-inventory-screen",
-    "title": "Smart Fridge Inventory Screen",
-    "subtitle": "Écran d’inventaire de frigo intelligent",
-    "prompt": "Transform this image into a smart fridge inventory interface. Add cold glass reflections, grocery category cards, expiration warnings, barcode labels, meal suggestion tiles, touchscreen smudges, and place the subject as a featured fridge item or absurd recommended recipe.",
-    "category": "Interfaces / Écrans / Faux OS",
-    "images": [
-      {
-        "src": "images/847.png",
-        "alt": "Image 847",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
     "id": "suggested-2026-045-hotel-keycard-kiosk",
     "title": "Hotel Keycard Kiosk",
     "subtitle": "Borne de carte d’hôtel",
@@ -12544,34 +12446,6 @@
       {
         "src": "images/848.png",
         "alt": "Image 848",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-046-grocery-self-checkout-error-screen",
-    "title": "Grocery Self-Checkout Error Screen",
-    "subtitle": "Écran d’erreur caisse libre-service",
-    "prompt": "Transform this image into a grocery self-checkout error screen. Use barcode scanner light, bagging-area warning, itemized purchase list, subtotal panel, payment icons, receipt printer details, glossy touchscreen reflections, and make the subject appear as a scanned product thumbnail or unexpected-item alert.",
-    "category": "Interfaces / Écrans / Faux OS",
-    "images": [
-      {
-        "src": "images/849.png",
-        "alt": "Image 849",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-047-warranty-registration-card",
-    "title": "Warranty Registration Card",
-    "subtitle": "Carte d’enregistrement de garantie",
-    "prompt": "Transform this image into a vintage product warranty registration card. Use perforated edges, checkboxes, serial number fields, tiny legal text, faded printed ink, mail-in form layout, and include the subject as the product illustration or official owner portrait.",
-    "category": "Médias / Publicité / Documents",
-    "images": [
-      {
-        "src": "images/850.png",
-        "alt": "Image 850",
         "label": "ChatGPT 2026"
       }
     ]
@@ -12614,20 +12488,6 @@
       {
         "src": "images/853.png",
         "alt": "Image 853",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-051-wind-up-tin-toy",
-    "title": "Wind-Up Tin Toy",
-    "subtitle": "Jouet mécanique en tôle",
-    "prompt": "Turn this image into a vintage wind-up tin toy. Use painted metal surfaces, small scratches, visible seams, clockwork key on the side, toy catalog lighting, stiff mechanical pose, and charming mid-century toy design while preserving the subject’s key silhouette.",
-    "category": "3D / Objets / Jouets",
-    "images": [
-      {
-        "src": "images/854.png",
-        "alt": "Image 854",
         "label": "ChatGPT 2026"
       }
     ]
@@ -12689,20 +12549,6 @@
     ]
   },
   {
-    "id": "suggested-2026-056-breakfast-cereal-box",
-    "title": "Breakfast Cereal Box",
-    "subtitle": "Boîte de céréales déjeuner",
-    "prompt": "Transform this image into a loud breakfast cereal box design. Use mascot-style illustration, colorful nutrition bursts, fake prize offer, cereal bowl splash, glossy cardboard texture, exaggerated kid-friendly typography, and make the subject the heroic cereal mascot on the front panel.",
-    "category": "Packaging / Produits fictifs",
-    "images": [
-      {
-        "src": "images/859.png",
-        "alt": "Image 859",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
     "id": "suggested-2026-057-frozen-dinner-tray-packaging",
     "title": "Frozen Dinner Tray Packaging",
     "subtitle": "Emballage de repas congelé",
@@ -12740,20 +12586,6 @@
       {
         "src": "images/862.png",
         "alt": "Image 862",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-060-retro-mail-away-toy-offer",
-    "title": "Retro Mail-Away Toy Offer",
-    "subtitle": "Offre postale de jouet rétro",
-    "prompt": "Reimagine this image as a retro mail-away toy offer printed on the back of a package. Use dotted cut lines, order form fields, UPC proof-of-purchase box, tiny product illustrations, faded ink, nostalgic promotional copy, and make the subject the exclusive toy reward.",
-    "category": "Packaging / Produits fictifs",
-    "images": [
-      {
-        "src": "images/863.png",
-        "alt": "Image 863",
         "label": "ChatGPT 2026"
       }
     ]
@@ -12810,34 +12642,6 @@
       {
         "src": "images/867.png",
         "alt": "Image 867",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-065-stained-glass-cathedral-window",
-    "title": "Stained Glass Cathedral Window",
-    "subtitle": "Vitrail de cathédrale",
-    "prompt": "Transform this image into a dramatic stained-glass cathedral window. Use leaded glass outlines, jewel-toned translucent panels, radiant backlighting, ornate gothic framing, symbolic halos or emblems, and make the subject feel like a legendary figure in sacred decorative glass.",
-    "category": "Histoire / Époques / Civilisations",
-    "images": [
-      {
-        "src": "images/868.png",
-        "alt": "Image 868",
-        "label": "ChatGPT 2026"
-      }
-    ]
-  },
-  {
-    "id": "suggested-2026-066-nanobot-repair-scan",
-    "title": "Nanobot Repair Scan",
-    "subtitle": "Scan de réparation par nanobots",
-    "prompt": "Redo this image as a futuristic nanobot repair scan. Add microscopic repair swarms, transparent anatomical overlays without gore, glowing diagnostic grids, sterile laboratory lighting, progress bars, and precise sci-fi medical interface aesthetics focused on technology rather than injury.",
-    "category": "Science-fiction / Tech",
-    "images": [
-      {
-        "src": "images/869.png",
-        "alt": "Image 869",
         "label": "ChatGPT 2026"
       }
     ]
