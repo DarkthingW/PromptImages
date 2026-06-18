@@ -12841,5 +12841,173 @@
         "label": "ChatGPT 2026"
       }
     ]
+  },
+  {
+    "id": "suggested-2026-081-kintsugi-repair",
+    "title": "Kintsugi Repair",
+    "subtitle": "Réparation Kintsugi",
+    "prompt": "Transform the subject into a shattered and reassembled ceramic sculpture using the Japanese Kintsugi technique. The cracks and seams must be filled with glowing, liquid-like bright gold. The ceramic should have a dark, matte glaze to contrast heavily with the intricate golden veins. Elegant, philosophical, and highly detailed studio lighting.",
+    "category": "Art / Illustration",
+    "images": [
+      {
+        "src": "images/884.png",
+        "alt": "Image 884",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-082-infrared-aerochrome-film",
+    "title": "Infrared Aerochrome Film",
+    "subtitle": "Photographie infrarouge Aerochrome",
+    "prompt": "Recreate this image using the distinct look of Kodak Aerochrome infrared film. Transform all foliage, nature, or clothing elements into vivid, surreal shades of bubblegum pink and crimson red, while skies remain deep cyan. Film grain, dreamy analog contrast, and striking false-color photography aesthetic.",
+    "category": "Cinéma / Photographie",
+    "images": [
+      {
+        "src": "images/885.png",
+        "alt": "Image 885",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-083-raw-zbrush-matcap-sculpt",
+    "title": "Raw ZBrush MatCap Sculpt",
+    "subtitle": "Rendu brut ZBrush MatCap",
+    "prompt": "Render the subject as an unfinished, high-poly digital 3D sculpt. Use the classic ZBrush Red Wax or Basic Gray MatCap material. Include visible digital sculpting brush strokes, high-density polygon details, and a dark gradient background. The aesthetic should feel like a work-in-progress masterpiece straight out of a 3D artist's viewport.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/886.png",
+        "alt": "Image 886",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-084-exploded-wireframe-hologram",
+    "title": "Exploded Wireframe Hologram",
+    "subtitle": "Hologramme filaire éclaté",
+    "prompt": "Transform the subject into a complex, glowing cyan and magenta wireframe hologram. The topology should be visible, with some parts of the mesh exploding outward or dissolving into digital polygons. Cybernetic aesthetics, dark background, and high-tech vector graphics feel.",
+    "category": "Science-fiction / Tech",
+    "images": [
+      {
+        "src": "images/887.png",
+        "alt": "Image 887",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-085-90s-fmv-adventure-game",
+    "title": "90s FMV Adventure Game",
+    "subtitle": "Jeu d'aventure FMV des années 90",
+    "prompt": "Transform this image into a still from a 1990s CD-ROM FMV (Full Motion Video) puzzle adventure game. Use pre-rendered, slightly compressed 3D backgrounds, surreal and lonely lighting, weird architectural puzzles, and a first-person perspective. The aesthetic should evoke the mysterious, quiet atmosphere of games like Myst.",
+    "category": "Jeu Vidéo (Style)",
+    "images": [
+      {
+        "src": "images/888.png",
+        "alt": "Image 888",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-086-isometric-crpg",
+    "title": "Isometric CRPG",
+    "subtitle": "RPG isométrique classique",
+    "prompt": "Reimagine this scene as a late-1990s isometric computer RPG. Use a fixed top-down angled perspective, pre-rendered 2D character sprites, beautifully painted but gritty background environments, and a classic CRPG lower UI bar with health orbs and inventory slots.",
+    "category": "Jeu Vidéo (Style)",
+    "images": [
+      {
+        "src": "images/889.png",
+        "alt": "Image 889",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-087-90s-sitcom-intro-freeze-frame",
+    "title": "90s Sitcom Intro Freeze-Frame",
+    "subtitle": "Arrêt sur image de générique de sitcom",
+    "prompt": "Recreate this image as a freeze-frame from a 1990s television sitcom opening credits. The subject should be looking at the camera with a cheesy, exaggerated smile. Add a vibrant, pastel-colored brush stroke graphic sweeping across the bottom of the screen, VHS broadcast artifacts, and a bright, flat studio lighting aesthetic.",
+    "category": "Nostalgie / Rétro / Archives",
+    "images": [
+      {
+        "src": "images/890.png",
+        "alt": "Image 890",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-088-trading-card-holographic-foil",
+    "title": "Trading Card Holographic Foil",
+    "subtitle": "Macro de carte holographique",
+    "prompt": "Transform the image into a macro shot of a rare trading card's holographic foil surface. Focus on the iridescent, rainbow-colored starburst or shattered-glass foil patterns reacting to a bright light source. The subject should be visible beneath the glossy, reflective trading card texture, giving a premium collectible feel.",
+    "category": "Packaging / Produits fictifs",
+    "images": [
+      {
+        "src": "images/891.png",
+        "alt": "Image 891",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-089-kyaraben-bento-box",
+    "title": "Kyaraben Bento Box",
+    "subtitle": "Boîte à bento Kyaraben",
+    "prompt": "Reimagine the subject as a highly detailed Japanese Kyaraben (character bento box). The subject must be entirely constructed out of arranged food: sticky rice, cut nori seaweed, tamagoyaki, carved vegetables, and salmon. Presented in a traditional wooden bento box with bright, appetizing culinary photography lighting.",
+    "category": "Miniatures / Dioramas / Mondes réduits",
+    "images": [
+      {
+        "src": "images/892.png",
+        "alt": "Image 892",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-893-zbrush-digital-prototype",
+    "title": "Digital Prototype (ZBrush)",
+    "subtitle": "Le Prototype Numérique (ZBrush)",
+    "prompt": "A high-resolution, photorealistic image of a glowing computer monitor displaying the ZBrush 3D software interface. In the center of the viewport is an incredibly detailed, unfinished high-poly 3D digital sculpt of [VOTRE SUJET]. The 3D model is rendered in the classic ZBrush Red Wax MatCap material. One half of the model reveals a complex, high-density wireframe topology, while the other half shows smooth clay-like details. The dark, technical UI surrounds the model with sculpting brushes, subtool menus, and sliders. Shot with a shallow depth of field, focusing sharply on the intricate details of the sculpt, with the edges of the physical monitor slightly out of focus.",
+    "category": "3D / Objets / Jouets",
+    "images": [
+      {
+        "src": "images/893.png",
+        "alt": "Image 893",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-894-video-game-ui-integration",
+    "title": "Video Game UI Integration",
+    "subtitle": "L'Intégration Vidéoludique (Écran de sélection UI)",
+    "prompt": "A flawless 8K HDR screenshot of an ultra-realistic, next-gen MMORPG character selection screen featuring [VOTRE SUJET]. The character stands in a dynamic, idle pose, fully textured with cinematic lighting, subsurface scattering, and dramatic rim lights. The background is an atmospheric, slightly blurred cinematic environment that fits the character's theme. Overlaying the edges of the scene is a sleek, modern user interface featuring minimalist holographic stats, character attributes, a skill tree preview, and a beautifully designed high-tech menu layout. Unreal Engine 5 render style, cinematic depth of field, incredibly detailed.",
+    "category": "Interfaces / Écrans / Faux OS",
+    "images": [
+      {
+        "src": "images/894.png",
+        "alt": "Image 894",
+        "label": "ChatGPT 2026"
+      }
+    ]
+  },
+  {
+    "id": "suggested-2026-895-premium-collectors-figure",
+    "title": "Premium Collector Figure 1/7",
+    "subtitle": "Le Produit Final (Figurine de Collection 1/7)",
+    "prompt": "An ultra-realistic macro photograph of a premium, highly detailed 1/7 scale PVC collector's action figure of [VOTRE SUJET]. The figure features flawless factory paint applications, intricate matte and gloss textures, and a dynamic, gravity-defying pose. It is standing perfectly displayed on a sleek, dark wood modern computer desk. Immediately behind the figure rests its official, high-end Bandai-style window box packaging, featuring vibrant professional graphic design and a clear plastic viewing window. Dramatic studio desk lighting creates soft shadows and stunning highlights on the figure's surface. Shot with an 85mm macro lens, 8K, extreme photorealism.",
+    "category": "Packaging / Produits fictifs",
+    "images": [
+      {
+        "src": "images/895.png",
+        "alt": "Image 895",
+        "label": "ChatGPT 2026"
+      }
+    ]
   }
 ]
