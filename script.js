@@ -1,13 +1,96 @@
 let ITEMS = [];
 let ORIGINAL_ITEMS = [];
-let CATEGORIES = ["Tous"];
-let activeCategory = "Tous";
+let CATEGORIES = [{ id: "__all__", index: 0, name: "Tous" }];
+let CATEGORY_BY_ID = new Map();
+let activeCategoryId = "__all__";
 
 const gallery = document.getElementById("gallery");
 const search = document.getElementById("search");
 const sort = document.getElementById("sort");
 const counter = document.getElementById("counter");
 const empty = document.getElementById("empty");
+const categoryFilter = document.getElementById("categoryFilter");
+
+function assertV2PromptsData(rawData) {
+  if (!rawData || Array.isArray(rawData) || typeof rawData !== "object") {
+    throw new Error("prompts.json doit être un objet v2: { version, categories, prompts }.");
+  }
+
+  if (rawData.version !== 2) {
+    throw new Error("prompts.json doit utiliser version: 2.");
+  }
+
+  if (!Array.isArray(rawData.categories)) {
+    throw new Error("prompts.json doit contenir un tableau categories.");
+  }
+
+  if (!Array.isArray(rawData.prompts)) {
+    throw new Error("prompts.json doit contenir un tableau prompts.");
+  }
+}
+
+function normalizePromptsData(rawData) {
+  assertV2PromptsData(rawData);
+
+  const categoryIds = new Set();
+  const categoryList = rawData.categories.map((category, index) => {
+    const id = String(category.id || "").trim();
+    const name = String(category.name || "").trim();
+
+    if (!id) {
+      throw new Error(`Catégorie invalide à l'index ${index}: id manquant.`);
+    }
+
+    if (!name) {
+      throw new Error(`Catégorie invalide (${id}): name manquant.`);
+    }
+
+    if (categoryIds.has(id)) {
+      throw new Error(`Catégorie dupliquée: ${id}.`);
+    }
+
+    categoryIds.add(id);
+
+    return {
+      id,
+      name,
+      index: Number.isFinite(Number(category.index)) ? Number(category.index) : index + 1
+    };
+  });
+
+  CATEGORY_BY_ID = new Map(categoryList.map(category => [category.id, category]));
+
+  const orphanPrompts = rawData.prompts
+    .filter(item => !CATEGORY_BY_ID.has(item.categoryId))
+    .slice(0, 8)
+    .map(item => `${item.id || "sans-id"} -> ${item.categoryId || "categoryId manquant"}`);
+
+  if (orphanPrompts.length > 0) {
+    throw new Error(`Certains prompts pointent vers une catégorie inexistante: ${orphanPrompts.join(", ")}.`);
+  }
+
+  ITEMS = rawData.prompts.map((item, originalIndex) => {
+    const category = CATEGORY_BY_ID.get(item.categoryId);
+
+    return {
+      ...item,
+      category: category.name,
+      categoryIndex: category.index,
+      originalIndex
+    };
+  });
+
+  CATEGORIES = [
+    { id: "__all__", index: 0, name: "Tous" },
+    ...categoryList.sort((a, b) => {
+      const indexCompare = a.index - b.index;
+      if (indexCompare !== 0) return indexCompare;
+      return a.name.localeCompare(b.name, "fr");
+    })
+  ];
+
+  ORIGINAL_ITEMS = [...ITEMS];
+}
 
 async function loadPrompts() {
   try {
@@ -17,18 +100,13 @@ async function loadPrompts() {
       throw new Error(`Impossible de charger prompts.json (${response.status})`);
     }
 
-    ITEMS = await response.json();
-    ORIGINAL_ITEMS = [...ITEMS];
-
-    CATEGORIES = [
-      "Tous",
-      ...Array.from(new Set(ITEMS.map(item => item.category))).sort((a, b) => a.localeCompare(b, "fr"))
-    ];
+    const rawData = await response.json();
+    normalizePromptsData(rawData);
 
     buildFilters();
-	
-	sort.value = "random"; // tri par défaut
-	
+    updateStats();
+
+    sort.value = "random";
     render();
 
   } catch (error) {
@@ -36,7 +114,8 @@ async function loadPrompts() {
     gallery.innerHTML = `
       <div class="empty" style="display:block; grid-column: 1 / -1;">
         Impossible de charger <strong>prompts.json</strong>.<br>
-        Vérifie que le fichier est bien à la racine du dépôt GitHub, à côté de index.html.
+        Format requis: <strong>{ version: 2, categories: [], prompts: [] }</strong> avec <strong>categoryId</strong> dans chaque prompt.<br>
+        ${escapeHtml(error.message || "Erreur inconnue")}
       </div>
     `;
     counter.textContent = "Erreur de chargement.";
@@ -53,24 +132,27 @@ function escapeHtml(str) {
   }[ch]));
 }
 
+function countItemsForCategory(categoryId) {
+  if (categoryId === "__all__") {
+    return ITEMS.length;
+  }
+
+  return ITEMS.filter(item => item.categoryId === categoryId).length;
+}
+
 function buildFilters() {
-  const select = document.getElementById("categoryFilter");
-  select.innerHTML = "";
+  categoryFilter.innerHTML = "";
 
-  CATEGORIES.forEach(cat => {
-    const count = cat === "Tous"
-      ? ITEMS.length
-      : ITEMS.filter(item => item.category === cat).length;
-
+  CATEGORIES.forEach(category => {
     const option = document.createElement("option");
-    option.value = cat;
-    option.textContent = `${cat} (${count})`;
+    option.value = category.id;
+    option.textContent = `${category.name} (${countItemsForCategory(category.id)})`;
 
-    if (cat === activeCategory) {
+    if (category.id === activeCategoryId) {
       option.selected = true;
     }
 
-    select.appendChild(option);
+    categoryFilter.appendChild(option);
   });
 }
 
@@ -78,9 +160,44 @@ function refreshFilters() {
   buildFilters();
 }
 
+function updateStats() {
+  const stats = document.querySelector(".stats");
+  if (!stats) return;
+
+  const promptsWithImages = ITEMS.filter(item => (item.images || []).length > 0).length;
+  const imageCount = ITEMS.reduce((total, item) => total + (item.images || []).length, 0);
+
+  stats.innerHTML = `
+    <div class="stat">
+      <strong>${ITEMS.length}</strong>
+      <span>prompts</span>
+    </div>
+    <div class="stat">
+      <strong>${CATEGORIES.length - 1}</strong>
+      <span>catégories</span>
+    </div>
+    <div class="stat">
+      <strong>${promptsWithImages}</strong>
+      <span>avec images</span>
+    </div>
+    <div class="stat">
+      <strong>${imageCount}</strong>
+      <span>images liées</span>
+    </div>
+  `;
+}
+
 function itemMatches(item, q) {
   const labels = (item.images || []).map(i => i.label || "").join(" ");
-  const haystack = [item.title, item.prompt, item.category, labels].join(" ").toLowerCase();
+  const haystack = [
+    item.title,
+    item.subtitle,
+    item.prompt,
+    item.category,
+    item.categoryId,
+    labels
+  ].join(" ").toLowerCase();
+
   return haystack.includes(q);
 }
 
@@ -88,41 +205,49 @@ function render() {
   const q = search.value.trim().toLowerCase();
 
   let results = ITEMS.filter(item => {
-    const catOk = activeCategory === "Tous" || item.category === activeCategory;
+    const catOk = activeCategoryId === "__all__" || item.categoryId === activeCategoryId;
     const searchOk = !q || itemMatches(item, q);
     return catOk && searchOk;
   });
 
   if (sort.value === "title") {
-    results.sort((a,b) => a.title.localeCompare(b.title, "fr"));
-  }
-
-  if (sort.value === "category") {
-    results.sort((a,b) => (a.category + a.title).localeCompare(b.category + b.title, "fr"));
+    results.sort((a, b) => a.title.localeCompare(b.title, "fr"));
   }
 
   if (sort.value === "title-desc") {
-    results.sort((a,b) => b.title.localeCompare(a.title, "fr"));
+    results.sort((a, b) => b.title.localeCompare(a.title, "fr"));
+  }
+
+  if (sort.value === "category") {
+    results.sort((a, b) => {
+      const categoryCompare = a.category.localeCompare(b.category, "fr");
+      if (categoryCompare !== 0) return categoryCompare;
+      return a.title.localeCompare(b.title, "fr");
+    });
   }
 
   if (sort.value === "category-desc") {
-    results.sort((a,b) => (b.category + b.title).localeCompare(a.category + a.title, "fr"));
+    results.sort((a, b) => {
+      const categoryCompare = b.category.localeCompare(a.category, "fr");
+      if (categoryCompare !== 0) return categoryCompare;
+      return b.title.localeCompare(a.title, "fr");
+    });
   }
 
   if (sort.value === "prompt-long") {
-    results.sort((a,b) => (b.prompt?.length || 0) - (a.prompt?.length || 0));
+    results.sort((a, b) => (b.prompt?.length || 0) - (a.prompt?.length || 0));
   }
 
   if (sort.value === "prompt-short") {
-    results.sort((a,b) => (a.prompt?.length || 0) - (b.prompt?.length || 0));
+    results.sort((a, b) => (a.prompt?.length || 0) - (b.prompt?.length || 0));
   }
 
   if (sort.value === "newest") {
-    results.sort((a,b) => ORIGINAL_ITEMS.indexOf(b) - ORIGINAL_ITEMS.indexOf(a));
+    results.sort((a, b) => b.originalIndex - a.originalIndex);
   }
 
   if (sort.value === "original") {
-    results.sort((a,b) => ORIGINAL_ITEMS.indexOf(a) - ORIGINAL_ITEMS.indexOf(b));
+    results.sort((a, b) => a.originalIndex - b.originalIndex);
   }
 
   if (sort.value === "random") {
@@ -226,15 +351,15 @@ document.addEventListener("keydown", e => {
 search.addEventListener("input", render);
 sort.addEventListener("change", render);
 
-document.getElementById("categoryFilter").addEventListener("change", e => {
-  activeCategory = e.target.value;
+categoryFilter.addEventListener("change", e => {
+  activeCategoryId = e.target.value;
   render();
 });
 
 document.getElementById("reset").addEventListener("click", () => {
   search.value = "";
   sort.value = "random";
-  activeCategory = "Tous";
+  activeCategoryId = "__all__";
   refreshFilters();
   render();
 });
