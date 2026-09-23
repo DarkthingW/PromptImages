@@ -200,6 +200,21 @@
       "id": "education-manuels-fiches-pedagogiques",
       "index": 40,
       "name": "Éducation / Manuels / Fiches pédagogiques"
+    },
+    {
+      "id": "creation-youtube-habillage-montage",
+      "index": 41,
+      "name": "Création YouTube / Habillage & montage"
+    },
+    {
+      "id": "jeu-video-narration-choix-fins",
+      "index": 42,
+      "name": "Jeu Vidéo / Narration, choix & fins"
+    },
+    {
+      "id": "nature-faune-ecosystemes",
+      "index": 43,
+      "name": "Nature / Faune & Écosystèmes"
     }
   ],
   "prompts": [
@@ -1547,8 +1562,8 @@
     },
     {
       "id": "page-3-67-plushy",
-      "title": "Plushy",
-      "subtitle": "Peluche",
+      "title": "People as Plush Toys on Stage",
+      "subtitle": "Personnes en peluche sur scène",
       "categoryId": "3d-objets-jouets",
       "prompt": "Turn this image into a cute plushy. Use only the people in the photo. Ignore the background. Place the stuffed toys on a well-lit stage.",
       "images": [
@@ -1749,8 +1764,8 @@
       "id": "page-b-b9-miniature-world-encapsulated-in-a-common-object",
       "title": "Miniature World Encapsulated in a Common Object",
       "subtitle": "Monde miniature dans un objet du quotidien",
-      "categoryId": "education-manuels-fiches-pedagogiques",
-      "prompt": "Illustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a [Common Object, e.g., clear glass lightbulb, old teacup, hollowed-out book]. Inside, depict a [Miniature Scene, e.g., tiny bustling city, a serene forest with a flowing river, a spaceship landing on a moon]. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. llustrate a fantastical miniature world contained entirely within a common, everyday object, viewed as if looking inside it. The object is a open book. Inside, depict a school with students in a class. The style should be highly detailed and whimsical, emphasizing the scale difference between the object and the world within, with soft, inviting lighting. It should be very realistic as if looking at a micro-world.",
+      "categoryId": "miniatures-dioramas-mondes-reduits",
+      "prompt": "Illustrate a fantastical miniature world contained entirely within [COMMON OBJECT], viewed as if looking inside it. Depict [MINIATURE SCENE] in realistic micro-scale detail; if no details are provided, use an open book containing a lively school and students in a classroom. Emphasize the scale difference with convincing materials and soft, inviting lighting.",
       "images": [
         {
           "src": "images/B9.png",
@@ -2134,7 +2149,7 @@
       "id": "page-c-c14-funko-pop",
       "title": "Funko Pop Collector Box",
       "subtitle": "Boîte de collection Funko Pop",
-      "categoryId": "musique-concert-album",
+      "categoryId": "packaging-produits-fictifs",
       "prompt": "Turn the subject into a collectible Funko Pop figure inside authentic retail packaging. Oversized head, simplified vinyl toy proportions, transparent plastic window box, collector edition branding.",
       "images": [
         {
@@ -2302,7 +2317,7 @@
       "id": "page-d-d2-vhs-family-tape",
       "title": "VHS Family Tape",
       "subtitle": "Cassette familiale VHS",
-      "categoryId": "musique-concert-album",
+      "categoryId": "nostalgie-retro-archives",
       "prompt": "Redo this image as a damaged 1997 family VHS tape still. Analog noise, timestamp overlay, soft flash bloom, nostalgic home-video aesthetic, imperfect framing, authentic tape degradation.",
       "images": [
         {
@@ -2512,7 +2527,7 @@
       "id": "page-d-d17-roman-empire",
       "title": "Roman Empire",
       "subtitle": "Empire romain",
-      "categoryId": "architecture-immobilier-lieux",
+      "categoryId": "histoire-epoques-civilisations",
       "prompt": "Transform this image into a Roman Empire epic scene. Ancient marble architecture, imperial clothing, cinematic historical realism, warm Mediterranean lighting.",
       "images": [
         {
@@ -2918,7 +2933,7 @@
       "id": "page-extra-9-mugshot",
       "title": "Mugshot",
       "subtitle": "Photo d’identité judiciaire",
-      "categoryId": "publicite-campagnes",
+      "categoryId": "documents-officiels-administratif",
       "prompt": "Redo this image as a realistic police mugshot. Neutral lighting, booking height chart, documentary realism, procedural photography style.",
       "images": [
         {
@@ -3114,7 +3129,7 @@
       "id": "page-extra-23-weather-news-broadcast",
       "title": "Weather News Broadcast",
       "subtitle": "Bulletin météo télévisé",
-      "categoryId": "publicite-campagnes",
+      "categoryId": "interfaces-ecrans-faux-os",
       "prompt": "Redo this image as a live television weather broadcast. News lower-thirds, studio graphics, broadcast compression, realistic newsroom aesthetic.",
       "images": [
         {
@@ -3492,7 +3507,7 @@
       "id": "page-extra-50-war-photography",
       "title": "War Photography",
       "subtitle": "Photographie de guerre",
-      "categoryId": "publicite-campagnes",
+      "categoryId": "cinema-photographie",
       "prompt": "Transform this image into award-winning war photography. Smoke, chaos, documentary realism, emotional intensity, cinematic photojournalism.",
       "images": [
         {
@@ -3618,7 +3633,7 @@
       "id": "page-extra-59-paranormal-investigation",
       "title": "Paranormal Investigation",
       "subtitle": "Enquête paranormale",
-      "categoryId": "publicite-campagnes",
+      "categoryId": "horreur-etrange",
       "prompt": "Transform this image into paranormal investigation footage. Flashlight-only lighting, abandoned location, documentary horror realism.",
       "images": [
         {
@@ -4598,7 +4613,7 @@
       "id": "page-c-c52-retro-preschool-little-figures-set",
       "title": "Retro Preschool Little Figures Set",
       "subtitle": "Ensemble rétro de petites figurines préscolaires",
-      "categoryId": "architecture-immobilier-lieux",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Reimagine this image as a retro preschool playset with chunky rounded plastic figures and simplified toy architecture. Convert the people into peg-like, child-friendly figurines with minimal painted facial features, while turning the setting into a colorful molded-plastic scene full of interactive toy details. Use soft studio lighting and a catalog-style product presentation, as if photographed for a 1980s toy advertisement.",
       "images": [
         {
@@ -4682,7 +4697,7 @@
       "id": "page-c-c58-blind-box-designer-toy",
       "title": "Blind Box Designer Toy",
       "subtitle": "Jouet designer en boîte mystère",
-      "categoryId": "musique-concert-album",
+      "categoryId": "packaging-produits-fictifs",
       "prompt": "Turn the subject into a trendy blind-box designer toy collectible. Use a stylized vinyl figure with compact proportions, a slightly oversized head, simplified but recognizable facial features, matte-soft plastic textures, and a signature accessory inspired by the source image. Show the figure next to a matching sealed mystery box with collectible series branding, photographed like a premium art toy product release.",
       "images": [
         {
@@ -4948,7 +4963,7 @@
       "id": "page-d-d15-reality-tv-confessional",
       "title": "Reality TV Confessional",
       "subtitle": "Confessionnal de téléréalité",
-      "categoryId": "publicite-campagnes",
+      "categoryId": "cinema-photographie",
       "prompt": "Reimagine this image as a reality TV confessional shot. Put the subject in a glossy studio set with dramatic soft lighting, a stylish lower-third name graphic, decorative background props, and expressive interview posture. Make it look like a polished television screenshot with playful tension.",
       "images": [
         {
@@ -5382,7 +5397,7 @@
       "id": "page-d-d46-surreal-fantasy-tribunal",
       "title": "Surreal Fantasy Tribunal",
       "subtitle": "Tribunal fantastique surréaliste",
-      "categoryId": "architecture-immobilier-lieux",
+      "categoryId": "conceptuel-mondes-transformations",
       "prompt": "Transform this image into a surreal fantasy tribunal scene. Place the subject at the center of an impossible courtroom with towering judges, symbolic evidence, strange architecture, dramatic overhead light, and solemn theatrical composition. Keep the tone mysterious and grand rather than violent or graphic.",
       "images": [
         {
@@ -5858,7 +5873,7 @@
       "id": "page-f-f3-self-checkout-error-screen",
       "title": "Self-Checkout Error Screen",
       "subtitle": "Écran d’erreur de caisse libre-service",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "interfaces-ecrans-faux-os",
       "prompt": "Transform this image into a chaotic self-checkout machine error screen. Show the subject embedded inside a supermarket kiosk UI with barcode scans, “unexpected item in bagging area” warnings, receipt previews, blinking red prompts, plastic buttons, fluorescent store lighting, and absurd but believable retail interface design.",
       "images": [
         {
@@ -6010,8 +6025,8 @@
     },
     {
       "id": "page-f-f14-old-computer-shareware-box",
-      "title": "Old Computer Shareware Box",
-      "subtitle": "Vieille boîte de shareware informatique",
+      "title": "Bargain-Bin Shareware Box",
+      "subtitle": "Boîte de shareware à petit prix",
       "categoryId": "jeu-video-packaging-boutiques-et-marketing",
       "prompt": "Reimagine this image as a 1990s shareware PC software box. Use chunky graphic design, fake system requirements, CD-ROM badges, pixelated preview screenshots, plastic jewel case elements, and colorful outdated technology branding. Make it look like software found in a bargain bin.",
       "images": [
@@ -6432,7 +6447,7 @@
       "id": "page-f-f44-toy-cash-register-scanner-figure",
       "title": "Toy Cash Register Scanner Figure",
       "subtitle": "Figurine de caisse enregistreuse jouet",
-      "categoryId": "artisanat-diy-imprimables",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Transform the subject into a playful toy cash register accessory. Show it as a small plastic item being scanned, with fake barcode sticker, toy money, chunky buttons, pretend store packaging, and bright preschool toy colors.",
       "images": [
         {
@@ -6460,7 +6475,7 @@
       "id": "page-f-f46-inflatable-pool-toy",
       "title": "Inflatable Pool Toy",
       "subtitle": "Jouet gonflable de piscine",
-      "categoryId": "musique-concert-album",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Transform the subject into an inflatable pool toy. Use shiny vinyl material, visible air valves, seams, playful exaggerated proportions, water reflections, summer pool setting, and realistic inflated plastic texture.",
       "images": [
         {
@@ -7006,7 +7021,7 @@
       "id": "page-g-g35-vintage-fireworks-label",
       "title": "Vintage Fireworks Label",
       "subtitle": "Étiquette de feux d’artifice vintage",
-      "categoryId": "transport-vehicules-voyage",
+      "categoryId": "packaging-produits-fictifs",
       "prompt": "Reimagine the subject as the artwork on a vintage fireworks label. Use explosive illustrated bursts, bold carnival typography, rough paper printing, warning-style borders, saturated reds and yellows, and nostalgic roadside-stand packaging.",
       "images": [
         {
@@ -7118,7 +7133,7 @@
       "id": "page-h-h8-soap-bar-packaging",
       "title": "Soap Bar Packaging",
       "subtitle": "Emballage de savon",
-      "categoryId": "science-laboratoire-observation",
+      "categoryId": "packaging-produits-fictifs",
       "prompt": "Transform this image into luxury soap bar packaging. Use wrapped paper, embossed label, botanical accents, gold foil details, clean typography, soft bathroom-counter lighting, subtle water droplets, and premium handmade-product styling.",
       "images": [
         {
@@ -7258,7 +7273,7 @@
       "id": "page-h-h18-souvenir-ski-lodge-patch",
       "title": "Souvenir Ski Lodge Patch",
       "subtitle": "Écusson souvenir de chalet de ski",
-      "categoryId": "packaging-produits-fictifs",
+      "categoryId": "artisanat-diy-imprimables",
       "prompt": "Transform this image into a retro ski lodge souvenir patch. Use embroidered mountain motifs, stitched lettering, snowflake details, felt backing, slightly frayed edges, and a cozy alpine gift-shop presentation.",
       "images": [
         {
@@ -7580,7 +7595,7 @@
       "id": "page-b-b17-gashapon-chibi-capsule",
       "title": "Gashapon Chibi Capsule",
       "subtitle": "Capsule gashapon chibi",
-      "categoryId": "musique-concert-album",
+      "categoryId": "miniatures-dioramas-mondes-reduits",
       "prompt": "Transform the subject into a highly detailed collectible capsule toy figure in adorable chibi style, featuring an oversized head, tiny stylized body, exaggerated facial expression, and smooth toy-like proportions. Place the figure inside a transparent plastic gashapon capsule with glossy reflections, visible seams, and subtle scuff marks. The character should look like a premium Japanese capsule machine collectible made of painted PVC vinyl, with simplified but recognizable clothing and accessories inspired by the original image. Include miniature props from the scene as tiny molded accessories inside the capsule. Use vibrant but slightly faded toy-store colors, soft studio lighting, realistic plastic textures, and shallow depth of field. Add details such as printed rarity stickers, tiny manufacturer markings, folded collector paper insert, and a blurred capsule vending machine background filled with other colorful capsules. Make the overall aesthetic nostalgic, playful, and authentic to real Japanese gacha collectibles.",
       "images": [
         {
@@ -7594,7 +7609,7 @@
       "id": "page-b-b18-cyberpunk-chibi-figure",
       "title": "Cyberpunk Chibi Figure",
       "subtitle": "Figurine chibi cyberpunk",
-      "categoryId": "musique-concert-album",
+      "categoryId": "packaging-produits-fictifs",
       "prompt": "Turn the person in this photo into a highly detailed 3D chibi-style collectible toy with an oversized head, tiny stylized body, huge glossy expressive eyes, and exaggerated cute facial features while still clearly resembling the original person. Use high-quality painted vinyl/PVC toy materials with subtle plastic texture, realistic reflections, and soft rounded sculpting similar to premium designer figures or Nendoroid collectibles.\n\nPlace the figure inside an elaborate neon-blue “Cyberpunk” themed action figure package with a transparent molded plastic window displaying the toy from the front. The box should feature futuristic holographic graphics, glowing circuitry patterns, Japanese-inspired cyberpunk typography, barcode stickers, warning labels, fake manufacturer logos, rarity icons, and small collectible-series branding details. Add futuristic accessories inside the packaging such as a tiny glowing katana, visor, cybernetic gadgets, or holographic device props inspired by the original outfit and personality.\n\nUse dramatic neon lighting with electric blue, purple, and magenta reflections bouncing across the plastic packaging. Include realistic packaging folds, hanging retail hook tab, glossy cardboard printing, and subtle shelf wear to make it feel like a real premium store collectible. The overall style should feel like a mix of high-end anime merchandise, futuristic toy photography, and nostalgic collector culture.",
       "images": [
         {
@@ -7622,7 +7637,7 @@
       "id": "new-3d-001-premium-vinyl-desk-statue",
       "title": "Premium Vinyl Desk Statue",
       "subtitle": "Statue de bureau en vinyle premium",
-      "categoryId": "musique-concert-album",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Transform this image into a premium vinyl desk statue. Recreate the subject as a smooth collectible figure with slightly stylized proportions, matte vinyl texture, subtle seam lines, weighted base, and a clean display plaque. Use soft studio lighting, realistic product photography, and a modern collector shelf presentation.",
       "images": [
         {
@@ -7692,7 +7707,7 @@
       "id": "new-3d-007-inflatable-vinyl-mascot-suit",
       "title": "Inflatable Vinyl Mascot Suit",
       "subtitle": "Costume mascotte gonflable en vinyle",
-      "categoryId": "musique-concert-album",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Transform the subject into a giant inflatable vinyl mascot suit. Use glossy inflated seams, rounded exaggerated shapes, soft wrinkles, air-valve details, and event-floor lighting. Keep the subject recognizable but make it look like a huge promotional character balloon costume.",
       "images": [
         {
@@ -8280,7 +8295,7 @@
       "id": "page-g-g23-figure-collector",
       "title": "Ultra-Realistic Figure Collector Workspace",
       "subtitle": "Collectionneur de Figurines Ultra-Réaliste",
-      "categoryId": "musique-concert-album",
+      "categoryId": "3d-objets-jouets",
       "prompt": "Ultra-realistic 1/7 scale action figure of the person in the pictures. The figure is posed on a sleek computer desk. It stands on a circular, crystal-clear acrylic base (no text or logos).\n\nOn the left side of the desk, a monitor displays the ZBrush software interface, showing the same figure mid-sculpt, with visible wireframe and clay render.\n\nIn the background, on the right side of the desk: a BANDAI-style window box packaging with a vinyl window containing the finished figure inside. The box is pristine and decorated with stylized themed graphics and photography of the figure, angled to highlight its 3D form.\n\nThe scene is indoors: a modern figure-collector’s workspace. Soft diffused key light with subtle rim lighting highlights the subject, cinematic depth of field keeps focus on the figure and desk, while the background softly blurs. Realistic textures on the figure, packaging, and workspace create a premium, hyper-detailed atmosphere.",
       "images": [
         {
@@ -9260,7 +9275,7 @@
       "id": "new-media-010-vintage-community-theater-poster",
       "title": "Vintage Community Theater Poster",
       "subtitle": "Affiche théâtre communautaire vintage",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "evenementiel-festival-billetterie",
       "prompt": "Turn this image into a small-town community theater poster. Use dramatic amateur stage photography, bold title treatment, ticket information, sponsor logos, curtain texture, and charming local-production design.",
       "images": [
         {
@@ -9274,7 +9289,7 @@
       "id": "new-ui-001-atm-error-screen",
       "title": "ATM Error Screen",
       "subtitle": "Écran erreur guichet automatique",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "interfaces-ecrans-faux-os",
       "prompt": "Transform this image into an ATM screen interface. Use blocky bank UI design, transaction buttons, warning messages, receipt prompt, card slot reflection, and slightly awkward public-machine layout.",
       "images": [
         {
@@ -9358,7 +9373,7 @@
       "id": "new-ui-007-school-cafeteria-pos-screen",
       "title": "School Cafeteria POS Screen",
       "subtitle": "Écran caisse cafétéria scolaire",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "interfaces-ecrans-faux-os",
       "prompt": "Transform this image into a school cafeteria point-of-sale screen. Use lunch item buttons, student account balance, barcode scanner prompt, receipt area, and clunky institutional software design.",
       "images": [
         {
@@ -10212,7 +10227,7 @@
       "id": "new-038-luxury-collectible-watch-box",
       "title": "Luxury Collectible Watch Box",
       "subtitle": "Coffret de montre de collection",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "mode-beaute-luxe",
       "prompt": "Transform the subject into the design theme for a luxury collectible watch box. Use polished wood, leather lining, metallic embossing, velvet cushion, premium certificate card, dramatic product lighting, and high-end boutique presentation.",
       "images": [
         {
@@ -11164,7 +11179,7 @@
       "id": "lowcat-2026-013-luxury-skincare-shelf-display",
       "title": "Luxury Skincare Shelf Display",
       "subtitle": "Présentoir de soins de luxe",
-      "categoryId": "science-laboratoire-observation",
+      "categoryId": "mode-beaute-luxe",
       "prompt": "Transform the subject into a luxury skincare shelf display. Use frosted glass jars, embossed labels, cream textures, marble counter, soft bathroom-spa lighting, botanical accents, and premium beauty product photography.",
       "images": [
         {
@@ -11220,7 +11235,7 @@
       "id": "lowcat-2026-017-luxury-spa-treatment-menu",
       "title": "Luxury Spa Treatment Menu",
       "subtitle": "Menu de spa haut de gamme",
-      "categoryId": "science-laboratoire-observation",
+      "categoryId": "mode-beaute-luxe",
       "prompt": "Reimagine the image as a luxury spa treatment menu. Use soft linen texture, botanical illustrations, gold accent lines, calm pricing layout, candlelit atmosphere, folded brochure design, and serene wellness branding.",
       "images": [
         {
@@ -12616,7 +12631,7 @@
       "id": "suggested-2026-041-atm-transaction-screen",
       "title": "ATM Transaction Screen",
       "subtitle": "Écran de guichet automatique",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "interfaces-ecrans-faux-os",
       "prompt": "Transform this image into an old ATM transaction screen. Use low-resolution banking UI, chunky buttons on both sides, monochrome or washed-out LCD colors, receipt slot details, account menu prompts, subtle screen glare, and the subject displayed as a surreal bank-card portrait or transaction preview.",
       "images": [
         {
@@ -12840,7 +12855,7 @@
       "id": "suggested-2026-064-scientific-expedition-plate",
       "title": "Scientific Expedition Plate",
       "subtitle": "Planche d’expédition scientifique",
-      "categoryId": "cartographie-plans-signaletique",
+      "categoryId": "science-laboratoire-observation",
       "prompt": "Turn this image into a 19th-century scientific expedition plate. Use engraved illustration lines, handwritten specimen labels, aged paper, map coordinates, field notes, naturalist catalog styling, and present the subject as a strange but carefully documented discovery.",
       "images": [
         {
@@ -12938,7 +12953,7 @@
       "id": "suggested-2026-073-zamboni-night-poster",
       "title": "Zamboni Night Poster",
       "subtitle": "Affiche soirée Zamboni",
-      "categoryId": "cartes-billets-certificats",
+      "categoryId": "sport-evenement-affiche",
       "prompt": "Turn this image into a small-town arena Zamboni night poster. Use icy rink lighting, local sponsor logos, ticket-price callouts, bold community-event typography, skate marks, arena boards, and make the subject the dramatically promoted guest of honor.",
       "images": [
         {
@@ -13910,6 +13925,216 @@
         {
           "src": "images/945.png",
           "alt": "Image 945",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-video-game-playlist-cover",
+      "title": "Video Game Playlist Cover",
+      "subtitle": "Couverture de playlist de jeu vidéo",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Turn this image into a 16:9 video game playlist cover. Keep the main subject recognizable, reserve a clear area for the series title, and add a three-line playlist icon with an arrow. If a game logo or channel frame is supplied, preserve its design and placement. Keep faces unobstructed and text readable at thumbnail size.",
+      "images": [
+        {
+          "src": "images/946.png",
+          "alt": "Image 946",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-no-commentary-chapter-card",
+      "title": "No-Commentary Chapter Card",
+      "subtitle": "Intertitre de chapitre sans commentaire",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Create a cinematic chapter transition card for a no-commentary gameplay video using this image. Keep the scene recognizable and add one short chapter title in a clear area. Use subtle depth, restrained typography, and a 16:9 layout that can appear briefly between gameplay segments.",
+      "images": [
+        {
+          "src": "images/947.png",
+          "alt": "Image 947",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-youtube-end-screen-layout",
+      "title": "YouTube End Screen Layout",
+      "subtitle": "Écran de fin YouTube",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Turn this image into a 16:9 YouTube end screen for a gaming channel. Keep the subject visible while reserving two clean rectangular areas for recommended videos and one distinct area for the subscribe button. Do not place important faces, logos, or text beneath those reserved areas.",
+      "images": [
+        {
+          "src": "images/948.png",
+          "alt": "Image 948",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-branching-story-route-map",
+      "title": "Branching Story Route Map",
+      "subtitle": "Carte des embranchements de l’histoire",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Transform the scene into a branching video game story map. Show one starting event, two clearly separated decisions, and their resulting paths as illustrated nodes connected by readable lines. Use event names supplied by the user; otherwise use neutral labels instead of inventing plot details.",
+      "images": [
+        {
+          "src": "images/949.png",
+          "alt": "Image 949",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-alternate-outcomes-diptych",
+      "title": "Alternate Outcomes Diptych",
+      "subtitle": "Diptyque des conséquences alternatives",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Reimagine this scene as a two-panel comparison of alternate outcomes from the same video game choice. Keep the characters, location, and camera angle consistent across both panels. Change only the consequences specified by the user, and give each outcome a short, readable label.",
+      "images": [
+        {
+          "src": "images/950.png",
+          "alt": "Image 950",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-all-endings-gallery",
+      "title": "All Endings Gallery",
+      "subtitle": "Galerie de toutes les fins",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Create a polished video game endings gallery from this image. Arrange the endings supplied by the user as distinct illustrated cards with consistent character designs, clear visual differences, and space for short titles. Do not add endings or story events that were not provided.",
+      "images": [
+        {
+          "src": "images/951.png",
+          "alt": "Image 951",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-four-seasons-same-view",
+      "title": "Four Seasons, Same View",
+      "subtitle": "Quatre saisons, même point de vue",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Show this exact landscape from the same camera position in four panels: spring, summer, autumn, and winter. Preserve the major landmarks and perspective while changing vegetation, weather, light, and wildlife naturally for each season.",
+      "images": [
+        {
+          "src": "images/952.png",
+          "alt": "Image 952",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-forest-canopy-cutaway",
+      "title": "Forest Canopy Cutaway",
+      "subtitle": "Coupe des étages d’une forêt",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Transform this setting into an illustrated cross-section of a forest ecosystem. Show the canopy, understory, forest floor, and soil as connected layers, with appropriately placed plants, small animals, and roots. Use the clear visual language of a natural history museum display.",
+      "images": [
+        {
+          "src": "images/953.png",
+          "alt": "Image 953",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-tide-pool-macro-world",
+      "title": "Tide Pool Macro World",
+      "subtitle": "Monde miniature d’un bassin de marée",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Reimagine this scene as a close-up coastal tide pool ecosystem. Show wet rock textures, shallow transparent water, algae, shells, and small marine life at believable scale. Use natural morning light and the detail of macro wildlife photography.",
+      "images": [
+        {
+          "src": "images/954.png",
+          "alt": "Image 954",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-exact-reference-frame-transfer",
+      "title": "Exact Reference Frame Transfer",
+      "subtitle": "Reproduction précise du cadre de référence",
+      "categoryId": "base-gabarits-contraintes",
+      "prompt": "Use image 1 as the finished composition and image 2 only as the reference for the border. Match the reference border’s color, thickness, texture, and position. Preserve image 1’s subject, logos, text, brightness, and aspect ratio; fit its content inside the border without cropping.",
+      "images": [
+        {
+          "src": "images/955.png",
+          "alt": "Image 955",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-targeted-text-replacement",
+      "title": "Targeted Text Replacement",
+      "subtitle": "Remplacement ciblé d’un texte",
+      "categoryId": "base-gabarits-contraintes",
+      "prompt": "Replace only the specified text with [NEW TEXT]. Keep its position, alignment, visual style, and scale consistent with the original. Preserve every other word, logo, face, color, and graphic element in the image.",
+      "images": [
+        {
+          "src": "images/956.png",
+          "alt": "Image 956",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-n64-era-platformer-screenshot",
+      "title": "N64-Era Platformer Screenshot",
+      "subtitle": "Capture de jeu de plateforme de l’ère N64",
+      "categoryId": "jeu-video-styles-visuels-et-rendus",
+      "prompt": "Transform this image into an authentic late-1990s 3D platformer gameplay screenshot. Use chunky low-polygon characters, small colorful textures, simple vertex lighting, distant fog, a playful level layout, and a minimal coin-and-health HUD. Make it look like gameplay captured from an original console.",
+      "images": [
+        {
+          "src": "images/957.png",
+          "alt": "Image 957",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-modern-pixel-art-diorama",
+      "title": "Modern Pixel-Art Diorama",
+      "subtitle": "Diorama moderne en pixel art",
+      "categoryId": "jeu-video-styles-visuels-et-rendus",
+      "prompt": "Turn this scene into a modern narrative game screenshot combining detailed 2D pixel characters with a miniature 3D environment. Use layered scenery, soft volumetric light, shallow depth of field, and crisp sprites. Keep the original scene’s people and main action recognizable.",
+      "images": [
+        {
+          "src": "images/958.png",
+          "alt": "Image 958",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-board-game-player-mat",
+      "title": "Board Game Player Mat",
+      "subtitle": "Plateau individuel de jeu de société",
+      "categoryId": "jeux-de-table-jdr-cartes",
+      "prompt": "Transform this image into an illustrated player mat for a tabletop board game. Build a clear play area around the subject with resource tracks, card slots, turn reminders, and thematic icons. Keep the rules text minimal and the layout plausible for physical play.",
+      "images": [
+        {
+          "src": "images/959.png",
+          "alt": "Image 959",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "added-2026-09-23-level-editor-view",
+      "title": "Level Editor View",
+      "subtitle": "Vue d’un éditeur de niveaux",
+      "categoryId": "jeu-video-developpement-outils-et-archives",
+      "prompt": "Recreate this scene inside a video game level editor. Show the finished environment beside selected objects, move-and-rotate gizmos, collision outlines, a scene hierarchy, and a properties panel. Preserve the recognizable level while making the development tools look functional.",
+      "images": [
+        {
+          "src": "images/960.png",
+          "alt": "Image 960",
           "label": "ChatGPT 2026"
         }
       ]
