@@ -14138,6 +14138,454 @@
           "label": "ChatGPT 2026"
         }
       ]
+    },
+    {
+      "id": "proposition-2026-11-01-completion-journey-wall",
+      "title": "Completion Journey Wall",
+      "subtitle": "Mur de progression vers le 100 %",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Transform the reference image into a cinematic 16:9 completionist gaming recap graphic. Build a clear journey from first launch to 100% completion using five visual milestones, small trophy icons, chapter thumbnails, and an understated progress line. Make the original subject the centerpiece. Leave a large clean area for an editable game title; avoid invented statistics and unreadable tiny text.",
+      "images": [
+        {
+          "src": "images/961.png",
+          "alt": "Image 961",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-02-thumbnail-a-b-creative-studio",
+      "title": "Thumbnail A/B Creative Studio",
+      "subtitle": "Atelier de comparaison de miniatures",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Present the supplied image as a professional YouTube thumbnail A/B test on a designer’s workstation. Show two clearly distinct 16:9 thumbnail concepts side by side: one character-focused and one atmosphere-focused. Include color swatches, crop guides, safe text margins, and small designer notes. Keep both options faithful to the original subject, without fabricated analytics or performance numbers.",
+      "images": [
+        {
+          "src": "images/962.png",
+          "alt": "Image 962",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-03-boss-rush-montage-scoreboard",
+      "title": "Boss Rush Montage Scoreboard",
+      "subtitle": "Tableau de montage de tous les boss",
+      "categoryId": "creation-youtube-habillage-montage",
+      "prompt": "Create a dramatic 16:9 video montage title frame celebrating a full boss-rush collection. Divide the design into a hero image plus an organized gallery of smaller boss silhouette panels, each with a chapter marker and cinematic connecting lines. Use sharp contrast and an action-game atmosphere. Reserve a readable lower-left title zone and avoid inventing boss names or counts.",
+      "images": [
+        {
+          "src": "images/963.png",
+          "alt": "Image 963",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-04-choice-consequence-ledger",
+      "title": "Choice Consequence Ledger",
+      "subtitle": "Registre des conséquences d’un choix",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Turn this scene into a fictional narrative game consequence ledger. Show one pivotal choice at the center and three diverging outcomes as clearly separated illustrated strips, each with its own emotional color tone, subtle cause-and-effect symbols, and a final consequence panel. Preserve recognizable characters and setting. Do not invent dialogue; use short neutral labels and crisp visual storytelling.",
+      "images": [
+        {
+          "src": "images/964.png",
+          "alt": "Image 964",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-05-secret-post-credits-reveal",
+      "title": "Secret Post-Credits Reveal",
+      "subtitle": "Révélation secrète après le générique",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Reimagine the reference as a hidden post-credits scene from a narrative video game. The main subject is caught in a quiet but unsettling reveal, surrounded by cinematic shadows, a mysterious recurring object, and subtle continuity clues. Add a discreet “AFTER THE CREDITS” marker and small filmic letterboxing. Keep the reveal suggestive rather than explanatory; do not add unrelated characters.",
+      "images": [
+        {
+          "src": "images/965.png",
+          "alt": "Image 965",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-06-rewind-the-wrong-choice",
+      "title": "Rewind the Wrong Choice",
+      "subtitle": "Retour arrière après un mauvais choix",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Transform the image into a visual-novel rewind sequence after a disastrous decision. Split the same scene into three staggered time echoes, with the newest moment in sharp focus and earlier moments dissolving into scanline-like ghost images. Add a minimal rewind arrow, choice marker, and distorted dialogue box with no readable dialogue. Preserve the people and spatial continuity.",
+      "images": [
+        {
+          "src": "images/966.png",
+          "alt": "Image 966",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-07-unreliable-narrator-evidence-layers",
+      "title": "Unreliable Narrator Evidence Layers",
+      "subtitle": "Couches de vérité d’un narrateur peu fiable",
+      "categoryId": "jeu-video-narration-choix-fins",
+      "prompt": "Create a psychological narrative-game screen where the reference scene has three translucent competing versions: what the narrator remembers, what a witness describes, and what the environment suggests. Align key objects so contradictions are easy to spot. Use different color temperatures, torn-photo overlays, restrained UI labels, and a tense mystery mood. Do not present any version as objectively true.",
+      "images": [
+        {
+          "src": "images/967.png",
+          "alt": "Image 967",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-08-underground-mycelium-network",
+      "title": "Underground Mycelium Network",
+      "subtitle": "Réseau souterrain de mycélium",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Reimagine this outdoor scene as a richly detailed natural-history cutaway revealing the hidden fungal network below the soil. Keep the landscape above ground, then expose roots, branching mycelium threads, decomposing leaves, tiny soil organisms, and nutrient exchange paths beneath it. Use believable biology-inspired textures, gentle scientific annotations, and warm museum exhibit lighting.",
+      "images": [
+        {
+          "src": "images/968.png",
+          "alt": "Image 968",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-09-bioluminescent-night-field-atlas",
+      "title": "Bioluminescent Night Field Atlas",
+      "subtitle": "Atlas nocturne bioluminescent",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Transform the scene into a naturalist’s night expedition field atlas. Show a dark forest, shoreline, or wetland illuminated by plausible bioluminescent organisms, with several magnified inset views, specimen sketches, numbered markers, and a restrained moonlit palette. Keep the original location’s recognizable geometry. Make the result feel like an observational exhibit, not a generic neon fantasy landscape.",
+      "images": [
+        {
+          "src": "images/969.png",
+          "alt": "Image 969",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-10-pollinator-spectrum-vision",
+      "title": "Pollinator Spectrum Vision",
+      "subtitle": "Vision spectrale d’un pollinisateur",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Reinterpret the flowers or garden in the reference as a scientific side-by-side study: ordinary human color vision on the left and an artistic visualization of pollinator-visible ultraviolet nectar guides on the right. Keep the exact flower shapes and camera angle aligned. Add subtle labels, clean specimen-card framing, and a clear note-like visual distinction between a simulation and a literal photograph.",
+      "images": [
+        {
+          "src": "images/970.png",
+          "alt": "Image 970",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-11-wildlife-migration-observatory",
+      "title": "Wildlife Migration Observatory",
+      "subtitle": "Observatoire de migration animale",
+      "categoryId": "nature-faune-ecosystemes",
+      "prompt": "Create an elegant wildlife migration research visualization using the animals or landscape from the reference. Combine one cinematic habitat image with a seasonal migration map, dotted travel routes, observation dates represented as blank fields, and small species silhouettes. Use museum-quality information design and natural colors. Avoid inventing real tracking data, geographic coordinates, or scientific claims.",
+      "images": [
+        {
+          "src": "images/971.png",
+          "alt": "Image 971",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-12-handheld-link-cable-duel",
+      "title": "Handheld Link-Cable Duel",
+      "subtitle": "Duel multijoueur entre consoles portables reliées",
+      "categoryId": "jeu-video-retro-consoles-et-arcade",
+      "prompt": "Reimagine the reference as a genuine late-1990s two-player handheld gaming session. Show two chunky color-screen portable consoles connected by a visible link cable, each displaying a different viewpoint of the same pixel-art confrontation inspired by the subject. Include worn plastic, tactile buttons, tiny battery indicators, a cluttered bedroom desk, and subtle uncorrected camera flash. Make the screen pixels crisp and era-appropriate.",
+      "images": [
+        {
+          "src": "images/972.png",
+          "alt": "Image 972",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-13-pocket-camera-thermal-print-strip",
+      "title": "Pocket Camera Thermal Print Strip",
+      "subtitle": "Bande de photos imprimées par une console portable",
+      "categoryId": "jeu-video-retro-consoles-et-arcade",
+      "prompt": "Transform the supplied subject into a playful series of tiny black-and-white thermal-paper portraits printed by a fictional 1990s handheld game camera accessory. Arrange four pixel-dithered prints curling out of a miniature pocket printer, with the matching handheld console, link cable, paper roll, and toy packaging nearby. Preserve facial or object recognition within the deliberately primitive low-resolution texture.",
+      "images": [
+        {
+          "src": "images/973.png",
+          "alt": "Image 973",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-14-retro-console-startup-diagnostics",
+      "title": "Retro Console Startup Diagnostics",
+      "subtitle": "Diagnostic de démarrage d’une console rétro",
+      "categoryId": "jeu-video-retro-consoles-et-arcade",
+      "prompt": "Present the reference as a fictional 1990s video game console power-on self-test captured on a curved CRT television. Blend a low-resolution preview of the subject with controller-port status boxes, a moving checkerboard test pattern, memory integrity lines, cartridge connection diagram, and restrained green or amber text. Use analog scanlines and slight phosphor glow, but avoid real brand logos or fabricated real hardware specifications.",
+      "images": [
+        {
+          "src": "images/974.png",
+          "alt": "Image 974",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-15-localization-qa-comparison",
+      "title": "Localization QA Comparison",
+      "subtitle": "Comparaison de localisation en test qualité",
+      "categoryId": "jeu-video-developpement-outils-et-archives",
+      "prompt": "Present the reference image as a video game localization quality-assurance review on a studio monitor. Show two matching game screenshots side by side with identical scene framing, clearly designated language columns, subtitle safe areas, line-length guides, and concise review annotations. Use placeholder strings rather than pretending to provide accurate translations. Include a subdued game development workspace around the monitor.",
+      "images": [
+        {
+          "src": "images/975.png",
+          "alt": "Image 975",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-16-collision-debug-wireframe",
+      "title": "Collision Debug Wireframe",
+      "subtitle": "Vue de débogage des collisions",
+      "categoryId": "jeu-video-developpement-outils-et-archives",
+      "prompt": "Recreate the supplied scene inside an active 3D game engine debug viewport. Keep the geometry recognizable while overlaying bright collision boxes, mesh wireframes, navigation paths, object pivots, scene gizmos, bounding volumes, and a small inspector panel. Show the contrast between shaded game art and engineering overlays. Use plausible developer-tool design without imitating a specific proprietary application.",
+      "images": [
+        {
+          "src": "images/976.png",
+          "alt": "Image 976",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-17-game-audio-trigger-workbench",
+      "title": "Game Audio Trigger Workbench",
+      "subtitle": "Table de travail des sons interactifs",
+      "categoryId": "jeu-video-developpement-outils-et-archives",
+      "prompt": "Turn the reference into a game audio design workstation screenshot. Show the scene as a playable preview beside organized sound-event nodes for footsteps, doors, ambience, and scripted cues. Add waveform thumbnails, state transitions, distance falloff circles, and a clean audio timeline. Clearly connect visual objects to their sound events; use symbolic placeholder names rather than invented audio measurements.",
+      "images": [
+        {
+          "src": "images/977.png",
+          "alt": "Image 977",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-18-peephole-at-3-am",
+      "title": "Peephole at 3 AM",
+      "subtitle": "Quelqu’un derrière le judas à 3 h du matin",
+      "categoryId": "horreur-etrange",
+      "prompt": "Transform this reference into a quiet psychological horror image viewed entirely through an apartment door peephole at 3 AM. Use a strongly curved circular field of view, dim hallway lights, unsettling empty negative space, and a barely perceptible figure or object connected to the original scene. The outside edges fall to black. Avoid gore and jump-scare clichés; emphasize uncertainty and claustrophobia.",
+      "images": [
+        {
+          "src": "images/978.png",
+          "alt": "Image 978",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-19-empty-indoor-pool-after-closing",
+      "title": "Empty Indoor Pool After Closing",
+      "subtitle": "Piscine intérieure abandonnée après la fermeture",
+      "categoryId": "horreur-etrange",
+      "prompt": "Reimagine the subject in an empty municipal indoor swimming pool long after closing. Show shallow water reflecting flickering fluorescent tubes, damp tile, dark changing-room entrances, distant maintenance signs, and one small unexplained disturbance in the water. Preserve the main figure or object as the focal point. Use restrained cinematic realism and uncomfortable stillness rather than obvious monsters.",
+      "images": [
+        {
+          "src": "images/979.png",
+          "alt": "Image 979",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-20-reflection-out-of-sync",
+      "title": "Reflection Out of Sync",
+      "subtitle": "Reflet qui ne suit plus la réalité",
+      "categoryId": "horreur-etrange",
+      "prompt": "Create a photorealistic uncanny scene using the attached image where every part of the room remains physically consistent, except one mirror reflection that depicts the main subject several seconds out of sync. Keep clothing, face, perspective, and surroundings recognizable. The mismatch should be subtle yet unmistakable; use natural interior light, precise reflections, and no ghostly glow.",
+      "images": [
+        {
+          "src": "images/980.png",
+          "alt": "Image 980",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-21-endless-fire-escape",
+      "title": "Endless Fire Escape",
+      "subtitle": "Escalier de secours sans fin",
+      "categoryId": "horreur-etrange",
+      "prompt": "Reconstruct the image as an unsettling nighttime apartment fire escape that appears to repeat floor after floor. Place the original subject on one landing, with nearly identical doors, fluorescent fixtures, peeling paint, and tiny inconsistent details receding into the distance. Emphasize architectural plausibility, cinematic depth, and a feeling of being trapped in a loop. Avoid overt monsters and exaggerated distortion.",
+      "images": [
+        {
+          "src": "images/981.png",
+          "alt": "Image 981",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-22-deep-sea-rov-expedition-log",
+      "title": "Deep-Sea ROV Expedition Log",
+      "subtitle": "Journal d’exploration sous-marine télécommandée",
+      "categoryId": "science-laboratoire-observation",
+      "prompt": "Transform the reference into a deep-sea remotely operated vehicle expedition record. Present a realistic dark underwater camera frame with a gently illuminated subject, a depth scale with blank values, a small sonar-style inset, equipment status indicators, timestamp placeholders, and specimen observation callouts. Use a credible scientific expedition aesthetic without fabricating measurements or species identification.",
+      "images": [
+        {
+          "src": "images/982.png",
+          "alt": "Image 982",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-23-imaginary-planet-ecosystem-cross-section",
+      "title": "Imaginary Planet Ecosystem Cross-Section",
+      "subtitle": "Coupe écologique d’une planète imaginaire",
+      "categoryId": "science-laboratoire-observation",
+      "prompt": "Reimagine the reference as a natural-history museum diagram explaining an imaginary planet’s ecosystem. Show a cutaway from atmosphere to surface to underground habitat, with plausible invented plant forms, decomposers, predators, water circulation, and energy flows. Preserve recognizable shapes from the original scene within the new world. Use carefully layered labels and explicitly fictional scientific design.",
+      "images": [
+        {
+          "src": "images/983.png",
+          "alt": "Image 983",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-24-abandoned-mall-cutaway",
+      "title": "Abandoned Mall Cutaway",
+      "subtitle": "Centre commercial abandonné en coupe",
+      "categoryId": "architecture-immobilier-lieux",
+      "prompt": "Turn this reference into a precise isometric architectural cutaway of an abandoned 1990s shopping mall. Reveal the atrium, shuttered storefronts, food court, escalators, cinema corridor, and skylights in one coherent building. Add dust, faded pastel signage, overgrown planters, and subtle daylight beams. Keep the spatial layout logically connected and give the scene the feel of a museum architectural model.",
+      "images": [
+        {
+          "src": "images/984.png",
+          "alt": "Image 984",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-25-material-layers-peelback",
+      "title": "Material Layers Peelback",
+      "subtitle": "Coupe des matériaux d’une façade",
+      "categoryId": "architecture-immobilier-lieux",
+      "prompt": "Create a highly detailed architectural material peelback based on the building or object in the image. Keep the front surface intact on one side while revealing successive construction layers—paint, cladding, insulation, structure, fasteners, and interior finish—on the other. Use accurate-looking thickness, clean exploded offsets, restrained labels, and technical editorial lighting. Avoid inventing precise specifications.",
+      "images": [
+        {
+          "src": "images/985.png",
+          "alt": "Image 985",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-26-anamorphic-street-mural",
+      "title": "Anamorphic Street Mural",
+      "subtitle": "Murale anamorphique visible sous un angle précis",
+      "categoryId": "art-illustration",
+      "prompt": "Convert the subject into a large anamorphic mural painted across two intersecting urban walls and the pavement. From one marked camera viewpoint the separated pieces align into a perfectly recognizable image; from elsewhere the paint fragments are stretched and abstract. Include a small perspective marker on the ground, realistic paint texture, daylight, and believable architectural surfaces.",
+      "images": [
+        {
+          "src": "images/986.png",
+          "alt": "Image 986",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-27-marquetry-wood-inlay-portrait",
+      "title": "Marquetry Wood Inlay Portrait",
+      "subtitle": "Portrait en marqueterie de bois",
+      "categoryId": "artisanat-diy-imprimables",
+      "prompt": "Recreate the reference as an exquisite handcrafted marquetry wood-inlay artwork made from carefully selected natural wood veneers. Use dark walnut, maple, cherry, and ash grain directions to define shadows, skin, clothing, and background shapes without using paint. Show the finished polished panel beside a few precision-cut veneer pieces and a paper cutting pattern on a woodworking bench. Emphasize believable joinery and tactile wood textures.",
+      "images": [
+        {
+          "src": "images/987.png",
+          "alt": "Image 987",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-28-paper-shadowbox-lightbox",
+      "title": "Paper Shadowbox Lightbox",
+      "subtitle": "Cadre lumineux en couches de papier",
+      "categoryId": "artisanat-diy-imprimables",
+      "prompt": "Rebuild the supplied image as a handcrafted backlit paper shadowbox. Separate the foreground, figures, architecture, and distant scenery into seven visibly distinct laser-cut paper layers. Illuminate them from behind with warm LEDs to create deep parallax shadows. Photograph the finished shadowbox in a dark room with its wooden frame visible, emphasizing delicate edges and real paper fibers.",
+      "images": [
+        {
+          "src": "images/988.png",
+          "alt": "Image 988",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-29-audio-spectrogram-landscape",
+      "title": "Audio Spectrogram Landscape",
+      "subtitle": "Paysage construit à partir d’un spectrogramme",
+      "categoryId": "musique-concert-album",
+      "prompt": "Transform the reference into an imaginative music-visualization landscape shaped like a three-dimensional audio spectrogram. Build mountains from frequency bands and valleys from quiet passages, with subtle rhythm grid lines, atmospheric concert lighting, and the original subject integrated into the terrain. The graph is an artistic metaphor, not a literal audio analysis. Keep the result cinematic and readable.",
+      "images": [
+        {
+          "src": "images/989.png",
+          "alt": "Image 989",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-30-analog-listening-room-diorama",
+      "title": "Analog Listening Room Diorama",
+      "subtitle": "Diorama d’une salle d’écoute analogique",
+      "categoryId": "musique-concert-album",
+      "prompt": "Reimagine the image as a meticulously built miniature audiophile listening room. Include a turntable, record sleeves, warm wood speakers, a reel-to-reel recorder, wall acoustic panels, and a comfortable reading chair. Transform the main subject into the centerpiece of a framed album cover on the wall. Show realistic miniature craftsmanship, soft amber lighting, and shallow depth of field.",
+      "images": [
+        {
+          "src": "images/990.png",
+          "alt": "Image 990",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-31-cooperative-tabletop-mission-brief",
+      "title": "Cooperative Tabletop Mission Brief",
+      "subtitle": "Plan de mission pour jeu de plateau coopératif",
+      "categoryId": "jeux-de-table-jdr-cartes",
+      "prompt": "Convert the image into a polished cooperative tabletop board game mission briefing laid out on a wooden table. Include one modular scenario board, player role cards, objective tokens, hazard indicators, a concise mission briefing sheet, and a clear route to victory. Derive the setting and symbols from the reference while keeping the tabletop rules intentionally generic and easy to understand.",
+      "images": [
+        {
+          "src": "images/991.png",
+          "alt": "Image 991",
+          "label": "ChatGPT 2026"
+        }
+      ]
+    },
+    {
+      "id": "proposition-2026-11-32-foldable-game-master-screen",
+      "title": "Foldable Game Master Screen",
+      "subtitle": "Paravent de maître de jeu illustré",
+      "categoryId": "jeux-de-table-jdr-cartes",
+      "prompt": "Create a premium four-panel foldable game master screen inspired by the attached image. Show the exterior artwork as one panoramic fantasy or mystery scene, with visible fold seams and sturdy cardboard texture; include an angled glimpse of the interior with compact reference tables, simple icons, and note areas. Present it as a believable tabletop product photograph, not a flat poster.",
+      "images": [
+        {
+          "src": "images/992.png",
+          "alt": "Image 992",
+          "label": "ChatGPT 2026"
+        }
+      ]
     }
   ]
 }
